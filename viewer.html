@@ -376,10 +376,19 @@
             const content = document.getElementById('book-content');
             let html = `<div class="book-title">${bookTitle}</div>`;
 
-            const chapters = xmlDoc.querySelectorAll('div[type="chapter"]');
+            // Try both OSIS chapter formats: <div type="chapter"> and <chapter osisID="">
+            let chapters = xmlDoc.querySelectorAll('div[type="chapter"]');
+            if (chapters.length === 0) {
+                chapters = xmlDoc.querySelectorAll('chapter[osisID]');
+            }
             
             chapters.forEach(chapter => {
-                const chapterTitle = chapter.querySelector('title');
+                // Handle both title formats: <title> and <title type="chapter">
+                let chapterTitle = chapter.querySelector('title[type="chapter"]');
+                if (!chapterTitle) {
+                    chapterTitle = chapter.querySelector('title');
+                }
+                
                 if (chapterTitle) {
                     html += `<div class="chapter">`;
                     html += `<div class="chapter-title">${chapterTitle.textContent}</div>`;
@@ -389,7 +398,7 @@
                     html += `<div class="chapter-title">Chapter ${chapterNum}</div>`;
                 }
 
-                const verses = chapter.querySelectorAll('verse');
+                const verses = chapter.querySelectorAll('verse[osisID]');
                 verses.forEach(verse => {
                     const verseId = verse.getAttribute('osisID');
                     const verseNum = verseId.split('.').pop();
