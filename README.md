@@ -142,7 +142,28 @@ These words are not used, but instead translated with their actual meaning (exam
 
 
 
-\## Output Format
+\## Notes and Annotations
+
+Notes should only provide factual data to help readers understand the translation choices, never interpretative commentary:
+
+**ALLOWED in notes:**
+- Linguistic data: "The Greek word X means Y"
+- Cultural context needed for understanding: "A denarius was a day's wage"
+- Measurement conversions: "A cubit is about 18 inches"
+- Idiom explanations: "This Hebrew phrase means..."
+
+**NEVER ALLOWED in notes:**
+- Speculation about people's motives: "He appears to have been..."
+- Historical interpretation: "This probably refers to..."
+- Theological commentary: "This shows that..."
+- Narrative explanation: "The situation was..."
+- Editorial analysis: "The author is emphasizing..."
+- Manuscript variants: "Some manuscripts read..." (we follow critical consensus only)
+
+If the meaning requires explanation, it should be built into the translation itself using functional equivalence, not added as interpretative notes.
+
+
+## Output Format
 
 
 

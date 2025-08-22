@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vibe Bible Translation Viewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.6;
+            color: #2c3e50;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 300;
+            letter-spacing: 2px;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .book-selector {
+            padding: 20px 30px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        .book-selector label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: #495057;
+        }
+
+        .book-selector select {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            font-size: 16px;
+            background: white;
+            cursor: pointer;
+            transition: border-color 0.3s ease;
+        }
+
+        .book-selector select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        .book-title {
+            font-size: 2.2em;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            text-align: center;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 15px;
+        }
+
+        .chapter {
+            margin-bottom: 40px;
+        }
+
+        .chapter-title {
+            font-size: 1.8em;
+            color: #667eea;
+            margin-bottom: 20px;
+            padding: 10px 0;
+            border-left: 4px solid #667eea;
+            padding-left: 20px;
+            background: rgba(102, 126, 234, 0.05);
+        }
+
+        .verse {
+            margin-bottom: 15px;
+            padding: 12px 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #17a2b8;
+            transition: all 0.3s ease;
+        }
+
+        .verse:hover {
+            background: #e9ecef;
+            transform: translateX(5px);
+        }
+
+        .verse-number {
+            font-weight: bold;
+            color: #667eea;
+            margin-right: 10px;
+            font-size: 0.9em;
+        }
+
+        .verse-text {
+            display: inline;
+            font-size: 1.1em;
+            line-height: 1.7;
+        }
+
+        .note {
+            display: block;
+            margin-top: 8px;
+            padding: 8px 12px;
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 5px;
+            font-size: 0.9em;
+            color: #856404;
+            font-style: italic;
+        }
+
+        .note::before {
+            content: "📝 ";
+            margin-right: 5px;
+        }
+
+        .no-content {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6c757d;
+            font-size: 1.2em;
+        }
+
+        .footer {
+            background: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            color: #6c757d;
+            border-top: 1px solid #e9ecef;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+                border-radius: 10px;
+            }
+            
+            .header {
+                padding: 20px;
+            }
+            
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Vibe Bible Translation</h1>
+            <p>A meaning-driven translation using functional equivalence</p>
+        </div>
+
+        <div class="book-selector">
+            <label for="bookSelect">Select a book to view:</label>
+            <select id="bookSelect" onchange="loadBook()">
+                <option value="">Choose a book...</option>
+                <option value="ruth">Ruth</option>
+                <option value="3john">3 John</option>
+            </select>
+        </div>
+
+        <div class="content">
+            <div id="book-content" class="no-content">
+                Select a book from the dropdown above to view the translation.
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>Public Domain • Functional Equivalence Translation</p>
+        </div>
+    </div>
+
+    <script>
+        const books = {
+            'ruth': {
+                title: 'The Book of Ruth',
+                file: 'output/08_ruth_vbt.osis.xml'
+            },
+            '3john': {
+                title: 'Third Letter of John',
+                file: 'output/64_3john_vbt.osis.xml'
+            }
+        };
+
+        async function loadBook() {
+            const select = document.getElementById('bookSelect');
+            const content = document.getElementById('book-content');
+            const selectedBook = select.value;
+
+            if (!selectedBook) {
+                content.innerHTML = '<div class="no-content">Select a book from the dropdown above to view the translation.</div>';
+                return;
+            }
+
+            content.innerHTML = '<div class="no-content">Loading...</div>';
+
+            try {
+                const response = await fetch(books[selectedBook].file);
+                if (!response.ok) {
+                    throw new Error('File not found');
+                }
+                
+                const xmlText = await response.text();
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+                
+                displayBook(xmlDoc, books[selectedBook].title);
+            } catch (error) {
+                content.innerHTML = `<div class="no-content">Error loading ${books[selectedBook].title}: ${error.message}</div>`;
+            }
+        }
+
+        function displayBook(xmlDoc, bookTitle) {
+            const content = document.getElementById('book-content');
+            let html = `<div class="book-title">${bookTitle}</div>`;
+
+            const chapters = xmlDoc.querySelectorAll('div[type="chapter"]');
+            
+            chapters.forEach(chapter => {
+                const chapterTitle = chapter.querySelector('title');
+                if (chapterTitle) {
+                    html += `<div class="chapter">`;
+                    html += `<div class="chapter-title">${chapterTitle.textContent}</div>`;
+                } else {
+                    const chapterNum = chapter.getAttribute('osisID').split('.').pop();
+                    html += `<div class="chapter">`;
+                    html += `<div class="chapter-title">Chapter ${chapterNum}</div>`;
+                }
+
+                const verses = chapter.querySelectorAll('verse');
+                verses.forEach(verse => {
+                    const verseId = verse.getAttribute('osisID');
+                    const verseNum = verseId.split('.').pop();
+                    
+                    html += `<div class="verse">`;
+                    html += `<span class="verse-number">${verseNum}</span>`;
+                    
+                    // Get verse text, excluding notes
+                    let verseText = '';
+                    for (let node of verse.childNodes) {
+                        if (node.nodeType === Node.TEXT_NODE) {
+                            verseText += node.textContent;
+                        } else if (node.nodeName !== 'note') {
+                            verseText += node.textContent;
+                        }
+                    }
+                    
+                    html += `<span class="verse-text">${verseText}</span>`;
+                    
+                    // Add notes
+                    const notes = verse.querySelectorAll('note');
+                    notes.forEach(note => {
+                        html += `<span class="note">${note.textContent}</span>`;
+                    });
+                    
+                    html += `</div>`;
+                });
+
+                html += `</div>`;
+            });
+
+            content.innerHTML = html;
+        }
+    </script>
+</body>
+</html>
