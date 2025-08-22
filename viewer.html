@@ -376,12 +376,75 @@
             const content = document.getElementById('book-content');
             let html = `<div class="book-title">${bookTitle}</div>`;
 
-            // Try both OSIS chapter formats: <div type="chapter"> and <chapter osisID="">
+            // Handle three different OSIS chapter formats:
+            // 1. <div type="chapter"> (Daniel format)
+            // 2. <chapter osisID="...">...</chapter> (Genesis 1-19 format)  
+            // 3. <chapter osisID="..." sID="..."/>...<chapter eID="..."/> (Genesis 20+ format)
+            
             let chapters = xmlDoc.querySelectorAll('div[type="chapter"]');
+            
             if (chapters.length === 0) {
-                chapters = xmlDoc.querySelectorAll('chapter[osisID]');
+                // Try regular chapter elements first
+                chapters = xmlDoc.querySelectorAll('chapter[osisID]:not([sID]):not([eID])');
+                
+                // If still no chapters, handle sID/eID pattern
+                if (chapters.length === 0) {
+                    const chapterStarts = xmlDoc.querySelectorAll('chapter[sID]');
+                    
+                    chapterStarts.forEach(chapterStart => {
+                        const chapterId = chapterStart.getAttribute('osisID');
+                        const chapterNum = chapterId.split('.').pop();
+                        
+                        html += `<div class="chapter">`;
+                        html += `<div class="chapter-title">Chapter ${chapterNum}</div>`;
+                        
+                        // Find all verses between this sID and the matching eID
+                        const chapterEnd = xmlDoc.querySelector(`chapter[eID="${chapterId}"]`);
+                        let currentNode = chapterStart.nextSibling;
+                        
+                        while (currentNode && currentNode !== chapterEnd) {
+                            if (currentNode.nodeType === Node.ELEMENT_NODE && 
+                                currentNode.nodeName === 'verse' && 
+                                currentNode.getAttribute('osisID')) {
+                                
+                                const verseId = currentNode.getAttribute('osisID');
+                                const verseNum = verseId.split('.').pop();
+                                
+                                html += `<div class="verse">`;
+                                html += `<span class="verse-number">${verseNum}</span>`;
+                                
+                                // Get verse text, excluding notes
+                                let verseText = '';
+                                for (let node of currentNode.childNodes) {
+                                    if (node.nodeType === Node.TEXT_NODE) {
+                                        verseText += node.textContent;
+                                    } else if (node.nodeName !== 'note') {
+                                        verseText += node.textContent;
+                                    }
+                                }
+                                
+                                html += `<span class="verse-text">${verseText}</span>`;
+                                
+                                // Add notes
+                                const notes = currentNode.querySelectorAll('note');
+                                notes.forEach(note => {
+                                    html += `<span class="note">${note.textContent}</span>`;
+                                });
+                                
+                                html += `</div>`;
+                            }
+                            currentNode = currentNode.nextSibling;
+                        }
+                        
+                        html += `</div>`;
+                    });
+                    
+                    content.innerHTML = html;
+                    return;
+                }
             }
             
+            // Handle normal chapter formats (div type="chapter" or chapter elements with child verses)
             chapters.forEach(chapter => {
                 // Handle both title formats: <title> and <title type="chapter">
                 let chapterTitle = chapter.querySelector('title[type="chapter"]');
