@@ -11,7 +11,8 @@
       "Bash(xmllint:*)",
       "Bash(git remote add:*)",
       "Bash(git push:*)",
-      "Bash(git mv:*)"
+      "Bash(git mv:*)",
+      "Bash(git rm:*)"
     ],
     "deny": [],
     "ask": []
