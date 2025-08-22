@@ -8,7 +8,10 @@
       "WebFetch(domain:wiki.crosswire.org)",
       "WebSearch",
       "WebFetch(domain:www.crosswire.org)",
-      "Bash(xmllint:*)"
+      "Bash(xmllint:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(git mv:*)"
     ],
     "deny": [],
     "ask": []
