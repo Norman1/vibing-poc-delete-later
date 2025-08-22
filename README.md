@@ -163,6 +163,31 @@ Notes should only provide factual data to help readers understand the translatio
 If the meaning requires explanation, it should be built into the translation itself using functional equivalence, not added as interpretative notes.
 
 
+## Translation Workflow
+
+**Chapter-by-Chapter Approach:**
+- Translate one complete chapter at a time
+- Commit to git after completing each chapter
+- Use numbered biblical order for file naming (e.g., 01_genesis_vbt.osis.xml)
+- Follow functional equivalence methodology consistently throughout
+- Apply all word choice replacements and modernization rules per chapter
+
+**Translation Process:**
+1. Read the source Hebrew/Greek text for the chapter
+2. Apply functional equivalence translation approach
+3. Replace traditional biblical terminology with modern explanations
+4. Add minimal linguistic notes (Hebrew/Greek word meanings only)
+5. Format in OSIS XML with proper verse structure
+6. Commit the completed chapter with descriptive message
+7. Continue to next chapter
+
+**Quality Control:**
+- Each chapter must follow the established translation philosophy
+- Annotations must comply with the strict guidelines (no interpretative commentary)
+- Maintain consistency in terminology and style across chapters
+- Use natural English word order and contemporary language
+
+
 ## Output Format
 
 

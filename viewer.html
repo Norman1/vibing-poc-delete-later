@@ -194,8 +194,72 @@
             <label for="bookSelect">Select a book to view:</label>
             <select id="bookSelect" onchange="loadBook()">
                 <option value="">Choose a book...</option>
+                <option value="genesis">Genesis</option>
+                <option value="exodus">Exodus</option>
+                <option value="leviticus">Leviticus</option>
+                <option value="numbers">Numbers</option>
+                <option value="deuteronomy">Deuteronomy</option>
+                <option value="joshua">Joshua</option>
+                <option value="judges">Judges</option>
                 <option value="ruth">Ruth</option>
+                <option value="1samuel">1 Samuel</option>
+                <option value="2samuel">2 Samuel</option>
+                <option value="1kings">1 Kings</option>
+                <option value="2kings">2 Kings</option>
+                <option value="1chronicles">1 Chronicles</option>
+                <option value="2chronicles">2 Chronicles</option>
+                <option value="ezra">Ezra</option>
+                <option value="nehemiah">Nehemiah</option>
+                <option value="esther">Esther</option>
+                <option value="job">Job</option>
+                <option value="psalms">Psalms</option>
+                <option value="proverbs">Proverbs</option>
+                <option value="ecclesiastes">Ecclesiastes</option>
+                <option value="song">Song of Songs</option>
+                <option value="isaiah">Isaiah</option>
+                <option value="jeremiah">Jeremiah</option>
+                <option value="lamentations">Lamentations</option>
+                <option value="ezekiel">Ezekiel</option>
+                <option value="daniel">Daniel</option>
+                <option value="hosea">Hosea</option>
+                <option value="joel">Joel</option>
+                <option value="amos">Amos</option>
+                <option value="obadiah">Obadiah</option>
+                <option value="jonah">Jonah</option>
+                <option value="micah">Micah</option>
+                <option value="nahum">Nahum</option>
+                <option value="habakkuk">Habakkuk</option>
+                <option value="zephaniah">Zephaniah</option>
+                <option value="haggai">Haggai</option>
+                <option value="zechariah">Zechariah</option>
+                <option value="malachi">Malachi</option>
+                <option value="matthew">Matthew</option>
+                <option value="mark">Mark</option>
+                <option value="luke">Luke</option>
+                <option value="john">John</option>
+                <option value="acts">Acts</option>
+                <option value="romans">Romans</option>
+                <option value="1corinthians">1 Corinthians</option>
+                <option value="2corinthians">2 Corinthians</option>
+                <option value="galatians">Galatians</option>
+                <option value="ephesians">Ephesians</option>
+                <option value="philippians">Philippians</option>
+                <option value="colossians">Colossians</option>
+                <option value="1thessalonians">1 Thessalonians</option>
+                <option value="2thessalonians">2 Thessalonians</option>
+                <option value="1timothy">1 Timothy</option>
+                <option value="2timothy">2 Timothy</option>
+                <option value="titus">Titus</option>
+                <option value="philemon">Philemon</option>
+                <option value="hebrews">Hebrews</option>
+                <option value="james">James</option>
+                <option value="1peter">1 Peter</option>
+                <option value="2peter">2 Peter</option>
+                <option value="1john">1 John</option>
+                <option value="2john">2 John</option>
                 <option value="3john">3 John</option>
+                <option value="jude">Jude</option>
+                <option value="revelation">Revelation</option>
             </select>
         </div>
 
@@ -212,14 +276,72 @@
 
     <script>
         const books = {
-            'ruth': {
-                title: 'The Book of Ruth',
-                file: 'output/08_ruth_vbt.osis.xml'
-            },
-            '3john': {
-                title: 'Third Letter of John',
-                file: 'output/64_3john_vbt.osis.xml'
-            }
+            'genesis': { title: 'Genesis', file: 'output/01_genesis_vbt.osis.xml' },
+            'exodus': { title: 'Exodus', file: 'output/02_exodus_vbt.osis.xml' },
+            'leviticus': { title: 'Leviticus', file: 'output/03_leviticus_vbt.osis.xml' },
+            'numbers': { title: 'Numbers', file: 'output/04_numbers_vbt.osis.xml' },
+            'deuteronomy': { title: 'Deuteronomy', file: 'output/05_deuteronomy_vbt.osis.xml' },
+            'joshua': { title: 'Joshua', file: 'output/06_joshua_vbt.osis.xml' },
+            'judges': { title: 'Judges', file: 'output/07_judges_vbt.osis.xml' },
+            'ruth': { title: 'Ruth', file: 'output/08_ruth_vbt.osis.xml' },
+            '1samuel': { title: '1 Samuel', file: 'output/09_1samuel_vbt.osis.xml' },
+            '2samuel': { title: '2 Samuel', file: 'output/10_2samuel_vbt.osis.xml' },
+            '1kings': { title: '1 Kings', file: 'output/11_1kings_vbt.osis.xml' },
+            '2kings': { title: '2 Kings', file: 'output/12_2kings_vbt.osis.xml' },
+            '1chronicles': { title: '1 Chronicles', file: 'output/13_1chronicles_vbt.osis.xml' },
+            '2chronicles': { title: '2 Chronicles', file: 'output/14_2chronicles_vbt.osis.xml' },
+            'ezra': { title: 'Ezra', file: 'output/15_ezra_vbt.osis.xml' },
+            'nehemiah': { title: 'Nehemiah', file: 'output/16_nehemiah_vbt.osis.xml' },
+            'esther': { title: 'Esther', file: 'output/17_esther_vbt.osis.xml' },
+            'job': { title: 'Job', file: 'output/18_job_vbt.osis.xml' },
+            'psalms': { title: 'Psalms', file: 'output/19_psalms_vbt.osis.xml' },
+            'proverbs': { title: 'Proverbs', file: 'output/20_proverbs_vbt.osis.xml' },
+            'ecclesiastes': { title: 'Ecclesiastes', file: 'output/21_ecclesiastes_vbt.osis.xml' },
+            'song': { title: 'Song of Songs', file: 'output/22_song_vbt.osis.xml' },
+            'isaiah': { title: 'Isaiah', file: 'output/23_isaiah_vbt.osis.xml' },
+            'jeremiah': { title: 'Jeremiah', file: 'output/24_jeremiah_vbt.osis.xml' },
+            'lamentations': { title: 'Lamentations', file: 'output/25_lamentations_vbt.osis.xml' },
+            'ezekiel': { title: 'Ezekiel', file: 'output/26_ezekiel_vbt.osis.xml' },
+            'daniel': { title: 'Daniel', file: 'output/27_daniel_vbt.osis.xml' },
+            'hosea': { title: 'Hosea', file: 'output/28_hosea_vbt.osis.xml' },
+            'joel': { title: 'Joel', file: 'output/29_joel_vbt.osis.xml' },
+            'amos': { title: 'Amos', file: 'output/30_amos_vbt.osis.xml' },
+            'obadiah': { title: 'Obadiah', file: 'output/31_obadiah_vbt.osis.xml' },
+            'jonah': { title: 'Jonah', file: 'output/32_jonah_vbt.osis.xml' },
+            'micah': { title: 'Micah', file: 'output/33_micah_vbt.osis.xml' },
+            'nahum': { title: 'Nahum', file: 'output/34_nahum_vbt.osis.xml' },
+            'habakkuk': { title: 'Habakkuk', file: 'output/35_habakkuk_vbt.osis.xml' },
+            'zephaniah': { title: 'Zephaniah', file: 'output/36_zephaniah_vbt.osis.xml' },
+            'haggai': { title: 'Haggai', file: 'output/37_haggai_vbt.osis.xml' },
+            'zechariah': { title: 'Zechariah', file: 'output/38_zechariah_vbt.osis.xml' },
+            'malachi': { title: 'Malachi', file: 'output/39_malachi_vbt.osis.xml' },
+            'matthew': { title: 'Matthew', file: 'output/40_matthew_vbt.osis.xml' },
+            'mark': { title: 'Mark', file: 'output/41_mark_vbt.osis.xml' },
+            'luke': { title: 'Luke', file: 'output/42_luke_vbt.osis.xml' },
+            'john': { title: 'John', file: 'output/43_john_vbt.osis.xml' },
+            'acts': { title: 'Acts', file: 'output/44_acts_vbt.osis.xml' },
+            'romans': { title: 'Romans', file: 'output/45_romans_vbt.osis.xml' },
+            '1corinthians': { title: '1 Corinthians', file: 'output/46_1corinthians_vbt.osis.xml' },
+            '2corinthians': { title: '2 Corinthians', file: 'output/47_2corinthians_vbt.osis.xml' },
+            'galatians': { title: 'Galatians', file: 'output/48_galatians_vbt.osis.xml' },
+            'ephesians': { title: 'Ephesians', file: 'output/49_ephesians_vbt.osis.xml' },
+            'philippians': { title: 'Philippians', file: 'output/50_philippians_vbt.osis.xml' },
+            'colossians': { title: 'Colossians', file: 'output/51_colossians_vbt.osis.xml' },
+            '1thessalonians': { title: '1 Thessalonians', file: 'output/52_1thessalonians_vbt.osis.xml' },
+            '2thessalonians': { title: '2 Thessalonians', file: 'output/53_2thessalonians_vbt.osis.xml' },
+            '1timothy': { title: '1 Timothy', file: 'output/54_1timothy_vbt.osis.xml' },
+            '2timothy': { title: '2 Timothy', file: 'output/55_2timothy_vbt.osis.xml' },
+            'titus': { title: 'Titus', file: 'output/56_titus_vbt.osis.xml' },
+            'philemon': { title: 'Philemon', file: 'output/57_philemon_vbt.osis.xml' },
+            'hebrews': { title: 'Hebrews', file: 'output/58_hebrews_vbt.osis.xml' },
+            'james': { title: 'James', file: 'output/59_james_vbt.osis.xml' },
+            '1peter': { title: '1 Peter', file: 'output/60_1peter_vbt.osis.xml' },
+            '2peter': { title: '2 Peter', file: 'output/61_2peter_vbt.osis.xml' },
+            '1john': { title: '1 John', file: 'output/62_1john_vbt.osis.xml' },
+            '2john': { title: '2 John', file: 'output/63_2john_vbt.osis.xml' },
+            '3john': { title: '3 John', file: 'output/64_3john_vbt.osis.xml' },
+            'jude': { title: 'Jude', file: 'output/65_jude_vbt.osis.xml' },
+            'revelation': { title: 'Revelation', file: 'output/66_revelation_vbt.osis.xml' }
         };
 
         async function loadBook() {
