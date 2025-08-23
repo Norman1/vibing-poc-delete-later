@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <refSystem>Bible</refSystem>
+        <rights>Public Domain</rights>
+      </work>
+    </header>
+    
+    <div type="book" osisID="Hab" canonical="true">
+      <title type="main">Habakkuk</title>
+      
+      <chapter osisID="Hab.1">
+        <title type="chapter">Chapter 1</title>
+        <title type="main">Habakkuk's Complaint</title>
+        
+        <verse osisID="Hab.1.1">The prophecy that Habakkuk the prophet received.</verse>
+        
+        <verse osisID="Hab.1.2">How long, Yahweh, must I call for help, but you do not listen? Or cry out to you, "Violence!" but you do not save?</verse>
+        
+        <verse osisID="Hab.1.3">Why do you make me look at injustice? Why do you tolerate wrongdoing? Destruction and violence are before me; there is strife, and conflict abounds.</verse>
+        
+        <verse osisID="Hab.1.4">Therefore the law is paralyzed, and justice never prevails. The wicked hem in the righteous, so that justice is perverted.</verse>
+        
+        <title type="sub">Yahweh's Answer</title>
+        
+        <verse osisID="Hab.1.5">"Look at the nations and watch—and be utterly amazed. For I am going to do something in your days that you would not believe, even if you were told.</verse>
+        
+        <verse osisID="Hab.1.6">I am raising up the Babylonians, that ruthless and impetuous people, who sweep across the whole earth to seize dwellings not their own.</verse>
+        
+        <verse osisID="Hab.1.7">They are a feared and dreaded people; they are a law to themselves and promote their own honor.</verse>
+        
+        <verse osisID="Hab.1.8">Their horses are swifter than leopards, fiercer than wolves at dusk. Their cavalry gallops headlong; their horsemen come from afar. They fly like an eagle swooping to devour;</verse>
+        
+        <verse osisID="Hab.1.9">they all come intent on violence. Their hordes advance like a desert wind and gather prisoners like sand.</verse>
+        
+        <verse osisID="Hab.1.10">They mock kings and scoff at rulers. They laugh at all fortified cities; by building earthen ramps they capture them.</verse>
+        
+        <verse osisID="Hab.1.11">Then they sweep past like the wind and go on—guilty people, whose own strength is their god."</verse>
+        
+        <title type="sub">Habakkuk's Second Complaint</title>
+        
+        <verse osisID="Hab.1.12">Yahweh, are you not from everlasting? My God, my Set Apart One<note type="translation">The Hebrew word "qadosh" means set apart or dedicated to God</note>, you will never die. You, Yahweh, have appointed them to execute judgment; you, my Rock, have ordained them to punish.</verse>
+        
+        <verse osisID="Hab.1.13">Your eyes are too pure to look on evil; you cannot tolerate wrongdoing. Why then do you tolerate the treacherous? Why are you silent while the wicked swallow up those more righteous than themselves?</verse>
+        
+        <verse osisID="Hab.1.14">You have made people like the fish in the sea, like the sea creatures that have no ruler.</verse>
+        
+        <verse osisID="Hab.1.15">The wicked foe pulls all of them up with hooks, he catches them in his net, he gathers them up in his dragnet; and so he rejoices and is glad.</verse>
+        
+        <verse osisID="Hab.1.16">Therefore he sacrifices to his net and burns incense to his dragnet, for by his net he lives in luxury and enjoys the choicest food.</verse>
+        
+        <verse osisID="Hab.1.17">Is he to keep on emptying his net, destroying nations without mercy?</verse>
+      </chapter>
+      
+      <chapter osisID="Hab.2">
+        <title type="chapter">Chapter 2</title>
+        <title type="main">Yahweh's Answer</title>
+        
+        <verse osisID="Hab.2.1">I will stand at my watch and station myself on the ramparts; I will look to see what he will say to me, and what answer I am to give to this complaint.</verse>
+        
+        <verse osisID="Hab.2.2">Then Yahweh replied: "Write down the revelation and make it plain on tablets so that a herald may run with it.</verse>
+        
+        <verse osisID="Hab.2.3">For the revelation awaits an appointed time; it speaks of the end and will not prove false. Though it linger, wait for it; it will certainly come and will not delay.</verse>
+        
+        <verse osisID="Hab.2.4">"See, the enemy is puffed up; his desires are not upright—but the righteous person will live by his faithfulness—</verse>
+        
+        <verse osisID="Hab.2.5">indeed, wine betrays him; he is arrogant and never at rest. Because he is as greedy as the grave and like death is never satisfied, he gathers to himself all the nations and takes captive all the peoples.</verse>
+        
+        <title type="sub">Woe to the Wicked</title>
+        
+        <verse osisID="Hab.2.6">"Will not all of them taunt him with ridicule and scorn, saying, 'Terrible sorrow to him who piles up stolen goods and makes himself wealthy by extortion! How long must this go on?'</verse>
+        
+        <verse osisID="Hab.2.7">Will not your creditors suddenly arise? Will they not wake up and make you tremble? Then you will become their prey.</verse>
+        
+        <verse osisID="Hab.2.8">Because you have plundered many nations, the peoples who are left will plunder you. For you have shed human blood; you have destroyed lands and cities and everyone in them.</verse>
+        
+        <verse osisID="Hab.2.9">"Terrible sorrow to him who builds his house by unjust gain, setting his nest on high to escape the clutches of ruin!</verse>
+        
+        <verse osisID="Hab.2.10">You have plotted the ruin of many peoples, shaming your own house and forfeiting your life.</verse>
+        
+        <verse osisID="Hab.2.11">The stones of the wall will cry out, and the beams of the woodwork will echo it.</verse>
+        
+        <verse osisID="Hab.2.12">"Terrible sorrow to him who builds a city with bloodshed and establishes a town by injustice!</verse>
+        
+        <verse osisID="Hab.2.13">Has not Yahweh of armies determined that the people's labor is only fuel for the fire, that the nations exhaust themselves for nothing?</verse>
+        
+        <verse osisID="Hab.2.14">For the earth will be filled with the knowledge of the glory of Yahweh as the waters cover the sea.</verse>
+        
+        <verse osisID="Hab.2.15">"Terrible sorrow to him who gives drink to his neighbors, pouring it from the wineskin till they are drunk, so that he can gaze on their naked bodies!</verse>
+        
+        <verse osisID="Hab.2.16">You will be filled with shame instead of glory. Now it is your turn! Drink and let your nakedness be exposed! The cup from Yahweh's right hand is coming around to you, and disgrace will cover your glory.</verse>
+        
+        <verse osisID="Hab.2.17">The violence you have done to Lebanon will overwhelm you, and your destruction of animals will terrify you. For you have shed human blood; you have destroyed lands and cities and everyone in them.</verse>
+        
+        <verse osisID="Hab.2.18">"Of what value is an idol carved by a craftsman? Or an image that teaches lies? For the one who makes it trusts in his own creation; he makes idols that cannot speak.</verse>
+        
+        <verse osisID="Hab.2.19">Terrible sorrow to him who says to wood, 'Come to life!' Or to lifeless stone, 'Wake up!' Can it give guidance? It is covered with gold and silver; there is no breath in it."</verse>
+        
+        <verse osisID="Hab.2.20">The Yahweh is in his set apart temple<note type="translation">The Hebrew word "qodesh" refers to God's holy temple</note>; let all the earth be silent before him.</verse>
+      </chapter>
+      
+      <chapter osisID="Hab.3">
+        <title type="chapter">Chapter 3</title>
+        <title type="main">Habakkuk's Prayer</title>
+        
+        <verse osisID="Hab.3.1">A prayer of Habakkuk the prophet. On shigionoth<note type="translation">A Hebrew musical term, possibly indicating a passionate or emotional song</note>.</verse>
+        
+        <verse osisID="Hab.3.2">Yahweh, I have heard of your fame; I stand in awe of your deeds, Yahweh. Repeat them in our day, in our time make them known; in wrath remember mercy.</verse>
+        
+        <verse osisID="Hab.3.3">God came from Teman, the Set Apart One from Mount Paran. His glory covered the heavens and his praise filled the earth.</verse>
+        
+        <verse osisID="Hab.3.4">His splendor was like the sunrise; rays flashed from his hand, where his power was hidden.</verse>
+        
+        <verse osisID="Hab.3.5">Plague went before him; pestilence followed his steps.</verse>
+        
+        <verse osisID="Hab.3.6">He stood, and shook the earth; he looked, and made the nations tremble. The ancient mountains crumbled and the age-old hills collapsed—but he marches on forever.</verse>
+        
+        <verse osisID="Hab.3.7">I saw the tents of Cushan in distress, the dwellings of Midian in anguish.</verse>
+        
+        <verse osisID="Hab.3.8">Were you angry with the rivers, Yahweh? Was your wrath against the streams? Did you rage against the sea when you rode your horses and your chariots to victory?</verse>
+        
+        <verse osisID="Hab.3.9">You uncovered your bow, you called for many arrows. You split the earth with rivers;</verse>
+        
+        <verse osisID="Hab.3.10">the mountains saw you and writhed. Torrents of water swept by; the deep roared and lifted its waves on high.</verse>
+        
+        <verse osisID="Hab.3.11">Sun and moon stood still in the heavens at the glint of your flying arrows, at the lightning of your flashing spear.</verse>
+        
+        <verse osisID="Hab.3.12">In wrath you strode through the earth and in anger you threshed the nations.</verse>
+        
+        <verse osisID="Hab.3.13">You came out to deliver your people, to save your anointed one<note type="translation">The Hebrew word "mashiach" means one who has oil poured on them, referring to God's chosen king</note>. You crushed the leader of the land of wickedness, you stripped him from head to foot.</verse>
+        
+        <verse osisID="Hab.3.14">With his own spear you pierced his head when his warriors stormed out to scatter us, gloating as though about to devour the wretched who were in hiding.</verse>
+        
+        <verse osisID="Hab.3.15">You trampled the sea with your horses, churning the great waters.</verse>
+        
+        <verse osisID="Hab.3.16">I heard and my heart pounded, my lips quivered at the sound; decay crept into my bones, and my legs trembled. Yet I will wait patiently for the day of calamity to come on the nation invading us.</verse>
+        
+        <verse osisID="Hab.3.17">Though the fig tree does not bud and there are no grapes on the vines, though the olive crop fails and the fields produce no food, though there are no sheep in the pen and no cattle in the stalls,</verse>
+        
+        <verse osisID="Hab.3.18">yet I will rejoice in Yahweh, I will be joyful in God my Savior.</verse>
+        
+        <verse osisID="Hab.3.19">The Sovereign Yahweh is my strength; he makes my feet like the feet of a deer, he enables me to tread on the heights. For the director of music. On my stringed instruments.</verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>
