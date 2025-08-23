@@ -478,62 +478,45 @@
                 });
                 
                 // Process milestone chapters with titles in order
-                const divElement = xmlDoc.querySelector('div[type="book"]');
-                if (divElement) {
-                    let inChapter = false;
-                    let currentChapterId = null;
+                const milestoneStarts = xmlDoc.querySelectorAll('chapter[sID]');
+                
+                milestoneStarts.forEach(chapterStart => {
+                    const chapterOsisId = chapterStart.getAttribute('osisID');
+                    const chapterNum = chapterOsisId.split('.').pop();
                     
-                    for (let node of divElement.childNodes) {
-                        if (node.nodeType === Node.ELEMENT_NODE) {
-                            if (node.nodeName === 'title' && !inChapter) {
-                                // Process section title (outside chapters)
-                                const titleType = node.getAttribute('type');
-                                let titleClass = 'section-title-main';
-                                if (titleType === 'sub') {
-                                    titleClass = 'section-title-sub';
-                                }
-                                html += `<div class="${titleClass}">${node.textContent}</div>`;
+                    html += `<div class="chapter">`;
+                    html += `<div class="chapter-title">Chapter ${chapterNum}</div>`;
+                    
+                    // Find all elements between this chapter start and its end
+                    let currentElement = chapterStart.nextElementSibling;
+                    const chapterEndId = chapterOsisId;
+                    
+                    while (currentElement && !(currentElement.nodeName === 'chapter' && currentElement.getAttribute('eID') === chapterEndId)) {
+                        if (currentElement.nodeName === 'title') {
+                            // Process subsection title within chapter
+                            const titleType = currentElement.getAttribute('type');
+                            let titleClass = 'section-title-sub';
+                            if (titleType === 'main') {
+                                titleClass = 'section-title-main';
                             }
-                            else if (node.nodeName === 'chapter' && node.getAttribute('sID')) {
-                                // Start of milestone chapter
-                                currentChapterId = node.getAttribute('osisID');
-                                const chapterNum = currentChapterId.split('.').pop();
-                                html += `<div class="chapter">`;
-                                html += `<div class="chapter-title">Chapter ${chapterNum}</div>`;
-                                inChapter = true;
-                            }
-                            else if (node.nodeName === 'chapter' && node.getAttribute('eID')) {
-                                // End of milestone chapter
-                                if (inChapter && node.getAttribute('eID') === currentChapterId) {
-                                    html += `</div>`;
-                                    inChapter = false;
-                                    currentChapterId = null;
-                                }
-                            }
-                            else if (inChapter) {
-                                if (node.nodeName === 'title') {
-                                    // Process subsection title within chapter
-                                    const titleType = node.getAttribute('type');
-                                    let titleClass = 'section-title-sub';
-                                    if (titleType === 'main') {
-                                        titleClass = 'section-title-main';
-                                    }
-                                    html += `<div class="${titleClass}">${node.textContent}</div>`;
-                                }
-                                else if (node.nodeName === 'verse' && node.getAttribute('osisID')) {
-                                    // Process verse within current chapter
-                                    const verseId = node.getAttribute('osisID');
-                                    const verseNum = verseId.split('.').pop();
-                                    
-                                    html += `<div class="verse">`;
-                                    html += `<span class="verse-number">${verseNum}</span>`;
-                                    html += `<span class="verse-text">${processVerseContent(node)}</span>`;
-                                    html += `</div>`;
-                                }
-                            }
+                            html += `<div class="${titleClass}">${currentElement.textContent}</div>`;
                         }
+                        else if (currentElement.nodeName === 'verse' && currentElement.getAttribute('osisID')) {
+                            // Process verse within current chapter
+                            const verseId = currentElement.getAttribute('osisID');
+                            const verseNum = verseId.split('.').pop();
+                            
+                            html += `<div class="verse">`;
+                            html += `<span class="verse-number">${verseNum}</span>`;
+                            html += `<span class="verse-text">${processVerseContent(currentElement)}</span>`;
+                            html += `</div>`;
+                        }
+                        
+                        currentElement = currentElement.nextElementSibling;
                     }
-                }
+                    
+                    html += `</div>`;
+                });
             }
 
             content.innerHTML = html;

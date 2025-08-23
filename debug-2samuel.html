@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Debug 2 Samuel Parsing</title>
+</head>
+<body>
+    <div id="debug"></div>
+    
+    <script>
+        async function debugParsing() {
+            try {
+                const response = await fetch('output/10_2samuel_vbt.osis.xml');
+                const xmlText = await response.text();
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+                
+                // Check for XML parsing errors
+                const parseError = xmlDoc.querySelector('parsererror');
+                if (parseError) {
+                    document.getElementById('debug').innerHTML = 'XML Parse Error: ' + parseError.textContent;
+                    return;
+                }
+                
+                let debug = '<h2>XML Parsing Debug</h2>';
+                
+                // Count all milestone starts
+                const milestoneStarts = xmlDoc.querySelectorAll('chapter[sID]');
+                debug += `<p>Found ${milestoneStarts.length} milestone chapter starts</p><ul>`;
+                
+                milestoneStarts.forEach((start, index) => {
+                    const osisId = start.getAttribute('osisID');
+                    debug += `<li>${index + 1}. ${osisId}</li>`;
+                });
+                debug += '</ul>';
+                
+                // Check what happens with the parsing logic
+                debug += '<h3>Detailed parsing for first few chapters:</h3>';
+                
+                for (let i = 0; i < Math.min(5, milestoneStarts.length); i++) {
+                    const chapterStart = milestoneStarts[i];
+                    const chapterOsisId = chapterStart.getAttribute('osisID');
+                    const chapterNum = chapterOsisId.split('.').pop();
+                    
+                    debug += `<h4>Chapter ${chapterNum} (${chapterOsisId})</h4>`;
+                    
+                    let currentElement = chapterStart.nextElementSibling;
+                    const chapterEndId = chapterOsisId;
+                    let elementCount = 0;
+                    
+                    debug += '<ul>';
+                    while (currentElement && elementCount < 10) {  // Limit to first 10 elements
+                        if (currentElement.nodeName === 'chapter' && currentElement.getAttribute('eID') === chapterEndId) {
+                            debug += `<li>FOUND CHAPTER END: ${currentElement.getAttribute('eID')}</li>`;
+                            break;
+                        }
+                        
+                        if (currentElement.nodeType === 1) {  // Element node
+                            debug += `<li>${currentElement.nodeName}`;
+                            if (currentElement.getAttribute('osisID')) {
+                                debug += ` (${currentElement.getAttribute('osisID')})`;
+                            }
+                            if (currentElement.getAttribute('type')) {
+                                debug += ` [${currentElement.getAttribute('type')}]`;
+                            }
+                            debug += '</li>';
+                            elementCount++;
+                        }
+                        
+                        currentElement = currentElement.nextElementSibling;
+                    }
+                    debug += '</ul>';
+                }
+                
+                document.getElementById('debug').innerHTML = debug;
+                
+            } catch (error) {
+                document.getElementById('debug').innerHTML = 'Error: ' + error.message;
+            }
+        }
+        
+        debugParsing();
+    </script>
+</body>
+</html>

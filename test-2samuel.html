@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>2 Samuel Chapter Test</title>
+</head>
+<body>
+    <h1>2 Samuel Chapter Test</h1>
+    <div id="output"></div>
+    
+    <script>
+        async function testChapters() {
+            try {
+                const response = await fetch('output/10_2samuel_vbt.osis.xml');
+                const xmlText = await response.text();
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+                
+                // Find all chapter start elements
+                const chapters = xmlDoc.querySelectorAll('chapter[sID]');
+                
+                let output = '<h2>Found ' + chapters.length + ' chapters:</h2><ul>';
+                chapters.forEach(chapter => {
+                    const id = chapter.getAttribute('osisID');
+                    output += '<li>' + id + '</li>';
+                });
+                output += '</ul>';
+                
+                // Also check for verses in last few chapters
+                output += '<h2>Verses in Chapter 24:</h2><ul>';
+                const chapter24Verses = xmlDoc.querySelectorAll('verse[osisID^="2Sam.24."]');
+                chapter24Verses.forEach(verse => {
+                    const id = verse.getAttribute('osisID');
+                    output += '<li>' + id + ': ' + verse.textContent.substring(0, 50) + '...</li>';
+                });
+                output += '</ul>';
+                
+                document.getElementById('output').innerHTML = output;
+            } catch (error) {
+                document.getElementById('output').innerHTML = 'Error: ' + error.message;
+            }
+        }
+        
+        testChapters();
+    </script>
+</body>
+</html>
