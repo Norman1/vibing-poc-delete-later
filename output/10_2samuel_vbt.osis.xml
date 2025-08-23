@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <rights type="x-copyright">Public Domain</rights>
+        <scope>2Sam</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="2Sam" canonical="true">
+      <title>Second Book of Samuel</title>
+      
+      <chapter osisID="2Sam.1" sID="2Sam.1"/>
+      <title type="sub">David Learns of Saul's Death</title>
+      <verse osisID="2Sam.1.1">After the death of Saul, David returned from striking down the Amalekites and stayed in Ziklag two days.</verse>
+      <verse osisID="2Sam.1.2">On the third day a man arrived from Saul's camp with his clothes torn and dust on his head. When he came to David, he fell to the ground to pay him honor.</verse>
+      <verse osisID="2Sam.1.3">"Where have you come from?" David asked him. He answered, "I have escaped from the Israelite camp."</verse>
+      <verse osisID="2Sam.1.4">"What happened?" David asked. "Tell me." "The men fled from the battle," he replied. "Many of them fell and died. And Saul and his son Jonathan are dead."</verse>
+      <verse osisID="2Sam.1.5">Then David said to the young man who brought him the report, "How do you know that Saul and his son Jonathan are dead?"</verse>
+      <verse osisID="2Sam.1.6">"I happened to be on Mount Gilboa," the young man said, "and there was Saul, leaning on his spear, with the chariots and their drivers in hot pursuit.</verse>
+      <verse osisID="2Sam.1.7">When he turned around and saw me, he called out to me, and I said, 'What can I do?'</verse>
+      <verse osisID="2Sam.1.8">"He asked me, 'Who are you?' 'An Amalekite,' I answered.</verse>
+      <verse osisID="2Sam.1.9">Then he said to me, 'Stand here by me and kill me! I'm in the throes of death, but I'm still alive.'</verse>
+      <verse osisID="2Sam.1.10">So I stood beside him and killed him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band on his arm and have brought them here to my lord."</verse>
+      <verse osisID="2Sam.1.11">Then David and all the men with him took hold of their clothes and tore them.</verse>
+      <verse osisID="2Sam.1.12">They mourned and wept and fasted till evening for Saul and his son Jonathan, and for the army of Yahweh and for the nation of Israel, because they had fallen by the sword.</verse>
+      <verse osisID="2Sam.1.13">David said to the young man who brought him the report, "Where are you from?" "I am the son of a foreigner, an Amalekite," he answered.</verse>
+      <verse osisID="2Sam.1.14">David asked him, "Why weren't you afraid to lift your hand to destroy Yahweh's anointed one?"</verse>
+      <verse osisID="2Sam.1.15">Then David called one of his men and said, "Go, strike him down!" So he struck him down and he died.</verse>
+      <verse osisID="2Sam.1.16">For David had said to him, "Your blood be on your own head. Your own mouth testified against you when you said, 'I killed Yahweh's anointed one.'"</verse>
+
+      <title type="sub">David's Lament for Saul and Jonathan</title>
+      <verse osisID="2Sam.1.17">David took up this lament concerning Saul and his son Jonathan,</verse>
+      <verse osisID="2Sam.1.18">and he ordered that the people of Judah be taught this lament of the bow (it is written in the Book of Jashar):</verse>
+      <verse osisID="2Sam.1.19">"A gazelle lies slain on your heights, Israel. How the mighty have fallen!</verse>
+      <verse osisID="2Sam.1.20">Tell it not in Gath, proclaim it not in the streets of Ashkelon, lest the daughters of the Philistines be glad, lest the daughters of the uncircumcised rejoice.</verse>
+      <verse osisID="2Sam.1.21">Mountains of Gilboa, may you have neither dew nor rain, may no showers fall on your terraced fields. For there the shield of the mighty was despised, the shield of Saul—no longer rubbed with oil.</verse>
+      <verse osisID="2Sam.1.22">From the blood of the slain, from the flesh of the mighty, the bow of Jonathan did not turn back, the sword of Saul did not return unsatisfied.</verse>
+      <verse osisID="2Sam.1.23">Saul and Jonathan— in life they were loved and admired, and in death they were not parted. They were swifter than eagles, they were stronger than lions.</verse>
+      <verse osisID="2Sam.1.24">Daughters of Israel, weep for Saul, who clothed you in scarlet and finery, who adorned your garments with ornaments of gold.</verse>
+      <verse osisID="2Sam.1.25">How the mighty have fallen in battle! Jonathan lies slain on your heights.</verse>
+      <verse osisID="2Sam.1.26">I grieve for you, Jonathan my brother; you were very dear to me. Your love for me was wonderful, more wonderful than that of women.</verse>
+      <verse osisID="2Sam.1.27">How the mighty have fallen! The weapons of war have perished!"</verse>
+      <chapter eID="2Sam.1"/>
+
+      <chapter osisID="2Sam.2" sID="2Sam.2"/>
+      <title type="sub">David Anointed King Over Judah</title>
+      <verse osisID="2Sam.2.1">In the course of time, David inquired of Yahweh. "Shall I go up to one of the towns of Judah?" he asked. Yahweh said, "Go up." David asked, "Where shall I go?" "To Hebron," Yahweh answered.</verse>
+      <verse osisID="2Sam.2.2">So David went up there with his two wives, Ahinoam of Jezreel and Abigail, the widow of Nabal of Carmel.</verse>
+      <verse osisID="2Sam.2.3">David also took the men who were with him, each with his family, and they settled in Hebron and its towns.</verse>
+      <verse osisID="2Sam.2.4">Then the men of Judah came to Hebron, and there they anointed David king over the tribe of Judah. When David was told that it was the men of Jabesh Gilead who had buried Saul,</verse>
+      <verse osisID="2Sam.2.5">he sent messengers to them to say, "Yahweh bless you for showing this kindness to Saul your master by burying him.</verse>
+      <verse osisID="2Sam.2.6">May Yahweh now show you kindness and faithfulness, and I too will show you the same favor because you have done this.</verse>
+      <verse osisID="2Sam.2.7">Now then, be strong and brave, for Saul your master is dead, and the people of Judah have anointed me king over them."</verse>
+      
+      <title type="sub">War Between the Houses of David and Saul</title>
+      <verse osisID="2Sam.2.8">Meanwhile, Abner son of Ner, the commander of Saul's army, had taken Ish-Bosheth son of Saul and brought him over to Mahanaim.</verse>
+      <verse osisID="2Sam.2.9">He made him king over Gilead, Ashuri and Jezreel, and also over Ephraim, Benjamin and all Israel.</verse>
+      <verse osisID="2Sam.2.10">Ish-Bosheth son of Saul was forty years old when he became king over Israel, and he reigned two years. The tribe of Judah, however, remained loyal to David.</verse>
+      <verse osisID="2Sam.2.11">The length of time David was king in Hebron over Judah was seven years and six months.</verse>
+      <verse osisID="2Sam.2.12">Abner son of Ner, together with the men of Ish-Bosheth son of Saul, left Mahanaim and went to Gibeon.</verse>
+      <verse osisID="2Sam.2.13">Joab son of Zeruiah and David's men went out and met them at the pool of Gibeon. One group sat down on one side of the pool and one group on the other side.</verse>
+      <verse osisID="2Sam.2.14">Then Abner said to Joab, "Let's have some of the young men get up and fight hand to hand in front of us." "All right, let them do it," Joab said.</verse>
+      <verse osisID="2Sam.2.15">So they stood up and were counted off—twelve men for Benjamin and Ish-Bosheth son of Saul, and twelve for David.</verse>
+      <verse osisID="2Sam.2.16">Then each man grabbed his opponent by the head and thrust his dagger into his opponent's side, and they fell down together. So that place in Gibeon was called Helkath Hazzurim.</verse>
+      <verse osisID="2Sam.2.17">The battle that day was very fierce, and Abner and the Israelites were defeated by David's men.</verse>
+      <verse osisID="2Sam.2.18">The three sons of Zeruiah were there: Joab, Abishai and Asahel. Now Asahel was as fleet-footed as a wild gazelle.</verse>
+      <verse osisID="2Sam.2.19">He pursued Abner, turning neither to the right nor to the left as he followed him.</verse>
+      <verse osisID="2Sam.2.20">Abner looked behind him and asked, "Is that you, Asahel?" "It is," he answered.</verse>
+      <verse osisID="2Sam.2.21">Then Abner said to him, "Turn aside to the right or to the left; take on one of the young men and strip him of his weapons." But Asahel would not stop chasing him.</verse>
+      <verse osisID="2Sam.2.22">Again Abner warned Asahel, "Stop chasing me! Why should I strike you down? How could I look your brother Joab in the face?"</verse>
+      <verse osisID="2Sam.2.23">But Asahel refused to give up the pursuit; so Abner thrust the butt of his spear into Asahel's stomach, and the spear came out through his back. He fell there and died on the spot. And every man stopped when he came to the place where Asahel had fallen and died.</verse>
+      <verse osisID="2Sam.2.24">But Joab and Abishai pursued Abner, and as the sun was setting, they came to the hill of Ammah, near Giah on the way to the wasteland of Gibeon.</verse>
+      <verse osisID="2Sam.2.25">Then the men of Benjamin rallied behind Abner. They formed themselves into a group and took their stand on top of a hill.</verse>
+      <verse osisID="2Sam.2.26">Abner called out to Joab, "Must the sword devour forever? Don't you realize that this will end in bitterness? How long before you order your men to stop pursuing their fellow Israelites?"</verse>
+      <verse osisID="2Sam.2.27">Joab answered, "As surely as God lives, if you had not spoken, the men would have continued pursuing their fellow Israelites until morning."</verse>
+      <verse osisID="2Sam.2.28">So Joab blew the trumpet, and all the troops came to a halt; they no longer pursued Israel, nor did they fight anymore.</verse>
+      <verse osisID="2Sam.2.29">All that night Abner and his men marched through the Arabah. They crossed the Jordan, continued through the morning hours and came to Mahanaim.</verse>
+      <verse osisID="2Sam.2.30">Then Joab stopped pursuing Abner and assembled the whole army. Besides Asahel, nineteen of David's men were found missing.</verse>
+      <verse osisID="2Sam.2.31">But David's men had killed three hundred and sixty Benjamites who were with Abner.</verse>
+      <verse osisID="2Sam.2.32">They took Asahel and buried him in his father's tomb at Bethlehem. Then Joab and his men marched all night and arrived at Hebron by daybreak.</verse>
+      <chapter eID="2Sam.2"/>
+    </div>
+  </osisText>
+</osis>
