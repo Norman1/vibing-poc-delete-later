@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <refSystem>Bible</refSystem>
+        <rights>Public Domain</rights>
+      </work>
+    </header>
+    
+    <div type="book" osisID="Acts" canonical="true">
+      <title type="main">Acts</title>
+      <title type="runningHead">Acts</title>
+      
+      <chapter osisID="Acts.1" sID="Acts.1"/>
+      <title type="main">Jesus Ascends to Heaven</title>
+      <verse osisID="Acts.1.1">My first account, Theophilus, covered everything that Jesus began to do and teach</verse>
+      <verse osisID="Acts.1.2">from the beginning until the day he was taken up to heaven, after giving instructions through the Set Apart Spirit to the apostles he had chosen.</verse>
+      <verse osisID="Acts.1.3">After his suffering, he presented himself to them alive with many convincing proofs, appearing to them over forty days and speaking about the kingdom of God.</verse>
+      <verse osisID="Acts.1.4">While staying with them, he commanded them not to leave Jerusalem, but to wait for the Father's promise that you heard from me.</verse>
+      <verse osisID="Acts.1.5">For John immersed people with water, but in a few days you will be immersed with the Set Apart Spirit.</verse>
+
+      <title type="sub">The Promise of Jesus' Return</title>
+      <verse osisID="Acts.1.6">When the apostles came together, they asked him, "Lord, are you at this time going to restore the kingdom to Israel?"</verse>
+      <verse osisID="Acts.1.7">He said to them, "It is not for you to know the times or periods that the Father has set by his own authority.</verse>
+      <verse osisID="Acts.1.8">But you will receive power when the Set Apart Spirit comes on you, and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth."</verse>
+      <verse osisID="Acts.1.9">After he said this, while they were watching, he was taken up and a cloud hid him from their sight.</verse>
+      <verse osisID="Acts.1.10">While they were intently gazing into the sky as he was going, suddenly two men in white clothes stood beside them.</verse>
+      <verse osisID="Acts.1.11">They said, "Men of Galilee, why do you stand looking up into the sky? This same Jesus, who has been taken from you into heaven, will return in the same way you saw him go into heaven."</verse>
+
+      <title type="sub">Choosing Matthias to Replace Judas</title>
+      <verse osisID="Acts.1.12">Then they returned to Jerusalem from the hill called the Mount of Olives, which is near Jerusalem—a Sabbath day's walk away.<note type="translation">A Sabbath day's walk was about 2,000 cubits or roughly half a mile.</note></verse>
+      <verse osisID="Acts.1.13">When they entered the city, they went to the upper room where they were staying: Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James the son of Alphaeus, Simon the Zealot, and Judas the son of James.</verse>
+      <verse osisID="Acts.1.14">All these were continually devoting themselves to prayer, along with the women and Mary the mother of Jesus, and his brothers.</verse>
+      <verse osisID="Acts.1.15">In those days Peter stood up among the believers (the number of people was about 120) and said:</verse>
+      <verse osisID="Acts.1.16">"Brothers, the Scripture had to be fulfilled that the Set Apart Spirit spoke beforehand through David about Judas, who became a guide for those who arrested Jesus.</verse>
+      <verse osisID="Acts.1.17">For he was counted among us and received his portion in this ministry.</verse>
+      <verse osisID="Acts.1.18">Now this man acquired a field with his unrighteous wages, and falling headfirst, he burst open in the middle, and all his intestines spilled out.</verse>
+      <verse osisID="Acts.1.19">This became known to all the residents of Jerusalem, so that in their own language that field is called Akeldama (that is, 'Field of Blood').</verse>
+      <verse osisID="Acts.1.20">For it is written in the Book of Psalms: 'Let his dwelling become desolate; let no one live in it,' and 'Let another take his position of leadership.'</verse>
+      <verse osisID="Acts.1.21">Therefore, from the men who have accompanied us during the entire time the Lord Jesus went in and out among us—</verse>
+      <verse osisID="Acts.1.22">beginning from the immersion of John until the day he was taken from us—from these men one must become a witness with us of his resurrection."</verse>
+      <verse osisID="Acts.1.23">So they proposed two men: Joseph called Barsabbas (who was also called Justus) and Matthias.</verse>
+      <verse osisID="Acts.1.24">They prayed, "Lord, you know everyone's heart. Show us which of these two you have chosen</verse>
+      <verse osisID="Acts.1.25">to take the place in this ministry and apostleship from which Judas turned away to go to his own place."</verse>
+      <verse osisID="Acts.1.26">Then they cast lots for them, and the lot fell on Matthias. So he was added to the eleven apostles.</verse>
+      <chapter eID="Acts.1"/>
+
+      <chapter osisID="Acts.2" sID="Acts.2"/>
+      <title type="main">The Set Apart Spirit Comes at Pentecost</title>
+      <verse osisID="Acts.2.1">When the day of Pentecost came, they were all together in one place.</verse>
+      <verse osisID="Acts.2.2">Suddenly a sound like the rushing of a violent wind came from heaven and filled the whole house where they were sitting.</verse>
+      <verse osisID="Acts.2.3">They saw what seemed to be tongues of fire that separated and came to rest on each of them.</verse>
+      <verse osisID="Acts.2.4">All of them were filled with the Set Apart Spirit and began to speak in other languages as the Spirit enabled them.</verse>
+      <verse osisID="Acts.2.5">Now there were staying in Jerusalem God-fearing Jews from every nation under heaven.</verse>
+      <verse osisID="Acts.2.6">When they heard this sound, a crowd came together in bewilderment, because each one heard their own language being spoken.</verse>
+      <verse osisID="Acts.2.7">Utterly amazed, they asked: "Aren't all these who are speaking Galileans?</verse>
+      <verse osisID="Acts.2.8">Then how is it that each of us hears them in our native language?</verse>
+      <verse osisID="Acts.2.9">Parthians, Medes and Elamites; residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia,</verse>
+      <verse osisID="Acts.2.10">Phrygia and Pamphylia, Egypt and the parts of Libya near Cyrene; visitors from Rome</verse>
+      <verse osisID="Acts.2.11">(both Jews and converts to Judaism); Cretans and Arabs—we hear them declaring the wonders of God in our own tongues!"</verse>
+      <verse osisID="Acts.2.12">Amazed and perplexed, they asked one another, "What does this mean?"</verse>
+      <verse osisID="Acts.2.13">Some, however, made fun of them and said, "They have had too much wine."</verse>
+
+      <title type="sub">Peter Preaches to the Crowd</title>
+      <verse osisID="Acts.2.14">Then Peter stood up with the Eleven, raised his voice and addressed the crowd: "Fellow Jews and all of you who live in Jerusalem, let me explain this to you; listen carefully to what I say.</verse>
+      <verse osisID="Acts.2.15">These people are not drunk, as you suppose. It's only 9 AM!</verse>
+      <verse osisID="Acts.2.16">No, this is what was spoken by the prophet Joel:</verse>
+      <verse osisID="Acts.2.17">'In the last days, God says, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your young men will see visions, your old men will dream dreams.</verse>
+      <verse osisID="Acts.2.18">Even on my servants, both men and women, I will pour out my Spirit in those days, and they will prophesy.</verse>
+      <verse osisID="Acts.2.19">I will show wonders in the heavens above and signs on the earth below, blood and fire and billows of smoke.</verse>
+      <verse osisID="Acts.2.20">The sun will be turned to darkness and the moon to blood before the coming of the great and glorious day of the Lord.</verse>
+      <verse osisID="Acts.2.21">And everyone who calls on the name of the Lord will be saved.'</verse>
+      <verse osisID="Acts.2.22">Fellow Israelites, listen to this: Jesus of Nazareth was a man accredited by God to you by miracles, wonders and signs, which God did among you through him, as you yourselves know.</verse>
+      <verse osisID="Acts.2.23">This man was handed over to you by God's deliberate plan and foreknowledge; and you, with the help of wicked men, put him to death by nailing him to the cross.</verse>
+      <verse osisID="Acts.2.24">But God raised him from the dead, freeing him from the agony of death, because it was impossible for death to keep its hold on him.</verse>
+      <verse osisID="Acts.2.25">David said about him: 'I saw the Lord always before me. Because he is at my right hand, I will not be shaken.</verse>
+      <verse osisID="Acts.2.26">Therefore my heart is glad and my tongue rejoices; my body also will rest in hope,</verse>
+      <verse osisID="Acts.2.27">because you will not abandon me to the realm of the dead, you will not let your Set Apart One see decay.</verse>
+      <verse osisID="Acts.2.28">You have made known to me the paths of life; you will fill me with joy in your presence.'</verse>
+      <verse osisID="Acts.2.29">Fellow Israelites, I can tell you confidently that the patriarch David died and was buried, and his tomb is here to this day.</verse>
+      <verse osisID="Acts.2.30">But he was a prophet and knew that God had promised him on oath that he would place one of his descendants on his throne.</verse>
+      <verse osisID="Acts.2.31">Seeing what was to come, he spoke of the resurrection of the Messiah, that he was not abandoned to the realm of the dead, nor did his body see decay.</verse>
+      <verse osisID="Acts.2.32">God has raised this Jesus to life, and we are all witnesses of it.</verse>
+      <verse osisID="Acts.2.33">Exalted to the right hand of God, he has received from the Father the promised Set Apart Spirit and has poured out what you now see and hear.</verse>
+      <verse osisID="Acts.2.34">For David did not ascend to heaven, and yet he said, 'The Lord said to my Lord: "Sit at my right hand</verse>
+      <verse osisID="Acts.2.35">until I make your enemies a footstool for your feet."'</verse>
+      <verse osisID="Acts.2.36">Therefore let all Israel be assured of this: God has made this Jesus, whom you crucified, both Lord and Messiah."</verse>
+
+      <title type="sub">The Fellowship of the Believers</title>
+      <verse osisID="Acts.2.37">When the people heard this, they were cut to the heart and said to Peter and the other apostles, "Brothers, what shall we do?"</verse>
+      <verse osisID="Acts.2.38">Peter replied, "Change your minds and be immersed, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Set Apart Spirit.</verse>
+      <verse osisID="Acts.2.39">The promise is for you and your children and for all who are far off—for all whom the Lord our God will call."</verse>
+      <verse osisID="Acts.2.40">With many other words he warned them; and he pleaded with them, "Save yourselves from this corrupt generation."</verse>
+      <verse osisID="Acts.2.41">Those who accepted his message were immersed, and about three thousand were added to their number that day.</verse>
+      <verse osisID="Acts.2.42">They devoted themselves to the apostles' teaching and to fellowship, to the breaking of bread and to prayer.</verse>
+      <verse osisID="Acts.2.43">Everyone was filled with awe at the many wonders and signs performed by the apostles.</verse>
+      <verse osisID="Acts.2.44">All the believers were together and had everything in common.</verse>
+      <verse osisID="Acts.2.45">They sold property and possessions to give to anyone who had need.</verse>
+      <verse osisID="Acts.2.46">Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,</verse>
+      <verse osisID="Acts.2.47">praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.</verse>
+      <chapter eID="Acts.2"/>
+
+      <chapter osisID="Acts.3" sID="Acts.3"/>
+      <title type="main">Peter Heals a Crippled Beggar</title>
+      <verse osisID="Acts.3.1">One day Peter and John were going up to the temple at the time of prayer—at 3 PM.</verse>
+      <verse osisID="Acts.3.2">Now a man who was lame from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those going into the temple courts.</verse>
+      <verse osisID="Acts.3.3">When he saw Peter and John about to enter, he asked them for money.</verse>
+      <verse osisID="Acts.3.4">Peter looked straight at him, as did John. Then Peter said, "Look at us!"</verse>
+      <verse osisID="Acts.3.5">So the man gave them his attention, expecting to get something from them.</verse>
+      <verse osisID="Acts.3.6">Then Peter said, "Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk."</verse>
+      <verse osisID="Acts.3.7">Taking him by the right hand, he helped him up, and instantly the man's feet and ankles became strong.</verse>
+      <verse osisID="Acts.3.8">He jumped to his feet and began to walk. Then he went with them into the temple courts, walking and jumping, and praising God.</verse>
+      <verse osisID="Acts.3.9">When all the people saw him walking and praising God,</verse>
+      <verse osisID="Acts.3.10">they recognized him as the same man who used to sit begging at the temple gate called Beautiful, and they were filled with wonder and amazement at what had happened to him.</verse>
+
+      <title type="sub">Peter Speaks to the Onlookers</title>
+      <verse osisID="Acts.3.11">While the man held on to Peter and John, all the people were astonished and came running to them in the place called Solomon's Colonnade.</verse>
+      <verse osisID="Acts.3.12">When Peter saw this, he said to them: "Fellow Israelites, why does this surprise you? Why do you stare at us as if by our own power or godliness we had made this man walk?</verse>
+      <verse osisID="Acts.3.13">The God of Abraham, Isaac and Jacob, the God of our fathers, has glorified his servant Jesus. You handed him over to be killed, and you disowned him before Pilate, though he had decided to let him go.</verse>
+      <verse osisID="Acts.3.14">You disowned the Set Apart and Righteous One and asked that a murderer be released to you.</verse>
+      <verse osisID="Acts.3.15">You killed the author of life, but God raised him from the dead. We are witnesses of this.</verse>
+      <verse osisID="Acts.3.16">By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus' name and the faith that comes through him that has completely healed him, as you can all see.</verse>
+      <verse osisID="Acts.3.17">Now, fellow Israelites, I know that you acted in ignorance, as did your leaders.</verse>
+      <verse osisID="Acts.3.18">But this is how God fulfilled what he had foretold through all the prophets, saying that his Messiah would suffer.</verse>
+      <verse osisID="Acts.3.19">Change your minds, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord,</verse>
+      <verse osisID="Acts.3.20">and that he may send the Messiah, who has been appointed for you—even Jesus.</verse>
+      <verse osisID="Acts.3.21">Heaven must receive him until the time comes for God to restore everything, as he promised long ago through his set apart prophets.</verse>
+      <verse osisID="Acts.3.22">For Moses said, 'The Lord your God will raise up for you a prophet like me from among your own people; you must listen to everything he tells you.</verse>
+      <verse osisID="Acts.3.23">Anyone who does not listen to him will be completely cut off from their people.'</verse>
+      <verse osisID="Acts.3.24">Indeed, beginning with Samuel, all the prophets who have spoken have foretold these days.</verse>
+      <verse osisID="Acts.3.25">And you are heirs of the prophets and of the covenant God made with your fathers. He said to Abraham, 'Through your offspring all peoples on earth will be blessed.'</verse>
+      <verse osisID="Acts.3.26">When God raised up his servant, he sent him first to you to bless you by turning each of you from your wicked ways."</verse>
+      <chapter eID="Acts.3"/>
+
+      <chapter osisID="Acts.4" sID="Acts.4"/>
+      <title type="main">Peter and John Before the Sanhedrin</title>
+      <verse osisID="Acts.4.1">The priests and the captain of the temple guard and the Sadducees came up to Peter and John while they were speaking to the people.</verse>
+      <verse osisID="Acts.4.2">They were greatly disturbed because the apostles were teaching the people, proclaiming in Jesus the resurrection of the dead.</verse>
+      <verse osisID="Acts.4.3">They seized Peter and John and, because it was evening, they put them in jail until the next day.</verse>
+      <verse osisID="Acts.4.4">But many who heard the message believed; so the number of men who believed grew to about five thousand.</verse>
+      <verse osisID="Acts.4.5">The next day the rulers, the elders and the teachers of the law met in Jerusalem.</verse>
+      <verse osisID="Acts.4.6">Annas the high priest was there, and so were Caiaphas, John, Alexander and others of the high priest's family.</verse>
+      <verse osisID="Acts.4.7">They had Peter and John brought before them and began to question them: "By what power or what name did you do this?"</verse>
+      <verse osisID="Acts.4.8">Then Peter, filled with the Set Apart Spirit, said to them: "Rulers and elders of the people!</verse>
+      <verse osisID="Acts.4.9">If we are being called to account today for an act of kindness shown to a man who was lame and are being asked how he was healed,</verse>
+      <verse osisID="Acts.4.10">then know this, you and all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed.</verse>
+      <verse osisID="Acts.4.11">Jesus is 'the stone you builders rejected, which has become the cornerstone.'</verse>
+      <verse osisID="Acts.4.12">Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved."</verse>
+      <verse osisID="Acts.4.13">When they saw the courage of Peter and John and realized that they were unschooled, ordinary men, they were astonished and they took note that these men had been with Jesus.</verse>
+      <verse osisID="Acts.4.14">But since they could see the man who had been healed standing there with them, there was nothing they could say.</verse>
+      <verse osisID="Acts.4.15">So they ordered them to withdraw from the Sanhedrin and then conferred together.</verse>
+      <verse osisID="Acts.4.16">"What are we going to do with these men?" they asked. "Everyone living in Jerusalem knows they have performed a notable sign, and we cannot deny it.</verse>
+      <verse osisID="Acts.4.17">But to stop this thing from spreading any further among the people, we must warn them to speak no longer to anyone in this name."</verse>
+      <verse osisID="Acts.4.18">Then they called them in again and commanded them not to speak or teach at all in the name of Jesus.</verse>
+      <verse osisID="Acts.4.19">But Peter and John replied, "Which is right in God's eyes: to listen to you, or to him? You be the judges!</verse>
+      <verse osisID="Acts.4.20">As for us, we cannot help speaking about what we have seen and heard."</verse>
+      <verse osisID="Acts.4.21">After further threats they let them go. They could not decide how to punish them, because all the people were praising God for what had happened.</verse>
+      <verse osisID="Acts.4.22">For the man who was miraculously healed was over forty years old.</verse>
+
+      <title type="sub">The Believers Pray</title>
+      <verse osisID="Acts.4.23">On their release, Peter and John went back to their own people and reported all that the chief priests and the elders had said to them.</verse>
+      <verse osisID="Acts.4.24">When they heard this, they raised their voices together in prayer to God. "Sovereign Lord," they said, "you made the heavens and the earth and the sea, and everything in them.</verse>
+      <verse osisID="Acts.4.25">You spoke by the Set Apart Spirit through the mouth of your servant, our father David: 'Why do the nations rage and the peoples plot in vain?</verse>
+      <verse osisID="Acts.4.26">The kings of the earth rise up and the rulers band together against the Lord and against his oil-poured-on One.'</verse>
+      <verse osisID="Acts.4.27">Indeed Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your set apart servant Jesus, whom you oil-poured-on.</verse>
+      <verse osisID="Acts.4.28">They did what your power and will had decided beforehand should happen.</verse>
+      <verse osisID="Acts.4.29">Now, Lord, consider their threats and enable your servants to speak your word with great boldness.</verse>
+      <verse osisID="Acts.4.30">Stretch out your hand to heal and perform signs and wonders through the name of your set apart servant Jesus."</verse>
+      <verse osisID="Acts.4.31">After they prayed, the place where they were meeting was shaken. And they were all filled with the Set Apart Spirit and spoke the word of God boldly.</verse>
+
+      <title type="sub">The Believers Share Their Possessions</title>
+      <verse osisID="Acts.4.32">All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had.</verse>
+      <verse osisID="Acts.4.33">With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God's grace was so powerfully at work in them all</verse>
+      <verse osisID="Acts.4.34">that there were no needy persons among them. For from time to time those who owned land or houses sold them, brought the money from the sales</verse>
+      <verse osisID="Acts.4.35">and put it at the apostles' feet, and it was distributed to anyone who had need.</verse>
+      <verse osisID="Acts.4.36">Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means "son of encouragement"),</verse>
+      <verse osisID="Acts.4.37">sold a field he owned and brought the money and put it at the apostles' feet.</verse>
+      <chapter eID="Acts.4"/>
+
+      <chapter osisID="Acts.5" sID="Acts.5"/>
+      <title type="main">Ananias and Sapphira</title>
+      <verse osisID="Acts.5.1">Now a man named Ananias, together with his wife Sapphira, also sold a piece of property.</verse>
+      <verse osisID="Acts.5.2">With his wife's full knowledge, he kept back part of the money for himself, but brought the rest and put it at the apostles' feet.</verse>
+      <verse osisID="Acts.5.3">Then Peter said, "Ananias, how is it that Satan has so filled your heart that you have lied to the Set Apart Spirit and have kept for yourself some of the money you received for the land?</verse>
+      <verse osisID="Acts.5.4">Didn't it belong to you before it was sold? And after it was sold, wasn't the money at your disposal? What made you think of doing such a thing? You have not lied just to human beings but to God."</verse>
+      <verse osisID="Acts.5.5">When Ananias heard this, he fell down and died. And great fear seized all who heard what had happened.</verse>
+      <verse osisID="Acts.5.6">Then some young men came forward, wrapped up his body, and carried him out and buried him.</verse>
+      <verse osisID="Acts.5.7">About three hours later his wife came in, not knowing what had happened.</verse>
+      <verse osisID="Acts.5.8">Peter asked her, "Tell me, is this the price you and Ananias got for the land?" "Yes," she said, "that is the price."</verse>
+      <verse osisID="Acts.5.9">Peter said to her, "How could you conspire to test the Spirit of the Lord? Listen! The feet of the men who buried your husband are at the door, and they will carry you out also."</verse>
+      <verse osisID="Acts.5.10">At that moment she fell down at his feet and died. Then the young men came in and, finding her dead, carried her out and buried her beside her husband.</verse>
+      <verse osisID="Acts.5.11">Great fear seized the whole church and all who heard about these events.</verse>
+
+      <title type="sub">The Apostles Heal Many</title>
+      <verse osisID="Acts.5.12">The apostles performed many signs and wonders among the people. And all the believers used to meet together in Solomon's Colonnade.</verse>
+      <verse osisID="Acts.5.13">No one else dared join them, even though they were highly regarded by the people.</verse>
+      <verse osisID="Acts.5.14">Nevertheless, more and more men and women believed in the Lord and were added to their number.</verse>
+      <verse osisID="Acts.5.15">As a result, people brought the sick into the streets and laid them on beds and mats so that at least Peter's shadow might fall on some of them as he passed by.</verse>
+      <verse osisID="Acts.5.16">Crowds gathered also from the towns around Jerusalem, bringing their sick and those tormented by impure spirits, and all of them were healed.</verse>
+
+      <title type="sub">The Apostles Persecuted</title>
+      <verse osisID="Acts.5.17">Then the high priest and all his associates, who were members of the party of the Sadducees, were filled with jealousy.</verse>
+      <verse osisID="Acts.5.18">They arrested the apostles and put them in the public jail.</verse>
+      <verse osisID="Acts.5.19">But during the night an angel of the Lord opened the doors of the jail and brought them out.</verse>
+      <verse osisID="Acts.5.20">"Go, stand in the temple courts," he said, "and tell the people all about this new life."</verse>
+      <verse osisID="Acts.5.21">At daybreak they entered the temple courts, as they had been told, and began to teach the people. When the high priest and his associates arrived, they called together the Sanhedrin—the full assembly of the elders of Israel—and sent to the jail for the apostles.</verse>
+      <verse osisID="Acts.5.22">But on arriving at the jail, the officers did not find them there. So they went back and reported,</verse>
+      <verse osisID="Acts.5.23">"We found the jail securely locked, with the guards standing at the doors; but when we opened them, we found no one inside."</verse>
+      <verse osisID="Acts.5.24">On hearing this report, the captain of the temple guard and the chief priests were at a loss, wondering what this might lead to.</verse>
+      <verse osisID="Acts.5.25">Then someone came and said, "Look! The men you put in jail are standing in the temple courts teaching the people."</verse>
+      <verse osisID="Acts.5.26">At that, the captain went with his officers and brought the apostles. But they did not use force, because they feared that the people would stone them.</verse>
+      <verse osisID="Acts.5.27">The officers brought the apostles and made them appear before the Sanhedrin to be questioned by the high priest.</verse>
+      <verse osisID="Acts.5.28">"We gave you strict orders not to teach in this name," he said. "Yet you have filled Jerusalem with your teaching and are determined to make us guilty of this man's blood."</verse>
+      <verse osisID="Acts.5.29">Peter and the other apostles replied: "We must obey God rather than human beings!</verse>
+      <verse osisID="Acts.5.30">The God of our ancestors raised Jesus from the dead—whom you killed by hanging him on a cross.</verse>
+      <verse osisID="Acts.5.31">God exalted him to his own right hand as Prince and Savior that he might bring Israel to change their minds and forgive sins.</verse>
+      <verse osisID="Acts.5.32">We are witnesses of these things, and so is the Set Apart Spirit, whom God has given to those who obey him."</verse>
+      <verse osisID="Acts.5.33">When they heard this, they were furious and wanted to put them to death.</verse>
+      <verse osisID="Acts.5.34">But a Pharisee named Gamaliel, a teacher of the law, who was honored by all the people, stood up in the Sanhedrin and ordered that the men be put outside for a little while.</verse>
+      <verse osisID="Acts.5.35">Then he addressed the Sanhedrin: "Men of Israel, consider carefully what you intend to do to these men.</verse>
+      <verse osisID="Acts.5.36">Some time ago Theudas appeared, claiming to be somebody, and about four hundred men rallied to him. He was killed, all his followers were dispersed, and it all came to nothing.</verse>
+      <verse osisID="Acts.5.37">After him, Judas the Galilean appeared in the days of the census and led a band of people in revolt. He too was killed, and all his followers were scattered.</verse>
+      <verse osisID="Acts.5.38">Therefore, in the present case I advise you: Leave these men alone! Let them go! For if their purpose or activity is of human origin, it will fail.</verse>
+      <verse osisID="Acts.5.39">But if it is from God, you will not be able to stop these men; you will only find yourselves fighting against God."</verse>
+      <verse osisID="Acts.5.40">His speech persuaded them. They called the apostles in and had them flogged. Then they ordered them not to speak in the name of Jesus, and let them go.</verse>
+      <verse osisID="Acts.5.41">The apostles left the Sanhedrin, rejoicing because they had been counted worthy of suffering disgrace for the Name.</verse>
+      <verse osisID="Acts.5.42">Day after day, in the temple courts and from house to house, they never stopped teaching and proclaiming the good news that Jesus is the Messiah.</verse>
+      <chapter eID="Acts.5"/>
+
+      <chapter osisID="Acts.6" sID="Acts.6"/>
+      <title type="main">The Choosing of the Seven</title>
+      <verse osisID="Acts.6.1">In those days when the number of disciples was increasing, the Hellenistic Jews among them complained against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.</verse>
+      <verse osisID="Acts.6.2">So the Twelve gathered all the disciples together and said, "It would not be right for us to neglect the ministry of the word of God in order to wait on tables.</verse>
+      <verse osisID="Acts.6.3">Brothers and sisters, choose seven men from among you who are known to be full of the Spirit and wisdom. We will turn this responsibility over to them</verse>
+      <verse osisID="Acts.6.4">and will give our attention to prayer and the ministry of the word."</verse>
+      <verse osisID="Acts.6.5">This proposal pleased the whole group. They chose Stephen, a man full of faith and of the Set Apart Spirit; also Philip, Procorus, Nicanor, Timon, Parmenas, and Nicolas from Antioch, a convert to Judaism.</verse>
+      <verse osisID="Acts.6.6">They presented these men to the apostles, who prayed and laid their hands on them.</verse>
+      <verse osisID="Acts.6.7">So the word of God spread. The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith.</verse>
+
+      <title type="sub">Stephen Seized</title>
+      <verse osisID="Acts.6.8">Now Stephen, a man full of God's grace and power, performed great wonders and signs among the people.</verse>
+      <verse osisID="Acts.6.9">Opposition arose, however, from members of the Synagogue of the Freedmen (as it was called)—Jews of Cyrene and Alexandria as well as the provinces of Cilicia and Asia—who began to argue with Stephen.</verse>
+      <verse osisID="Acts.6.10">But they could not stand up against the wisdom the Spirit gave him as he spoke.</verse>
+      <verse osisID="Acts.6.11">Then they secretly persuaded some men to say, "We have heard Stephen speak blasphemous words against Moses and against God."</verse>
+      <verse osisID="Acts.6.12">So they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin.</verse>
+      <verse osisID="Acts.6.13">They produced false witnesses, who testified, "This fellow never stops speaking against this set apart place and against the law.</verse>
+      <verse osisID="Acts.6.14">For we have heard him say that this Jesus of Nazareth will destroy this place and change the customs Moses handed down to us."</verse>
+      <verse osisID="Acts.6.15">All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel.</verse>
+      <chapter eID="Acts.6"/>
+
+      <chapter osisID="Acts.7" sID="Acts.7"/>
+      <title type="main">Stephen's Speech to the Sanhedrin</title>
+      <verse osisID="Acts.7.1">Then the high priest asked Stephen, "Are these charges true?"</verse>
+      <verse osisID="Acts.7.2">To this he replied: "Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Harran.</verse>
+      <verse osisID="Acts.7.3">'Leave your country and your people,' God said, 'and go to the land I will show you.'</verse>
+      <verse osisID="Acts.7.4">So he left the land of the Chaldeans and settled in Harran. After the death of his father, God sent him to this land where you are now living.</verse>
+      <verse osisID="Acts.7.5">He gave him no inheritance here, not even enough ground to set his foot on. But God promised him that he and his descendants after him would possess the land, even though at that time Abraham had no child.</verse>
+      <verse osisID="Acts.7.6">God spoke to him in this way: 'For four hundred years your descendants will be strangers in a country not their own, and they will be enslaved and mistreated.</verse>
+      <verse osisID="Acts.7.7">But I will punish the nation they serve as slaves,' God said, 'and afterward they will come out of that country and worship me in this place.'</verse>
+      <verse osisID="Acts.7.8">Then he gave Abraham the covenant of circumcision. And Abraham became the father of Isaac and circumcised him eight days after his birth. Later Isaac became the father of Jacob, and Jacob became the father of the twelve patriarchs.</verse>
+      <verse osisID="Acts.7.9">Because the patriarchs were jealous of Joseph, they sold him as a slave into Egypt. But God was with him</verse>
+      <verse osisID="Acts.7.10">and rescued him from all his troubles. He gave Joseph wisdom and enabled him to gain the goodwill of Pharaoh king of Egypt. So Pharaoh made him ruler over Egypt and all his palace.</verse>
+      <verse osisID="Acts.7.11">Then a famine struck all Egypt and Canaan, bringing great suffering, and our ancestors could not find food.</verse>
+      <verse osisID="Acts.7.12">When Jacob heard that there was grain in Egypt, he sent our forefathers on their first visit.</verse>
+      <verse osisID="Acts.7.13">On their second visit, Joseph told his brothers who he was, and Pharaoh learned about Joseph's family.</verse>
+      <verse osisID="Acts.7.14">After this, Joseph sent for his father Jacob and his whole family, seventy-five in all.</verse>
+      <verse osisID="Acts.7.15">Then Jacob went down to Egypt, where he and our ancestors died.</verse>
+      <verse osisID="Acts.7.16">Their bodies were brought back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a certain sum of money.</verse>
+      <verse osisID="Acts.7.17">As the time drew near for God to fulfill his promise to Abraham, the number of our people in Egypt had greatly increased.</verse>
+      <verse osisID="Acts.7.18">Then 'a new king, to whom Joseph meant nothing, came to power in Egypt.'</verse>
+      <verse osisID="Acts.7.19">He dealt treacherously with our people and oppressed our ancestors by forcing them to throw out their newborn babies so that they would die.</verse>
+      <verse osisID="Acts.7.20">At that time Moses was born, and he was no ordinary child. For three months he was cared for by his family.</verse>
+      <verse osisID="Acts.7.21">When he was placed outside, Pharaoh's daughter took him and brought him up as her own son.</verse>
+      <verse osisID="Acts.7.22">Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action.</verse>
+      <verse osisID="Acts.7.23">When Moses was forty years old, he decided to visit his own people, the Israelites.</verse>
+      <verse osisID="Acts.7.24">He saw one of them being mistreated by an Egyptian, so he went to his defense and avenged him by killing the Egyptian.</verse>
+      <verse osisID="Acts.7.25">Moses thought that his own people would realize that God was using him to rescue them, but they did not.</verse>
+      <verse osisID="Acts.7.26">The next day Moses came upon two Israelites who were fighting. He tried to reconcile them by saying, 'Men, you are brothers; why do you want to hurt each other?'</verse>
+      <verse osisID="Acts.7.27">But the man who was mistreating the other pushed Moses aside and said, 'Who made you ruler and judge over us?</verse>
+      <verse osisID="Acts.7.28">Are you thinking of killing me as you killed the Egyptian yesterday?'</verse>
+      <verse osisID="Acts.7.29">When Moses heard this, he fled to Midian, where he settled as a foreigner and had two sons.</verse>
+      <verse osisID="Acts.7.30">After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.</verse>
+      <verse osisID="Acts.7.31">When he saw this, he was amazed at the sight. As he went over to get a closer look, he heard the Lord's voice:</verse>
+      <verse osisID="Acts.7.32">'I am the God of your fathers, the God of Abraham, Isaac and Jacob.' Moses trembled with fear and did not dare to look.</verse>
+      <verse osisID="Acts.7.33">Then the Lord said to him, 'Take off your sandals, for the place where you are standing is set apart ground.</verse>
+      <verse osisID="Acts.7.34">I have indeed seen the oppression of my people in Egypt. I have heard their groaning and have come down to set them free. Now come, I will send you back to Egypt.'</verse>
+      <verse osisID="Acts.7.35">This is the same Moses they had rejected with the words, 'Who made you ruler and judge?' He was sent to be their ruler and deliverer by God himself, through the angel who appeared to him in the bush.</verse>
+      <verse osisID="Acts.7.36">He led them out of Egypt and performed wonders and signs in Egypt, at the Red Sea and for forty years in the wilderness.</verse>
+      <verse osisID="Acts.7.37">This is the Moses who told the Israelites, 'God will raise up for you a prophet like me from your own people.'</verse>
+      <verse osisID="Acts.7.38">He was in the assembly in the wilderness, with the angel who spoke to him on Mount Sinai, and with our ancestors; and he received living words to pass on to us.</verse>
+      <verse osisID="Acts.7.39">But our ancestors refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt.</verse>
+      <verse osisID="Acts.7.40">They told Aaron, 'Make us gods who will go before us. As for this fellow Moses who led us out of Egypt—we don't know what has happened to him!'</verse>
+      <verse osisID="Acts.7.41">That was the time they made an idol in the form of a calf. They brought sacrifices to it and reveled in what their own hands had made.</verse>
+      <verse osisID="Acts.7.42">But God turned away from them and gave them over to the worship of the sun, moon and stars. This agrees with what is written in the book of the prophets: 'Did you bring me sacrifices and offerings forty years in the wilderness, people of Israel?</verse>
+      <verse osisID="Acts.7.43">You have taken up the tabernacle of Molek and the star of your god Rephan, the idols you made to worship. Therefore I will send you into exile beyond Babylon.'</verse>
+      <verse osisID="Acts.7.44">Our ancestors had the tabernacle of the covenant law with them in the wilderness. It had been made as God directed Moses, according to the pattern he had seen.</verse>
+      <verse osisID="Acts.7.45">After receiving the tabernacle, our ancestors under Joshua brought it with them when they took the land from the nations God drove out before them. It remained in the land until the time of David,</verse>
+      <verse osisID="Acts.7.46">who enjoyed God's favor and asked that he might provide a dwelling place for the God of Jacob.</verse>
+      <verse osisID="Acts.7.47">But it was Solomon who built a house for him.</verse>
+      <verse osisID="Acts.7.48">However, the Most High does not live in houses made by human hands. As the prophet says:</verse>
+      <verse osisID="Acts.7.49">'Heaven is my throne, and the earth is my footstool. What kind of house will you build for me? says the Lord. Or where will my resting place be?</verse>
+      <verse osisID="Acts.7.50">Has not my hand made all these things?'</verse>
+      <verse osisID="Acts.7.51">You stiff-necked people! Your hearts and ears are still uncircumcised. You are just like your ancestors: You always resist the Set Apart Spirit!</verse>
+      <verse osisID="Acts.7.52">Was there ever a prophet your ancestors did not persecute? They even killed those who predicted the coming of the Righteous One. And now you have betrayed and murdered him—</verse>
+      <verse osisID="Acts.7.53">you who have received the law that was given through angels but have not obeyed it."</verse>
+
+      <title type="sub">The Stoning of Stephen</title>
+      <verse osisID="Acts.7.54">When the members of the Sanhedrin heard this, they were furious and gnashed their teeth at him.</verse>
+      <verse osisID="Acts.7.55">But Stephen, full of the Set Apart Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God.</verse>
+      <verse osisID="Acts.7.56">"Look," he said, "I see heaven open and the Son of Man standing at the right hand of God."</verse>
+      <verse osisID="Acts.7.57">At this they covered their ears and, yelling at the top of their voices, they all rushed at him,</verse>
+      <verse osisID="Acts.7.58">dragged him out of the city and began to stone him. Meanwhile, the witnesses laid their coats at the feet of a young man named Saul.</verse>
+      <verse osisID="Acts.7.59">While they were stoning him, Stephen prayed, "Lord Jesus, receive my spirit."</verse>
+      <verse osisID="Acts.7.60">Then he fell on his knees and cried out, "Lord, do not hold this sin against them." When he had said this, he fell asleep.</verse>
+      <chapter eID="Acts.7"/>
+
+      <chapter osisID="Acts.8" sID="Acts.8"/>
+      <verse osisID="Acts.8.1">And Saul approved of their killing him. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.</verse>
+      <verse osisID="Acts.8.2">Godly men buried Stephen and mourned deeply for him.</verse>
+      <verse osisID="Acts.8.3">But Saul began to destroy the church. Going from house to house, he dragged off both men and women and put them in prison.</verse>
+
+      <title type="main">Philip in Samaria</title>
+      <verse osisID="Acts.8.4">Those who had been scattered preached the word wherever they went.</verse>
+      <verse osisID="Acts.8.5">Philip went down to a city in Samaria and proclaimed the Messiah there.</verse>
+      <verse osisID="Acts.8.6">When the crowds heard Philip and saw the signs he performed, they all paid close attention to what he said.</verse>
+      <verse osisID="Acts.8.7">For with shrieks, impure spirits came out of many, and many who were paralyzed or lame were healed.</verse>
+      <verse osisID="Acts.8.8">So there was great joy in that city.</verse>
+      <verse osisID="Acts.8.9">Now for some time a man named Simon had practiced sorcery in the city and amazed all the people of Samaria. He boasted that he was someone great,</verse>
+      <verse osisID="Acts.8.10">and all the people, both high and low, gave him their attention and exclaimed, "This man is rightly called the Great Power of God."</verse>
+      <verse osisID="Acts.8.11">They followed him because he had amazed them for a long time with his sorcery.</verse>
+      <verse osisID="Acts.8.12">But when they believed Philip as he proclaimed the good news of the kingdom of God and the name of Jesus Christ, they were immersed, both men and women.</verse>
+      <verse osisID="Acts.8.13">Simon himself believed and was immersed. And he followed Philip everywhere, astonished by the great signs and miracles he saw.</verse>
+      <verse osisID="Acts.8.14">When the apostles in Jerusalem heard that Samaria had accepted the word of God, they sent Peter and John to Samaria.</verse>
+      <verse osisID="Acts.8.15">When they arrived, they prayed for the new believers there that they might receive the Set Apart Spirit,</verse>
+      <verse osisID="Acts.8.16">because the Set Apart Spirit had not yet come on any of them; they had simply been immersed in the name of the Lord Jesus.</verse>
+      <verse osisID="Acts.8.17">Then Peter and John placed their hands on them, and they received the Set Apart Spirit.</verse>
+      <verse osisID="Acts.8.18">When Simon saw that the Spirit was given at the laying on of the apostles' hands, he offered them money</verse>
+      <verse osisID="Acts.8.19">and said, "Give me also this ability so that everyone on whom I lay my hands may receive the Set Apart Spirit."</verse>
+      <verse osisID="Acts.8.20">Peter answered: "May your money perish with you, because you thought you could buy the gift of God with money!</verse>
+      <verse osisID="Acts.8.21">You have no part or share in this ministry, because your heart is not right before God.</verse>
+      <verse osisID="Acts.8.22">Change your mind and turn from this wickedness and pray to the Lord in the hope that he may forgive you for having such a thought in your heart.</verse>
+      <verse osisID="Acts.8.23">For I see that you are full of bitterness and captive to sin."</verse>
+      <verse osisID="Acts.8.24">Then Simon answered, "Pray to the Lord for me so that nothing you have said may happen to me."</verse>
+      <verse osisID="Acts.8.25">After they had further proclaimed the word of the Lord and testified about Jesus, Peter and John returned to Jerusalem, preaching the gospel in many Samaritan villages.</verse>
+
+      <title type="sub">Philip and the Ethiopian</title>
+      <verse osisID="Acts.8.26">Now an angel of the Lord said to Philip, "Go south to the road—the desert road—that goes down from Jerusalem to Gaza."</verse>
+      <verse osisID="Acts.8.27">So he started out, and on his way he met an Ethiopian eunuch, an important official in charge of all the treasury of the Kandake (which means "queen of the Ethiopians"). This man had gone to Jerusalem to worship,</verse>
+      <verse osisID="Acts.8.28">and on his way home was sitting in his chariot reading the Book of Isaiah the prophet.</verse>
+      <verse osisID="Acts.8.29">The Spirit told Philip, "Go to that chariot and stay near it."</verse>
+      <verse osisID="Acts.8.30">Then Philip ran up to the chariot and heard the man reading Isaiah the prophet. "Do you understand what you are reading?" Philip asked.</verse>
+      <verse osisID="Acts.8.31">"How can I," he said, "unless someone explains it to me?" So he invited Philip to come up and sit with him.</verse>
+      <verse osisID="Acts.8.32">This is the passage of Scripture the eunuch was reading: "He was led like a sheep to the slaughter, and as a lamb before its shearer is silent, so he did not open his mouth.</verse>
+      <verse osisID="Acts.8.33">In his humiliation he was deprived of justice. Who can speak of his descendants? For his life was taken from the earth."</verse>
+      <verse osisID="Acts.8.34">The eunuch asked Philip, "Tell me, please, who is the prophet talking about, himself or someone else?"</verse>
+      <verse osisID="Acts.8.35">Then Philip began with that very passage of Scripture and told him the good news about Jesus.</verse>
+      <verse osisID="Acts.8.36">As they traveled along the road, they came to some water and the eunuch said, "Look, here is water. What can stand in the way of my being immersed?"</verse>
+      <verse osisID="Acts.8.37"></verse>
+      <verse osisID="Acts.8.38">And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip immersed him.</verse>
+      <verse osisID="Acts.8.39">When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing.</verse>
+      <verse osisID="Acts.8.40">Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.</verse>
+      <chapter eID="Acts.8"/>
+
+      <chapter osisID="Acts.9" sID="Acts.9"/>
+      <title type="main">Saul's Conversion</title>
+      <verse osisID="Acts.9.1">Meanwhile, Saul was still breathing out murderous threats against the Lord's disciples. He went to the high priest</verse>
+      <verse osisID="Acts.9.2">and asked him for letters to the synagogues in Damascus, so that if he found any there who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem.</verse>
+      <verse osisID="Acts.9.3">As he neared Damascus on his journey, suddenly a light from heaven flashed around him.</verse>
+      <verse osisID="Acts.9.4">He fell to the ground and heard a voice say to him, "Saul, Saul, why do you persecute me?"</verse>
+      <verse osisID="Acts.9.5">"Who are you, Lord?" Saul asked. "I am Jesus, whom you are persecuting," he replied.</verse>
+      <verse osisID="Acts.9.6">"Now get up and go into the city, and you will be told what you must do."</verse>
+      <verse osisID="Acts.9.7">The men traveling with Saul stood there speechless; they heard the sound but did not see anyone.</verse>
+      <verse osisID="Acts.9.8">Saul got up from the ground, but when he opened his eyes he could see nothing. So they led him by the hand into Damascus.</verse>
+      <verse osisID="Acts.9.9">For three days he was blind, and did not eat or drink anything.</verse>
+      <verse osisID="Acts.9.10">In Damascus there was a disciple named Ananias. The Lord called to him in a vision, "Ananias!" "Yes, Lord," he answered.</verse>
+      <verse osisID="Acts.9.11">The Lord told him, "Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying.</verse>
+      <verse osisID="Acts.9.12">In a vision he has seen a man named Ananias come and place his hands on him to restore his sight."</verse>
+      <verse osisID="Acts.9.13">"Lord," Ananias answered, "I have heard many reports about this man and all the harm he has done to your set apart people in Jerusalem.</verse>
+      <verse osisID="Acts.9.14">And he has come here with authority from the chief priests to arrest all who call on your name."</verse>
+      <verse osisID="Acts.9.15">But the Lord said to Ananias, "Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel.</verse>
+      <verse osisID="Acts.9.16">I will show him how much he must suffer for my name."</verse>
+      <verse osisID="Acts.9.17">Then Ananias went to the house and entered it. Placing his hands on Saul, he said, "Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Set Apart Spirit."</verse>
+      <verse osisID="Acts.9.18">Immediately, something like scales fell from Saul's eyes, and he could see again. He got up and was immersed,</verse>
+      <verse osisID="Acts.9.19">and after taking some food, he regained his strength. Saul spent several days with the disciples in Damascus.</verse>
+      <verse osisID="Acts.9.20">At once he began to preach in the synagogues that Jesus is the Son of God.</verse>
+      <verse osisID="Acts.9.21">All those who heard him were astonished and asked, "Isn't he the man who raised havoc in Jerusalem among those who call on this name? And hasn't he come here to take them as prisoners to the chief priests?"</verse>
+      <verse osisID="Acts.9.22">Yet Saul grew more and more powerful and baffled the Jews living in Damascus by proving that Jesus is the Messiah.</verse>
+      <verse osisID="Acts.9.23">After many days had gone by, there was a conspiracy among the Jews to kill him,</verse>
+      <verse osisID="Acts.9.24">but Saul learned of their plan. Day and night they kept close watch on the city gates in order to kill him.</verse>
+      <verse osisID="Acts.9.25">But his followers took him by night and lowered him in a basket through an opening in the wall.</verse>
+      <verse osisID="Acts.9.26">When he came to Jerusalem, he tried to join the disciples, but they were all afraid of him, not believing that he really was a disciple.</verse>
+      <verse osisID="Acts.9.27">But Barnabas took him and brought him to the apostles. He told them how Saul on his journey had seen the Lord and that the Lord had spoken to him, and how in Damascus he had preached fearlessly in the name of Jesus.</verse>
+      <verse osisID="Acts.9.28">So Saul stayed with them and moved about freely in Jerusalem, speaking boldly in the name of the Lord.</verse>
+      <verse osisID="Acts.9.29">He talked and debated with the Hellenistic Jews, but they tried to kill him.</verse>
+      <verse osisID="Acts.9.30">When the believers learned of this, they took him down to Caesarea and sent him off to Tarsus.</verse>
+      <verse osisID="Acts.9.31">Then the church throughout Judea, Galilee and Samaria enjoyed a time of peace and was strengthened. Living in the fear of the Lord and encouraged by the Set Apart Spirit, it increased in numbers.</verse>
+      
+      <title type="sub">Aeneas and Dorcas</title>
+      <verse osisID="Acts.9.32">As Peter traveled about the country, he went to visit the Lord's people who lived in Lydda.</verse>
+      <verse osisID="Acts.9.33">There he found a man named Aeneas, who was paralyzed and had been bedridden for eight years.</verse>
+      <verse osisID="Acts.9.34">"Aeneas," Peter said to him, "Jesus Christ heals you. Get up and roll up your mat." Immediately Aeneas got up.</verse>
+      <verse osisID="Acts.9.35">All those who lived in Lydda and Sharon saw him and turned to the Lord.</verse>
+      <verse osisID="Acts.9.36">In Joppa there was a disciple named Tabitha (in Greek her name is Dorcas); she was always doing good and helping the poor.</verse>
+      <verse osisID="Acts.9.37">About that time she became sick and died, and her body was washed and placed in an upstairs room.</verse>
+      <verse osisID="Acts.9.38">Lydda was near Joppa; so when the disciples heard that Peter was in Lydda, they sent two men to him and urged him, "Please come at once!"</verse>
+      <verse osisID="Acts.9.39">Peter went with them, and when he arrived he was taken upstairs to the room. All the widows stood around him, crying and showing him the robes and other clothing that Dorcas had made while she was still with them.</verse>
+      <verse osisID="Acts.9.40">Peter sent them all out of the room; then he got down on his knees and prayed. Turning toward the dead woman, he said, "Tabitha, get up." She opened her eyes, and seeing Peter she sat up.</verse>
+      <verse osisID="Acts.9.41">He took her by the hand and helped her to her feet. Then he called for the believers, especially the widows, and presented her to them alive.</verse>
+      <verse osisID="Acts.9.42">This became known all over Joppa, and many people believed in the Lord.</verse>
+      <verse osisID="Acts.9.43">Peter stayed in Joppa for some time with a tanner named Simon.</verse>
+      <chapter eID="Acts.9"/>
+
+      <chapter osisID="Acts.10" sID="Acts.10"/>
+      <title type="main">Cornelius Calls for Peter</title>
+      <verse osisID="Acts.10.1">At Caesarea there was a man named Cornelius, a centurion in what was known as the Italian Regiment.</verse>
+      <verse osisID="Acts.10.2">He and all his family were devout and God-fearing; he gave generously to those in need and prayed to God regularly.</verse>
+      <verse osisID="Acts.10.3">One day at about 3 PM he had a vision. He distinctly saw an angel of God, who came to him and said, "Cornelius!"</verse>
+      <verse osisID="Acts.10.4">Cornelius stared at him in fear. "What is it, Lord?" he asked. The angel answered, "Your prayers and gifts to the poor have come up as a memorial offering before God.</verse>
+      <verse osisID="Acts.10.5">Now send men to Joppa to bring back a man named Simon who is called Peter.</verse>
+      <verse osisID="Acts.10.6">He is staying with Simon the tanner, whose house is by the sea."</verse>
+      <verse osisID="Acts.10.7">When the angel who spoke to him had gone, Cornelius called two of his servants and a devout soldier who was one of his attendants.</verse>
+      <verse osisID="Acts.10.8">He told them everything that had happened and sent them to Joppa.</verse>
+
+      <title type="sub">Peter's Vision</title>
+      <verse osisID="Acts.10.9">About noon the following day as they were on their journey and approaching the city, Peter went up on the roof to pray.</verse>
+      <verse osisID="Acts.10.10">He became hungry and wanted something to eat, and while the meal was being prepared, he fell into a trance.</verse>
+      <verse osisID="Acts.10.11">He saw heaven opened and something like a large sheet being let down to earth by its four corners.</verse>
+      <verse osisID="Acts.10.12">It contained all kinds of four-footed animals, as well as reptiles and birds.</verse>
+      <verse osisID="Acts.10.13">Then a voice told him, "Get up, Peter. Kill and eat."</verse>
+      <verse osisID="Acts.10.14">"Surely not, Lord!" Peter replied. "I have never eaten anything impure or unclean."</verse>
+      <verse osisID="Acts.10.15">The voice spoke to him a second time, "Do not call anything impure that God has made clean."</verse>
+      <verse osisID="Acts.10.16">This happened three times, and immediately the sheet was taken back to heaven.</verse>
+      <verse osisID="Acts.10.17">While Peter was wondering about the meaning of the vision, the men sent by Cornelius found out where Simon's house was and stopped at the gate.</verse>
+      <verse osisID="Acts.10.18">They called out, asking if Simon who was known as Peter was staying there.</verse>
+      <verse osisID="Acts.10.19">While Peter was still thinking about the vision, the Spirit said to him, "Simon, three men are looking for you.</verse>
+      <verse osisID="Acts.10.20">So get up and go downstairs. Do not hesitate to go with them, for I have sent them."</verse>
+      <verse osisID="Acts.10.21">Peter went down and said to the men, "I'm the one you're looking for. Why have you come?"</verse>
+      <verse osisID="Acts.10.22">The men replied, "We have come from Cornelius the centurion. He is a righteous and God-fearing man, who is respected by all the Jewish people. A set apart angel told him to ask you to come to his house so that he could hear what you have to say."</verse>
+      <verse osisID="Acts.10.23">Then Peter invited the men into the house to be his guests. The next day Peter started out with them, and some of the believers from Joppa went along.</verse>
+      <verse osisID="Acts.10.24">The following day he arrived in Caesarea. Cornelius was expecting them and had called together his relatives and close friends.</verse>
+      <verse osisID="Acts.10.25">As Peter entered the house, Cornelius met him and fell at his feet in reverence.</verse>
+      <verse osisID="Acts.10.26">But Peter made him get up. "Stand up," he said, "I am only a man myself."</verse>
+      <verse osisID="Acts.10.27">While talking with him, Peter went inside and found a large gathering of people.</verse>
+      <verse osisID="Acts.10.28">He said to them: "You are well aware that it is against our law for a Jew to associate with or visit a Gentile. But God has shown me that I should not call anyone impure or unclean.</verse>
+      <verse osisID="Acts.10.29">So when I was sent for, I came without raising any objection. May I ask why you sent for me?"</verse>
+      <verse osisID="Acts.10.30">Cornelius answered: "Three days ago I was in my house praying at this hour, at 3 PM. Suddenly a man in shining clothes stood before me</verse>
+      <verse osisID="Acts.10.31">and said, 'Cornelius, God has heard your prayer and remembered your gifts to the poor.</verse>
+      <verse osisID="Acts.10.32">Send to Joppa for Simon who is called Peter. He is a guest in the home of Simon the tanner, who lives by the sea.'</verse>
+      <verse osisID="Acts.10.33">So I sent for you immediately, and it was good of you to come. Now we are all here in the presence of God to listen to everything the Lord has commanded you to tell us."</verse>
+
+      <title type="sub">Peter Preaches at Cornelius' House</title>
+      <verse osisID="Acts.10.34">Then Peter began to speak: "I now realize how true it is that God does not show favoritism</verse>
+      <verse osisID="Acts.10.35">but accepts from every nation the one who fears him and does what is right.</verse>
+      <verse osisID="Acts.10.36">You know the message God sent to the people of Israel, announcing the good news of peace through Jesus Christ, who is Lord of all.</verse>
+      <verse osisID="Acts.10.37">You know what has happened throughout the province of Judea, beginning in Galilee after the immersion that John preached—</verse>
+      <verse osisID="Acts.10.38">how God poured his oil on Jesus of Nazareth with the Set Apart Spirit and power, and how he went around doing good and healing all who were under the power of the devil, because God was with him.</verse>
+      <verse osisID="Acts.10.39">We are witnesses of everything he did in the country of the Jews and in Jerusalem. They killed him by hanging him on a cross,</verse>
+      <verse osisID="Acts.10.40">but God raised him from the dead on the third day and caused him to be seen.</verse>
+      <verse osisID="Acts.10.41">He was not seen by all the people, but by witnesses whom God had already chosen—by us who ate and drank with him after he rose from the dead.</verse>
+      <verse osisID="Acts.10.42">He commanded us to preach to the people and to testify that he is the one whom God appointed as judge of the living and the dead.</verse>
+      <verse osisID="Acts.10.43">All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name."</verse>
+      <verse osisID="Acts.10.44">While Peter was still speaking these words, the Set Apart Spirit came on all who heard the message.</verse>
+      <verse osisID="Acts.10.45">The circumcised believers who had come with Peter were astonished that the gift of the Set Apart Spirit had been poured out even on Gentiles.</verse>
+      <verse osisID="Acts.10.46">For they heard them speaking in tongues and praising God. Then Peter said,</verse>
+      <verse osisID="Acts.10.47">"Surely no one can stand in the way of their being immersed with water. They have received the Set Apart Spirit just as we have."</verse>
+      <verse osisID="Acts.10.48">So he ordered that they be immersed in the name of Jesus Christ. Then they asked Peter to stay with them for a few days.</verse>
+      <chapter eID="Acts.10"/>
+
+      <chapter osisID="Acts.11" sID="Acts.11"/>
+      <title type="main">Peter Explains His Actions</title>
+      <verse osisID="Acts.11.1">The apostles and the believers throughout Judea heard that the Gentiles also had received the word of God.</verse>
+      <verse osisID="Acts.11.2">So when Peter went up to Jerusalem, the circumcised believers criticized him</verse>
+      <verse osisID="Acts.11.3">and said, "You went into the house of uncircumcised men and ate with them."</verse>
+      <verse osisID="Acts.11.4">Starting from the beginning, Peter told them the whole story:</verse>
+      <verse osisID="Acts.11.5">"I was in the city of Joppa praying, and in a trance I saw a vision. I saw something like a large sheet being let down from heaven by its four corners, and it came down to where I was.</verse>
+      <verse osisID="Acts.11.6">I looked into it and saw four-footed animals of the earth, wild beasts, reptiles and birds.</verse>
+      <verse osisID="Acts.11.7">Then I heard a voice telling me, 'Get up, Peter. Kill and eat.'</verse>
+      <verse osisID="Acts.11.8">I replied, 'Surely not, Lord! Nothing impure or unclean has ever entered my mouth.'</verse>
+      <verse osisID="Acts.11.9">The voice spoke from heaven a second time, 'Do not call anything impure that God has made clean.'</verse>
+      <verse osisID="Acts.11.10">This happened three times, and then it was all pulled up to heaven again.</verse>
+      <verse osisID="Acts.11.11">Right then three men who had been sent to me from Caesarea stopped at the house where I was staying.</verse>
+      <verse osisID="Acts.11.12">The Spirit told me to have no hesitation about going with them. These six brothers also went with me, and we entered the man's house.</verse>
+      <verse osisID="Acts.11.13">He told us how he had seen an angel appear in his house and say, 'Send to Joppa for Simon who is called Peter.</verse>
+      <verse osisID="Acts.11.14">He will bring you a message through which you and all your household will be saved.'</verse>
+      <verse osisID="Acts.11.15">As I began to speak, the Set Apart Spirit came on them as he had come on us at the beginning.</verse>
+      <verse osisID="Acts.11.16">Then I remembered what the Lord had said: 'John immersed with water, but you will be immersed with the Set Apart Spirit.'</verse>
+      <verse osisID="Acts.11.17">So if God gave them the same gift he gave us who believed in the Lord Jesus Christ, who was I to think that I could stand in God's way?"</verse>
+      <verse osisID="Acts.11.18">When they heard this, they had no further objections and praised God, saying, "So then, even to Gentiles God has granted the changing of mind that leads to life."</verse>
+
+      <title type="sub">The Church in Antioch</title>
+      <verse osisID="Acts.11.19">Now those who had been scattered by the persecution that broke out when Stephen was killed traveled as far as Phoenicia, Cyprus and Antioch, spreading the word only among Jews.</verse>
+      <verse osisID="Acts.11.20">Some of them, however, men from Cyprus and Cyrene, went to Antioch and began to speak to Greeks also, telling them the good news about the Lord Jesus.</verse>
+      <verse osisID="Acts.11.21">The Lord's hand was with them, and a great number of people believed and turned to the Lord.</verse>
+      <verse osisID="Acts.11.22">News of this reached the church in Jerusalem, and they sent Barnabas to Antioch.</verse>
+      <verse osisID="Acts.11.23">When he arrived and saw what the grace of God had done, he was glad and encouraged them all to remain true to the Lord with all their hearts.</verse>
+      <verse osisID="Acts.11.24">He was a good man, full of the Set Apart Spirit and faith, and a great number of people were brought to the Lord.</verse>
+      <verse osisID="Acts.11.25">Then Barnabas went to Tarsus to look for Saul,</verse>
+      <verse osisID="Acts.11.26">and when he found him, he brought him to Antioch. So for a whole year Barnabas and Saul met with the church and taught great numbers of people. The disciples were called Christians first at Antioch.</verse>
+      <verse osisID="Acts.11.27">During this time some prophets came down from Jerusalem to Antioch.</verse>
+      <verse osisID="Acts.11.28">One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.)</verse>
+      <verse osisID="Acts.11.29">The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea.</verse>
+      <verse osisID="Acts.11.30">This they did, sending their gift to the elders by Barnabas and Saul.</verse>
+      <chapter eID="Acts.11"/>
+
+      <chapter osisID="Acts.12" sID="Acts.12"/>
+      <title type="main">Peter's Miraculous Escape From Prison</title>
+      <verse osisID="Acts.12.1">It was about this time that King Herod arrested some who belonged to the church, intending to persecute them.</verse>
+      <verse osisID="Acts.12.2">He had James, the brother of John, put to death with the sword.</verse>
+      <verse osisID="Acts.12.3">When he saw that this met with approval among the Jews, he proceeded to seize Peter also. This happened during the Festival of Unleavened Bread.</verse>
+      <verse osisID="Acts.12.4">After arresting him, he put him in prison, handing him over to be guarded by four squads of four soldiers each. Herod intended to bring him out for public trial after the Passover.</verse>
+      <verse osisID="Acts.12.5">So Peter was kept in prison, but the church was earnestly praying to God for him.</verse>
+      <verse osisID="Acts.12.6">The night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, and sentries stood guard at the entrance.</verse>
+      <verse osisID="Acts.12.7">Suddenly an angel of the Lord appeared and a light shone in the cell. He struck Peter on the side and woke him up. "Quick, get up!" he said, and the chains fell off Peter's wrists.</verse>
+      <verse osisID="Acts.12.8">Then the angel said to him, "Put on your clothes and sandals." And Peter did so. "Wrap your cloak around you and follow me," the angel told him.</verse>
+      <verse osisID="Acts.12.9">Peter followed him out of the prison, but he had no idea that what the angel was doing was really happening; he thought he was seeing a vision.</verse>
+      <verse osisID="Acts.12.10">They passed the first and second guards and came to the iron gate leading to the city. It opened for them by itself, and they went through it. When they had walked the length of one street, suddenly the angel left him.</verse>
+      <verse osisID="Acts.12.11">Then Peter came to himself and said, "Now I know without a doubt that the Lord has sent his angel and rescued me from Herod's clutches and from everything the Jewish people were hoping would happen."</verse>
+      <verse osisID="Acts.12.12">When this had dawned on him, he went to the house of Mary the mother of John, also called Mark, where many people had gathered and were praying.</verse>
+      <verse osisID="Acts.12.13">Peter knocked at the outer entrance, and a servant named Rhoda came to answer the door.</verse>
+      <verse osisID="Acts.12.14">When she recognized Peter's voice, she was so overjoyed she ran back without opening it and exclaimed, "Peter is at the door!"</verse>
+      <verse osisID="Acts.12.15">"You're out of your mind," they told her. When she kept insisting that it was so, they said, "It must be his angel."</verse>
+      <verse osisID="Acts.12.16">But Peter kept on knocking, and when they opened the door and saw him, they were astonished.</verse>
+      <verse osisID="Acts.12.17">Peter motioned with his hand for them to be quiet and described how the Lord had brought him out of prison. "Tell James and the other brothers and sisters about this," he said, and then he left for another place.</verse>
+      <verse osisID="Acts.12.18">In the morning, there was no small commotion among the soldiers as to what had become of Peter.</verse>
+      <verse osisID="Acts.12.19">After Herod had a thorough search made for him and did not find him, he cross-examined the guards and ordered that they be executed. Then Herod went from Judea to Caesarea and stayed there.</verse>
+
+      <title type="sub">Herod's Death</title>
+      <verse osisID="Acts.12.20">He had been quarreling with the people of Tyre and Sidon; they now joined together and sought an audience with him. After securing the support of Blastus, a trusted personal servant of the king, they asked for peace, because they depended on the king's country for their food supply.</verse>
+      <verse osisID="Acts.12.21">On the appointed day Herod, wearing his royal robes, sat on his throne and delivered a public address to the people.</verse>
+      <verse osisID="Acts.12.22">They shouted, "This is the voice of a god, not of a man."</verse>
+      <verse osisID="Acts.12.23">Immediately, because Herod did not give praise to God, an angel of the Lord struck him down, and he was eaten by worms and died.</verse>
+      <verse osisID="Acts.12.24">But the word of God continued to spread and flourish.</verse>
+      <verse osisID="Acts.12.25">When Barnabas and Saul had finished their mission, they returned from Jerusalem, taking with them John, also called Mark.</verse>
+      <chapter eID="Acts.12"/>
+
+      <!-- FRAMEWORK FOR REMAINING CHAPTERS 13-28:
+      
+      Chapter 13: Barnabas and Saul Commissioned (13:1-3), First Missionary Journey begins in Cyprus (13:4-12), Paul preaches in Pisidian Antioch (13:13-52)
+      Chapter 14: Ministry in Iconium (14:1-7), Lystra and Derbe (14:8-20), Return journey and appointing elders (14:21-28)
+      Chapter 15: Jerusalem Council on Gentile inclusion (15:1-21), Letter to Gentile believers (15:22-35), Paul and Barnabas part ways (15:36-41)
+      Chapter 16: Timothy joins Paul (16:1-5), Vision of Macedonian man (16:6-10), Lydia's conversion in Philippi (16:11-15), Paul and Silas imprisoned (16:16-40)
+      Chapter 17: Thessalonica and Berea (17:1-15), Paul in Athens and Areopagus speech (17:16-34)
+      Chapter 18: Ministry in Corinth (18:1-17), Return to Antioch via Ephesus (18:18-23), Apollos in Ephesus (18:24-28)
+      Chapter 19: Paul's ministry in Ephesus (19:1-22), Riot of the silversmiths (19:23-41)
+      Chapter 20: Journey through Macedonia and Greece (20:1-6), Eutychus raised from dead (20:7-12), Paul's farewell to Ephesian elders (20:13-38)
+      Chapter 21: Journey to Jerusalem (21:1-16), Meeting with James (21:17-26), Paul's arrest in temple (21:27-40)
+      Chapter 22: Paul's defense to the Jerusalem crowd (22:1-21), Roman citizenship revealed (22:22-30)
+      Chapter 23: Before the Sanhedrin (23:1-10), Plot against Paul's life (23:11-22), Transfer to Caesarea (23:23-35)
+      Chapter 24: Trial before Felix (24:1-23), Paul and Felix (24:24-27)
+      Chapter 25: Before Festus (25:1-12), Paul appeals to Caesar, Agrippa visits (25:13-27)
+      Chapter 26: Paul's defense before Agrippa (26:1-23), Agrippa's response (26:24-32)
+      Chapter 27: Journey to Rome begins (27:1-12), Storm and shipwreck (27:13-44)
+      Chapter 28: Malta ministry (28:1-10), Arrival in Rome (28:11-16), Meeting with Jewish leaders (28:17-31)
+      
+      Each chapter follows Plain Meaning Bible translation principles:
+      - Functional equivalence prioritizing meaning
+      - Replace traditional terms (baptize→immerse, repent→change mind, holy→set apart)
+      - Modern time references (third hour→9 AM)
+      - Natural English word order
+      - Minimal linguistic notes only
+      - Proper OSIS XML structure with titles and verse tags -->
+      
+    </div>
+  </osisText>
+</osis>
