@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <refSystem>Bible</refSystem>
+        <rights>Public Domain</rights>
+      </work>
+    </header>
+    <div type="book" osisID="Ezek" canonical="true">
+      <title type="main">Ezekiel</title>
+      
+      <chapter osisID="Ezek.1" sID="Ezek.1"/>
+      <title type="main">Ezekiel's Vision of God's Throne Chariot</title>
+      
+      <verse osisID="Ezek.1.1">In the thirtieth year, in the fourth month, on the fifth day of the month, while I was among the exiles by the Kebar River, the heavens opened and I saw visions of God.</verse>
+      
+      <verse osisID="Ezek.1.2">On the fifth day of the month—it was the fifth year of King Jehoiachin's exile—</verse>
+      
+      <verse osisID="Ezek.1.3">the word of Yahweh came directly to Ezekiel<note type="translation">Hebrew Yechezkel meaning "God strengthens"</note> the priest, the son of Buzi, in the land of the Babylonians<note type="translation">Hebrew Kasdim (Chaldeans)</note> by the Kebar River. There the hand<note type="translation">Hebrew yad, meaning power or influence</note> of Yahweh was upon him.</verse>
+      
+      <title type="sub">The Four Living Creatures</title>
+      
+      <verse osisID="Ezek.1.4">I looked, and I saw a windstorm coming out of the north—an immense cloud with flashing lightning and surrounded by brilliant light. In the center of the fire looked like glowing metal<note type="translation">Hebrew hashmal, possibly electrum, an alloy of gold and silver</note>.</verse>
+      
+      <verse osisID="Ezek.1.5">And in the fire was what looked like four living creatures. In appearance their form was human,</verse>
+      
+      <verse osisID="Ezek.1.6">but each of them had four faces and four wings.</verse>
+      
+      <verse osisID="Ezek.1.7">Their legs were straight; their feet were like those of a calf and gleamed like burnished bronze.</verse>
+      
+      <verse osisID="Ezek.1.8">Under their wings on their four sides they had human hands. All four of them had faces and wings,</verse>
+      
+      <verse osisID="Ezek.1.9">and the wings of one touched the wings of another. Each one went straight ahead; they did not turn as they moved.</verse>
+      
+      <verse osisID="Ezek.1.10">Their faces looked like this: Each of the four had the face of a human being, and on the right side each had the face of a lion, and on the left the face of an ox; each also had the face of an eagle.</verse>
+      
+      <verse osisID="Ezek.1.11">Such were their faces. They each had two wings spreading out upward, each wing touching that of the creature on either side; and each had two other wings covering its body.</verse>
+      
+      <verse osisID="Ezek.1.12">Each one went straight ahead. Wherever the spirit would go, they would go, without turning as they went.</verse>
+      
+      <verse osisID="Ezek.1.13">The appearance of the living creatures was like burning coals of fire or like torches. Fire moved back and forth among the creatures; it was bright, and lightning flashed out of it.</verse>
+      
+      <verse osisID="Ezek.1.14">The creatures sped back and forth like flashes of lightning.</verse>
+      
+      <title type="sub">The Four Wheels</title>
+      
+      <verse osisID="Ezek.1.15">As I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces.</verse>
+      
+      <verse osisID="Ezek.1.16">This was the appearance and structure of the wheels: They sparkled like topaz<note type="translation">Hebrew tarshish, likely chrysolite or topaz</note>, and all four looked alike. Each appeared to be made like a wheel intersecting a wheel.</verse>
+      
+      <verse osisID="Ezek.1.17">As they moved, they would go in any one of the four directions the creatures faced; the wheels did not change direction as the creatures went.</verse>
+      
+      <verse osisID="Ezek.1.18">Their rims were high and awesome, and all four rims were full of eyes all around.</verse>
+      
+      <verse osisID="Ezek.1.19">When the living creatures moved, the wheels beside them moved; and when the living creatures rose from the ground, the wheels also rose.</verse>
+      
+      <verse osisID="Ezek.1.20">Wherever the spirit would go, they would go, and the wheels would rise along with them, because the spirit of the living creatures was in the wheels.</verse>
+      
+      <verse osisID="Ezek.1.21">When the creatures moved, they also moved; when the creatures stood still, they also stood still; and when the creatures rose from the ground, the wheels rose along with them, because the spirit of the living creatures was in the wheels.</verse>
+      
+      <title type="sub">The Expanse and the Throne</title>
+      
+      <verse osisID="Ezek.1.22">Spread out above the heads of the living creatures was what looked something like an expanse<note type="translation">Hebrew raqia, the dome of the sky</note>, sparkling like crystal, and awesome.</verse>
+      
+      <verse osisID="Ezek.1.23">Under the expanse their wings were stretched out one toward the other, and each had two wings covering its body.</verse>
+      
+      <verse osisID="Ezek.1.24">When the creatures moved, I heard the sound of their wings, like the roar of rushing waters, like the voice of the Almighty<note type="translation">Hebrew Shaddai</note>, like the tumult of an army. When they stood still, they lowered their wings.</verse>
+      
+      <verse osisID="Ezek.1.25">Then there came a voice from above the expanse over their heads as they stood with lowered wings.</verse>
+      
+      <verse osisID="Ezek.1.26">Above the expanse over their heads was what looked like a throne of lapis lazuli<note type="translation">Hebrew sapphire stone, likely lapis lazuli</note>, and high above on the throne was a figure like that of a man.</verse>
+      
+      <verse osisID="Ezek.1.27">I saw that from what appeared to be his waist up he looked like glowing metal, as if full of fire, and that from there down he looked like fire; and brilliant light surrounded him.</verse>
+      
+      <verse osisID="Ezek.1.28">Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of Yahweh. When I saw it, I fell facedown, and I heard the voice of one speaking.</verse>
+      
+      <chapter eID="Ezek.1"/>
+      
+      <chapter osisID="Ezek.2" sID="Ezek.2"/>
+      <title type="main">Ezekiel's Call to Be a Prophet</title>
+      
+      <verse osisID="Ezek.2.1">He said to me, "Son of man<note type="translation">Hebrew ben adam, literally "son of Adam" or "human being"</note>, stand up on your feet and I will speak to you."</verse>
+      
+      <verse osisID="Ezek.2.2">As he spoke, the Spirit came into me and raised me to my feet, and I heard him speaking to me.</verse>
+      
+      <verse osisID="Ezek.2.3">He said: "Son of man, I am sending you to the Israelites, to a rebellious nation that has rebelled against me; they and their ancestors have been in revolt against me to this very day.</verse>
+      
+      <verse osisID="Ezek.2.4">The people to whom I am sending you are obstinate and stubborn. Say to them, 'This is what the Sovereign Yahweh<note type="translation">Hebrew Adonai Yahweh</note> says.'</verse>
+      
+      <verse osisID="Ezek.2.5">And whether they listen or fail to listen—for they are a rebellious people—they will know that a prophet has been among them.</verse>
+      
+      <verse osisID="Ezek.2.6">And you, son of man, do not be afraid of them or their words. Do not be afraid, though briers and thorns are all around you and you live among scorpions. Do not be afraid of what they say or be terrified by them, though they are a rebellious people.</verse>
+      
+      <verse osisID="Ezek.2.7">You must speak my words to them, whether they listen or fail to listen, for they are rebellious.</verse>
+      
+      <verse osisID="Ezek.2.8">But you, son of man, listen to what I say to you. Do not rebel like that rebellious people; open your mouth and eat what I give you."</verse>
+      
+      <verse osisID="Ezek.2.9">Then I looked, and I saw a hand stretched out to me. In it was a scroll,</verse>
+      
+      <verse osisID="Ezek.2.10">which he unrolled before me. On both sides of it were written words of lament and mourning and terrible sorrow<note type="translation">Hebrew hi, expressing grief and disaster</note>.</verse>
+      
+      <chapter eID="Ezek.2"/>
+      
+      <chapter osisID="Ezek.3" sID="Ezek.3"/>
+      <title type="main">Ezekiel Eats the Scroll</title>
+      
+      <verse osisID="Ezek.3.1">And he said to me, "Son of man, eat what is before you, eat this scroll; then go and speak to the people of Israel."</verse>
+      
+      <verse osisID="Ezek.3.2">So I opened my mouth, and he gave me the scroll to eat.</verse>
+      
+      <verse osisID="Ezek.3.3">Then he said to me, "Son of man, eat this scroll I am giving you and fill your stomach with it." So I ate it, and it tasted as sweet as honey in my mouth.</verse>
+      
+      <verse osisID="Ezek.3.4">He then said to me: "Son of man, go now to the people of Israel and speak my words to them.</verse>
+      
+      <verse osisID="Ezek.3.5">You are not being sent to a people of obscure speech and strange language, but to the people of Israel—</verse>
+      
+      <verse osisID="Ezek.3.6">not to many peoples of obscure speech and strange language, whose words you cannot understand. Surely if I had sent you to them, they would have listened to you.</verse>
+      
+      <verse osisID="Ezek.3.7">But the people of Israel are not willing to listen to you because they are not willing to listen to me, for all the Israelites are hardened and obstinate.</verse>
+      
+      <verse osisID="Ezek.3.8">But I will make you as unyielding and hardened as they are.</verse>
+      
+      <verse osisID="Ezek.3.9">I will make your forehead like the hardest stone, harder than flint. Do not be afraid of them or terrified by them, though they are a rebellious people."</verse>
+      
+      <verse osisID="Ezek.3.10">And he said to me, "Son of man, listen carefully and take to heart all the words I speak to you.</verse>
+      
+      <verse osisID="Ezek.3.11">Go now to your people in exile and speak to them. Say to them, 'This is what the Sovereign Yahweh says,' whether they listen or fail to listen."</verse>
+      
+      <title type="sub">Ezekiel Returns to the Exiles</title>
+      
+      <verse osisID="Ezek.3.12">Then the Spirit lifted me up, and I heard behind me a loud rumbling sound as the glory of Yahweh rose from the place where it was.</verse>
+      
+      <verse osisID="Ezek.3.13">It was the sound of the wings of the living creatures brushing against each other and the sound of the wheels beside them, a loud rumbling sound.</verse>
+      
+      <verse osisID="Ezek.3.14">The Spirit then lifted me up and took me away, and I went in bitterness and in the anger of my spirit, with the strong hand of Yahweh on me.</verse>
+      
+      <verse osisID="Ezek.3.15">I came to the exiles who lived at Tel Abib<note type="translation">Hebrew Tel Aviv, meaning "hill of grain" or "mound of the flood"</note> near the Kebar River. And there, where they were living, I sat among them for seven days—deeply distressed.</verse>
+      
+      <title type="sub">Ezekiel's Call as a Watchman</title>
+      
+      <verse osisID="Ezek.3.16">At the end of seven days the word of Yahweh came to me:</verse>
+      
+      <verse osisID="Ezek.3.17">"Son of man, I have made you a watchman for the people of Israel; so hear the word I speak and give them warning from me.</verse>
+      
+      <verse osisID="Ezek.3.18">When I say to a wicked person, 'You will surely die,' and you do not warn them or speak out to dissuade them from their evil ways in order to save their life, that wicked person will die for their sin, and I will hold you accountable for their blood.</verse>
+      
+      <verse osisID="Ezek.3.19">But if you do warn the wicked person and they do not turn from their wickedness or from their evil ways, they will die for their sin; but you will have saved yourself.</verse>
+      
+      <verse osisID="Ezek.3.20">"Again, when a righteous person turns from their righteousness and does evil, and I put a stumbling block before them, they will die. Since you did not warn them, they will die for their sin. The righteous things that person did will not be remembered, and I will hold you accountable for their blood.</verse>
+      
+      <verse osisID="Ezek.3.21">But if you do warn the righteous person not to sin and they do not sin, they will surely live because they took warning, and you will have saved yourself."</verse>
+      
+      <title type="sub">Ezekiel Bound and Made Speechless</title>
+      
+      <verse osisID="Ezek.3.22">The hand of Yahweh was on me there, and he said to me, "Get up and go out to the plain, and there I will speak to you."</verse>
+      
+      <verse osisID="Ezek.3.23">So I got up and went out to the plain. And the glory of Yahweh was standing there, like the glory I had seen by the Kebar River, and I fell facedown.</verse>
+      
+      <verse osisID="Ezek.3.24">Then the Spirit came into me and raised me to my feet. He spoke to me and said: "Go, shut yourself inside your house.</verse>
+      
+      <verse osisID="Ezek.3.25">And you, son of man, they will tie with ropes; you will be bound so that you cannot go out among the people.</verse>
+      
+      <verse osisID="Ezek.3.26">I will make your tongue stick to the roof of your mouth so that you will be speechless and unable to rebuke them, for they are a rebellious people.</verse>
+      
+      <verse osisID="Ezek.3.27">But when I speak to you, I will open your mouth and you shall say to them, 'This is what the Sovereign Yahweh says.' Whoever will listen let them listen, and whoever will refuse let them refuse; for they are a rebellious people.</verse>
+      
+      <chapter eID="Ezek.3"/>
+      
+      <chapter osisID="Ezek.4" sID="Ezek.4"/>
+      <title type="main">The Siege of Jerusalem Portrayed</title>
+      
+      <verse osisID="Ezek.4.1">"Now, son of man, take a clay tablet, put it in front of you and draw the city of Jerusalem on it.</verse>
+      
+      <verse osisID="Ezek.4.2">Then lay siege to it: Erect siege works against it, build a ramp up to it, set up camps against it and put battering rams around it.</verse>
+      
+      <verse osisID="Ezek.4.3">Then take an iron pan, place it as an iron wall between you and the city and turn your face toward it. It will be under siege, and you shall besiege it. This will be a sign to the people of Israel.</verse>
+      
+      <verse osisID="Ezek.4.4">"Then lie on your left side and put the sin of the people of Israel upon yourself. You are to bear their sin for the number of days you lie on your side.</verse>
+      
+      <verse osisID="Ezek.4.5">I have assigned you the same number of days as the years of their sin. So for 390 days you will bear the sin of the people of Israel.</verse>
+      
+      <verse osisID="Ezek.4.6">"After you have finished this, lie down again, this time on your right side, and bear the sin of the people of Judah. I have assigned you 40 days, a day for each year.</verse>
+      
+      <verse osisID="Ezek.4.7">Turn your face toward the siege of Jerusalem and with bared arm prophesy against her.</verse>
+      
+      <verse osisID="Ezek.4.8">I will tie you up with ropes so that you cannot turn from one side to the other until you have finished the days of your siege.</verse>
+      
+      <title type="sub">Rationed Food During the Siege</title>
+      
+      <verse osisID="Ezek.4.9">"Take wheat and barley, beans and lentils, millet and spelt<note type="translation">Hebrew kussemet, an ancient grain similar to wheat</note>; put them in a storage jar and use them to make bread for yourself. You are to eat it during the 390 days you lie on your side.</verse>
+      
+      <verse osisID="Ezek.4.10">Weigh out twenty shekels<note type="translation">About 8 ounces or 230 grams</note> of food to eat each day and eat it at set times.</verse>
+      
+      <verse osisID="Ezek.4.11">Also measure out a sixth of a hin<note type="translation">About 2/3 quart or 0.6 liter</note> of water and drink it at set times.</verse>
+      
+      <verse osisID="Ezek.4.12">Eat the food as you would a loaf of barley bread; bake it in the sight of the people, using human excrement for fuel."</verse>
+      
+      <verse osisID="Ezek.4.13">Yahweh said, "In this way the people of Israel will eat defiled food among the nations where I will drive them."</verse>
+      
+      <verse osisID="Ezek.4.14">Then I said, "Not so, Sovereign Yahweh! I have never defiled myself. From my youth until now I have never eaten anything found dead or torn by wild animals. No impure meat has ever entered my mouth."</verse>
+      
+      <verse osisID="Ezek.4.15">"Very well," he said, "I will let you bake your bread over cow dung instead of human excrement."</verse>
+      
+      <verse osisID="Ezek.4.16">He then said to me: "Son of man, I am about to cut off the food supply in Jerusalem. The people will eat rationed food in anxiety and drink rationed water in despair,</verse>
+      
+      <verse osisID="Ezek.4.17">for food and water will be scarce. They will be appalled at the sight of each other and will waste away because of their sin.</verse>
+      
+      <chapter eID="Ezek.4"/>
+      
+      <chapter osisID="Ezek.5" sID="Ezek.5"/>
+      <title type="main">God's Razor of Judgment</title>
+      
+      <verse osisID="Ezek.5.1">"Now, son of man, take a sharp sword and use it as a barber's razor to shave your head and your beard. Then take a set of scales and divide up the hair.</verse>
+      
+      <verse osisID="Ezek.5.2">When the days of your siege come to an end, burn a third of the hair inside the city. Take a third and strike it with the sword all around the city. And scatter a third to the wind. For I will pursue them with drawn sword.</verse>
+      
+      <verse osisID="Ezek.5.3">But take a few hairs and tuck them away in the folds of your garment.</verse>
+      
+      <verse osisID="Ezek.5.4">Again, take a few of these and throw them into the fire and burn them up. A fire will spread from there to all Israel.</verse>
+      
+      <verse osisID="Ezek.5.5">"This is what the Sovereign Yahweh says: This is Jerusalem, which I have set in the center of the nations, with countries all around her.</verse>
+      
+      <verse osisID="Ezek.5.6">Yet in her wickedness she has rebelled against my laws and decrees more than the nations and countries around her. She has rejected my laws and has not followed my decrees.</verse>
+      
+      <verse osisID="Ezek.5.7">"Therefore this is what the Sovereign Yahweh says: You have been more unruly than the nations around you and have not followed my decrees or kept my laws. You have not even conformed to the standards of the nations around you.</verse>
+      
+      <verse osisID="Ezek.5.8">"Therefore this is what the Sovereign Yahweh says: I myself am against you, Jerusalem, and I will inflict punishment on you in the sight of the nations.</verse>
+      
+      <verse osisID="Ezek.5.9">Because of all your detestable practices<note type="translation">Hebrew to'evot, disgusting practices or abominations</note>, I will do to you what I have never done before and will never do again.</verse>
+      
+      <verse osisID="Ezek.5.10">Therefore in your midst parents will eat their children, and children will eat their parents. I will inflict punishment on you and will scatter all your survivors to the winds.</verse>
+      
+      <verse osisID="Ezek.5.11">Therefore as surely as I live, declares the Sovereign Yahweh, because you have defiled my sanctuary with all your vile images and detestable practices, I myself will shave you; I will not look on you with pity or spare you.</verse>
+      
+      <verse osisID="Ezek.5.12">A third of your people will die of the plague or perish by famine inside you; a third will fall by the sword outside your walls; and a third I will scatter to the winds and pursue with drawn sword.</verse>
+      
+      <verse osisID="Ezek.5.13">"Then my anger will cease and my wrath against them will subside, and I will be avenged. And when I have spent my wrath on them, they will know that I, Yahweh, have spoken in my zeal.</verse>
+      
+      <verse osisID="Ezek.5.14">"I will make you a ruin and a reproach among the nations around you, in the sight of all who pass by.</verse>
+      
+      <verse osisID="Ezek.5.15">You will be a reproach and a taunt, a warning and an object of horror to the nations around you when I inflict punishment on you in anger and in wrath and with stinging rebuke. I, Yahweh, have spoken.</verse>
+      
+      <verse osisID="Ezek.5.16">When I shoot at you with my deadly and destructive arrows of famine, I will shoot to destroy you. I will bring more and more famine upon you and cut off your supply of food.</verse>
+      
+      <verse osisID="Ezek.5.17">I will send famine and wild beasts against you, and they will leave you childless. Plague and bloodshed will sweep through you, and I will bring the sword against you. I, Yahweh, have spoken."</verse>
+      
+      <chapter eID="Ezek.5"/>
+      
+      <chapter osisID="Ezek.6" sID="Ezek.6"/>
+      <title type="main">Judgment Against the Mountains of Israel</title>
+      
+      <verse osisID="Ezek.6.1">The word of Yahweh came to me:</verse>
+      
+      <verse osisID="Ezek.6.2">"Son of man, set your face against the mountains of Israel; prophesy against them</verse>
+      
+      <verse osisID="Ezek.6.3">and say: 'You mountains of Israel, hear the word of the Sovereign Yahweh. This is what the Sovereign Yahweh says to the mountains and hills, to the ravines and valleys: I am about to bring a sword against you, and I will destroy your high places<note type="translation">Hebrew bamot, elevated places of worship, often associated with idolatry</note>.</verse>
+      
+      <verse osisID="Ezek.6.4">Your altars will be demolished and your incense altars will be smashed; and I will slay your people in front of your idols.</verse>
+      
+      <verse osisID="Ezek.6.5">I will lay the dead bodies of the Israelites in front of their idols, and I will scatter your bones around your altars.</verse>
+      
+      <verse osisID="Ezek.6.6">Wherever you live, the towns will be laid waste and the high places demolished, so that your altars will be laid waste and devastated, your idols smashed and ruined, your incense altars broken down, and what you have made wiped out.</verse>
+      
+      <verse osisID="Ezek.6.7">Your people will fall slain among you, and you will know that I am Yahweh.</verse>
+      
+      <title type="sub">A Remnant Will Be Spared</title>
+      
+      <verse osisID="Ezek.6.8">"'But I will spare some, for some of you will escape the sword when you are scattered among the lands and nations.</verse>
+      
+      <verse osisID="Ezek.6.9">Then in the nations where they have been carried captive, those who escape will remember me—how I have been grieved by their adulterous hearts, which have turned away from me, and by their eyes, which have lusted after their idols. They will loathe themselves for the evil they have done and for all their detestable practices.</verse>
+      
+      <verse osisID="Ezek.6.10">And they will know that I am Yahweh; I did not threaten in vain to bring this calamity on them.</verse>
+      
+      <verse osisID="Ezek.6.11">"'This is what the Sovereign Yahweh says: Strike your hands together and stamp your feet and cry out "Terrible sorrow<note type="translation">Hebrew ach, an exclamation of grief</note>!" because of all the wicked and detestable practices of the people of Israel, for they will fall by the sword, famine and plague.</verse>
+      
+      <verse osisID="Ezek.6.12">One who is far away will die of the plague, and one who is near will fall by the sword, and anyone who survives and is spared will die of famine. So will I pour out my wrath on them.</verse>
+      
+      <verse osisID="Ezek.6.13">And they will know that I am Yahweh, when their people lie slain among their idols around their altars, on every high hill and on all the mountaintops, under every spreading tree and every leafy oak—places where they offered fragrant incense to all their idols.</verse>
+      
+      <verse osisID="Ezek.6.14">And I will stretch out my hand against them and make the land a desolate waste from the desert to Diblah<note type="translation">Hebrew Diblah, possibly a location in the far north, though some manuscripts read "Riblah"</note>—wherever they live. Then they will know that I am Yahweh.'"</verse>
+      
+      <chapter eID="Ezek.6"/>
+      
+      <chapter osisID="Ezek.7" sID="Ezek.7"/>
+      <title type="main">The End Has Come</title>
+      
+      <verse osisID="Ezek.7.1">The word of Yahweh came to me:</verse>
+      
+      <verse osisID="Ezek.7.2">"Son of man, this is what the Sovereign Yahweh says to the land of Israel: "'The end! The end has come upon the four corners of the land.</verse>
+      
+      <verse osisID="Ezek.7.3">The end is now upon you, and I will unleash my anger against you. I will judge you according to your conduct and repay you for all your detestable practices.</verse>
+      
+      <verse osisID="Ezek.7.4">I will not look on you with pity; I will not spare you. I will surely repay you for your conduct and for the detestable practices among you. "'Then you will know that I am Yahweh.</verse>
+      
+      <verse osisID="Ezek.7.5">"This is what the Sovereign Yahweh says: "'Disaster! Unheard-of disaster! See, it comes!</verse>
+      
+      <verse osisID="Ezek.7.6">The end has come! The end has come! It has roused itself against you. See, it comes!</verse>
+      
+      <verse osisID="Ezek.7.7">Doom has come upon you, upon you who dwell in the land. The time has come! The day is near! There is panic, not joy, on the mountains.</verse>
+      
+      <verse osisID="Ezek.7.8">I am about to pour out my wrath on you and spend my anger against you. I will judge you according to your conduct and repay you for all your detestable practices.</verse>
+      
+      <verse osisID="Ezek.7.9">I will not look on you with pity; I will not spare you. I will repay you for your conduct and for the detestable practices among you. "'Then you will know that it is I, Yahweh, who strikes you.</verse>
+      
+      <verse osisID="Ezek.7.10">"See, the day! See, it comes! Doom has burst forth, the rod has budded, arrogance has blossomed!</verse>
+      
+      <verse osisID="Ezek.7.11">Violence has arisen, a rod to punish the wicked. None of the people will be left, none of that crowd—none of their wealth, nothing of value.</verse>
+      
+      <verse osisID="Ezek.7.12">The time has come! The day has arrived! Let not the buyer rejoice nor the seller grieve, for my wrath is on the whole crowd.</verse>
+      
+      <verse osisID="Ezek.7.13">The seller will not recover the property that was sold—as long as both buyer and seller live. For the vision concerning the whole crowd will not be reversed. Because of their sins, not one of them will preserve their life.</verse>
+      
+      <verse osisID="Ezek.7.14">"'They have blown the trumpet, they have made all things ready, but no one will go into battle, for my wrath is on the whole crowd.</verse>
+      
+      <verse osisID="Ezek.7.15">Outside is the sword; inside are plague and famine. Those in the country will die by the sword; those in the city will be devoured by famine and plague.</verse>
+      
+      <verse osisID="Ezek.7.16">The fugitives who escape will flee to the mountains. Like doves of the valleys, they will all moan, each for their own sins.</verse>
+      
+      <verse osisID="Ezek.7.17">Every hand will go limp; every leg will be wet with urine.</verse>
+      
+      <verse osisID="Ezek.7.18">They will put on sackcloth and be clothed with terror. Every face will be covered with shame and every head will be shaved.</verse>
+      
+      <verse osisID="Ezek.7.19">"'They will throw their silver into the streets, and their gold will be treated as a thing unclean. Their silver and gold will not be able to deliver them in the day of Yahweh's wrath. It will not satisfy their hunger or fill their stomachs, for it has caused them to stumble into sin.</verse>
+      
+      <verse osisID="Ezek.7.20">They took pride in their beautiful jewelry and used it to make their detestable idols. They made it into vile images; therefore I will make it a thing unclean for them.</verse>
+      
+      <verse osisID="Ezek.7.21">I will give their wealth as plunder to foreigners and as loot to the wicked of the earth, who will defile it.</verse>
+      
+      <verse osisID="Ezek.7.22">I will turn my face away from the people, and robbers will desecrate the place I treasure. They will enter it and will defile it.</verse>
+      
+      <verse osisID="Ezek.7.23">"'Prepare chains! For the land is full of bloodshed, and the city is full of violence.</verse>
+      
+      <verse osisID="Ezek.7.24">I will bring the most wicked of nations to take possession of their houses. I will put an end to the pride of the mighty, and their sanctuaries<note type="translation">Hebrew miqdash, set apart places or sanctuaries</note> will be desecrated.</verse>
+      
+      <verse osisID="Ezek.7.25">When terror comes, they will seek peace in vain.</verse>
+      
+      <verse osisID="Ezek.7.26">Calamity upon calamity will come, and rumor upon rumor. They will go searching for a vision from the prophet, priestly instruction in the law will cease, the counsel of the elders will come to an end.</verse>
+      
+      <verse osisID="Ezek.7.27">The king will mourn, the prince will be clothed with despair, and the hands of the people of the land will tremble. I will deal with them according to their conduct, and by their own standards I will judge them. "'Then they will know that I am Yahweh.'"</verse>
+      
+      <chapter eID="Ezek.7"/>
+      
+      <chapter osisID="Ezek.8" sID="Ezek.8"/>
+      <title type="main">Idolatry in the Temple</title>
+      
+      <verse osisID="Ezek.8.1">In the sixth year, in the sixth month on the fifth day, while I was sitting in my house and the elders of Judah were sitting before me, the hand of the Sovereign Yahweh came on me there.</verse>
+      
+      <verse osisID="Ezek.8.2">I looked, and I saw a figure like that of a man. From what appeared to be his waist down he was like fire, and from there up his appearance was as bright as glowing metal.</verse>
+      
+      <verse osisID="Ezek.8.3">He stretched out what looked like a hand and took me by the hair of my head. The Spirit lifted me up between earth and heaven and in visions of God he took me to Jerusalem, to the entrance of the north gate of the inner court, where the idol that provokes to jealousy stood.</verse>
+      
+      <verse osisID="Ezek.8.4">And there before me was the glory of the God of Israel, as in the vision I had seen in the plain.</verse>
+      
+      <verse osisID="Ezek.8.5">Then he said to me, "Son of man, look toward the north." So I looked, and in the entrance north of the gate of the altar I saw this idol of jealousy.</verse>
+      
+      <verse osisID="Ezek.8.6">And he said to me, "Son of man, do you see what they are doing—the utterly detestable things the Israelites are doing here, things that will drive me far from my sanctuary? But you will see things that are even more detestable."</verse>
+      
+      <title type="sub">Idolatry in the Temple Courts</title>
+      
+      <verse osisID="Ezek.8.7">Then he brought me to the entrance to the court. I looked, and I saw a hole in the wall.</verse>
+      
+      <verse osisID="Ezek.8.8">He said to me, "Son of man, now dig into the wall." So I dug into the wall and saw a doorway there.</verse>
+      
+      <verse osisID="Ezek.8.9">And he said to me, "Go in and see the wicked and detestable things they are doing here."</verse>
+      
+      <verse osisID="Ezek.8.10">So I went in and looked, and I saw portrayed all over the walls all kinds of crawling things and unclean animals and all the idols of Israel.</verse>
+      
+      <verse osisID="Ezek.8.11">In front of them stood seventy elders of Israel, and Jaazaniah son of Shaphan was standing among them. Each had a censer in his hand, and a fragrant cloud of incense was rising.</verse>
+      
+      <verse osisID="Ezek.8.12">He said to me, "Son of man, have you seen what the elders of Israel are doing in the darkness, each at the shrine of his own idol? They say, 'Yahweh does not see us; Yahweh has forsaken the land.'"</verse>
+      
+      <verse osisID="Ezek.8.13">Again, he said, "You will see them doing things that are even more detestable."</verse>
+      
+      <verse osisID="Ezek.8.14">Then he brought me to the entrance of the north gate of the house of Yahweh, and I saw women sitting there, mourning the god Tammuz<note type="translation">Hebrew Tammuz, a Mesopotamian deity associated with fertility and the seasonal cycle</note>.</verse>
+      
+      <verse osisID="Ezek.8.15">He said to me, "Do you see this, son of man? You will see things that are even more detestable than this."</verse>
+      
+      <verse osisID="Ezek.8.16">He then brought me into the inner court of the house of Yahweh, and there at the entrance to the temple, between the portico and the altar, were about twenty-five men. With their backs toward the temple of Yahweh and their faces toward the east, they were bowing down to the sun in the east.</verse>
+      
+      <verse osisID="Ezek.8.17">He said to me, "Have you seen this, son of man? Is it a trivial matter for the people of Judah to do the detestable things they are doing here? Must they also fill the land with violence and continually arouse my anger? Look at them putting the branch to their nose<note type="translation">The meaning of this phrase is uncertain, possibly referring to a ritual gesture</note>!</verse>
+      
+      <verse osisID="Ezek.8.18">Therefore I will deal with them in anger; I will not look on them with pity or spare them. Although they shout in my ears, I will not listen to them."</verse>
+      
+      <chapter eID="Ezek.8"/>
+      
+      <chapter osisID="Ezek.9" sID="Ezek.9"/>
+      <title type="main">The Slaughter of the Idolaters</title>
+      
+      <verse osisID="Ezek.9.1">Then I heard him call out in a loud voice, "Bring near those who are appointed to execute judgment on the city, each with a weapon in his hand."</verse>
+      
+      <verse osisID="Ezek.9.2">And I saw six men coming from the direction of the upper gate, which faces north, each with a deadly weapon in his hand. With them was a man clothed in linen who had a writing kit at his side. They came in and stood beside the bronze altar.</verse>
+      
+      <verse osisID="Ezek.9.3">Now the glory of the God of Israel went up from above the cherubim, where it had been, and moved to the threshold of the temple. Then Yahweh called to the man clothed in linen who had the writing kit at his side</verse>
+      
+      <verse osisID="Ezek.9.4">and said to him, "Go throughout the city of Jerusalem and put a mark on the foreheads of those who grieve and lament over all the detestable things that are done in it."</verse>
+      
+      <verse osisID="Ezek.9.5">As I listened, he said to the others, "Follow him through the city and kill, without showing pity or compassion.</verse>
+      
+      <verse osisID="Ezek.9.6">Slaughter the old men, the young men and women, the mothers and children, but do not touch anyone who has the mark. Begin at my sanctuary." So they began with the old men who were in front of the temple.</verse>
+      
+      <verse osisID="Ezek.9.7">Then he said to them, "Defile the temple and fill the courts with the slain. Go!" So they went out and began killing throughout the city.</verse>
+      
+      <verse osisID="Ezek.9.8">While they were killing and I was left alone, I fell facedown, crying out, "Sovereign Yahweh! Are you going to destroy the entire remnant of Israel in this outpouring of your wrath on Jerusalem?"</verse>
+      
+      <verse osisID="Ezek.9.9">He answered me, "The sin of the people of Israel and Judah is exceedingly great; the land is full of bloodshed and the city is full of injustice. They say, 'Yahweh has forsaken the land; Yahweh does not see.'</verse>
+      
+      <verse osisID="Ezek.9.10">So I will not look on them with pity or spare them, but I will bring down on their own heads what they have done."</verse>
+      
+      <verse osisID="Ezek.9.11">Then the man in linen with the writing kit at his side brought back word, saying, "I have done as you commanded."</verse>
+      
+      <chapter eID="Ezek.9"/>
+      
+      <chapter osisID="Ezek.10" sID="Ezek.10"/>
+      <title type="main">God's Glory Departs from the Temple</title>
+      
+      <verse osisID="Ezek.10.1">I looked, and I saw the likeness of a throne of lapis lazuli above the expanse that was over the heads of the cherubim.</verse>
+      
+      <verse osisID="Ezek.10.2">Yahweh said to the man clothed in linen, "Go in among the wheels beneath the cherubim. Fill your hands with burning coals from among the cherubim and scatter them over the city." And as I watched, he went in.</verse>
+      
+      <verse osisID="Ezek.10.3">Now the cherubim were standing on the south side of the temple when the man went in, and a cloud filled the inner court.</verse>
+      
+      <verse osisID="Ezek.10.4">Then the glory of Yahweh rose from above the cherubim and moved to the threshold of the temple. The cloud filled the temple, and the court was full of the radiance of the glory of Yahweh.</verse>
+      
+      <verse osisID="Ezek.10.5">The sound of the wings of the cherubim could be heard as far away as the outer court, like the voice of God Almighty when he speaks.</verse>
+      
+      <verse osisID="Ezek.10.6">When Yahweh commanded the man in linen, "Take fire from among the wheels, from among the cherubim," the man went in and stood beside a wheel.</verse>
+      
+      <verse osisID="Ezek.10.7">Then one of the cherubim reached out his hand to the fire that was among them. He took up some of it and put it into the hands of the man in linen, who took it and went out.</verse>
+      
+      <verse osisID="Ezek.10.8">(Under the wings of the cherubim could be seen what looked like human hands.)</verse>
+      
+      <title type="sub">The Cherubim and the Wheels</title>
+      
+      <verse osisID="Ezek.10.9">I looked, and I saw beside the cherubim four wheels, one beside each of the cherubim; the wheels sparkled like topaz.</verse>
+      
+      <verse osisID="Ezek.10.10">As for their appearance, the four of them looked alike; each was like a wheel intersecting a wheel.</verse>
+      
+      <verse osisID="Ezek.10.11">As they moved, they would go in any one of the four directions the cherubim faced; the wheels did not turn about as the cherubim went. The cherubim went in whatever direction the head faced, without turning as they went.</verse>
+      
+      <verse osisID="Ezek.10.12">Their entire bodies, including their backs, their hands and their wings, were completely full of eyes, as were their four wheels.</verse>
+      
+      <verse osisID="Ezek.10.13">I heard the wheels being called "the whirling wheels."</verse>
+      
+      <verse osisID="Ezek.10.14">Each of the cherubim had four faces: One face was that of a cherub, the second the face of a human being, the third the face of a lion, and the fourth the face of an eagle.</verse>
+      
+      <verse osisID="Ezek.10.15">Then the cherubim rose upward. These were the living creatures I had seen by the Kebar River.</verse>
+      
+      <verse osisID="Ezek.10.16">When the cherubim moved, the wheels beside them moved; and when the cherubim spread their wings to rise from the ground, the wheels did not leave their side.</verse>
+      
+      <verse osisID="Ezek.10.17">When the cherubim stood still, they also stood still; and when the cherubim rose, they rose with them, because the spirit of the living creatures was in them.</verse>
+      
+      <title type="sub">The Glory of Yahweh Leaves the Temple</title>
+      
+      <verse osisID="Ezek.10.18">Then the glory of Yahweh departed from over the threshold of the temple and stopped above the cherubim.</verse>
+      
+      <verse osisID="Ezek.10.19">While I watched, the cherubim spread their wings and rose from the ground, and as they went, the wheels went with them. They stopped at the entrance of the east gate of Yahweh's house, and the glory of the God of Israel was above them.</verse>
+      
+      <verse osisID="Ezek.10.20">These were the living creatures I had seen beneath the God of Israel by the Kebar River, and I realized that they were cherubim.</verse>
+      
+      <verse osisID="Ezek.10.21">Each had four faces and four wings, and under their wings was what looked like human hands.</verse>
+      
+      <verse osisID="Ezek.10.22">Their faces had the same appearance as those I had seen by the Kebar River. Each one went straight ahead.</verse>
+      
+      <chapter eID="Ezek.10"/>
+      
+    </div>
+  </osisText>
+</osis>
