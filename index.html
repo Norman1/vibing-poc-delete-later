@@ -399,12 +399,17 @@
                         html += `<div class="chapter-title">Chapter ${chapterNum}</div>`;
                         
                         // Find all verses between this sID and the matching eID
-                        const chapterEnd = xmlDoc.querySelector(`chapter[eID="${chapterId}"]`);
-                        let currentNode = chapterStart.nextSibling;
+                        let currentNode = chapterStart.nextElementSibling;
                         
-                        while (currentNode && currentNode !== chapterEnd) {
-                            if (currentNode.nodeType === Node.ELEMENT_NODE && 
-                                currentNode.nodeName === 'verse' && 
+                        while (currentNode) {
+                            // Check if we've reached the end marker for this chapter
+                            if (currentNode.nodeName === 'chapter' && 
+                                currentNode.getAttribute('eID') === chapterId) {
+                                break;
+                            }
+                            
+                            // Process verse elements
+                            if (currentNode.nodeName === 'verse' && 
                                 currentNode.getAttribute('osisID')) {
                                 
                                 const verseId = currentNode.getAttribute('osisID');
@@ -433,7 +438,8 @@
                                 
                                 html += `</div>`;
                             }
-                            currentNode = currentNode.nextSibling;
+                            
+                            currentNode = currentNode.nextElementSibling;
                         }
                         
                         html += `</div>`;
