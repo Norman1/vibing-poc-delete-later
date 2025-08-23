@@ -17,8 +17,9 @@
     <div type="book" osisID="2Sam" canonical="true">
       <title>Second Book of Samuel</title>
       
-      <chapter osisID="2Sam.1" sID="2Sam.1"/>
-      <title type="sub">David Learns of Saul's Death</title>
+      <chapter osisID="2Sam.1">
+        <title type="chapter">Chapter 1</title>
+        <title type="sub">David Learns of Saul's Death</title>
       <verse osisID="2Sam.1.1">After the death of Saul, David returned from striking down the Amalekites and stayed in Ziklag two days.</verse>
       <verse osisID="2Sam.1.2">On the third day a man arrived from Saul's camp with his clothes torn and dust on his head. When he came to David, he fell to the ground to pay him honor.</verse>
       <verse osisID="2Sam.1.3">"Where have you come from?" David asked him. He answered, "I have escaped from the Israelite camp."</verse>
@@ -48,9 +49,10 @@
       <verse osisID="2Sam.1.25">How the mighty have fallen in battle! Jonathan lies slain on your heights.</verse>
       <verse osisID="2Sam.1.26">I grieve for you, Jonathan my brother; you were very dear to me. Your love for me was wonderful, more wonderful than that of women.</verse>
       <verse osisID="2Sam.1.27">How the mighty have fallen! The weapons of war have perished!"</verse>
-      <chapter eID="2Sam.1"/>
+      </chapter>
 
-      <chapter osisID="2Sam.2" sID="2Sam.2"/>
+      <chapter osisID="2Sam.2">
+        <title type="chapter">Chapter 2</title>
       <title type="sub">David Anointed King Over Judah</title>
       <verse osisID="2Sam.2.1">In the course of time, David inquired of Yahweh. "Shall I go up to one of the towns of Judah?" he asked. Yahweh said, "Go up." David asked, "Where shall I go?" "To Hebron," Yahweh answered.</verse>
       <verse osisID="2Sam.2.2">So David went up there with his two wives, Ahinoam of Jezreel and Abigail, the widow of Nabal of Carmel.</verse>
@@ -86,9 +88,10 @@
       <verse osisID="2Sam.2.30">Then Joab stopped pursuing Abner and assembled the whole army. Besides Asahel, nineteen of David's men were found missing.</verse>
       <verse osisID="2Sam.2.31">But David's men had killed three hundred and sixty Benjamites who were with Abner.</verse>
       <verse osisID="2Sam.2.32">They took Asahel and buried him in his father's tomb at Bethlehem. Then Joab and his men marched all night and arrived at Hebron by daybreak.</verse>
-      <chapter eID="2Sam.2"/>
+      </chapter>
 
-      <chapter osisID="2Sam.3" sID="2Sam.3"/>
+      <chapter osisID="2Sam.3">
+        <title type="chapter">Chapter 3</title>
       <title type="sub">Abner Defects to David</title>
       <verse osisID="2Sam.3.1">The war between the house of Saul and the house of David lasted a long time. David grew stronger and stronger, while the house of Saul grew weaker and weaker.</verse>
       <verse osisID="2Sam.3.2">Sons were born to David in Hebron: His firstborn was Amnon the son of Ahinoam of Jezreel;</verse>
@@ -131,9 +134,10 @@
       <verse osisID="2Sam.3.37">So on that day all the people there and all Israel knew that the king had no part in the murder of Abner son of Ner.</verse>
       <verse osisID="2Sam.3.38">Then the king said to his men, "Do you not realize that a commander and a great man has fallen in Israel this day?</verse>
       <verse osisID="2Sam.3.39">And today, though I am the anointed king, I am weak, and these sons of Zeruiah are too strong for me. May Yahweh repay the evildoer according to his evil deeds!"</verse>
-      <chapter eID="2Sam.3"/>
+      </chapter>
 
-      <chapter osisID="2Sam.4" sID="2Sam.4"/>
+      <chapter osisID="2Sam.4">
+        <title type="chapter">Chapter 4</title>
       <title type="sub">Ish-Bosheth Murdered</title>
       <verse osisID="2Sam.4.1">When Ish-Bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel became alarmed.</verse>
       <verse osisID="2Sam.4.2">Now Saul's son had two men who were leaders of raiding bands. One was named Baanah and the other Rekab; they were sons of Rimmon the Beerothite from the tribe of Benjamin—Beeroth is considered part of Benjamin,</verse>
@@ -147,9 +151,10 @@
       <verse osisID="2Sam.4.10">when someone told me, 'Saul is dead,' and thought he was bringing good news, I seized him and put him to death in Ziklag. That was the reward I gave him for his news!</verse>
       <verse osisID="2Sam.4.11">How much more—when wicked men have killed an innocent man in his own house and on his own bed—should I not now demand his blood from your hand and rid the earth of you!"</verse>
       <verse osisID="2Sam.4.12">So David gave an order to his men, and they killed them. They cut off their hands and feet and hung the bodies by the pool in Hebron. But they took the head of Ish-Bosheth and buried it in Abner's tomb at Hebron.</verse>
-      <chapter eID="2Sam.4"/>
+      </chapter>
 
-      <chapter osisID="2Sam.5" sID="2Sam.5"/>
+      <chapter osisID="2Sam.5">
+        <title type="chapter">Chapter 5</title>
       <title type="sub">David Becomes King Over Israel</title>
       <verse osisID="2Sam.5.1">All the tribes of Israel came to David at Hebron and said, "We are your own flesh and blood.</verse>
       <verse osisID="2Sam.5.2">In the past, while Saul was king over us, you were the one who led Israel on their military campaigns. And Yahweh said to you, 'You will shepherd my people Israel, and you will become their ruler.'"</verse>
@@ -180,9 +185,10 @@
       <verse osisID="2Sam.5.23">so David inquired of Yahweh, and he answered, "Do not go straight up, but circle around behind them and attack them in front of the poplar trees.</verse>
       <verse osisID="2Sam.5.24">As soon as you hear the sound of marching in the tops of the poplar trees, move quickly, because that will mean Yahweh has gone out in front of you to strike the Philistine army."</verse>
       <verse osisID="2Sam.5.25">So David did as Yahweh commanded him, and he struck down the Philistines all the way from Geba to Gezer.</verse>
-      <chapter eID="2Sam.5"/>
+      </chapter>
 
-      <chapter osisID="2Sam.6" sID="2Sam.6"/>
+      <chapter osisID="2Sam.6">
+        <title type="chapter">Chapter 6</title>
       <title type="sub">The Ark Brought to Jerusalem</title>
       <verse osisID="2Sam.6.1">David again brought together all the able young men of Israel—thirty thousand.</verse>
       <verse osisID="2Sam.6.2">He and all his men went to Baalah in Judah to bring up from there the ark of God, which is called by the Name, the name of Yahweh Almighty, who is enthroned between the cherubim on the ark.</verse>
@@ -207,9 +213,10 @@
       <verse osisID="2Sam.6.21">David said to Michal, "It was before Yahweh, who chose me rather than your father or anyone from his house when he appointed me ruler over Yahweh's people Israel—I will celebrate before Yahweh.</verse>
       <verse osisID="2Sam.6.22">I will become even more undignified than this, and I will be humiliated in my own eyes. But by these slave girls you spoke of, I will be held in honor."</verse>
       <verse osisID="2Sam.6.23">And Michal daughter of Saul had no children to the day of her death.</verse>
-      <chapter eID="2Sam.6"/>
+      </chapter>
 
-      <chapter osisID="2Sam.7" sID="2Sam.7"/>
+      <chapter osisID="2Sam.7">
+        <title type="chapter">Chapter 7</title>
       <title type="sub">God's Covenant with David</title>
       <verse osisID="2Sam.7.1">After the king was settled in his palace and Yahweh had given him rest from all his enemies around him,</verse>
       <verse osisID="2Sam.7.2">he said to Nathan the prophet, "Here I am, living in a house of cedar, while the ark of God remains in a tent."</verse>
@@ -242,9 +249,10 @@
       <verse osisID="2Sam.7.27">Yahweh Almighty, God of Israel, you have revealed this to your servant, saying, 'I will build a house for you.' So your servant has found courage to pray this prayer to you.</verse>
       <verse osisID="2Sam.7.28">Sovereign Yahweh, you are God! Your covenant is trustworthy, and you have promised these good things to your servant.</verse>
       <verse osisID="2Sam.7.29">Now be pleased to bless the house of your servant, that it may continue forever in your sight; for you, Sovereign Yahweh, have spoken, and with your blessing the house of your servant will be blessed forever."</verse>
-      <chapter eID="2Sam.7"/>
+      </chapter>
 
-      <chapter osisID="2Sam.8" sID="2Sam.8"/>
+      <chapter osisID="2Sam.8">
+        <title type="chapter">Chapter 8</title>
       <title type="sub">David's Victories</title>
       <verse osisID="2Sam.8.1">In the course of time, David defeated the Philistines and subdued them, and he took Metheg Ammah from the control of the Philistines.</verse>
       <verse osisID="2Sam.8.2">David also defeated the Moabites. He made them lie down on the ground and measured them off with a length of cord. Every two lengths of them were put to death, and the third length was allowed to live. So the Moabites became subject to David and brought him tribute.</verse>
@@ -266,9 +274,10 @@
       <verse osisID="2Sam.8.16">Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was recorder;</verse>
       <verse osisID="2Sam.8.17">Zadok son of Ahitub and Ahimelek son of Abiathar were priests; Seraiah was secretary;</verse>
       <verse osisID="2Sam.8.18">Benaiah son of Jehoiada was over the Kerethites and Pelethites; and David's sons were priests.</verse>
-      <chapter eID="2Sam.8"/>
+      </chapter>
 
-      <chapter osisID="2Sam.9" sID="2Sam.9"/>
+      <chapter osisID="2Sam.9">
+        <title type="chapter">Chapter 9</title>
       <title type="sub">David and Mephibosheth</title>
       <verse osisID="2Sam.9.1">David asked, "Is there anyone still left of the house of Saul to whom I can show kindness for Jonathan's sake?"</verse>
       <verse osisID="2Sam.9.2">Now there was a servant of Saul's household named Ziba. They summoned him to appear before David, and the king said to him, "Are you Ziba?" "At your service," he replied.</verse>
@@ -283,9 +292,10 @@
       <verse osisID="2Sam.9.11">Then Ziba said to the king, "Your servant will do whatever my lord the king commands his servant to do." So Mephibosheth ate at David's table like one of the king's sons.</verse>
       <verse osisID="2Sam.9.12">Mephibosheth had a young son named Mika, and all the members of Ziba's household were servants of Mephibosheth.</verse>
       <verse osisID="2Sam.9.13">And Mephibosheth lived in Jerusalem, because he always ate at the king's table; he was lame in both feet.</verse>
-      <chapter eID="2Sam.9"/>
+      </chapter>
 
-      <chapter osisID="2Sam.10" sID="2Sam.10"/>
+      <chapter osisID="2Sam.10">
+        <title type="chapter">Chapter 10</title>
       <title type="sub">David Defeats the Ammonites</title>
       <verse osisID="2Sam.10.1">In the course of time, the king of the Ammonites died, and his son Hanun succeeded him as king.</verse>
       <verse osisID="2Sam.10.2">David thought, "I will show kindness to Hanun son of Nahash, just as his father showed kindness to me." So David sent a delegation to express his sympathy to Hanun concerning his father. When David's men came to the land of the Ammonites,</verse>
@@ -306,9 +316,10 @@
       <verse osisID="2Sam.10.17">When David was told of this, he gathered all Israel, crossed the Jordan and went to Helam. The Arameans formed their battle lines to meet David and fought against him.</verse>
       <verse osisID="2Sam.10.18">But they fled before Israel, and David killed seven hundred of their charioteers and forty thousand of their foot soldiers. He also struck down Shobach the commander of their army, and he died there.</verse>
       <verse osisID="2Sam.10.19">When all the kings who were vassals of Hadadezer saw that they had been routed by Israel, they made peace with the Israelites and became subject to them. So the Arameans were afraid to help the Ammonites anymore.</verse>
-      <chapter eID="2Sam.10"/>
+      </chapter>
 
-      <chapter osisID="2Sam.11" sID="2Sam.11"/>
+      <chapter osisID="2Sam.11">
+        <title type="chapter">Chapter 11</title>
       <title type="sub">David and Bathsheba</title>
       <verse osisID="2Sam.11.1">In the spring, at the time when kings go off to war, David sent Joab out with the king's men and the whole Israelite army. They destroyed the Ammonites and besieged Rabbah. But David remained in Jerusalem.</verse>
       <verse osisID="2Sam.11.2">One evening David got up from his bed and walked around on the roof of the palace. From the roof he saw a woman bathing. The woman was very beautiful,</verse>
@@ -337,9 +348,10 @@
       <verse osisID="2Sam.11.25">David told the messenger, "Say this to Joab: 'Don't let this upset you; the sword devours one as well as another. Press the attack against the city and destroy it.' Say this to encourage him."</verse>
       <verse osisID="2Sam.11.26">When Uriah's wife heard that her husband was dead, she mourned for him.</verse>
       <verse osisID="2Sam.11.27">After the time of mourning was over, David had her brought to his house, and she became his wife and bore him a son. But the thing David had done displeased Yahweh.</verse>
-      <chapter eID="2Sam.11"/>
+      </chapter>
 
-      <chapter osisID="2Sam.12" sID="2Sam.12"/>
+      <chapter osisID="2Sam.12">
+        <title type="chapter">Chapter 12</title>
       <title type="sub">Nathan Rebukes David</title>
       <verse osisID="2Sam.12.1">Yahweh sent Nathan to David. When he came to him, he said, "There were two men in a certain town, one rich and the other poor.</verse>
       <verse osisID="2Sam.12.2">The rich man had a very large number of sheep and cattle,</verse>
@@ -372,9 +384,10 @@
       <verse osisID="2Sam.12.29">So David mustered the entire army and went to Rabbah, and attacked and captured it.</verse>
       <verse osisID="2Sam.12.30">David took the crown from their king's head, and it was placed on his own head. It weighed about 75 pounds and was set with precious stones. David took a great quantity of plunder from the city</verse>
       <verse osisID="2Sam.12.31">and brought out the people who were there, consigning them to labor with saws and with iron picks and axes, and he made them work at brickmaking. David did this to all the Ammonite towns. Then he and his entire army returned to Jerusalem.</verse>
-      <chapter eID="2Sam.12"/>
+      </chapter>
 
-      <chapter osisID="2Sam.13" sID="2Sam.13"/>
+      <chapter osisID="2Sam.13">
+        <title type="chapter">Chapter 13</title>
       <title type="sub">Amnon and Tamar</title>
       <verse osisID="2Sam.13.1">In the course of time, Amnon son of David fell in love with Tamar, the beautiful sister of Absalom son of David.</verse>
       <verse osisID="2Sam.13.2">Amnon became so obsessed with his sister Tamar that he made himself ill. She was a virgin, and it seemed impossible for him to do anything to her.</verse>
@@ -417,9 +430,10 @@
       <verse osisID="2Sam.13.37">Absalom fled and went to Talmai son of Ammihud, the king of Geshur. But King David mourned for his son every day.</verse>
       <verse osisID="2Sam.13.38">After Absalom fled and went to Geshur, he stayed there three years.</verse>
       <verse osisID="2Sam.13.39">And King David longed to go to Absalom, for he was consoled concerning Amnon's death.</verse>
-      <chapter eID="2Sam.13"/>
+      </chapter>
 
-      <chapter osisID="2Sam.14" sID="2Sam.14"/>
+      <chapter osisID="2Sam.14">
+        <title type="chapter">Chapter 14</title>
       <title type="sub">Absalom Returns to Jerusalem</title>
       <verse osisID="2Sam.14.1">Joab son of Zeruiah knew that the king's heart longed for Absalom.</verse>
       <verse osisID="2Sam.14.2">So Joab sent someone to Tekoa and had a wise woman brought from there. He said to her, "Pretend you are in mourning. Dress in mourning clothes, and don't use any cosmetic lotions. Act like a woman who has spent many days grieving for the dead.</verse>
@@ -454,9 +468,10 @@
       <verse osisID="2Sam.14.31">Then Joab did go to Absalom's house, and he said to him, "Why have your servants set my field on fire?"</verse>
       <verse osisID="2Sam.14.32">Absalom said to Joab, "Look, I sent word to you and said, 'Come here so I can send you to the king to ask, "Why have I come from Geshur? It would be better for me if I were still there!"' Now then, I want to see the king's face, and if I am guilty of anything, let him put me to death."</verse>
       <verse osisID="2Sam.14.33">So Joab went to the king and told him this. Then the king summoned Absalom, and he came in and bowed down with his face to the ground before the king. And the king kissed Absalom.</verse>
-      <chapter eID="2Sam.14"/>
+      </chapter>
 
-      <chapter osisID="2Sam.15" sID="2Sam.15"/>
+      <chapter osisID="2Sam.15">
+        <title type="chapter">Chapter 15</title>
       <title type="sub">Absalom's Conspiracy</title>
       <verse osisID="2Sam.15.1">In the course of time, Absalom provided himself with a chariot and horses and with fifty men to run ahead of him.</verse>
       <verse osisID="2Sam.15.2">He would get up early and stand by the side of the road leading to the city gate. Whenever anyone came with a complaint to be placed before the king for a decision, Absalom would call out to him, "What town are you from?" He would answer, "Your servant is from one of the tribes of Israel."</verse>
@@ -497,9 +512,10 @@
       <verse osisID="2Sam.15.35">Won't the priests Zadok and Abiathar be there with you? Tell them anything you hear in the king's palace.</verse>
       <verse osisID="2Sam.15.36">Their two sons, Ahimaaz son of Zadok and Jonathan son of Abiathar, are there with them. Send them to me with anything you hear."</verse>
       <verse osisID="2Sam.15.37">So Hushai, David's confidant, arrived at Jerusalem as Absalom was entering the city.</verse>
-      <chapter eID="2Sam.15"/>
+      </chapter>
 
-      <chapter osisID="2Sam.16" sID="2Sam.16"/>
+      <chapter osisID="2Sam.16">
+        <title type="chapter">Chapter 16</title>
       <title type="sub">David and Ziba</title>
       <verse osisID="2Sam.16.1">When David had gone a short distance beyond the summit, there was Ziba, the steward of Mephibosheth, waiting to meet him. He had a string of donkeys saddled and loaded with two hundred loaves of bread, a hundred cakes of raisins, a hundred cakes of figs and a skin of wine.</verse>
       <verse osisID="2Sam.16.2">The king asked Ziba, "Why have you brought these?" Ziba answered, "The donkeys are for the king's household to ride on, the bread and fruit are for the men to eat, and the wine is to refresh those who become exhausted in the wilderness."</verse>
@@ -528,9 +544,10 @@
       <verse osisID="2Sam.16.21">Ahithophel answered, "Sleep with your father's concubines whom he left to take care of the palace. Then all Israel will hear that you have made yourself obnoxious to your father, and the hands of everyone with you will be more resolute."</verse>
       <verse osisID="2Sam.16.22">So they pitched a tent for Absalom on the roof, and he slept with his father's concubines in the sight of all Israel.</verse>
       <verse osisID="2Sam.16.23">Now in those days the advice Ahithophel gave was like that of one who inquires of God. That was how both David and Absalom regarded all of Ahithophel's advice.</verse>
-      <chapter eID="2Sam.16"/>
+      </chapter>
 
-      <chapter osisID="2Sam.17" sID="2Sam.17"/>
+      <chapter osisID="2Sam.17">
+        <title type="chapter">Chapter 17</title>
       <verse osisID="2Sam.17.1">Ahithophel said to Absalom, "I would choose twelve thousand men and set out tonight in pursuit of David.</verse>
       <verse osisID="2Sam.17.2">I would attack him while he is weary and weak. I would strike him with terror, and then all the people with him will flee. I would strike down only the king</verse>
       <verse osisID="2Sam.17.3">and bring all the people back to you. The death of the man you seek will mean the return of all; all the people will be unharmed."</verse>
@@ -560,9 +577,10 @@
       <verse osisID="2Sam.17.27">When David came to Mahanaim, Shobi son of Nahash from Rabbah of the Ammonites, and Makir son of Ammiel from Lo Debar, and Barzillai the Gileadite from Rogelim</verse>
       <verse osisID="2Sam.17.28">brought bedding and bowls and articles of pottery. They also brought wheat and barley, flour and roasted grain, beans and lentils,</verse>
       <verse osisID="2Sam.17.29">honey and curds, sheep, and cheese from cows' milk for David and his people to eat. For they said, "The people have become exhausted and hungry and thirsty in the wilderness."</verse>
-      <chapter eID="2Sam.17"/>
+      </chapter>
 
-      <chapter osisID="2Sam.18" sID="2Sam.18"/>
+      <chapter osisID="2Sam.18">
+        <title type="chapter">Chapter 18</title>
       <title type="sub">Absalom's Death</title>
       <verse osisID="2Sam.18.1">David mustered the men who were with him and appointed over them commanders of thousands and commanders of hundreds.</verse>
       <verse osisID="2Sam.18.2">David sent out his troops, a third under the command of Joab, a third under Joab's brother Abishai son of Zeruiah, and a third under Ittai the Gittite. The king told the troops, "I myself will surely march out with you."</verse>
@@ -599,9 +617,10 @@
       <verse osisID="2Sam.18.31">Then the Cushite arrived and said, "My lord the king, hear the good news! Yahweh has vindicated you today by delivering you from the hand of all who rose up against you."</verse>
       <verse osisID="2Sam.18.32">The king asked the Cushite, "Is the young man Absalom safe?" The Cushite replied, "May the enemies of my lord the king and all who rise up to harm you be like that young man."</verse>
       <verse osisID="2Sam.18.33">The king was shaken. He went up to the room over the gateway and wept. As he went, he said: "O my son Absalom! My son, my son Absalom! If only I had died instead of you—O Absalom, my son, my son!"</verse>
-      <chapter eID="2Sam.18"/>
+      </chapter>
 
-      <chapter osisID="2Sam.19" sID="2Sam.19"/>
+      <chapter osisID="2Sam.19">
+        <title type="chapter">Chapter 19</title>
       <title type="sub">David Returns to Jerusalem</title>
       <verse osisID="2Sam.19.1">Joab was told, "The king is weeping and mourning for Absalom."</verse>
       <verse osisID="2Sam.19.2">And for the whole army the victory that day was turned into mourning, because on that day the troops heard it said, "The king is grieving for his son."</verse>
@@ -646,9 +665,10 @@
       <verse osisID="2Sam.19.41">Soon all the men of Israel were coming to the king and saying to him, "Why did our brothers, the men of Judah, steal the king away and bring him and his household across the Jordan, together with all his men?"</verse>
       <verse osisID="2Sam.19.42">All the men of Judah answered the men of Israel, "We did this because the king is closely related to us. Why are you angry about it? Have we eaten any of the king's provisions? Have we taken anything for ourselves?"</verse>
       <verse osisID="2Sam.19.43">Then the men of Israel answered the men of Judah, "We have ten shares in the king; so we have a greater claim on David than you have. Why then do you treat us with contempt? Weren't we the first to speak of bringing back our king?" But the men of Judah pressed their claims even more forcefully than the men of Israel.</verse>
-      <chapter eID="2Sam.19"/>
+      </chapter>
 
-      <chapter osisID="2Sam.20" sID="2Sam.20"/>
+      <chapter osisID="2Sam.20">
+        <title type="chapter">Chapter 20</title>
       <title type="sub">Sheba Rebels Against David</title>
       <verse osisID="2Sam.20.1">Now a troublemaker named Sheba son of Bikri, a Benjamite, happened to be there. He sounded the trumpet and shouted, "We have no share in David, no part in Jesse's son! Every man to his tent, Israel!"</verse>
       <verse osisID="2Sam.20.2">So all the men of Israel deserted David to follow Sheba son of Bikri. But the men of Judah stayed by their king all the way from the Jordan to Jerusalem.</verse>
@@ -676,9 +696,10 @@
       <verse osisID="2Sam.20.24">Adoniram was in charge of forced labor; Jehoshaphat son of Ahilud was recorder;</verse>
       <verse osisID="2Sam.20.25">Sheva was secretary; Zadok and Abiathar were priests;</verse>
       <verse osisID="2Sam.20.26">and Ira the Jairite was David's priest.</verse>
-      <chapter eID="2Sam.20"/>
+      </chapter>
 
-      <chapter osisID="2Sam.21" sID="2Sam.21"/>
+      <chapter osisID="2Sam.21">
+        <title type="chapter">Chapter 21</title>
       <title type="sub">The Gibeonites Avenged</title>
       <verse osisID="2Sam.21.1">During the reign of David, there was a famine for three successive years; so David sought the face of Yahweh. Yahweh said, "It is on account of Saul and his blood-stained house; it is because he put the Gibeonites to death."</verse>
       <verse osisID="2Sam.21.2">The king summoned the Gibeonites and spoke to them. (Now the Gibeonites were not a part of Israel but were survivors of the Amorites; the Israelites had sworn to spare them, but Saul in his zeal for Israel and Judah had tried to annihilate them.)</verse>
@@ -704,9 +725,10 @@
       <verse osisID="2Sam.21.20">In still another battle, which took place at Gath, there was a huge man with six fingers on each hand and six toes on each foot—twenty-four in all. He also was descended from Rapha.</verse>
       <verse osisID="2Sam.21.21">When he taunted Israel, Jonathan son of Shimeah, David's brother, killed him.</verse>
       <verse osisID="2Sam.21.22">These four were descendants of Rapha in Gath, and they fell at the hands of David and his men.</verse>
-      <chapter eID="2Sam.21"/>
+      </chapter>
 
-      <chapter osisID="2Sam.22" sID="2Sam.22"/>
+      <chapter osisID="2Sam.22">
+        <title type="chapter">Chapter 22</title>
       <title type="sub">David's Song of Praise</title>
       <verse osisID="2Sam.22.1">David sang to Yahweh the words of this song when Yahweh delivered him from the hand of all his enemies and from the hand of Saul.</verse>
       <verse osisID="2Sam.22.2">He said: "Yahweh is my rock, my fortress and my deliverer;</verse>
@@ -759,9 +781,10 @@
       <verse osisID="2Sam.22.49">who sets me free from my enemies. You exalted me above my foes; from a violent man you rescued me.</verse>
       <verse osisID="2Sam.22.50">Therefore I will praise you, Yahweh, among the nations; I will sing the praises of your name.</verse>
       <verse osisID="2Sam.22.51">He gives his king great victories; he shows unfailing kindness to his anointed, to David and his descendants forever."</verse>
-      <chapter eID="2Sam.22"/>
+      </chapter>
 
-      <chapter osisID="2Sam.23" sID="2Sam.23"/>
+      <chapter osisID="2Sam.23">
+        <title type="chapter">Chapter 23</title>
       <title type="sub">David's Last Words</title>
       <verse osisID="2Sam.23.1">These are the last words of David: "The inspired utterance of David son of Jesse, the utterance of the man exalted by the Most High, the man anointed by the God of Jacob, the hero of Israel's songs:</verse>
       <verse osisID="2Sam.23.2">The Spirit of Yahweh spoke through me; his word was on my tongue.</verse>
@@ -804,9 +827,10 @@
       <verse osisID="2Sam.23.37">Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah,</verse>
       <verse osisID="2Sam.23.38">Ira the Ithrite, Gareb the Ithrite</verse>
       <verse osisID="2Sam.23.39">and Uriah the Hittite. There were thirty-seven in all.</verse>
-      <chapter eID="2Sam.23"/>
+      </chapter>
 
-      <chapter osisID="2Sam.24" sID="2Sam.24"/>
+      <chapter osisID="2Sam.24">
+        <title type="chapter">Chapter 24</title>
       <title type="sub">David Counts the Fighting Men</title>
       <verse osisID="2Sam.24.1">Again the anger of Yahweh burned against Israel, and he incited David against them, saying, "Go and take a census of Israel and Judah."</verse>
       <verse osisID="2Sam.24.2">So the king said to Joab and the army commanders with him, "Go throughout the tribes of Israel from Dan to Beersheba and enroll the fighting men, so that I may know how many there are."</verse>
@@ -835,7 +859,7 @@
       <verse osisID="2Sam.24.23">Your Majesty, Araunah gives all this to the king." Araunah also said to him, "May Yahweh your God accept you."</verse>
       <verse osisID="2Sam.24.24">But the king replied to Araunah, "No, I insist on paying you for it. I will not sacrifice to Yahweh my God burnt offerings that cost me nothing." So David bought the threshing floor and the oxen and paid fifty shekels of silver for them.</verse>
       <verse osisID="2Sam.24.25">David built an altar to Yahweh there and sacrificed burnt offerings and fellowship offerings. Then Yahweh answered prayer in behalf of the land, and the plague on Israel was stopped.</verse>
-      <chapter eID="2Sam.24"/>
+      </chapter>
     </div>
   </osisText>
 </osis>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="DUMMY" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <revisionDesc resp="Sample Author">
+        <date>2025-08-23</date>
+        <p>Sample revision description paragraph</p>
+      </revisionDesc>
+      <work osisWork="DUMMY">
+        <title>Dummy OSIS Sample Document</title>
+        <contributor role="aut">Sample Author Name</contributor>
+        <contributor role="edt">Sample Editor Name</contributor>
+        <creator role="aut">Sample Creator Name</creator>
+        <subject>Sample Subject</subject>
+        <date>2025-08-23</date>
+        <description>Sample description of this work</description>
+        <publisher>Sample Publisher</publisher>
+        <type type="OSIS">Bible</type>
+        <format>text/xml</format>
+        <identifier type="OSIS">Bible.DUMMY</identifier>
+        <source>Sample Source Text</source>
+        <language type="ISO-639-2">eng</language>
+        <relation>Sample Relation</relation>
+        <coverage>Sample Coverage</coverage>
+        <rights type="x-copyright">Public Domain</rights>
+        <scope>Dummy</scope>
+        <castList>
+          <castGroup>
+            <castItem>
+              <actor>Sample Actor</actor>
+              <role>Sample Role</role>
+              <roleDesc>Sample Role Description</roleDesc>
+            </castItem>
+          </castGroup>
+        </castList>
+        <teiHeader><p>Sample TEI Header Content</p></teiHeader>
+        <refSystem>Bible</refSystem>
+      </work>
+      <workPrefix path="//w/@lemma" osisWork="strong"/>
+      <workPrefix path="//w/@morph" osisWork="robinson"/>
+    </header>
+    
+    <titlePage>
+      <title type="main">Sample Main Title</title>
+      <title type="sub">Sample Subtitle</title>
+      <contributor>Sample Contributor on Title Page</contributor>
+      <publisher>Sample Publisher on Title Page</publisher>
+    </titlePage>
+    
+    <div type="book" osisID="Dummy" canonical="true">
+      <title type="main">Book of Dummy</title>
+      <title type="runningHead">Dummy</title>
+      
+      <div type="majorSection">
+        <title type="main">Sample Major Section Title</title>
+        <title type="sub">Sample Major Section Subtitle</title>
+        
+        <div type="section">
+          <title type="x-canonical">Sample Canonical Section Title</title>
+          <title>Sample Section Title</title>
+          <p>Sample paragraph before chapters</p>
+        </div>
+      </div>
+      
+      <chapter osisID="Dummy.1">
+        <title type="chapter">Chapter 1</title>
+        <title type="parallel">Sample Parallel Title</title>
+        <title type="sub">Sample Chapter Subtitle</title>
+        
+        <p type="x-introduction">Sample introduction paragraph for chapter</p>
+        
+        <div type="section">
+          <title>Sample Section Title Before Verses</title>
+          <title type="parallel">Sample Parallel Title</title>
+          <p>Sample paragraph with <catchWord>sample catch word</catchWord> and <figure src="sample.jpg"><caption>Sample Figure Caption</caption></figure>.</p>
+        </div>
+        
+        <verse osisID="Dummy.1.1" sID="Dummy.1.1"/>Sample verse text with <divineName>LORD</divineName> divine name.<verse osisID="Dummy.1.1" eID="Dummy.1.1"/>
+        
+        <verse osisID="Dummy.1.2">Sample verse in container format with <name type="person">Sample Person</name> and <name type="geographic">Sample Place</name>.</verse>
+        
+        <verse osisID="Dummy.1.3">Sample verse with <hi type="bold">bold text</hi> and <hi type="italic">italic text</hi> and <hi type="underline">underlined text</hi>.</verse>
+        
+        <verse osisID="Dummy.1.4">Sample verse with note<note type="study" n="a">Sample study note content</note> and another note<note type="translation">Sample translation note</note>.</verse>
+        
+        <verse osisID="Dummy.1.5">Sample verse with cross-reference <reference osisRef="Gen.1.1">Genesis 1:1</reference> and <reference osisRef="John.1.1">John 1:1</reference>.</verse>
+        
+        <lg>
+          <l level="1">Sample poetry line level 1</l>
+          <l level="2">Sample poetry line level 2</l>
+          <l level="2">Another sample poetry line level 2</l>
+          <l level="1">Back to level 1 poetry</l>
+        </lg>
+        
+        <verse osisID="Dummy.1.6">Sample verse with <foreign xml:lang="heb">עִבְרִית</foreign> Hebrew and <foreign xml:lang="grc">ἑλληνικά</foreign> Greek text.</verse>
+        
+        <verse osisID="Dummy.1.7">Sample verse with word markup: <w lemma="strong:H1234" morph="robinson:N-NSM">word</w> with lemma and morphology.</verse>
+        
+        <verse osisID="Dummy.1.8">
+          <q who="speaker1" marker="&quot;">Sample quoted speech</q>, he said.
+          <q level="2" marker="'">Sample nested quote</q>
+        </verse>
+        
+        <verse osisID="Dummy.1.9">Sample verse with <abbr expansion="abbreviation">abbr.</abbr> and <date>today's date</date>.</verse>
+        
+        <verse osisID="Dummy.1.10">Sample verse with milestone <milestone type="column" n="2"/> indicating column break.</verse>
+        
+        <milestoneStart type="verse" n="1" end="ms1"/>
+        <verse osisID="Dummy.1.10b">Sample verse after milestone start.</verse>
+        <milestoneEnd type="verse" start="ms1"/>
+        
+        <list>
+          <head>Sample List Heading</head>
+          <item><label>1.</label>First sample list item</item>
+          <item><label>2.</label>Second sample list item</item>
+          <item><label>3.</label>Third sample list item</item>
+        </list>
+        
+        <verse osisID="Dummy.1.11">Sample verse with <seg type="keyword">segmented text</seg> for special markup.</verse>
+        
+        <verse osisID="Dummy.1.12">Sample verse with line break<lb/>in the middle of the text.</verse>
+        
+        <verse osisID="Dummy.1.13">Sample verse with <transChange type="added">added text in italics</transChange> for clarity.</verse>
+        
+        <p type="x-paragraph">
+          <verse osisID="Dummy.1.14">Sample verse within a paragraph.</verse>
+          <verse osisID="Dummy.1.15">Another verse in the same paragraph.</verse>
+        </p>
+        
+        <div type="section">
+          <title type="x-major">Sample Major Section Title Within Chapter</title>
+          <title>Sample Section Within Chapter</title>
+          <verse osisID="Dummy.1.16">Sample verse in a section division.</verse>
+        </div>
+        
+        <verse osisID="Dummy.1.17">Sample verse with inscription: <inscription>Sample Inscription Text</inscription>.</verse>
+        
+        <verse osisID="Dummy.1.18">Sample verse mentioning <mentioned>sample mentioned text</mentioned>.</verse>
+        
+        <verse osisID="Dummy.1.19">Sample verse with index entry<index index="subject" level1="Sample" level2="Index" level3="Entry"/> for back-of-book index.</verse>
+        
+        <verse osisID="Dummy.1.20">Final sample verse of chapter one.</verse>
+      </chapter>
+      
+      <chapter osisID="Dummy.2">
+        <title type="chapter">Chapter 2</title>
+        <title type="acrostic">Sample Acrostic Title</title>
+        
+        <div type="bookGroup">
+          <title type="scope">Sample Scope Title</title>
+          <title>Sample Book Group</title>
+          <p>Sample paragraph with variant readings: <rdgGrp><rdg type="variant">variant text</rdg><rdg type="original">original text</rdg></rdgGrp>.</p>
+          
+          <q type="block" who="narrator">
+            <p>Sample block quote paragraph one.</p>
+            <p>Sample block quote paragraph two.</p>
+          </q>
+        </div>
+        
+        <salute>Sample Salutation/Greeting</salute>
+        
+        <verse osisID="Dummy.2.1" n="1a">Sample split verse part a.</verse>
+        <verse osisID="Dummy.2.1" n="1b">Sample split verse part b.</verse>
+        
+        <verse osisID="Dummy.2.2">Sample verse with speaker <speaker who="person1">Sample Speaker</speaker>: and their speech.</verse>
+        
+        <table>
+          <head>Sample Table Heading</head>
+          <row role="label">
+            <cell role="label">Column 1</cell>
+            <cell role="label">Column 2</cell>
+            <cell role="label">Column 3</cell>
+          </row>
+          <row>
+            <cell>Cell 1-1</cell>
+            <cell>Cell 1-2</cell>
+            <cell>Cell 1-3</cell>
+          </row>
+          <row>
+            <cell>Cell 2-1</cell>
+            <cell>Cell 2-2</cell>
+            <cell>Cell 2-3</cell>
+          </row>
+        </table>
+        
+        <verse osisID="Dummy.2.3">Sample verse with <a href="http://example.com">hyperlink</a>.</verse>
+        
+        <verse osisID="Dummy.2.4">Sample verse after table.</verse>
+        
+        <closer>
+          <signed>Sample Signature</signed>
+        </closer>
+        
+        <verse osisID="Dummy.2.5">Sample verse after closer element.</verse>
+        
+        <div type="colophon">
+          <p>Sample colophon text at end of chapter</p>
+        </div>
+      </chapter>
+      
+      <div type="appendix">
+        <title>Sample Appendix</title>
+        <p>Sample appendix content</p>
+      </div>
+      
+      <div type="glossary">
+        <title>Sample Glossary</title>
+        <list>
+          <item><label>Term 1:</label>Definition of term 1</item>
+          <item><label>Term 2:</label>Definition of term 2</item>
+        </list>
+      </div>
+      
+      <div type="index">
+        <title>Sample Index</title>
+        <list>
+          <item>Index entry 1</item>
+          <item>Index entry 2</item>
+        </list>
+      </div>
+    </div>
+  </osisText>
+</osis>

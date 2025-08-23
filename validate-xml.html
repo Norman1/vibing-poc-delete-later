@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>XML Validator</title>
+</head>
+<body>
+    <h1>XML Validation Test</h1>
+    <div id="result"></div>
+    
+    <script>
+        async function validateXML() {
+            try {
+                const response = await fetch('output/00_dummy_vbt.osis.xml');
+                const xmlText = await response.text();
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+                
+                // Check for XML parsing errors
+                const parseError = xmlDoc.querySelector('parsererror');
+                if (parseError) {
+                    document.getElementById('result').innerHTML = '<h2 style="color: red;">XML Parse Error:</h2><pre>' + parseError.textContent + '</pre>';
+                } else {
+                    document.getElementById('result').innerHTML = '<h2 style="color: green;">XML is valid!</h2>';
+                    
+                    // Count elements
+                    const verses = xmlDoc.querySelectorAll('verse');
+                    const heads = xmlDoc.querySelectorAll('head');
+                    const titles = xmlDoc.querySelectorAll('title');
+                    
+                    document.getElementById('result').innerHTML += `
+                        <p>Found ${verses.length} verse elements</p>
+                        <p>Found ${heads.length} head elements</p>
+                        <p>Found ${titles.length} title elements</p>
+                    `;
+                }
+            } catch (error) {
+                document.getElementById('result').innerHTML = 'Error: ' + error.message;
+            }
+        }
+        
+        validateXML();
+    </script>
+</body>
+</html>

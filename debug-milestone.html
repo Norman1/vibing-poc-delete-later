@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Debug Milestone Verse Parsing</title>
+</head>
+<body>
+    <h1>Debug Milestone Verse Parsing</h1>
+    <div id="debug"></div>
+    
+    <script>
+        async function debugMilestoneVerse() {
+            try {
+                const response = await fetch('output/00_dummy_vbt.osis.xml');
+                const xmlText = await response.text();
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+                
+                let debug = '<h2>Milestone Verse Analysis</h2>';
+                
+                // Find the specific milestone verse
+                const milestoneVerse = xmlDoc.querySelector('verse[sID="Dummy.1.1"]');
+                if (milestoneVerse) {
+                    debug += '<h3>Found milestone verse start:</h3>';
+                    debug += `<p>Element: ${milestoneVerse.outerHTML}</p>`;
+                    debug += `<p>osisID: ${milestoneVerse.getAttribute('osisID')}</p>`;
+                    debug += `<p>sID: ${milestoneVerse.getAttribute('sID')}</p>`;
+                    
+                    // Find the end marker
+                    const endMarker = xmlDoc.querySelector('verse[eID="Dummy.1.1"]');
+                    if (endMarker) {
+                        debug += '<h3>Found milestone verse end:</h3>';
+                        debug += `<p>Element: ${endMarker.outerHTML}</p>`;
+                        
+                        // Try to get content between
+                        debug += '<h3>Content between markers:</h3>';
+                        let currentNode = milestoneVerse.nextSibling;
+                        let contentFound = '';
+                        let nodeCount = 0;
+                        
+                        while (currentNode && nodeCount < 20) {
+                            if (currentNode.nodeType === Node.ELEMENT_NODE) {
+                                if (currentNode.nodeName === 'verse' && currentNode.getAttribute('eID') === 'Dummy.1.1') {
+                                    debug += '<p>Found end marker - stopping</p>';
+                                    break;
+                                }
+                                debug += `<p>Element: ${currentNode.nodeName} - ${currentNode.outerHTML}</p>`;
+                                contentFound += currentNode.outerHTML;
+                            } else if (currentNode.nodeType === Node.TEXT_NODE) {
+                                const text = currentNode.textContent.trim();
+                                if (text) {
+                                    debug += `<p>Text: "${text}"</p>`;
+                                    contentFound += text;
+                                }
+                            }
+                            currentNode = currentNode.nextSibling;
+                            nodeCount++;
+                        }
+                        
+                        debug += `<h3>Total content found:</h3>`;
+                        debug += `<div style="border: 1px solid #ccc; padding: 10px; background: #f9f9f9;">${contentFound}</div>`;
+                        
+                    } else {
+                        debug += '<p style="color: red;">END MARKER NOT FOUND!</p>';
+                    }
+                } else {
+                    debug += '<p style="color: red;">MILESTONE VERSE START NOT FOUND!</p>';
+                }
+                
+                // Check if we're processing chapters correctly
+                debug += '<h3>Chapter Processing Check:</h3>';
+                const chapters = xmlDoc.querySelectorAll('chapter[osisID]');
+                debug += `<p>Found ${chapters.length} chapters total</p>`;
+                
+                const containerChapters = xmlDoc.querySelectorAll('chapter[osisID]:not([sID]):not([eID])');
+                debug += `<p>Container chapters: ${containerChapters.length}</p>`;
+                
+                const milestoneChapters = xmlDoc.querySelectorAll('chapter[sID]');
+                debug += `<p>Milestone chapters: ${milestoneChapters.length}</p>`;
+                
+                document.getElementById('debug').innerHTML = debug;
+                
+            } catch (error) {
+                document.getElementById('debug').innerHTML = 'Error: ' + error.message;
+            }
+        }
+        
+        debugMilestoneVerse();
+    </script>
+</body>
+</html>

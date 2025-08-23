@@ -79,6 +79,7 @@
 
         .content {
             padding: 30px;
+            text-align: left;
         }
 
         .book-title {
@@ -92,6 +93,7 @@
 
         .chapter {
             margin-bottom: 40px;
+            text-align: left;
         }
 
         .chapter-title {
@@ -133,6 +135,8 @@
             border-radius: 8px;
             border-left: 4px solid #17a2b8;
             transition: all 0.3s ease;
+            text-align: left;
+            display: block;
         }
 
         .verse:hover {
@@ -216,6 +220,7 @@
             <label for="bookSelect">Select a book to view:</label>
             <select id="bookSelect" onchange="loadBook()">
                 <option value="">Choose a book...</option>
+                <option value="dummy">Dummy (Sample)</option>
                 <option value="genesis">Genesis</option>
                 <option value="exodus">Exodus</option>
                 <option value="leviticus">Leviticus</option>
@@ -298,6 +303,7 @@
 
     <script>
         const books = {
+            'dummy': { title: 'Dummy (Sample)', file: 'output/00_dummy_vbt.osis.xml' },
             'genesis': { title: 'Genesis', file: 'output/01_genesis_vbt.osis.xml' },
             'exodus': { title: 'Exodus', file: 'output/02_exodus_vbt.osis.xml' },
             'leviticus': { title: 'Leviticus', file: 'output/03_leviticus_vbt.osis.xml' },
@@ -366,25 +372,408 @@
             'revelation': { title: 'Revelation', file: 'output/66_revelation_vbt.osis.xml' }
         };
 
-        function processVerseContent(verseElement) {
-            let verseText = '';
-            let notes = '';
+        function processOSISContent(element) {
+            let html = '';
             
-            // Process all child nodes (text and elements)
-            for (let node of verseElement.childNodes) {
+            // Process all child nodes
+            for (let node of element.childNodes) {
                 if (node.nodeType === Node.TEXT_NODE) {
-                    // Add text content
-                    verseText += node.textContent;
-                } else if (node.nodeType === Node.ELEMENT_NODE && node.nodeName === 'note') {
-                    // Collect notes to add after verse text
-                    notes += `<div class="note">${node.textContent}</div>`;
+                    html += node.textContent;
                 } else if (node.nodeType === Node.ELEMENT_NODE) {
-                    // Handle other elements by including their text content
-                    verseText += node.textContent;
+                    switch(node.nodeName) {
+                        case 'divineName':
+                            html += `<span style="font-variant: small-caps;">${node.textContent}</span>`;
+                            break;
+                        case 'name':
+                            html += `<span style="font-weight: bold;">${node.textContent}</span>`;
+                            break;
+                        case 'hi':
+                            const hiType = node.getAttribute('type');
+                            if (hiType === 'bold') {
+                                html += `<strong>${node.textContent}</strong>`;
+                            } else if (hiType === 'italic') {
+                                html += `<em>${node.textContent}</em>`;
+                            } else if (hiType === 'underline') {
+                                html += `<u>${node.textContent}</u>`;
+                            } else {
+                                html += node.textContent;
+                            }
+                            break;
+                        case 'note':
+                            const noteType = node.getAttribute('type') || 'note';
+                            html += `<sup style="color: #667eea;">[${noteType}]</sup>`;
+                            break;
+                        case 'reference':
+                            html += `<a href="#" style="color: #667eea; text-decoration: none;">${node.textContent}</a>`;
+                            break;
+                        case 'foreign':
+                            html += `<span style="font-style: italic;">${node.textContent}</span>`;
+                            break;
+                        case 'q':
+                            const marker = node.getAttribute('marker');
+                            if (marker) {
+                                html += marker + processOSISContent(node) + marker;
+                            } else {
+                                html += '"' + processOSISContent(node) + '"';
+                            }
+                            break;
+                        case 'w':
+                            html += `<span class="word">${node.textContent}</span>`;
+                            break;
+                        case 'abbr':
+                            const expansion = node.getAttribute('expansion');
+                            html += `<abbr title="${expansion || ''}">${node.textContent}</abbr>`;
+                            break;
+                        case 'date':
+                            html += `<span class="date">${node.textContent}</span>`;
+                            break;
+                        case 'milestone':
+                            // Milestones are empty elements
+                            break;
+                        case 'seg':
+                            html += `<span style="text-decoration: underline dotted;">${node.textContent}</span>`;
+                            break;
+                        case 'lb':
+                            html += '<br/>';
+                            break;
+                        case 'transChange':
+                            html += `<span style="font-style: italic;">${node.textContent}</span>`;
+                            break;
+                        case 'inscription':
+                            html += `<span style="font-variant: small-caps; font-weight: bold;">${node.textContent}</span>`;
+                            break;
+                        case 'mentioned':
+                            html += `<span style="font-style: italic;">"${node.textContent}"</span>`;
+                            break;
+                        case 'speaker':
+                            html += `<strong>${node.textContent}:</strong>`;
+                            break;
+                        case 'catchWord':
+                            html += `<span style="font-weight: bold; font-style: italic; background: #ffffcc; padding: 2px 4px;">${node.textContent}</span>`;
+                            break;
+                        case 'rdgGrp':
+                            html += '<span style="background: #f0f8ff; border: 1px solid #ddd; padding: 2px; margin: 0 2px;">';
+                            const readings = node.querySelectorAll('rdg');
+                            readings.forEach((rdg, index) => {
+                                if (index > 0) html += ' / ';
+                                const rdgType = rdg.getAttribute('type') || 'reading';
+                                html += `<span style="font-size: 0.9em; color: #666;">[${rdgType}]</span> ${rdg.textContent}`;
+                            });
+                            html += '</span>';
+                            break;
+                        case 'rdg':
+                            // Skip individual rdg processing - handled by rdgGrp
+                            break;
+                        case 'milestoneStart':
+                            const msType = node.getAttribute('type') || 'milestone';
+                            const msN = node.getAttribute('n') || '';
+                            html += `<span style="color: #999; font-size: 0.8em; border: 1px dotted #999; padding: 1px 3px;">[${msType} start${msN ? ' ' + msN : ''}]</span>`;
+                            break;
+                        case 'milestoneEnd':
+                            const meType = node.getAttribute('type') || 'milestone';
+                            html += `<span style="color: #999; font-size: 0.8em; border: 1px dotted #999; padding: 1px 3px;">[${meType} end]</span>`;
+                            break;
+                        case 'caption':
+                            // Skip - handled by figure
+                            break;
+                        case 'figure':
+                            const alt = node.getAttribute('alt');
+                            const src = node.getAttribute('src');
+                            const caption = node.querySelector('caption');
+                            let figureContent = caption ? caption.textContent : (alt || 'Figure');
+                            html += `<div style="margin: 10px 0; padding: 10px; border: 1px solid #ccc; background: #f9f9f9; text-align: center;">`;
+                            if (src) {
+                                html += `<div style="font-style: italic;">[Image: ${src}]</div>`;
+                            }
+                            html += `<div style="font-weight: bold;">${figureContent}</div></div>`;
+                            break;
+                        default:
+                            html += processOSISContent(node);
+                    }
                 }
             }
             
-            return verseText + notes;
+            return html;
+        }
+
+        function processVerseContent(verseElement) {
+            let verseHTML = processOSISContent(verseElement);
+            
+            // Add notes at the end
+            const notes = verseElement.querySelectorAll('note');
+            if (notes.length > 0) {
+                verseHTML += '<div style="margin-top: 5px; font-size: 0.9em; color: #666;">';
+                notes.forEach(note => {
+                    const noteType = note.getAttribute('type') || 'note';
+                    verseHTML += `<div style="margin: 2px 0;"><strong>${noteType}:</strong> ${note.textContent}</div>`;
+                });
+                verseHTML += '</div>';
+            }
+            
+            return verseHTML;
+        }
+
+        function processMilestoneVerse(verseStartElement, startNode) {
+            const verseId = verseStartElement.getAttribute('osisID');
+            const verseNum = verseId ? verseId.split('.').pop() : '?';
+            const verseEndId = verseStartElement.getAttribute('sID');
+            
+            let html = `<div class="verse">`;
+            html += `<span class="verse-number">${verseNum}</span>`;
+            html += `<span class="verse-text">`;
+            
+            // Collect all content between verse start and end markers
+            let verseContent = '';
+            let currentNode = startNode;
+            
+            while (currentNode) {
+                if (currentNode.nodeType === Node.ELEMENT_NODE) {
+                    if (currentNode.nodeName === 'verse' && currentNode.getAttribute('eID') === verseEndId) {
+                        break; // Found the end marker
+                    }
+                    // Process the element
+                    verseContent += processOSISContent(currentNode);
+                } else if (currentNode.nodeType === Node.TEXT_NODE) {
+                    verseContent += currentNode.textContent;
+                }
+                currentNode = currentNode.nextSibling;
+            }
+            
+            html += verseContent;
+            html += `</span></div>`;
+            
+            return html;
+        }
+
+        function processMilestoneVerseInContainer(verseStartElement, startIndex, children) {
+            const verseId = verseStartElement.getAttribute('osisID');
+            const verseNum = verseId ? verseId.split('.').pop() : '?';
+            const verseEndId = verseStartElement.getAttribute('sID');
+            
+            let html = `<div class="verse">`;
+            html += `<span class="verse-number">${verseNum}</span>`;
+            html += `<span class="verse-text">`;
+            
+            // Collect all content between verse start and end markers from children array
+            let verseContent = '';
+            for (let i = startIndex + 1; i < children.length; i++) {
+                const child = children[i];
+                if (child.nodeName === 'verse' && child.getAttribute('eID') === verseEndId) {
+                    break; // Found the end marker
+                }
+                // Process the element content
+                verseContent += processOSISContent(child);
+            }
+            
+            // Also check for text nodes between the elements
+            let currentNode = verseStartElement.nextSibling;
+            while (currentNode) {
+                if (currentNode.nodeType === Node.ELEMENT_NODE) {
+                    if (currentNode.nodeName === 'verse' && currentNode.getAttribute('eID') === verseEndId) {
+                        break;
+                    }
+                    // Skip elements - they're handled above
+                } else if (currentNode.nodeType === Node.TEXT_NODE) {
+                    verseContent += currentNode.textContent;
+                }
+                currentNode = currentNode.nextSibling;
+            }
+            
+            html += verseContent;
+            html += `</span></div>`;
+            
+            return html;
+        }
+
+        function processChapterElement(element, chapterNum) {
+            let html = '';
+            
+            switch(element.nodeName) {
+                case 'head':
+                    const headType = element.getAttribute('type') || '';
+                    html += `<h3 style="margin: 15px 0; color: #34495e; font-size: 1.2em;">${element.textContent}</h3>`;
+                    break;
+                    
+                case 'title':
+                    const titleType = element.getAttribute('type') || '';
+                    if (titleType === 'chapter') {
+                        html += `<div class="chapter-title">Chapter ${chapterNum}</div>`;
+                    } else if (titleType === 'sub' || titleType === 'parallel') {
+                        html += `<div style="font-style: italic; margin: 10px 0; color: #666;">${element.textContent}</div>`;
+                    } else {
+                        html += `<h4 style="margin: 10px 0; color: #2c3e50;">${element.textContent}</h4>`;
+                    }
+                    break;
+                    
+                case 'p':
+                    html += `<p style="margin: 10px 0;">${processOSISContent(element)}</p>`;
+                    break;
+                    
+                case 'verse':
+                    const verseId = element.getAttribute('osisID');
+                    const sID = element.getAttribute('sID');
+                    const eID = element.getAttribute('eID');
+                    
+                    if (sID) {
+                        // This is a milestone verse start - skip it here, it will be handled by the parent
+                        // milestone processing or we need to handle it specially
+                        return '';
+                    } else if (eID) {
+                        // This is a milestone verse end - skip it
+                        return '';
+                    } else if (verseId) {
+                        // This is a container verse
+                        const verseNum = verseId.split('.').pop();
+                        html += `<div class="verse">`;
+                        html += `<span class="verse-number">${verseNum}</span>`;
+                        html += `<span class="verse-text">${processVerseContent(element)}</span>`;
+                        html += `</div>`;
+                    }
+                    break;
+                    
+                case 'lg':  // Line group (poetry)
+                    html += `<div style="margin: 15px 0; padding-left: 20px;">`;
+                    for (let child of element.children) {
+                        if (child.nodeName === 'l') {
+                            const level = child.getAttribute('level') || '1';
+                            const indent = (parseInt(level) - 1) * 20;
+                            html += `<div style="margin-left: ${indent}px;">${processOSISContent(child)}</div>`;
+                        } else if (child.nodeName === 'head') {
+                            html += `<div style="font-weight: bold; margin-bottom: 5px;">${child.textContent}</div>`;
+                        }
+                    }
+                    html += `</div>`;
+                    break;
+                    
+                case 'list':
+                    html += `<div style="margin: 15px 0;">`;
+                    for (let child of element.children) {
+                        if (child.nodeName === 'head') {
+                            html += `<div style="font-weight: bold; margin-bottom: 5px;">${child.textContent}</div>`;
+                        } else if (child.nodeName === 'item') {
+                            const label = child.querySelector('label');
+                            if (label) {
+                                html += `<div style="margin: 5px 0;"><strong>${label.textContent}</strong> ${processOSISContent(child)}</div>`;
+                            } else {
+                                html += `<div style="margin: 5px 0;">• ${processOSISContent(child)}</div>`;
+                            }
+                        }
+                    }
+                    html += `</div>`;
+                    break;
+                    
+                case 'div':
+                    const divType = element.getAttribute('type') || '';
+                    html += `<div style="margin: 15px 0;">`;
+                    if (divType) {
+                        html += `<div style="font-size: 0.9em; color: #999; margin-bottom: 5px;">[${divType}]</div>`;
+                    }
+                    for (let child of element.children) {
+                        html += processChapterElement(child, chapterNum);
+                    }
+                    html += `</div>`;
+                    break;
+                    
+                case 'q':
+                    const qType = element.getAttribute('type') || '';
+                    if (qType === 'block') {
+                        html += `<blockquote style="margin: 15px 0; padding-left: 20px; border-left: 3px solid #ccc;">`;
+                        for (let child of element.children) {
+                            html += processChapterElement(child, chapterNum);
+                        }
+                        html += `</blockquote>`;
+                    } else {
+                        html += processOSISContent(element);
+                    }
+                    break;
+                    
+                case 'table':
+                    html += `<table style="margin: 15px 0; border-collapse: collapse; width: 100%;">`;
+                    for (let child of element.children) {
+                        if (child.nodeName === 'head') {
+                            html += `<caption style="font-weight: bold; margin-bottom: 5px;">${child.textContent}</caption>`;
+                        } else if (child.nodeName === 'row') {
+                            html += '<tr>';
+                            for (let cell of child.children) {
+                                const cellTag = cell.getAttribute('role') === 'label' ? 'th' : 'td';
+                                html += `<${cellTag} style="border: 1px solid #ddd; padding: 8px;">${cell.textContent}</${cellTag}>`;
+                            }
+                            html += '</tr>';
+                        }
+                    }
+                    html += `</table>`;
+                    break;
+                    
+                case 'salute':
+                    html += `<div style="margin: 15px 0; font-style: italic;">${element.textContent}</div>`;
+                    break;
+                    
+                case 'signed':
+                    html += `<div style="margin: 15px 0; text-align: right; font-style: italic;">— ${element.textContent}</div>`;
+                    break;
+                    
+                case 'closer':
+                    html += `<div style="margin: 20px 0; text-align: right;">`;
+                    for (let child of element.children) {
+                        html += processChapterElement(child, chapterNum);
+                    }
+                    html += `</div>`;
+                    break;
+                    
+                case 'rdg':
+                    const rdgType = element.getAttribute('type') || 'variant';
+                    html += `<div style="margin: 10px 0; padding: 5px; background: #f9f9f9; border-left: 3px solid #999;">`;
+                    html += `<small style="color: #666;">[${rdgType} reading]</small> ${element.textContent}`;
+                    html += `</div>`;
+                    break;
+                    
+                case 'castList':
+                    html += `<div style="margin: 15px 0; border: 1px solid #ddd; padding: 10px; background: #fafafa;">`;
+                    html += `<h4 style="margin: 0 0 10px 0; color: #666;">Cast List</h4>`;
+                    for (let child of element.children) {
+                        html += processChapterElement(child, chapterNum);
+                    }
+                    html += `</div>`;
+                    break;
+                    
+                case 'castGroup':
+                    html += `<div style="margin: 10px 0;">`;
+                    for (let child of element.children) {
+                        html += processChapterElement(child, chapterNum);
+                    }
+                    html += `</div>`;
+                    break;
+                    
+                case 'castItem':
+                    html += `<div style="margin: 5px 0; padding: 5px; border-left: 3px solid #ccc;">`;
+                    for (let child of element.children) {
+                        html += processChapterElement(child, chapterNum);
+                    }
+                    html += `</div>`;
+                    break;
+                    
+                case 'actor':
+                    html += `<span style="font-weight: bold; color: #333;">${element.textContent}</span> `;
+                    break;
+                    
+                case 'role':
+                    html += `<span style="font-style: italic; color: #666;">as ${element.textContent}</span> `;
+                    break;
+                    
+                case 'roleDesc':
+                    html += `<span style="font-size: 0.9em; color: #888;">(${element.textContent})</span>`;
+                    break;
+                    
+                default:
+                    // For any other elements, try to process their content
+                    if (element.children.length > 0) {
+                        for (let child of element.children) {
+                            html += processChapterElement(child, chapterNum);
+                        }
+                    }
+            }
+            
+            return html;
         }
 
         async function loadBook() {
@@ -418,6 +807,29 @@
         function displayBook(xmlDoc, bookTitle) {
             const content = document.getElementById('book-content');
             let html = `<div class="book-title">${bookTitle}</div>`;
+            
+            // Display cast list from header if present
+            const castList = xmlDoc.querySelector('header castList');
+            if (castList) {
+                html += `<div style="margin: 20px 0; border: 1px solid #ddd; padding: 15px; background: #fafafa;">`;
+                html += `<h3 style="margin: 0 0 10px 0; color: #333;">Cast of Characters</h3>`;
+                const castGroups = castList.querySelectorAll('castGroup');
+                castGroups.forEach(group => {
+                    const castItems = group.querySelectorAll('castItem');
+                    castItems.forEach(item => {
+                        const actor = item.querySelector('actor');
+                        const role = item.querySelector('role');
+                        const roleDesc = item.querySelector('roleDesc');
+                        
+                        html += `<div style="margin: 8px 0; padding: 5px; border-left: 3px solid #667eea;">`;
+                        if (actor) html += `<strong>${actor.textContent}</strong>`;
+                        if (role) html += ` <em>as ${role.textContent}</em>`;
+                        if (roleDesc) html += ` <span style="color: #666;">(${roleDesc.textContent})</span>`;
+                        html += `</div>`;
+                    });
+                });
+                html += `</div>`;
+            }
 
             // Handle three different OSIS chapter formats:
             // 1. <div type="chapter"> (Daniel format)
@@ -461,18 +873,27 @@
                 containerChapters.forEach(chapter => {
                     const chapterNum = chapter.getAttribute('osisID').split('.').pop();
                     html += `<div class="chapter">`;
-                    html += `<div class="chapter-title">Chapter ${chapterNum}</div>`;
-
-                    const verses = chapter.querySelectorAll('verse[osisID]');
-                    verses.forEach(verse => {
-                        const verseId = verse.getAttribute('osisID');
-                        const verseNum = verseId.split('.').pop();
+                    
+                    // Process all children of the chapter in order, handling both container and milestone verses
+                    const children = Array.from(chapter.children);
+                    for (let i = 0; i < children.length; i++) {
+                        const child = children[i];
                         
-                        html += `<div class="verse">`;
-                        html += `<span class="verse-number">${verseNum}</span>`;
-                        html += `<span class="verse-text">${processVerseContent(verse)}</span>`;
-                        html += `</div>`;
-                    });
+                        // Special handling for milestone verses within container chapters
+                        if (child.nodeName === 'verse' && child.getAttribute('sID')) {
+                            html += processMilestoneVerseInContainer(child, i, children);
+                            // Skip ahead past the end marker
+                            const verseEndId = child.getAttribute('sID');
+                            while (i < children.length && !(children[i].nodeName === 'verse' && children[i].getAttribute('eID') === verseEndId)) {
+                                i++;
+                            }
+                        } else if (child.nodeName === 'verse' && child.getAttribute('eID')) {
+                            // Skip verse end markers - already handled above
+                            continue;
+                        } else {
+                            html += processChapterElement(child, chapterNum);
+                        }
+                    }
 
                     html += `</div>`;
                 });
@@ -492,26 +913,22 @@
                     const chapterEndId = chapterOsisId;
                     
                     while (currentElement && !(currentElement.nodeName === 'chapter' && currentElement.getAttribute('eID') === chapterEndId)) {
-                        if (currentElement.nodeName === 'title') {
-                            // Process subsection title within chapter
-                            const titleType = currentElement.getAttribute('type');
-                            let titleClass = 'section-title-sub';
-                            if (titleType === 'main') {
-                                titleClass = 'section-title-main';
+                        // Special handling for milestone verses
+                        if (currentElement.nodeName === 'verse' && currentElement.getAttribute('sID')) {
+                            html += processMilestoneVerse(currentElement, currentElement.nextSibling);
+                            // Skip ahead to after the verse end marker
+                            const verseEndId = currentElement.getAttribute('sID');
+                            while (currentElement && !(currentElement.nodeName === 'verse' && currentElement.getAttribute('eID') === verseEndId)) {
+                                currentElement = currentElement.nextElementSibling || currentElement.nextSibling;
+                                if (!currentElement) break;
                             }
-                            html += `<div class="${titleClass}">${currentElement.textContent}</div>`;
-                        }
-                        else if (currentElement.nodeName === 'verse' && currentElement.getAttribute('osisID')) {
-                            // Process verse within current chapter
-                            const verseId = currentElement.getAttribute('osisID');
-                            const verseNum = verseId.split('.').pop();
-                            
-                            html += `<div class="verse">`;
-                            html += `<span class="verse-number">${verseNum}</span>`;
-                            html += `<span class="verse-text">${processVerseContent(currentElement)}</span>`;
-                            html += `</div>`;
+                            if (currentElement && currentElement.getAttribute('eID') === verseEndId) {
+                                currentElement = currentElement.nextElementSibling;
+                            }
+                            continue;
                         }
                         
+                        html += processChapterElement(currentElement, chapterNum);
                         currentElement = currentElement.nextElementSibling;
                     }
                     
