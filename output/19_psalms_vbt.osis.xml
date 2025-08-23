@@ -10,7 +10,7 @@
         <type type="OSIS">Bible</type>
         <identifier type="OSIS">Bible.VBT</identifier>
         <rights type="x-copyright">Public Domain</rights>
-        <scope>Psalms 1-100</scope>
+        <scope>Psalms 1-125</scope>
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -4552,6 +4552,1915 @@
         </verse>
         <verse osisID="Ps.100.6">
           For Yahweh is good and his love endures forever; his faithfulness continues through all generations.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.101">
+        <title>David's Vow of Integrity</title>
+        <verse osisID="Ps.101.1">
+          A psalm of David. I will sing of love and justice; to you, Yahweh, I will sing praise.
+        </verse>
+        <verse osisID="Ps.101.2">
+          I will be careful to live a blameless life - when will you come to me? I will conduct the affairs of my house with a blameless heart.
+        </verse>
+        <verse osisID="Ps.101.3">
+          I will not look with approval on anything that is vile. I hate what faithless people do; I will have no part in it.
+        </verse>
+        <verse osisID="Ps.101.4">
+          The perverse of heart shall be far from me; I will have nothing to do with what is evil.
+        </verse>
+        <verse osisID="Ps.101.5">
+          Whoever slanders their neighbor in secret, I will put to silence; whoever has haughty eyes and a proud heart, I will not tolerate.
+        </verse>
+        <verse osisID="Ps.101.6">
+          My eyes will be on the faithful in the land, that they may dwell with me; the one whose walk is blameless will minister to me.
+        </verse>
+        <verse osisID="Ps.101.7">
+          No one who practices deceit will dwell in my house; no one who speaks falsely will stand in my presence.
+        </verse>
+        <verse osisID="Ps.101.8">
+          Every morning I will put to silence all the wicked in the land; I will cut off every evildoer from the city of Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.102">
+        <title>Prayer of an Afflicted Person</title>
+        <verse osisID="Ps.102.1">
+          A prayer of an afflicted person who has grown weak and pours out a lament before Yahweh.
+        </verse>
+        <verse osisID="Ps.102.2">
+          Hear my prayer, Yahweh; let my cry for help come to you.
+        </verse>
+        <verse osisID="Ps.102.3">
+          Do not hide your face from me when I am in distress. Turn your ear to me; when I call, answer me quickly.
+        </verse>
+        <verse osisID="Ps.102.4">
+          For my days vanish like smoke; my bones burn like glowing embers.
+        </verse>
+        <verse osisID="Ps.102.5">
+          My heart is blighted and withered like grass; I forget to eat my food.
+        </verse>
+        <verse osisID="Ps.102.6">
+          In my distress I groan aloud, and my bones cling to my skin.
+        </verse>
+        <verse osisID="Ps.102.7">
+          I am like a desert owl, like an owl among the ruins.
+        </verse>
+        <verse osisID="Ps.102.8">
+          I lie awake; I have become like a bird alone on a roof.
+        </verse>
+        <verse osisID="Ps.102.9">
+          All day long my enemies taunt me; those who rail against me use my name as a curse.
+        </verse>
+        <verse osisID="Ps.102.10">
+          For I eat ashes as my food and mingle my drink with tears
+        </verse>
+        <verse osisID="Ps.102.11">
+          because of your great wrath, for you have taken me up and thrown me aside.
+        </verse>
+        <verse osisID="Ps.102.12">
+          My days are like the evening shadow; I wither away like grass.
+        </verse>
+        <verse osisID="Ps.102.13">
+          But you, Yahweh, sit enthroned forever; your renown endures through all generations.
+        </verse>
+        <verse osisID="Ps.102.14">
+          You will arise and have compassion on Zion, for it is time to show favor to her; the appointed time has come.
+        </verse>
+        <verse osisID="Ps.102.15">
+          For her stones are dear to your servants; her very dust moves them to pity.
+        </verse>
+        <verse osisID="Ps.102.16">
+          The nations will fear the name of Yahweh, all the kings of the earth will revere your glory.
+        </verse>
+        <verse osisID="Ps.102.17">
+          For Yahweh will rebuild Zion and appear in his glory.
+        </verse>
+        <verse osisID="Ps.102.18">
+          He will respond to the prayer of the destitute; he will not despise their plea.
+        </verse>
+        <verse osisID="Ps.102.19">
+          Let this be written for a future generation, that a people not yet created may praise Yahweh:
+        </verse>
+        <verse osisID="Ps.102.20">
+          "Yahweh looked down from his sanctuary on high, from heaven he viewed the earth,
+        </verse>
+        <verse osisID="Ps.102.21">
+          to hear the groans of the prisoners and release those condemned to death."
+        </verse>
+        <verse osisID="Ps.102.22">
+          So the name of Yahweh will be declared in Zion and his praise in Jerusalem
+        </verse>
+        <verse osisID="Ps.102.23">
+          when the peoples and the kingdoms assemble to worship Yahweh.
+        </verse>
+        <verse osisID="Ps.102.24">
+          In the course of my life he broke my strength; he cut short my days.
+        </verse>
+        <verse osisID="Ps.102.25">
+          So I said: "Do not take me away, my God, in the midst of my days; your years go on through all generations.
+        </verse>
+        <verse osisID="Ps.102.26">
+          In the beginning you laid the foundations of the earth, and the heavens are the work of your hands.
+        </verse>
+        <verse osisID="Ps.102.27">
+          They will perish, but you remain; they will all wear out like a garment. Like clothing you will change them and they will be discarded.
+        </verse>
+        <verse osisID="Ps.102.28">
+          But you remain the same, and your years will never end.
+        </verse>
+        <verse osisID="Ps.102.29">
+          The children of your servants will live in your presence; their descendants will be established before you."
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.103">
+        <title>Bless Yahweh, O My Soul</title>
+        <verse osisID="Ps.103.1">
+          Of David. Praise Yahweh, my soul; all my inmost being, praise his holy name.
+        </verse>
+        <verse osisID="Ps.103.2">
+          Praise Yahweh, my soul, and forget not all his benefits -
+        </verse>
+        <verse osisID="Ps.103.3">
+          who forgives all your sins and heals all your diseases,
+        </verse>
+        <verse osisID="Ps.103.4">
+          who redeems your life from the pit and crowns you with love and compassion,
+        </verse>
+        <verse osisID="Ps.103.5">
+          who satisfies your desires with good things so that your youth is renewed like the eagle's.
+        </verse>
+        <verse osisID="Ps.103.6">
+          Yahweh works righteousness and justice for all the oppressed.
+        </verse>
+        <verse osisID="Ps.103.7">
+          He made known his ways to Moses, his deeds to the people of Israel:
+        </verse>
+        <verse osisID="Ps.103.8">
+          Yahweh is compassionate and gracious, slow to anger, abounding in love.
+        </verse>
+        <verse osisID="Ps.103.9">
+          He will not always accuse, nor will he harbor his anger forever;
+        </verse>
+        <verse osisID="Ps.103.10">
+          he does not treat us as our sins deserve or repay us according to our iniquities.
+        </verse>
+        <verse osisID="Ps.103.11">
+          For as high as the heavens are above the earth, so great is his love for those who fear him;
+        </verse>
+        <verse osisID="Ps.103.12">
+          as far as the east is from the west, so far has he removed our transgressions from us.
+        </verse>
+        <verse osisID="Ps.103.13">
+          As a father has compassion on his children, so Yahweh has compassion on those who fear him;
+        </verse>
+        <verse osisID="Ps.103.14">
+          for he knows how we are formed, he remembers that we are dust.
+        </verse>
+        <verse osisID="Ps.103.15">
+          The life of mortals is like grass, they flourish like a flower of the field;
+        </verse>
+        <verse osisID="Ps.103.16">
+          the wind blows over it and it is gone, and its place remembers it no more.
+        </verse>
+        <verse osisID="Ps.103.17">
+          But from everlasting to everlasting Yahweh's love is with those who fear him, and his righteousness with their children's children -
+        </verse>
+        <verse osisID="Ps.103.18">
+          with those who keep his covenant and remember to obey his precepts.
+        </verse>
+        <verse osisID="Ps.103.19">
+          Yahweh has established his throne in heaven, and his kingdom rules over all.
+        </verse>
+        <verse osisID="Ps.103.20">
+          Praise Yahweh, you his angels, you mighty ones who do his bidding, who obey his word.
+        </verse>
+        <verse osisID="Ps.103.21">
+          Praise Yahweh, all his heavenly hosts, you his servants who do his will.
+        </verse>
+        <verse osisID="Ps.103.22">
+          Praise Yahweh, all his works everywhere in his dominion. Praise Yahweh, my soul.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.104">
+        <title>God the Creator and Sustainer</title>
+        <verse osisID="Ps.104.1">
+          Praise Yahweh, my soul. Yahweh my God, you are very great; you are clothed with splendor and majesty.
+        </verse>
+        <verse osisID="Ps.104.2">
+          Yahweh wraps himself in light as with a garment; he stretches out the heavens like a tent
+        </verse>
+        <verse osisID="Ps.104.3">
+          and lays the beams of his upper chambers on their waters. He makes the clouds his chariot and rides on the wings of the wind.
+        </verse>
+        <verse osisID="Ps.104.4">
+          He makes winds his messengers, flames of fire his servants.
+        </verse>
+        <verse osisID="Ps.104.5">
+          He set the earth on its foundations; it can never be moved.
+        </verse>
+        <verse osisID="Ps.104.6">
+          You covered it with the watery depths as with a garment; the waters stood above the mountains.
+        </verse>
+        <verse osisID="Ps.104.7">
+          But at your rebuke the waters fled, at the sound of your thunder they took to flight;
+        </verse>
+        <verse osisID="Ps.104.8">
+          they flowed over the mountains, they went down into the valleys, to the place you assigned for them.
+        </verse>
+        <verse osisID="Ps.104.9">
+          You set a boundary they cannot cross; never again will they cover the earth.
+        </verse>
+        <verse osisID="Ps.104.10">
+          He makes springs pour water into the ravines; it flows between the mountains.
+        </verse>
+        <verse osisID="Ps.104.11">
+          They give water to all the beasts of the field; the wild donkeys quench their thirst.
+        </verse>
+        <verse osisID="Ps.104.12">
+          The birds of the sky nest by the waters; they sing among the branches.
+        </verse>
+        <verse osisID="Ps.104.13">
+          He waters the mountains from his upper chambers; the land is satisfied by the fruit of his work.
+        </verse>
+        <verse osisID="Ps.104.14">
+          He makes grass grow for the cattle, and plants for people to cultivate - bringing forth food from the earth:
+        </verse>
+        <verse osisID="Ps.104.15">
+          wine that gladdens human hearts, oil to make their faces shine, and bread that sustains their hearts.
+        </verse>
+        <verse osisID="Ps.104.16">
+          The trees of Yahweh are well watered, the cedars of Lebanon that he planted.
+        </verse>
+        <verse osisID="Ps.104.17">
+          There the birds make their nests; the stork has its home in the junipers.
+        </verse>
+        <verse osisID="Ps.104.18">
+          The high mountains belong to the wild goats; the crags are a refuge for the hyraxes.
+        </verse>
+        <verse osisID="Ps.104.19">
+          He made the moon to mark the seasons, and the sun knows when to go down.
+        </verse>
+        <verse osisID="Ps.104.20">
+          You bring darkness, it becomes night, and all the beasts of the forest prowl.
+        </verse>
+        <verse osisID="Ps.104.21">
+          The lions roar for their prey and seek their food from God.
+        </verse>
+        <verse osisID="Ps.104.22">
+          The sun rises, and they steal away; they return and lie down in their dens.
+        </verse>
+        <verse osisID="Ps.104.23">
+          Then people go out to their work, to their labor until evening.
+        </verse>
+        <verse osisID="Ps.104.24">
+          How many are your works, Yahweh! In wisdom you made them all; the earth is full of your creatures.
+        </verse>
+        <verse osisID="Ps.104.25">
+          There is the sea, vast and spacious, teeming with creatures beyond number - living things both large and small.
+        </verse>
+        <verse osisID="Ps.104.26">
+          There the ships go to and fro, and Leviathan, which you formed to frolic there.
+        </verse>
+        <verse osisID="Ps.104.27">
+          All creatures look to you to give them their food at the proper time.
+        </verse>
+        <verse osisID="Ps.104.28">
+          When you give it to them, they gather it up; when you open your hand, they are satisfied with good things.
+        </verse>
+        <verse osisID="Ps.104.29">
+          When you hide your face, they are terrified; when you take away their breath, they die and return to the dust.
+        </verse>
+        <verse osisID="Ps.104.30">
+          When you send your Spirit, they are created, and you renew the face of the ground.
+        </verse>
+        <verse osisID="Ps.104.31">
+          May the glory of Yahweh endure forever; may Yahweh rejoice in his works -
+        </verse>
+        <verse osisID="Ps.104.32">
+          he who looks at the earth, and it trembles, who touches the mountains, and they smoke.
+        </verse>
+        <verse osisID="Ps.104.33">
+          I will sing to Yahweh all my life; I will sing praise to my God as long as I live.
+        </verse>
+        <verse osisID="Ps.104.34">
+          May my meditation be pleasing to him, as I rejoice in Yahweh.
+        </verse>
+        <verse osisID="Ps.104.35">
+          But may sinners vanish from the earth and the wicked be no more. Praise Yahweh, my soul. Praise Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.105">
+        <title>God's Faithfulness to Israel</title>
+        <verse osisID="Ps.105.1">
+          Give praise to Yahweh, proclaim his name; make known among the nations what he has done.
+        </verse>
+        <verse osisID="Ps.105.2">
+          Sing to him, sing praise to him; tell of all his wonderful acts.
+        </verse>
+        <verse osisID="Ps.105.3">
+          Glory in his holy name; let the hearts of those who seek Yahweh rejoice.
+        </verse>
+        <verse osisID="Ps.105.4">
+          Look to Yahweh and his strength; seek his face always.
+        </verse>
+        <verse osisID="Ps.105.5">
+          Remember the wonders he has done, his miracles, and the judgments he pronounced,
+        </verse>
+        <verse osisID="Ps.105.6">
+          you his servants, the descendants of Abraham, his chosen ones, the children of Jacob.
+        </verse>
+        <verse osisID="Ps.105.7">
+          He is Yahweh our God; his judgments are in all the earth.
+        </verse>
+        <verse osisID="Ps.105.8">
+          He remembers his covenant forever, the promise he made, for a thousand generations,
+        </verse>
+        <verse osisID="Ps.105.9">
+          the covenant he made with Abraham, the oath he swore to Isaac.
+        </verse>
+        <verse osisID="Ps.105.10">
+          He confirmed it to Jacob as a decree, to Israel as an everlasting covenant:
+        </verse>
+        <verse osisID="Ps.105.11">
+          "To you I will give the land of Canaan as the portion you will inherit."
+        </verse>
+        <verse osisID="Ps.105.12">
+          When they were but few in number, few indeed, and strangers in it,
+        </verse>
+        <verse osisID="Ps.105.13">
+          they wandered from nation to nation, from one kingdom to another.
+        </verse>
+        <verse osisID="Ps.105.14">
+          He allowed no one to oppress them; for their sake he rebuked kings:
+        </verse>
+        <verse osisID="Ps.105.15">
+          "Do not touch my anointed ones; do my prophets no harm."
+        </verse>
+        <verse osisID="Ps.105.16">
+          He called down famine on the land and destroyed all their supplies of food;
+        </verse>
+        <verse osisID="Ps.105.17">
+          and he sent a man before them - Joseph, sold as a slave.
+        </verse>
+        <verse osisID="Ps.105.18">
+          They bruised his feet with shackles, his neck was put in irons,
+        </verse>
+        <verse osisID="Ps.105.19">
+          till what he foretold came to pass, till the word of Yahweh proved him true.
+        </verse>
+        <verse osisID="Ps.105.20">
+          The king sent and released him, the ruler of peoples set him free.
+        </verse>
+        <verse osisID="Ps.105.21">
+          He made him master of his household, ruler over all he possessed,
+        </verse>
+        <verse osisID="Ps.105.22">
+          to instruct his princes as he pleased and teach his elders wisdom.
+        </verse>
+        <verse osisID="Ps.105.23">
+          Then Israel entered Egypt; Jacob resided as a foreigner in the land of Ham.
+        </verse>
+        <verse osisID="Ps.105.24">
+          Yahweh made his people very fruitful; he made them too numerous for their foes,
+        </verse>
+        <verse osisID="Ps.105.25">
+          whose hearts he turned to hate his people, to conspire against his servants.
+        </verse>
+        <verse osisID="Ps.105.26">
+          He sent Moses his servant, and Aaron, whom he had chosen.
+        </verse>
+        <verse osisID="Ps.105.27">
+          They performed his signs among them, his wonders in the land of Ham.
+        </verse>
+        <verse osisID="Ps.105.28">
+          He sent darkness and made the land dark - for had they not rebelled against his words?
+        </verse>
+        <verse osisID="Ps.105.29">
+          He turned their waters into blood, causing their fish to die.
+        </verse>
+        <verse osisID="Ps.105.30">
+          Their land teemed with frogs, which went up into the bedrooms of their rulers.
+        </verse>
+        <verse osisID="Ps.105.31">
+          He spoke, and there came swarms of flies, and gnats throughout their country.
+        </verse>
+        <verse osisID="Ps.105.32">
+          He turned their rain into hail, with lightning throughout their land;
+        </verse>
+        <verse osisID="Ps.105.33">
+          he struck down their vines and fig trees and shattered the trees of their country.
+        </verse>
+        <verse osisID="Ps.105.34">
+          He spoke, and the locusts came, grasshoppers without number;
+        </verse>
+        <verse osisID="Ps.105.35">
+          they ate up every green thing in their land, ate up the produce of their soil.
+        </verse>
+        <verse osisID="Ps.105.36">
+          Then he struck down all the firstborn in their land, the firstfruits of all their manhood.
+        </verse>
+        <verse osisID="Ps.105.37">
+          He brought out Israel, laden with silver and gold, and from among their tribes no one faltered.
+        </verse>
+        <verse osisID="Ps.105.38">
+          Egypt was glad when they left, because dread of Israel had fallen on them.
+        </verse>
+        <verse osisID="Ps.105.39">
+          He spread out a cloud as a covering, and a fire to give light at night.
+        </verse>
+        <verse osisID="Ps.105.40">
+          They asked, and he brought them quail; he fed them well with the bread of heaven.
+        </verse>
+        <verse osisID="Ps.105.41">
+          He opened the rock, and water gushed out; it flowed like a river in the desert.
+        </verse>
+        <verse osisID="Ps.105.42">
+          For he remembered his holy promise given to his servant Abraham.
+        </verse>
+        <verse osisID="Ps.105.43">
+          He brought out his people with rejoicing, his chosen ones with shouts of joy;
+        </verse>
+        <verse osisID="Ps.105.44">
+          he gave them the lands of the nations, and they fell heir to what others had toiled for -
+        </verse>
+        <verse osisID="Ps.105.45">
+          that they might keep his precepts and observe his laws. Praise Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.106">
+        <title>Israel's Unfaithfulness and God's Mercy</title>
+        <verse osisID="Ps.106.1">
+          Praise Yahweh. Give thanks to Yahweh, for he is good; his love endures forever.
+        </verse>
+        <verse osisID="Ps.106.2">
+          Who can proclaim the mighty acts of Yahweh or fully declare his praise?
+        </verse>
+        <verse osisID="Ps.106.3">
+          Blessed are those who act justly, who always do what is right.
+        </verse>
+        <verse osisID="Ps.106.4">
+          Remember me, Yahweh, when you show favor to your people, come to my aid when you save them,
+        </verse>
+        <verse osisID="Ps.106.5">
+          that I may enjoy the prosperity of your chosen ones, that I may share in the joy of your nation and join your inheritance in giving praise.
+        </verse>
+        <verse osisID="Ps.106.6">
+          We have sinned, even as our ancestors did; we have done wrong and acted wickedly.
+        </verse>
+        <verse osisID="Ps.106.7">
+          When our ancestors were in Egypt, they gave no thought to your miracles; they did not remember your many kindnesses, and they rebelled by the sea, the Red Sea.
+        </verse>
+        <verse osisID="Ps.106.8">
+          Yet he saved them for his name's sake, to make his mighty power known.
+        </verse>
+        <verse osisID="Ps.106.9">
+          He rebuked the Red Sea, and it dried up; he led them through the depths as through a desert.
+        </verse>
+        <verse osisID="Ps.106.10">
+          He saved them from the hand of the foe; from the hand of the enemy he redeemed them.
+        </verse>
+        <verse osisID="Ps.106.11">
+          The waters covered their adversaries; not one of them survived.
+        </verse>
+        <verse osisID="Ps.106.12">
+          Then they believed his promises and sang his praise.
+        </verse>
+        <verse osisID="Ps.106.13">
+          But they soon forgot what he had done and did not wait for his plan to unfold.
+        </verse>
+        <verse osisID="Ps.106.14">
+          In the desert they gave in to their craving; in the wilderness they put God to the test.
+        </verse>
+        <verse osisID="Ps.106.15">
+          So he gave them what they asked for, but sent a wasting disease among them.
+        </verse>
+        <verse osisID="Ps.106.16">
+          In the camp they grew envious of Moses and of Aaron, who was consecrated to Yahweh.
+        </verse>
+        <verse osisID="Ps.106.17">
+          The earth opened up and swallowed Dathan; it buried the company of Abiram.
+        </verse>
+        <verse osisID="Ps.106.18">
+          Fire blazed among their followers; a flame consumed the wicked.
+        </verse>
+        <verse osisID="Ps.106.19">
+          At Horeb they made a calf and worshiped an idol cast from metal.
+        </verse>
+        <verse osisID="Ps.106.20">
+          They exchanged their glorious God for an image of a bull, which eats grass.
+        </verse>
+        <verse osisID="Ps.106.21">
+          They forgot the God who saved them, who had done great things in Egypt,
+        </verse>
+        <verse osisID="Ps.106.22">
+          miracles in the land of Ham and awesome deeds by the Red Sea.
+        </verse>
+        <verse osisID="Ps.106.23">
+          So he said he would destroy them - had not Moses, his chosen one, stood in the breach before him to keep his wrath from destroying them.
+        </verse>
+        <verse osisID="Ps.106.24">
+          Then they despised the pleasant land; they did not believe his promise.
+        </verse>
+        <verse osisID="Ps.106.25">
+          They grumbled in their tents and did not obey Yahweh.
+        </verse>
+        <verse osisID="Ps.106.26">
+          So he swore to them with uplifted hand that he would make them fall in the wilderness,
+        </verse>
+        <verse osisID="Ps.106.27">
+          make their descendants fall among the nations and scatter them throughout the lands.
+        </verse>
+        <verse osisID="Ps.106.28">
+          They yoked themselves to the Baal of Peor and ate sacrifices offered to lifeless gods;
+        </verse>
+        <verse osisID="Ps.106.29">
+          they aroused Yahweh's anger by their wicked deeds, and a plague broke out among them.
+        </verse>
+        <verse osisID="Ps.106.30">
+          But Phinehas stood up and intervened, and the plague was checked.
+        </verse>
+        <verse osisID="Ps.106.31">
+          This was credited to him as righteousness for endless generations to come.
+        </verse>
+        <verse osisID="Ps.106.32">
+          By the waters of Meribah they angered Yahweh, and trouble came to Moses because of them;
+        </verse>
+        <verse osisID="Ps.106.33">
+          for they rebelled against the Spirit of God, and rash words came from Moses' lips.
+        </verse>
+        <verse osisID="Ps.106.34">
+          They did not destroy the peoples as Yahweh had commanded them,
+        </verse>
+        <verse osisID="Ps.106.35">
+          but they mingled with the nations and adopted their customs.
+        </verse>
+        <verse osisID="Ps.106.36">
+          They worshiped their idols, which became a snare to them.
+        </verse>
+        <verse osisID="Ps.106.37">
+          They sacrificed their sons and their daughters to false gods.
+        </verse>
+        <verse osisID="Ps.106.38">
+          They shed innocent blood, the blood of their sons and daughters, whom they sacrificed to the idols of Canaan, and the land was desecrated by their blood.
+        </verse>
+        <verse osisID="Ps.106.39">
+          They defiled themselves by what they did; by their deeds they prostituted themselves.
+        </verse>
+        <verse osisID="Ps.106.40">
+          Therefore Yahweh was angry with his people and abhorred his inheritance.
+        </verse>
+        <verse osisID="Ps.106.41">
+          He gave them into the hands of the nations, and their foes ruled over them.
+        </verse>
+        <verse osisID="Ps.106.42">
+          Their enemies oppressed them and subjected them to their power.
+        </verse>
+        <verse osisID="Ps.106.43">
+          Many times he delivered them, but they were bent on rebellion and they wasted away in their sin.
+        </verse>
+        <verse osisID="Ps.106.44">
+          Yet he took note of their distress when he heard their cry;
+        </verse>
+        <verse osisID="Ps.106.45">
+          for their sake he remembered his covenant and out of his great love he relented.
+        </verse>
+        <verse osisID="Ps.106.46">
+          He caused all who held them captive to show them mercy.
+        </verse>
+        <verse osisID="Ps.106.47">
+          Save us, Yahweh our God, and gather us from the nations, that we may give thanks to your holy name and glory in your praise.
+        </verse>
+        <verse osisID="Ps.106.48">
+          Praise be to Yahweh, the God of Israel, from everlasting to everlasting. Let all the people say, "Amen!" Praise Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.107">
+        <title>God's Love Endures Forever</title>
+        <verse osisID="Ps.107.1">
+          Give thanks to Yahweh, for he is good; his love endures forever.
+        </verse>
+        <verse osisID="Ps.107.2">
+          Let the redeemed of Yahweh tell their story - those he redeemed from the hand of the foe,
+        </verse>
+        <verse osisID="Ps.107.3">
+          those he gathered from the lands, from east and west, from north and south.
+        </verse>
+        <verse osisID="Ps.107.4">
+          Some wandered in desert wastelands, finding no way to a city where they could settle.
+        </verse>
+        <verse osisID="Ps.107.5">
+          They were hungry and thirsty, and their lives ebbed away.
+        </verse>
+        <verse osisID="Ps.107.6">
+          Then they cried out to Yahweh in their trouble, and he delivered them from their distress.
+        </verse>
+        <verse osisID="Ps.107.7">
+          He led them by a straight way to a city where they could settle.
+        </verse>
+        <verse osisID="Ps.107.8">
+          Let them give thanks to Yahweh for his unfailing love and his wonderful deeds for mankind,
+        </verse>
+        <verse osisID="Ps.107.9">
+          for he satisfies the thirsty and fills the hungry with good things.
+        </verse>
+        <verse osisID="Ps.107.10">
+          Some sat in darkness, in utter darkness, prisoners suffering in iron chains,
+        </verse>
+        <verse osisID="Ps.107.11">
+          because they rebelled against God's commands and despised the plans of the Most High.
+        </verse>
+        <verse osisID="Ps.107.12">
+          So he subjected them to bitter labor; they stumbled, and there was no one to help.
+        </verse>
+        <verse osisID="Ps.107.13">
+          Then they cried to Yahweh in their trouble, and he saved them from their distress.
+        </verse>
+        <verse osisID="Ps.107.14">
+          He brought them out of darkness, the utter darkness, and broke away their chains.
+        </verse>
+        <verse osisID="Ps.107.15">
+          Let them give thanks to Yahweh for his unfailing love and his wonderful deeds for mankind,
+        </verse>
+        <verse osisID="Ps.107.16">
+          for he breaks down gates of bronze and cuts through bars of iron.
+        </verse>
+        <verse osisID="Ps.107.17">
+          Some became fools through their rebellious ways and suffered affliction because of their iniquities.
+        </verse>
+        <verse osisID="Ps.107.18">
+          They loathed all food and drew near the gates of death.
+        </verse>
+        <verse osisID="Ps.107.19">
+          Then they cried to Yahweh in their trouble, and he saved them from their distress.
+        </verse>
+        <verse osisID="Ps.107.20">
+          He sent out his word and healed them; he rescued them from the grave.
+        </verse>
+        <verse osisID="Ps.107.21">
+          Let them give thanks to Yahweh for his unfailing love and his wonderful deeds for mankind.
+        </verse>
+        <verse osisID="Ps.107.22">
+          Let them sacrifice thank offerings and tell of his works with songs of joy.
+        </verse>
+        <verse osisID="Ps.107.23">
+          Some went out on the sea in ships; they were merchants on the mighty waters.
+        </verse>
+        <verse osisID="Ps.107.24">
+          They saw the works of Yahweh, his wonderful deeds in the deep.
+        </verse>
+        <verse osisID="Ps.107.25">
+          For he spoke and stirred up a tempest that lifted high the waves.
+        </verse>
+        <verse osisID="Ps.107.26">
+          They mounted up to the heavens and went down to the depths; in their peril their courage melted away.
+        </verse>
+        <verse osisID="Ps.107.27">
+          They reeled and staggered like drunkards; they were at their wits' end.
+        </verse>
+        <verse osisID="Ps.107.28">
+          Then they cried out to Yahweh in their trouble, and he brought them out of their distress.
+        </verse>
+        <verse osisID="Ps.107.29">
+          He stilled the storm to a whisper; the waves of the sea were hushed.
+        </verse>
+        <verse osisID="Ps.107.30">
+          They were glad when it grew calm, and he guided them to their desired haven.
+        </verse>
+        <verse osisID="Ps.107.31">
+          Let them give thanks to Yahweh for his unfailing love and his wonderful deeds for mankind.
+        </verse>
+        <verse osisID="Ps.107.32">
+          Let them exalt him in the assembly of the people and praise him in the council of the elders.
+        </verse>
+        <verse osisID="Ps.107.33">
+          He turned rivers into a desert, flowing springs into thirsty ground,
+        </verse>
+        <verse osisID="Ps.107.34">
+          and fruitful land into a salt waste, because of the wickedness of those who lived there.
+        </verse>
+        <verse osisID="Ps.107.35">
+          He turned the desert into pools of water and the parched ground into flowing springs;
+        </verse>
+        <verse osisID="Ps.107.36">
+          there he brought the hungry to live, and they founded a city where they could settle.
+        </verse>
+        <verse osisID="Ps.107.37">
+          They sowed fields and planted vineyards that yielded a fruitful harvest;
+        </verse>
+        <verse osisID="Ps.107.38">
+          he blessed them, and their numbers greatly increased, and he did not let their herds diminish.
+        </verse>
+        <verse osisID="Ps.107.39">
+          Then their numbers decreased, and they were humbled by oppression, calamity and sorrow;
+        </verse>
+        <verse osisID="Ps.107.40">
+          he who pours contempt on nobles made them wander in a trackless waste.
+        </verse>
+        <verse osisID="Ps.107.41">
+          But he lifted the needy out of their affliction and increased their families like flocks.
+        </verse>
+        <verse osisID="Ps.107.42">
+          The upright see and rejoice, but all the wicked shut their mouths.
+        </verse>
+        <verse osisID="Ps.107.43">
+          Let the one who is wise heed these things and ponder the loving deeds of Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.108">
+        <title>God's Help in Battle</title>
+        <verse osisID="Ps.108.1">
+          A song. A psalm of David. My heart, O God, is steadfast; I will sing and make music with all my soul.
+        </verse>
+        <verse osisID="Ps.108.2">
+          Awake, harp and lyre! I will awaken the dawn.
+        </verse>
+        <verse osisID="Ps.108.3">
+          I will praise you, Yahweh, among the nations; I will sing of you among the peoples.
+        </verse>
+        <verse osisID="Ps.108.4">
+          For great is your love, higher than the heavens; your faithfulness reaches to the skies.
+        </verse>
+        <verse osisID="Ps.108.5">
+          Be exalted, O God, above the heavens; let your glory be over all the earth.
+        </verse>
+        <verse osisID="Ps.108.6">
+          Save us and help us with your right hand, that those you love may be delivered.
+        </verse>
+        <verse osisID="Ps.108.7">
+          God has spoken from his sanctuary: "In triumph I will parcel out Shechem and measure off the Valley of Sukkoth.
+        </verse>
+        <verse osisID="Ps.108.8">
+          Gilead is mine, Manasseh is mine; Ephraim is my helmet, Judah is my scepter.
+        </verse>
+        <verse osisID="Ps.108.9">
+          Moab is my washbasin, on Edom I toss my sandal; over Philistia I shout in triumph."
+        </verse>
+        <verse osisID="Ps.108.10">
+          Who will bring me to the fortified city? Who will lead me to Edom?
+        </verse>
+        <verse osisID="Ps.108.11">
+          Is it not you, God, you who have rejected us and no longer go out with our armies?
+        </verse>
+        <verse osisID="Ps.108.12">
+          Give us aid against the enemy, for human help is worthless.
+        </verse>
+        <verse osisID="Ps.108.13">
+          With God we will gain the victory, and he will trample down our enemies.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.109">
+        <title>Prayer for Deliverance from Enemies</title>
+        <verse osisID="Ps.109.1">
+          For the director of music. Of David. A psalm. My God, whom I praise, do not remain silent,
+        </verse>
+        <verse osisID="Ps.109.2">
+          for people who are wicked and deceitful have opened their mouths against me; they have spoken against me with lying tongues.
+        </verse>
+        <verse osisID="Ps.109.3">
+          With words of hatred they surround me; they attack me without cause.
+        </verse>
+        <verse osisID="Ps.109.4">
+          In return for my friendship they accuse me, but I am a man of prayer.
+        </verse>
+        <verse osisID="Ps.109.5">
+          They repay me evil for good, and hatred for my friendship.
+        </verse>
+        <verse osisID="Ps.109.6">
+          Appoint someone evil to oppose my enemy; let an accuser stand at his right hand.
+        </verse>
+        <verse osisID="Ps.109.7">
+          When he is tried, let him be found guilty, and may his prayers condemn him.
+        </verse>
+        <verse osisID="Ps.109.8">
+          May his days be few; may another take his place of leadership.
+        </verse>
+        <verse osisID="Ps.109.9">
+          May his children be fatherless and his wife a widow.
+        </verse>
+        <verse osisID="Ps.109.10">
+          May his children be wandering beggars; may they be driven from their ruined homes.
+        </verse>
+        <verse osisID="Ps.109.11">
+          May a creditor seize all he has; may strangers plunder the fruits of his labor.
+        </verse>
+        <verse osisID="Ps.109.12">
+          May no one extend kindness to him or take pity on his fatherless children.
+        </verse>
+        <verse osisID="Ps.109.13">
+          May his descendants be cut off, their names blotted out from the next generation.
+        </verse>
+        <verse osisID="Ps.109.14">
+          May the iniquity of his fathers be remembered before Yahweh; may the sin of his mother never be blotted out.
+        </verse>
+        <verse osisID="Ps.109.15">
+          May their sins always remain before Yahweh, that he may blot out their name from the earth.
+        </verse>
+        <verse osisID="Ps.109.16">
+          For he never thought of doing a kindness, but hounded to death the poor and the needy and the brokenhearted.
+        </verse>
+        <verse osisID="Ps.109.17">
+          He loved to pronounce a curse - may it come back on him. He found no pleasure in blessing - may it be far from him.
+        </verse>
+        <verse osisID="Ps.109.18">
+          He wore cursing as his garment; it entered into his body like water, into his bones like oil.
+        </verse>
+        <verse osisID="Ps.109.19">
+          May it be like a cloak wrapped about him, like a belt tied forever around him.
+        </verse>
+        <verse osisID="Ps.109.20">
+          May this be Yahweh's payment to my accusers, to those who speak evil of me.
+        </verse>
+        <verse osisID="Ps.109.21">
+          But you, Sovereign Yahweh, help me for your name's sake; out of the goodness of your love, deliver me.
+        </verse>
+        <verse osisID="Ps.109.22">
+          For I am poor and needy, and my heart is wounded within me.
+        </verse>
+        <verse osisID="Ps.109.23">
+          I fade away like an evening shadow; I am shaken off like a locust.
+        </verse>
+        <verse osisID="Ps.109.24">
+          My knees give way from fasting; my body is thin and gaunt.
+        </verse>
+        <verse osisID="Ps.109.25">
+          I am an object of scorn to my accusers; when they see me, they shake their heads.
+        </verse>
+        <verse osisID="Ps.109.26">
+          Help me, Yahweh my God; save me according to your unfailing love.
+        </verse>
+        <verse osisID="Ps.109.27">
+          Let them know that it is your hand, that you, Yahweh, have done it.
+        </verse>
+        <verse osisID="Ps.109.28">
+          While they curse, may you bless; may those who attack me be put to shame, but may your servant rejoice.
+        </verse>
+        <verse osisID="Ps.109.29">
+          May my accusers be clothed with disgrace and wrapped in shame as in a cloak.
+        </verse>
+        <verse osisID="Ps.109.30">
+          With my mouth I will greatly extol Yahweh; in the great throng of worshipers I will praise him.
+        </verse>
+        <verse osisID="Ps.109.31">
+          For he stands at the right hand of the needy, to save their lives from those who would condemn them.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.110">
+        <title>The Lord Says to My Lord</title>
+        <verse osisID="Ps.110.1">
+          Of David. A psalm. Yahweh says to my lord: "Sit at my right hand until I make your enemies a footstool for your feet."
+        </verse>
+        <verse osisID="Ps.110.2">
+          Yahweh will extend your mighty scepter from Zion, saying, "Rule in the midst of your enemies!"
+        </verse>
+        <verse osisID="Ps.110.3">
+          Your troops will be willing on your day of battle. Arrayed in holy splendor, your young men will come to you like dew from the morning's womb.
+        </verse>
+        <verse osisID="Ps.110.4">
+          Yahweh has sworn and will not change his mind: "You are a priest forever, in the order of Melchizedek."
+        </verse>
+        <verse osisID="Ps.110.5">
+          The Lord is at your right hand; he will crush kings on the day of his wrath.
+        </verse>
+        <verse osisID="Ps.110.6">
+          He will judge the nations, heaping up the dead and crushing the rulers of the whole earth.
+        </verse>
+        <verse osisID="Ps.110.7">
+          He will drink from a brook along the way, and so he will lift his head high.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.111">
+        <title>Praise for God's Works</title>
+        <verse osisID="Ps.111.1">
+          Praise Yahweh. I will extol Yahweh with all my heart in the council of the upright and in the assembly.
+        </verse>
+        <verse osisID="Ps.111.2">
+          Great are the works of Yahweh; they are pondered by all who delight in them.
+        </verse>
+        <verse osisID="Ps.111.3">
+          Glorious and majestic are his deeds, and his righteousness endures forever.
+        </verse>
+        <verse osisID="Ps.111.4">
+          He has caused his wonders to be remembered; Yahweh is gracious and compassionate.
+        </verse>
+        <verse osisID="Ps.111.5">
+          He provides food for those who fear him; he remembers his covenant forever.
+        </verse>
+        <verse osisID="Ps.111.6">
+          He has shown his people the power of his works, giving them the lands of other nations.
+        </verse>
+        <verse osisID="Ps.111.7">
+          The works of his hands are faithful and just; all his precepts are trustworthy.
+        </verse>
+        <verse osisID="Ps.111.8">
+          They are established for ever and ever, enacted in faithfulness and uprightness.
+        </verse>
+        <verse osisID="Ps.111.9">
+          He provided redemption for his people; he ordained his covenant forever - holy and awesome is his name.
+        </verse>
+        <verse osisID="Ps.111.10">
+          The fear of Yahweh is the beginning of wisdom; all who follow his precepts have good understanding. To him belongs eternal praise.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.112">
+        <title>The Blessings of the Righteous</title>
+        <verse osisID="Ps.112.1">
+          Praise Yahweh. Blessed are those who fear Yahweh, who find great delight in his commands.
+        </verse>
+        <verse osisID="Ps.112.2">
+          Their children will be mighty in the land; the generation of the upright will be blessed.
+        </verse>
+        <verse osisID="Ps.112.3">
+          Wealth and riches are in their houses, and their righteousness endures forever.
+        </verse>
+        <verse osisID="Ps.112.4">
+          Even in darkness light dawns for the upright, for those who are gracious and compassionate and righteous.
+        </verse>
+        <verse osisID="Ps.112.5">
+          Good will come to those who are generous and lend freely, who conduct their affairs with justice.
+        </verse>
+        <verse osisID="Ps.112.6">
+          Surely the righteous will never be shaken; they will be remembered forever.
+        </verse>
+        <verse osisID="Ps.112.7">
+          They will have no fear of bad news; their hearts are steadfast, trusting in Yahweh.
+        </verse>
+        <verse osisID="Ps.112.8">
+          Their hearts are secure, they will have no fear; in the end they will look in triumph on their foes.
+        </verse>
+        <verse osisID="Ps.112.9">
+          They have freely scattered their gifts to the poor, their righteousness endures forever; their horn will be lifted high in honor.
+        </verse>
+        <verse osisID="Ps.112.10">
+          The wicked will see and be vexed, they will gnash their teeth and waste away; the longings of the wicked will come to nothing.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.113">
+        <title>God's Majesty and Care</title>
+        <verse osisID="Ps.113.1">
+          Praise Yahweh. Praise Yahweh, you his servants; praise the name of Yahweh.
+        </verse>
+        <verse osisID="Ps.113.2">
+          Let the name of Yahweh be praised, both now and forevermore.
+        </verse>
+        <verse osisID="Ps.113.3">
+          From the rising of the sun to the place where it sets, the name of Yahweh is to be praised.
+        </verse>
+        <verse osisID="Ps.113.4">
+          Yahweh is exalted over all the nations, his glory above the heavens.
+        </verse>
+        <verse osisID="Ps.113.5">
+          Who is like Yahweh our God, the One who sits enthroned on high,
+        </verse>
+        <verse osisID="Ps.113.6">
+          who stoops down to look on the heavens and the earth?
+        </verse>
+        <verse osisID="Ps.113.7">
+          He raises the poor from the dust and lifts the needy from the ash heap;
+        </verse>
+        <verse osisID="Ps.113.8">
+          he seats them with princes, with the princes of his people.
+        </verse>
+        <verse osisID="Ps.113.9">
+          He settles the childless woman in her home as a happy mother of children. Praise Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.114">
+        <title>God's Wonders at the Exodus</title>
+        <verse osisID="Ps.114.1">
+          When Israel came out of Egypt, Jacob from a people of foreign tongue,
+        </verse>
+        <verse osisID="Ps.114.2">
+          Judah became God's sanctuary, Israel his dominion.
+        </verse>
+        <verse osisID="Ps.114.3">
+          The sea looked and fled, the Jordan turned back;
+        </verse>
+        <verse osisID="Ps.114.4">
+          the mountains leaped like rams, the hills like lambs.
+        </verse>
+        <verse osisID="Ps.114.5">
+          Why was it, sea, that you fled? Why, Jordan, did you turn back?
+        </verse>
+        <verse osisID="Ps.114.6">
+          Why, mountains, did you leap like rams, you hills, like lambs?
+        </verse>
+        <verse osisID="Ps.114.7">
+          Tremble, earth, at the presence of the Lord, at the presence of the God of Jacob,
+        </verse>
+        <verse osisID="Ps.114.8">
+          who turned the rock into a pool, the hard rock into springs of water.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.115">
+        <title>The Futility of Idols and Trust in God</title>
+        <verse osisID="Ps.115.1">
+          Not to us, Yahweh, not to us but to your name be the glory, because of your love and faithfulness.
+        </verse>
+        <verse osisID="Ps.115.2">
+          Why do the nations say, "Where is their God?"
+        </verse>
+        <verse osisID="Ps.115.3">
+          Our God is in heaven; he does whatever pleases him.
+        </verse>
+        <verse osisID="Ps.115.4">
+          But their idols are silver and gold, made by human hands.
+        </verse>
+        <verse osisID="Ps.115.5">
+          They have mouths, but cannot speak, eyes, but cannot see.
+        </verse>
+        <verse osisID="Ps.115.6">
+          They have ears, but cannot hear, noses, but cannot smell.
+        </verse>
+        <verse osisID="Ps.115.7">
+          They have hands, but cannot feel, feet, but cannot walk, nor can they utter a sound with their throats.
+        </verse>
+        <verse osisID="Ps.115.8">
+          Those who make them will be like them, and so will all who trust in them.
+        </verse>
+        <verse osisID="Ps.115.9">
+          All you Israelites, trust in Yahweh - he is their help and shield.
+        </verse>
+        <verse osisID="Ps.115.10">
+          House of Aaron, trust in Yahweh - he is their help and shield.
+        </verse>
+        <verse osisID="Ps.115.11">
+          You who fear him, trust in Yahweh - he is their help and shield.
+        </verse>
+        <verse osisID="Ps.115.12">
+          Yahweh remembers us and will bless us: He will bless his people Israel, he will bless the house of Aaron,
+        </verse>
+        <verse osisID="Ps.115.13">
+          he will bless those who fear Yahweh - small and great alike.
+        </verse>
+        <verse osisID="Ps.115.14">
+          May Yahweh cause you to flourish, both you and your children.
+        </verse>
+        <verse osisID="Ps.115.15">
+          May you be blessed by Yahweh, the Maker of heaven and earth.
+        </verse>
+        <verse osisID="Ps.115.16">
+          The highest heavens belong to Yahweh, but the earth he has given to mankind.
+        </verse>
+        <verse osisID="Ps.115.17">
+          It is not the dead who praise Yahweh, those who go down to the place of silence;
+        </verse>
+        <verse osisID="Ps.115.18">
+          it is we who extol Yahweh, both now and forevermore. Praise Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.116">
+        <title>Thanksgiving for Deliverance from Death</title>
+        <verse osisID="Ps.116.1">
+          I love Yahweh, for he heard my voice; he heard my cry for mercy.
+        </verse>
+        <verse osisID="Ps.116.2">
+          Because he turned his ear to me, I will call on him as long as I live.
+        </verse>
+        <verse osisID="Ps.116.3">
+          The cords of death entangled me, the anguish of the grave came over me; I was overcome by distress and sorrow.
+        </verse>
+        <verse osisID="Ps.116.4">
+          Then I called on the name of Yahweh: "Yahweh, save me!"
+        </verse>
+        <verse osisID="Ps.116.5">
+          Yahweh is gracious and righteous; our God is full of compassion.
+        </verse>
+        <verse osisID="Ps.116.6">
+          Yahweh protects the unwary; when I was brought low, he saved me.
+        </verse>
+        <verse osisID="Ps.116.7">
+          Return to your rest, my soul, for Yahweh has been good to you.
+        </verse>
+        <verse osisID="Ps.116.8">
+          For you, Yahweh, have delivered me from death, my eyes from tears, my feet from stumbling,
+        </verse>
+        <verse osisID="Ps.116.9">
+          that I may walk before Yahweh in the land of the living.
+        </verse>
+        <verse osisID="Ps.116.10">
+          I trusted in Yahweh when I said, "I am greatly afflicted";
+        </verse>
+        <verse osisID="Ps.116.11">
+          in my alarm I said, "Everyone is a liar."
+        </verse>
+        <verse osisID="Ps.116.12">
+          What shall I return to Yahweh for all his goodness to me?
+        </verse>
+        <verse osisID="Ps.116.13">
+          I will lift up the cup of salvation and call on the name of Yahweh.
+        </verse>
+        <verse osisID="Ps.116.14">
+          I will fulfill my vows to Yahweh in the presence of all his people.
+        </verse>
+        <verse osisID="Ps.116.15">
+          Precious in the sight of Yahweh is the death of his faithful servants.
+        </verse>
+        <verse osisID="Ps.116.16">
+          Truly I am your servant, Yahweh; I serve you just as my mother did; you have freed me from my chains.
+        </verse>
+        <verse osisID="Ps.116.17">
+          I will sacrifice a thank offering to you and call on the name of Yahweh.
+        </verse>
+        <verse osisID="Ps.116.18">
+          I will fulfill my vows to Yahweh in the presence of all his people,
+        </verse>
+        <verse osisID="Ps.116.19">
+          in the courts of Yahweh's house - in your midst, Jerusalem. Praise Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.117">
+        <title>Universal Call to Praise</title>
+        <verse osisID="Ps.117.1">
+          Praise Yahweh, all you nations; extol him, all you peoples.
+        </verse>
+        <verse osisID="Ps.117.2">
+          For great is his love toward us, and the faithfulness of Yahweh endures forever. Praise Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.118">
+        <title>Thanksgiving for Victory</title>
+        <verse osisID="Ps.118.1">
+          Give thanks to Yahweh, for he is good; his love endures forever.
+        </verse>
+        <verse osisID="Ps.118.2">
+          Let Israel say: "His love endures forever."
+        </verse>
+        <verse osisID="Ps.118.3">
+          Let the house of Aaron say: "His love endures forever."
+        </verse>
+        <verse osisID="Ps.118.4">
+          Let those who fear Yahweh say: "His love endures forever."
+        </verse>
+        <verse osisID="Ps.118.5">
+          When hard pressed, I cried to Yahweh; he brought me into a spacious place.
+        </verse>
+        <verse osisID="Ps.118.6">
+          Yahweh is with me; I will not be afraid. What can mere mortals do to me?
+        </verse>
+        <verse osisID="Ps.118.7">
+          Yahweh is with me; he is my helper. I look in triumph on my enemies.
+        </verse>
+        <verse osisID="Ps.118.8">
+          It is better to take refuge in Yahweh than to trust in humans.
+        </verse>
+        <verse osisID="Ps.118.9">
+          It is better to take refuge in Yahweh than to trust in princes.
+        </verse>
+        <verse osisID="Ps.118.10">
+          All the nations surrounded me, but in the name of Yahweh I cut them down.
+        </verse>
+        <verse osisID="Ps.118.11">
+          They surrounded me on every side, but in the name of Yahweh I cut them down.
+        </verse>
+        <verse osisID="Ps.118.12">
+          They swarmed around me like bees, but they were consumed as quickly as burning thorns; in the name of Yahweh I cut them down.
+        </verse>
+        <verse osisID="Ps.118.13">
+          I was pushed back and about to fall, but Yahweh helped me.
+        </verse>
+        <verse osisID="Ps.118.14">
+          Yahweh is my strength and my defense; he has given me victory.
+        </verse>
+        <verse osisID="Ps.118.15">
+          Shouts of joy and victory resound in the tents of the righteous: "Yahweh's right hand has done mighty things!
+        </verse>
+        <verse osisID="Ps.118.16">
+          Yahweh's right hand is lifted high; Yahweh's right hand has done mighty things!"
+        </verse>
+        <verse osisID="Ps.118.17">
+          I will not die but live, and will proclaim what Yahweh has done.
+        </verse>
+        <verse osisID="Ps.118.18">
+          Yahweh has chastened me severely, but he has not given me over to death.
+        </verse>
+        <verse osisID="Ps.118.19">
+          Open for me the gates of the righteous; I will enter and give thanks to Yahweh.
+        </verse>
+        <verse osisID="Ps.118.20">
+          This is the gate of Yahweh through which the righteous may enter.
+        </verse>
+        <verse osisID="Ps.118.21">
+          I will give you thanks, for you answered me; you have become my salvation.
+        </verse>
+        <verse osisID="Ps.118.22">
+          The stone the builders rejected has become the cornerstone;
+        </verse>
+        <verse osisID="Ps.118.23">
+          Yahweh has done this, and it is marvelous in our eyes.
+        </verse>
+        <verse osisID="Ps.118.24">
+          Yahweh has done it this very day; let us rejoice today and be glad.
+        </verse>
+        <verse osisID="Ps.118.25">
+          Yahweh, save us! Yahweh, grant us success!
+        </verse>
+        <verse osisID="Ps.118.26">
+          Blessed is he who comes in the name of Yahweh. From the house of Yahweh we bless you.
+        </verse>
+        <verse osisID="Ps.118.27">
+          Yahweh is God, and he has made his light shine on us. With boughs in hand, join in the festal procession up to the horns of the altar.
+        </verse>
+        <verse osisID="Ps.118.28">
+          You are my God, and I will praise you; you are my God, and I will exalt you.
+        </verse>
+        <verse osisID="Ps.118.29">
+          Give thanks to Yahweh, for he is good; his love endures forever.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.119">
+        <title>The Word of God</title>
+        <verse osisID="Ps.119.1">
+          Blessed are those whose ways are blameless, who walk according to the law of Yahweh.
+        </verse>
+        <verse osisID="Ps.119.2">
+          Blessed are those who keep his statutes and seek him with all their heart -
+        </verse>
+        <verse osisID="Ps.119.3">
+          they do no wrong but follow his ways.
+        </verse>
+        <verse osisID="Ps.119.4">
+          You have laid down precepts that are to be fully obeyed.
+        </verse>
+        <verse osisID="Ps.119.5">
+          Oh, that my ways were steadfast in obeying your decrees!
+        </verse>
+        <verse osisID="Ps.119.6">
+          Then I would not be put to shame when I consider all your commands.
+        </verse>
+        <verse osisID="Ps.119.7">
+          I will praise you with an upright heart as I learn your righteous laws.
+        </verse>
+        <verse osisID="Ps.119.8">
+          I will obey your decrees; do not utterly forsake me.
+        </verse>
+        <verse osisID="Ps.119.9">
+          How can a young person stay on the path of purity? By living according to your word.
+        </verse>
+        <verse osisID="Ps.119.10">
+          I seek you with all my heart; do not let me stray from your commands.
+        </verse>
+        <verse osisID="Ps.119.11">
+          I have hidden your word in my heart that I might not sin against you.
+        </verse>
+        <verse osisID="Ps.119.12">
+          Praise be to you, Yahweh; teach me your decrees.
+        </verse>
+        <verse osisID="Ps.119.13">
+          With my lips I recount all the laws that come from your mouth.
+        </verse>
+        <verse osisID="Ps.119.14">
+          I rejoice in following your statutes as one rejoices in great riches.
+        </verse>
+        <verse osisID="Ps.119.15">
+          I meditate on your precepts and consider your ways.
+        </verse>
+        <verse osisID="Ps.119.16">
+          I delight in your decrees; I will not neglect your word.
+        </verse>
+        <verse osisID="Ps.119.17">
+          Be good to your servant while I live, that I may obey your word.
+        </verse>
+        <verse osisID="Ps.119.18">
+          Open my eyes that I may see wonderful things in your law.
+        </verse>
+        <verse osisID="Ps.119.19">
+          I am a stranger on earth; do not hide your commands from me.
+        </verse>
+        <verse osisID="Ps.119.20">
+          My soul is consumed with longing for your laws at all times.
+        </verse>
+        <verse osisID="Ps.119.21">
+          You rebuke the arrogant, who are accursed, those who stray from your commands.
+        </verse>
+        <verse osisID="Ps.119.22">
+          Remove from me their scorn and contempt, for I keep your statutes.
+        </verse>
+        <verse osisID="Ps.119.23">
+          Though rulers sit together and slander me, your servant will meditate on your decrees.
+        </verse>
+        <verse osisID="Ps.119.24">
+          Your statutes are my delight; they are my counselors.
+        </verse>
+        <verse osisID="Ps.119.25">
+          I am laid low in the dust; preserve my life according to your word.
+        </verse>
+        <verse osisID="Ps.119.26">
+          I gave account of my ways and you answered me; teach me your decrees.
+        </verse>
+        <verse osisID="Ps.119.27">
+          Cause me to understand the way of your precepts, that I may meditate on your wonderful deeds.
+        </verse>
+        <verse osisID="Ps.119.28">
+          My soul is weary with sorrow; strengthen me according to your word.
+        </verse>
+        <verse osisID="Ps.119.29">
+          Keep me from deceitful ways; be gracious to me and teach me your law.
+        </verse>
+        <verse osisID="Ps.119.30">
+          I have chosen the way of faithfulness; I have set my heart on your laws.
+        </verse>
+        <verse osisID="Ps.119.31">
+          I hold fast to your statutes, Yahweh; do not let me be put to shame.
+        </verse>
+        <verse osisID="Ps.119.32">
+          I run in the path of your commands, for you have broadened my understanding.
+        </verse>
+        <verse osisID="Ps.119.33">
+          Teach me, Yahweh, the way of your decrees, that I may follow it to the end.
+        </verse>
+        <verse osisID="Ps.119.34">
+          Give me understanding, so that I may keep your law and obey it with all my heart.
+        </verse>
+        <verse osisID="Ps.119.35">
+          Direct me in the path of your commands, for there I find delight.
+        </verse>
+        <verse osisID="Ps.119.36">
+          Turn my heart toward your statutes and not toward selfish gain.
+        </verse>
+        <verse osisID="Ps.119.37">
+          Turn my eyes away from worthless things; preserve my life according to your word.
+        </verse>
+        <verse osisID="Ps.119.38">
+          Fulfill your promise to your servant, so that you may be feared.
+        </verse>
+        <verse osisID="Ps.119.39">
+          Take away the disgrace I dread, for your laws are good.
+        </verse>
+        <verse osisID="Ps.119.40">
+          How I long for your precepts! In your righteousness preserve my life.
+        </verse>
+        <verse osisID="Ps.119.41">
+          May your unfailing love come to me, Yahweh, your salvation, according to your promise;
+        </verse>
+        <verse osisID="Ps.119.42">
+          then I can answer anyone who taunts me, for I trust in your word.
+        </verse>
+        <verse osisID="Ps.119.43">
+          Never take your word of truth from my mouth, for I have put my hope in your laws.
+        </verse>
+        <verse osisID="Ps.119.44">
+          I will always obey your law, for ever and ever.
+        </verse>
+        <verse osisID="Ps.119.45">
+          I will walk about in freedom, for I have sought out your precepts.
+        </verse>
+        <verse osisID="Ps.119.46">
+          I will speak of your statutes before kings and will not be put to shame,
+        </verse>
+        <verse osisID="Ps.119.47">
+          for I delight in your commands because I love them.
+        </verse>
+        <verse osisID="Ps.119.48">
+          I reach out for your commands, which I love, that I may meditate on your decrees.
+        </verse>
+        <verse osisID="Ps.119.49">
+          Remember your word to your servant, for you have given me hope.
+        </verse>
+        <verse osisID="Ps.119.50">
+          My comfort in my suffering is this: Your promise preserves my life.
+        </verse>
+        <verse osisID="Ps.119.51">
+          The arrogant mock me unmercifully, but I do not turn from your law.
+        </verse>
+        <verse osisID="Ps.119.52">
+          I remember, Yahweh, your ancient laws, and I find comfort in them.
+        </verse>
+        <verse osisID="Ps.119.53">
+          Indignation grips me because of the wicked, who have forsaken your law.
+        </verse>
+        <verse osisID="Ps.119.54">
+          Your decrees are the theme of my song wherever I lodge.
+        </verse>
+        <verse osisID="Ps.119.55">
+          In the night, Yahweh, I remember your name, that I may keep your law.
+        </verse>
+        <verse osisID="Ps.119.56">
+          This has been my practice: I obey your precepts.
+        </verse>
+        <verse osisID="Ps.119.57">
+          You are my portion, Yahweh; I have promised to obey your words.
+        </verse>
+        <verse osisID="Ps.119.58">
+          I have sought your face with all my heart; be gracious to me according to your promise.
+        </verse>
+        <verse osisID="Ps.119.59">
+          I have considered my ways and have turned my steps to your statutes.
+        </verse>
+        <verse osisID="Ps.119.60">
+          I will hasten and not delay to obey your commands.
+        </verse>
+        <verse osisID="Ps.119.61">
+          Though the wicked bind me with ropes, I will not forget your law.
+        </verse>
+        <verse osisID="Ps.119.62">
+          At midnight I rise to give you thanks for your righteous laws.
+        </verse>
+        <verse osisID="Ps.119.63">
+          I am a friend to all who fear you, to all who follow your precepts.
+        </verse>
+        <verse osisID="Ps.119.64">
+          The earth is filled with your love, Yahweh; teach me your decrees.
+        </verse>
+        <verse osisID="Ps.119.65">
+          Do good to your servant according to your word, Yahweh.
+        </verse>
+        <verse osisID="Ps.119.66">
+          Teach me knowledge and good judgment, for I trust your commands.
+        </verse>
+        <verse osisID="Ps.119.67">
+          Before I was afflicted I went astray, but now I obey your word.
+        </verse>
+        <verse osisID="Ps.119.68">
+          You are good, and what you do is good; teach me your decrees.
+        </verse>
+        <verse osisID="Ps.119.69">
+          Though the arrogant have smeared me with lies, I keep your precepts with all my heart.
+        </verse>
+        <verse osisID="Ps.119.70">
+          Their hearts are callous and unfeeling, but I delight in your law.
+        </verse>
+        <verse osisID="Ps.119.71">
+          It was good for me to be afflicted so that I might learn your decrees.
+        </verse>
+        <verse osisID="Ps.119.72">
+          The law from your mouth is more precious to me than thousands of pieces of silver and gold.
+        </verse>
+        <verse osisID="Ps.119.73">
+          Your hands made me and formed me; give me understanding to learn your commands.
+        </verse>
+        <verse osisID="Ps.119.74">
+          May those who fear you rejoice when they see me, for I have put my hope in your word.
+        </verse>
+        <verse osisID="Ps.119.75">
+          I know, Yahweh, that your laws are righteous, and that in faithfulness you have afflicted me.
+        </verse>
+        <verse osisID="Ps.119.76">
+          May your unfailing love be my comfort, according to your promise to your servant.
+        </verse>
+        <verse osisID="Ps.119.77">
+          Let your compassion come to me that I may live, for your law is my delight.
+        </verse>
+        <verse osisID="Ps.119.78">
+          May the arrogant be put to shame for wronging me without cause; but I will meditate on your precepts.
+        </verse>
+        <verse osisID="Ps.119.79">
+          May those who fear you turn to me, those who understand your statutes.
+        </verse>
+        <verse osisID="Ps.119.80">
+          May I wholeheartedly follow your decrees, that I may not be put to shame.
+        </verse>
+        <verse osisID="Ps.119.81">
+          My soul faints with longing for your salvation, but I have put my hope in your word.
+        </verse>
+        <verse osisID="Ps.119.82">
+          My eyes fail, looking for your promise; I say, "When will you comfort me?"
+        </verse>
+        <verse osisID="Ps.119.83">
+          Though I am like a wineskin in the smoke, I do not forget your decrees.
+        </verse>
+        <verse osisID="Ps.119.84">
+          How long must your servant wait? When will you punish my persecutors?
+        </verse>
+        <verse osisID="Ps.119.85">
+          The arrogant dig pits to trap me, contrary to your law.
+        </verse>
+        <verse osisID="Ps.119.86">
+          All your commands are trustworthy; help me, for I am being persecuted without cause.
+        </verse>
+        <verse osisID="Ps.119.87">
+          They almost wiped me from the earth, but I have not forsaken your precepts.
+        </verse>
+        <verse osisID="Ps.119.88">
+          In your unfailing love preserve my life, that I may obey the statutes of your mouth.
+        </verse>
+        <verse osisID="Ps.119.89">
+          Your word, Yahweh, is eternal; it stands firm in the heavens.
+        </verse>
+        <verse osisID="Ps.119.90">
+          Your faithfulness continues through all generations; you established the earth, and it endures.
+        </verse>
+        <verse osisID="Ps.119.91">
+          Your laws endure to this day, for all things serve you.
+        </verse>
+        <verse osisID="Ps.119.92">
+          If your law had not been my delight, I would have perished in my affliction.
+        </verse>
+        <verse osisID="Ps.119.93">
+          I will never forget your precepts, for by them you have preserved my life.
+        </verse>
+        <verse osisID="Ps.119.94">
+          Save me, for I am yours; I have sought out your precepts.
+        </verse>
+        <verse osisID="Ps.119.95">
+          The wicked are waiting to destroy me, but I will ponder your statutes.
+        </verse>
+        <verse osisID="Ps.119.96">
+          To all perfection I see a limit, but your commands are boundless.
+        </verse>
+        <verse osisID="Ps.119.97">
+          Oh, how I love your law! I meditate on it all day long.
+        </verse>
+        <verse osisID="Ps.119.98">
+          Your commands are always with me and make me wiser than my enemies.
+        </verse>
+        <verse osisID="Ps.119.99">
+          I have more insight than all my teachers, for I meditate on your statutes.
+        </verse>
+        <verse osisID="Ps.119.100">
+          I have more understanding than the elders, for I obey your precepts.
+        </verse>
+        <verse osisID="Ps.119.101">
+          I have kept my feet from every evil path so that I might obey your word.
+        </verse>
+        <verse osisID="Ps.119.102">
+          I have not departed from your laws, for you yourself have taught me.
+        </verse>
+        <verse osisID="Ps.119.103">
+          How sweet are your words to my taste, sweeter than honey to my mouth!
+        </verse>
+        <verse osisID="Ps.119.104">
+          I gain understanding from your precepts; therefore I hate every wrong path.
+        </verse>
+        <verse osisID="Ps.119.105">
+          Your word is a lamp for my feet, a light on my path.
+        </verse>
+        <verse osisID="Ps.119.106">
+          I have taken an oath and confirmed it, that I will follow your righteous laws.
+        </verse>
+        <verse osisID="Ps.119.107">
+          I have suffered much; preserve my life, Yahweh, according to your word.
+        </verse>
+        <verse osisID="Ps.119.108">
+          Accept, Yahweh, the willing praise of my mouth, and teach me your laws.
+        </verse>
+        <verse osisID="Ps.119.109">
+          Though I constantly take my life in my hands, I will not forget your law.
+        </verse>
+        <verse osisID="Ps.119.110">
+          The wicked have set a snare for me, but I have not strayed from your precepts.
+        </verse>
+        <verse osisID="Ps.119.111">
+          Your statutes are my heritage forever; they are the joy of my heart.
+        </verse>
+        <verse osisID="Ps.119.112">
+          My heart is set on keeping your decrees to the very end.
+        </verse>
+        <verse osisID="Ps.119.113">
+          I hate double-minded people, but I love your law.
+        </verse>
+        <verse osisID="Ps.119.114">
+          You are my refuge and my shield; I have put my hope in your word.
+        </verse>
+        <verse osisID="Ps.119.115">
+          Away from me, you evildoers, that I may keep the commands of my God!
+        </verse>
+        <verse osisID="Ps.119.116">
+          Sustain me, my God, according to your promise, and I will live; do not let my hopes be dashed.
+        </verse>
+        <verse osisID="Ps.119.117">
+          Uphold me, and I will be delivered; I will always have regard for your decrees.
+        </verse>
+        <verse osisID="Ps.119.118">
+          You reject all who stray from your decrees, for their delusions come to nothing.
+        </verse>
+        <verse osisID="Ps.119.119">
+          All the wicked of the earth you discard like dross; therefore I love your statutes.
+        </verse>
+        <verse osisID="Ps.119.120">
+          My flesh trembles in fear of you; I stand in awe of your laws.
+        </verse>
+        <verse osisID="Ps.119.121">
+          I have done what is righteous and just; do not leave me to my oppressors.
+        </verse>
+        <verse osisID="Ps.119.122">
+          Ensure your servant's well-being; do not let the arrogant oppress me.
+        </verse>
+        <verse osisID="Ps.119.123">
+          My eyes fail, looking for your salvation, looking for your righteous promise.
+        </verse>
+        <verse osisID="Ps.119.124">
+          Deal with your servant according to your love and teach me your decrees.
+        </verse>
+        <verse osisID="Ps.119.125">
+          I am your servant; give me discernment that I may understand your statutes.
+        </verse>
+        <verse osisID="Ps.119.126">
+          It is time for you to act, Yahweh; your law is being broken.
+        </verse>
+        <verse osisID="Ps.119.127">
+          Because I love your commands more than gold, more than pure gold,
+        </verse>
+        <verse osisID="Ps.119.128">
+          and because I consider all your precepts right, I hate every wrong path.
+        </verse>
+        <verse osisID="Ps.119.129">
+          Your statutes are wonderful; therefore I obey them.
+        </verse>
+        <verse osisID="Ps.119.130">
+          The unfolding of your words gives light; it gives understanding to the simple.
+        </verse>
+        <verse osisID="Ps.119.131">
+          I open my mouth and pant, longing for your commands.
+        </verse>
+        <verse osisID="Ps.119.132">
+          Turn to me and have mercy on me, as you always do to those who love your name.
+        </verse>
+        <verse osisID="Ps.119.133">
+          Direct my footsteps according to your word; let no sin rule over me.
+        </verse>
+        <verse osisID="Ps.119.134">
+          Redeem me from human oppression, that I may obey your precepts.
+        </verse>
+        <verse osisID="Ps.119.135">
+          Make your face shine on your servant and teach me your decrees.
+        </verse>
+        <verse osisID="Ps.119.136">
+          Streams of tears flow from my eyes, for your law is not obeyed.
+        </verse>
+        <verse osisID="Ps.119.137">
+          You are righteous, Yahweh, and your laws are right.
+        </verse>
+        <verse osisID="Ps.119.138">
+          The statutes you have laid down are righteous; they are fully trustworthy.
+        </verse>
+        <verse osisID="Ps.119.139">
+          My zeal wears me out, for my enemies ignore your words.
+        </verse>
+        <verse osisID="Ps.119.140">
+          Your promises have been thoroughly tested, and your servant loves them.
+        </verse>
+        <verse osisID="Ps.119.141">
+          Though I am lowly and despised, I do not forget your precepts.
+        </verse>
+        <verse osisID="Ps.119.142">
+          Your righteousness is everlasting and your law is true.
+        </verse>
+        <verse osisID="Ps.119.143">
+          Trouble and distress have come upon me, but your commands give me delight.
+        </verse>
+        <verse osisID="Ps.119.144">
+          Your statutes are always righteous; give me understanding that I may live.
+        </verse>
+        <verse osisID="Ps.119.145">
+          I call with all my heart; answer me, Yahweh, and I will obey your decrees.
+        </verse>
+        <verse osisID="Ps.119.146">
+          I call out to you; save me and I will keep your statutes.
+        </verse>
+        <verse osisID="Ps.119.147">
+          I rise before dawn and cry for help; I have put my hope in your word.
+        </verse>
+        <verse osisID="Ps.119.148">
+          My eyes stay open through the watches of the night, that I may meditate on your promises.
+        </verse>
+        <verse osisID="Ps.119.149">
+          Hear my voice in accordance with your love; preserve my life, Yahweh, according to your laws.
+        </verse>
+        <verse osisID="Ps.119.150">
+          Those who devise wicked schemes are near, but they are far from your law.
+        </verse>
+        <verse osisID="Ps.119.151">
+          Yet you are near, Yahweh, and all your commands are true.
+        </verse>
+        <verse osisID="Ps.119.152">
+          Long ago I learned from your statutes that you established them to last forever.
+        </verse>
+        <verse osisID="Ps.119.153">
+          Look on my suffering and deliver me, for I have not forgotten your law.
+        </verse>
+        <verse osisID="Ps.119.154">
+          Defend my cause and redeem me; preserve my life according to your promise.
+        </verse>
+        <verse osisID="Ps.119.155">
+          Salvation is far from the wicked, for they do not seek out your decrees.
+        </verse>
+        <verse osisID="Ps.119.156">
+          Your compassion, Yahweh, is great; preserve my life according to your laws.
+        </verse>
+        <verse osisID="Ps.119.157">
+          Many are the foes who persecute me, but I have not turned from your statutes.
+        </verse>
+        <verse osisID="Ps.119.158">
+          I look on the faithless with loathing, for they do not obey your word.
+        </verse>
+        <verse osisID="Ps.119.159">
+          See how I love your precepts; preserve my life, Yahweh, in accordance with your love.
+        </verse>
+        <verse osisID="Ps.119.160">
+          All your words are true; all your righteous laws are eternal.
+        </verse>
+        <verse osisID="Ps.119.161">
+          Rulers persecute me without cause, but my heart trembles at your word.
+        </verse>
+        <verse osisID="Ps.119.162">
+          I rejoice in your promise like one who finds great spoil.
+        </verse>
+        <verse osisID="Ps.119.163">
+          I hate and detest falsehood but I love your law.
+        </verse>
+        <verse osisID="Ps.119.164">
+          Seven times a day I praise you for your righteous laws.
+        </verse>
+        <verse osisID="Ps.119.165">
+          Great peace have those who love your law, and nothing can make them stumble.
+        </verse>
+        <verse osisID="Ps.119.166">
+          I wait for your salvation, Yahweh, and I follow your commands.
+        </verse>
+        <verse osisID="Ps.119.167">
+          I obey your statutes, for I love them greatly.
+        </verse>
+        <verse osisID="Ps.119.168">
+          I obey your precepts and your statutes, for all my ways are known to you.
+        </verse>
+        <verse osisID="Ps.119.169">
+          May my cry come before you, Yahweh; give me understanding according to your word.
+        </verse>
+        <verse osisID="Ps.119.170">
+          May my supplication come before you; deliver me according to your promise.
+        </verse>
+        <verse osisID="Ps.119.171">
+          May my lips overflow with praise, for you teach me your decrees.
+        </verse>
+        <verse osisID="Ps.119.172">
+          May my tongue sing of your word, for all your commands are righteous.
+        </verse>
+        <verse osisID="Ps.119.173">
+          May your hand be ready to help me, for I have chosen your precepts.
+        </verse>
+        <verse osisID="Ps.119.174">
+          I long for your salvation, Yahweh, and your law gives me delight.
+        </verse>
+        <verse osisID="Ps.119.175">
+          Let me live that I may praise you, and may your laws sustain me.
+        </verse>
+        <verse osisID="Ps.119.176">
+          I have strayed like a lost sheep. Seek your servant, for I have not forgotten your commands.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.120">
+        <title>A Song of Ascents: Distress and Peace</title>
+        <verse osisID="Ps.120.1">
+          A song of ascents. I call on Yahweh in my distress, and he answers me.
+        </verse>
+        <verse osisID="Ps.120.2">
+          Save me, Yahweh, from lying lips and from deceitful tongues.
+        </verse>
+        <verse osisID="Ps.120.3">
+          What will he do to you, and what more besides, you deceitful tongue?
+        </verse>
+        <verse osisID="Ps.120.4">
+          He will punish you with a warrior's sharp arrows, with burning coals of the broom bush.
+        </verse>
+        <verse osisID="Ps.120.5">
+          Woe to me that I dwell in Meshek, that I live among the tents of Kedar!
+        </verse>
+        <verse osisID="Ps.120.6">
+          Too long have I lived among those who hate peace.
+        </verse>
+        <verse osisID="Ps.120.7">
+          I am for peace; but when I speak, they are for war.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.121">
+        <title>A Song of Ascents: The Lord Our Keeper</title>
+        <verse osisID="Ps.121.1">
+          A song of ascents. I lift up my eyes to the mountains - where does my help come from?
+        </verse>
+        <verse osisID="Ps.121.2">
+          My help comes from Yahweh, the Maker of heaven and earth.
+        </verse>
+        <verse osisID="Ps.121.3">
+          He will not let your foot slip - he who watches over you will not slumber;
+        </verse>
+        <verse osisID="Ps.121.4">
+          indeed, he who watches over Israel will neither slumber nor sleep.
+        </verse>
+        <verse osisID="Ps.121.5">
+          Yahweh watches over you - Yahweh is your shade at your right hand;
+        </verse>
+        <verse osisID="Ps.121.6">
+          the sun will not harm you by day, nor the moon by night.
+        </verse>
+        <verse osisID="Ps.121.7">
+          Yahweh will keep you from all harm - he will watch over your life;
+        </verse>
+        <verse osisID="Ps.121.8">
+          Yahweh will watch over your coming and going both now and forevermore.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.122">
+        <title>A Song of Ascents: Jerusalem, Our Joy</title>
+        <verse osisID="Ps.122.1">
+          A song of ascents. Of David. I rejoiced with those who said to me, "Let us go to the house of Yahweh."
+        </verse>
+        <verse osisID="Ps.122.2">
+          Our feet are standing in your gates, Jerusalem.
+        </verse>
+        <verse osisID="Ps.122.3">
+          Jerusalem is built like a city that is closely compacted together.
+        </verse>
+        <verse osisID="Ps.122.4">
+          That is where the tribes go up - the tribes of Yahweh - to praise the name of Yahweh according to the statute given to Israel.
+        </verse>
+        <verse osisID="Ps.122.5">
+          There stand the thrones for judgment, the thrones of the house of David.
+        </verse>
+        <verse osisID="Ps.122.6">
+          Pray for the peace of Jerusalem: "May those who love you be secure.
+        </verse>
+        <verse osisID="Ps.122.7">
+          May there be peace within your walls and security within your citadels."
+        </verse>
+        <verse osisID="Ps.122.8">
+          For the sake of my family and friends, I will say, "Peace be within you."
+        </verse>
+        <verse osisID="Ps.122.9">
+          For the sake of the house of Yahweh our God, I will seek your prosperity.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.123">
+        <title>A Song of Ascents: Our Eyes Look to the Lord</title>
+        <verse osisID="Ps.123.1">
+          A song of ascents. I lift up my eyes to you, to you who sit enthroned in heaven.
+        </verse>
+        <verse osisID="Ps.123.2">
+          As the eyes of slaves look to the hand of their master, as the eyes of a female slave look to the hand of her mistress, so our eyes look to Yahweh our God, till he shows us his mercy.
+        </verse>
+        <verse osisID="Ps.123.3">
+          Have mercy on us, Yahweh, have mercy on us, for we have endured no end of contempt.
+        </verse>
+        <verse osisID="Ps.123.4">
+          We have endured no end of ridicule from the arrogant, of contempt from the proud.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.124">
+        <title>A Song of Ascents: The Lord on Our Side</title>
+        <verse osisID="Ps.124.1">
+          A song of ascents. Of David. If Yahweh had not been on our side - let Israel say -
+        </verse>
+        <verse osisID="Ps.124.2">
+          if Yahweh had not been on our side when people attacked us,
+        </verse>
+        <verse osisID="Ps.124.3">
+          they would have swallowed us alive when their anger flared against us;
+        </verse>
+        <verse osisID="Ps.124.4">
+          the flood would have engulfed us, the torrent would have swept over us,
+        </verse>
+        <verse osisID="Ps.124.5">
+          the raging waters would have swept us away.
+        </verse>
+        <verse osisID="Ps.124.6">
+          Praise be to Yahweh, who has not let us be torn by their teeth.
+        </verse>
+        <verse osisID="Ps.124.7">
+          We have escaped like a bird from the fowler's snare; the snare has been broken, and we have escaped.
+        </verse>
+        <verse osisID="Ps.124.8">
+          Our help is in the name of Yahweh, the Maker of heaven and earth.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.125">
+        <title>A Song of Ascents: The Security of God's People</title>
+        <verse osisID="Ps.125.1">
+          A song of ascents. Those who trust in Yahweh are like Mount Zion, which cannot be shaken but endures forever.
+        </verse>
+        <verse osisID="Ps.125.2">
+          As the mountains surround Jerusalem, so Yahweh surrounds his people both now and forevermore.
+        </verse>
+        <verse osisID="Ps.125.3">
+          The scepter of the wicked will not remain over the land allotted to the righteous, for then the righteous might use their hands to do evil.
+        </verse>
+        <verse osisID="Ps.125.4">
+          Lord, do good to those who are good, to those who are upright in heart.
+        </verse>
+        <verse osisID="Ps.125.5">
+          But those who turn to crooked ways Yahweh will banish with the evildoers. Peace be on Israel.
         </verse>
       </div>
     </div>
