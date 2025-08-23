@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace 
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <refSystem>Bible</refSystem>
+        <rights>Public Domain</rights>
+      </work>
+    </header>
+    <div type="book" osisID="Hos" canonical="true">
+      <title type="main">Hosea</title>
+      
+      <chapter osisID="Hos.1" sID="Hos.1"/>
+      <title type="main">Hosea's family as a symbol</title>
+      
+      <verse osisID="Hos.1.1">The word of Yahweh that came to Hosea son of Beeri during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and during the reign of Jeroboam son of Joash, king of Israel.</verse>
+      
+      <title type="sub">Hosea's wife and children</title>
+      
+      <verse osisID="Hos.1.2">When Yahweh first spoke through Hosea, Yahweh said to Hosea, "Go, marry a prostitute<note type="translation">The Hebrew word refers to a woman characterized by promiscuity</note> and have children with her who will be children of prostitution, because the land is completely unfaithful to Yahweh<note type="translation">Literally "prostituting away from Yahweh"</note>."</verse>
+      
+      <verse osisID="Hos.1.3">So he went and married Gomer daughter of Diblaim, and she became pregnant and gave birth to a son for him.</verse>
+      
+      <verse osisID="Hos.1.4">Yahweh said to him, "Name him Jezreel<note type="translation">Jezreel means "God plants" or "God scatters"</note>, because in just a little while I will punish the house of Jehu for the bloodshed at Jezreel, and I will put an end to the kingdom of the house of Israel.</verse>
+      
+      <verse osisID="Hos.1.5">On that day I will break Israel's military power<note type="translation">Literally "bow"</note> in the Valley of Jezreel."</verse>
+      
+      <verse osisID="Hos.1.6">She became pregnant again and gave birth to a daughter. Yahweh said to him, "Name her Lo-Ruhamah<note type="translation">Lo-Ruhamah means "not loved" or "not shown compassion"</note>, because I will no longer show love to the house of Israel or forgive them at all.</verse>
+      
+      <verse osisID="Hos.1.7">But I will show love to the house of Judah, and I will save them by Yahweh their God. I will not save them by bow or sword or warfare, by horses or cavalry."</verse>
+      
+      <verse osisID="Hos.1.8">After she weaned Lo-Ruhamah, she became pregnant and gave birth to a son.</verse>
+      
+      <verse osisID="Hos.1.9">Yahweh said, "Name him Lo-Ammi<note type="translation">Lo-Ammi means "not my people"</note>, because you are not my people, and I am not your God<note type="translation">Literally "I am not 'I am' to you"</note>."</verse>
+      
+      <chapter eID="Hos.1"/>
+      
+    </div>
+  </osisText>
+</osis>
