@@ -15,100 +15,100 @@
     <div type="book" osisID="Mal" canonical="true">
       <title type="main">The Book of Malachi</title>
       
-      <chapter osisID="Mal.1" sID="Mal.1"/>
-      <title type="chapter">Chapter 1</title>
-      <title type="main">God's Love for Israel and Their Dishonor</title>
+      <chapter osisID="Mal.1">
+        <title type="chapter">Chapter 1</title>
+        <title type="main">God's Love for Israel and Their Dishonor</title>
       
-      <verse osisID="Mal.1.1">The message<note type="translation">The Hebrew word means "burden" or "oracle"</note> of Yahweh's word to Israel through Malachi.</verse>
+        <verse osisID="Mal.1.1">The message<note type="translation">The Hebrew word means "burden" or "oracle"</note> of Yahweh's word to Israel through Malachi.</verse>
+        
+        <title type="sub">God's Love for Jacob Over Esau</title>
+        <verse osisID="Mal.1.2">"I have loved you," says Yahweh. But you say, "How have you loved us?" "Wasn't Esau Jacob's brother?" declares Yahweh. "Yet I loved Jacob,</verse>
+        <verse osisID="Mal.1.3">but I hated Esau. I turned his mountains into a wasteland and gave his inheritance to the desert jackals."</verse>
+        <verse osisID="Mal.1.4">If Edom says, "We've been crushed, but we'll return and rebuild the ruins," this is what Yahweh of Heaven's Armies says: "They may build, but I will tear down. They will be called 'The Territory of Wickedness' and 'The People Yahweh Is Angry With Forever.'"</verse>
+        <verse osisID="Mal.1.5">Your own eyes will see this, and you will say, "Yahweh is great—even beyond Israel's borders!"</verse>
+        
+        <title type="sub">Priests Dishonor God with Defiled Offerings</title>
+        <verse osisID="Mal.1.6">"A son honors his father, and a servant honors his master. If I am a father, where is my honor? If I am a master, where is the respect for me?" says Yahweh of Heaven's Armies to you priests who despise my name. "But you ask, 'How have we despised your name?'"</verse>
+        <verse osisID="Mal.1.7">"You bring contaminated food to my altar. But you ask, 'How have we contaminated you?' By saying that Yahweh's table is worthless.</verse>
+        <verse osisID="Mal.1.8">When you bring blind animals to sacrifice, isn't that wrong? When you bring lame and sick animals, isn't that wrong? Try offering them to your governor! Would he be pleased with you? Would he accept you?" says Yahweh of Heaven's Armies.</verse>
+        <verse osisID="Mal.1.9">"Now plead with God to be gracious to us! This has come from your hands—will he accept any of you?" says Yahweh of Heaven's Armies.</verse>
+        <verse osisID="Mal.1.10">"I wish one of you would shut the temple doors so you wouldn't light useless fires on my altar! I'm not pleased with you," says Yahweh of Heaven's Armies, "and I won't accept an offering from your hands.</verse>
+        <verse osisID="Mal.1.11">From the rising of the sun to its setting, my name is great among the nations. In every place incense and pure offerings are brought to my name, because my name is great among the nations," says Yahweh of Heaven's Armies.</verse>
+        <verse osisID="Mal.1.12">"But you dishonor it by saying, 'The Lord's table is defiled, and its food is worthless.'</verse>
+        <verse osisID="Mal.1.13">You say, 'What a burden!' and you sniff at it with contempt," says Yahweh of Heaven's Armies. "You bring what was stolen, lame, or sick and present it as an offering! Should I accept this from your hands?" says Yahweh.</verse>
+        <verse osisID="Mal.1.14">"Cursed is the cheater who has a male animal in his flock and promises to give it, but then sacrifices a damaged animal to the Lord. For I am a great King," says Yahweh of Heaven's Armies, "and my name is feared among the nations."</verse>
+      </chapter>
       
-      <title type="sub">God's Love for Jacob Over Esau</title>
-      <verse osisID="Mal.1.2">"I have loved you," says Yahweh. But you say, "How have you loved us?" "Wasn't Esau Jacob's brother?" declares Yahweh. "Yet I loved Jacob,</verse>
-      <verse osisID="Mal.1.3">but I hated Esau. I turned his mountains into a wasteland and gave his inheritance to the desert jackals."</verse>
-      <verse osisID="Mal.1.4">If Edom says, "We've been crushed, but we'll return and rebuild the ruins," this is what Yahweh of Heaven's Armies says: "They may build, but I will tear down. They will be called 'The Territory of Wickedness' and 'The People Yahweh Is Angry With Forever.'"</verse>
-      <verse osisID="Mal.1.5">Your own eyes will see this, and you will say, "Yahweh is great—even beyond Israel's borders!"</verse>
+      <chapter osisID="Mal.2">
+        <title type="chapter">Chapter 2</title>
+        <title type="main">Warning to the Priests</title>
       
-      <title type="sub">Priests Dishonor God with Defiled Offerings</title>
-      <verse osisID="Mal.1.6">"A son honors his father, and a servant honors his master. If I am a father, where is my honor? If I am a master, where is the respect for me?" says Yahweh of Heaven's Armies to you priests who despise my name. "But you ask, 'How have we despised your name?'"</verse>
-      <verse osisID="Mal.1.7">"You bring contaminated food to my altar. But you ask, 'How have we contaminated you?' By saying that Yahweh's table is worthless.</verse>
-      <verse osisID="Mal.1.8">When you bring blind animals to sacrifice, isn't that wrong? When you bring lame and sick animals, isn't that wrong? Try offering them to your governor! Would he be pleased with you? Would he accept you?" says Yahweh of Heaven's Armies.</verse>
-      <verse osisID="Mal.1.9">"Now plead with God to be gracious to us! This has come from your hands—will he accept any of you?" says Yahweh of Heaven's Armies.</verse>
-      <verse osisID="Mal.1.10">"I wish one of you would shut the temple doors so you wouldn't light useless fires on my altar! I'm not pleased with you," says Yahweh of Heaven's Armies, "and I won't accept an offering from your hands.</verse>
-      <verse osisID="Mal.1.11">From the rising of the sun to its setting, my name is great among the nations. In every place incense and pure offerings are brought to my name, because my name is great among the nations," says Yahweh of Heaven's Armies.</verse>
-      <verse osisID="Mal.1.12">"But you dishonor it by saying, 'The Lord's table is defiled, and its food is worthless.'</verse>
-      <verse osisID="Mal.1.13">You say, 'What a burden!' and you sniff at it with contempt," says Yahweh of Heaven's Armies. "You bring what was stolen, lame, or sick and present it as an offering! Should I accept this from your hands?" says Yahweh.</verse>
-      <verse osisID="Mal.1.14">"Cursed is the cheater who has a male animal in his flock and promises to give it, but then sacrifices a damaged animal to the Lord. For I am a great King," says Yahweh of Heaven's Armies, "and my name is feared among the nations."</verse>
-      <chapter eID="Mal.1"/>
+        <verse osisID="Mal.2.1">"And now, priests, this command is for you.</verse>
+        <verse osisID="Mal.2.2">If you don't listen and if you don't take it to heart to honor my name," says Yahweh of Heaven's Armies, "then I'll send a curse on you and curse your blessings. In fact, I've already cursed them because you don't take it to heart.</verse>
+        <verse osisID="Mal.2.3">Look, I'm going to rebuke your offspring and spread dung on your faces—the dung from your festival sacrifices—and you'll be carried off with it.</verse>
+        <verse osisID="Mal.2.4">Then you'll know that I sent you this command so that my covenant with Levi may continue," says Yahweh of Heaven's Armies.</verse>
+        <verse osisID="Mal.2.5">"My covenant with him was one of life and peace, and I gave these to him. It was a covenant of respect, and he respected me and stood in awe of my name.</verse>
+        <verse osisID="Mal.2.6">True instruction was in his mouth, and no wrong was found on his lips. He walked with me in peace and uprightness, and he turned many from sin.</verse>
+        <verse osisID="Mal.2.7">For a priest's lips should preserve knowledge, and people should seek instruction from his mouth, because he is a messenger of Yahweh of Heaven's Armies.</verse>
+        <verse osisID="Mal.2.8">But you have turned from the way and caused many to stumble through your instruction. You have corrupted the covenant with Levi," says Yahweh of Heaven's Armies.</verse>
+        <verse osisID="Mal.2.9">"So I've made you despised and humiliated before all the people because you haven't followed my ways but have shown favoritism in your instruction."</verse>
+        
+        <title type="sub">Breaking Faith Through Divorce</title>
+        <verse osisID="Mal.2.10">Don't we all have one Father? Didn't one God create us? Why do we break faith with one another, dishonoring the covenant of our ancestors?</verse>
+        <verse osisID="Mal.2.11">Judah has broken faith. A detestable thing has been done in Israel and Jerusalem: Judah has dishonored the sanctuary Yahweh loves by marrying women who worship foreign gods.</verse>
+        <verse osisID="Mal.2.12">May Yahweh cut off from the tents of Jacob anyone who does this—whoever he may be—even if he brings offerings to Yahweh of Heaven's Armies.</verse>
+        <verse osisID="Mal.2.13">Here's another thing you do: You flood Yahweh's altar with tears, weeping and crying because he no longer pays attention to your offerings or accepts them with pleasure from your hands.</verse>
+        <verse osisID="Mal.2.14">You ask, "Why?" It's because Yahweh has been a witness between you and the wife of your youth. You've broken faith with her, though she's your partner, the wife of your marriage covenant.</verse>
+        <verse osisID="Mal.2.15">Didn't he make them one, with a portion of his Spirit in them? And why one? Because he was seeking godly offspring. So guard yourselves in your spirit, and don't break faith with the wife of your youth.</verse>
+        <verse osisID="Mal.2.16">"I hate divorce," says Yahweh, the God of Israel, "and the one who covers his garment with violence," says Yahweh of Heaven's Armies. "So guard yourselves in your spirit and don't break faith."</verse>
+        <verse osisID="Mal.2.17">You have wearied Yahweh with your words. You ask, "How have we wearied him?" By saying, "Everyone who does evil is good in Yahweh's sight, and he's pleased with them," or "Where is the God of justice?"</verse>
+      </chapter>
       
-      <chapter osisID="Mal.2" sID="Mal.2"/>
-      <title type="chapter">Chapter 2</title>
-      <title type="main">Warning to the Priests</title>
+      <chapter osisID="Mal.3">
+        <title type="chapter">Chapter 3</title>
+        <title type="main">The Coming Messenger and Day of Judgment</title>
       
-      <verse osisID="Mal.2.1">"And now, priests, this command is for you.</verse>
-      <verse osisID="Mal.2.2">If you don't listen and if you don't take it to heart to honor my name," says Yahweh of Heaven's Armies, "then I'll send a curse on you and curse your blessings. In fact, I've already cursed them because you don't take it to heart.</verse>
-      <verse osisID="Mal.2.3">Look, I'm going to rebuke your offspring and spread dung on your faces—the dung from your festival sacrifices—and you'll be carried off with it.</verse>
-      <verse osisID="Mal.2.4">Then you'll know that I sent you this command so that my covenant with Levi may continue," says Yahweh of Heaven's Armies.</verse>
-      <verse osisID="Mal.2.5">"My covenant with him was one of life and peace, and I gave these to him. It was a covenant of respect, and he respected me and stood in awe of my name.</verse>
-      <verse osisID="Mal.2.6">True instruction was in his mouth, and no wrong was found on his lips. He walked with me in peace and uprightness, and he turned many from sin.</verse>
-      <verse osisID="Mal.2.7">For a priest's lips should preserve knowledge, and people should seek instruction from his mouth, because he is a messenger of Yahweh of Heaven's Armies.</verse>
-      <verse osisID="Mal.2.8">But you have turned from the way and caused many to stumble through your instruction. You have corrupted the covenant with Levi," says Yahweh of Heaven's Armies.</verse>
-      <verse osisID="Mal.2.9">"So I've made you despised and humiliated before all the people because you haven't followed my ways but have shown favoritism in your instruction."</verse>
+        <verse osisID="Mal.3.1">"Look, I'm sending my messenger, who will prepare the way before me. Then suddenly the Lord you're seeking will come to his temple; the messenger of the covenant you desire will come," says Yahweh of Heaven's Armies.</verse>
+        <verse osisID="Mal.3.2">But who can endure the day of his coming? Who can stand when he appears? For he'll be like a refiner's fire and like launderers' soap.</verse>
+        <verse osisID="Mal.3.3">He'll sit as a refiner and purifier of silver; he'll purify the Levites and refine them like gold and silver, so they may bring offerings to Yahweh in righteousness.</verse>
+        <verse osisID="Mal.3.4">Then the offerings of Judah and Jerusalem will be acceptable to Yahweh, as in former days and years past.</verse>
+        <verse osisID="Mal.3.5">"I'll come near to you for judgment. I'll be a swift witness against sorcerers, adulterers, and those who swear falsely, against those who exploit workers' wages, who oppress widows and orphans, who deprive foreigners of justice, and don't respect me," says Yahweh of Heaven's Armies.</verse>
+        
+        <title type="sub">Call to Return to God</title>
+        <verse osisID="Mal.3.6">"I, Yahweh, don't change. That's why you, descendants of Jacob, haven't been destroyed.</verse>
+        <verse osisID="Mal.3.7">Since your ancestors' time, you've turned away from my decrees and haven't kept them. Return to me, and I'll return to you," says Yahweh of Heaven's Armies. "But you ask, 'How should we return?'</verse>
+        
+        <title type="sub">Robbing God Through Tithes</title>
+        <verse osisID="Mal.3.8">"Will a person rob God? Yet you're robbing me! But you ask, 'How are we robbing you?' In tithes and offerings!</verse>
+        <verse osisID="Mal.3.9">You're under a curse—your whole nation—because you're robbing me.</verse>
+        <verse osisID="Mal.3.10">Bring the whole tithe into the storehouse so there's food in my house. Test me in this," says Yahweh of Heaven's Armies, "and see if I won't open the windows of heaven and pour out so much blessing that you won't have room for it.</verse>
+        <verse osisID="Mal.3.11">I'll prevent pests from destroying your crops, and the vines in your fields won't fail to produce fruit," says Yahweh of Heaven's Armies.</verse>
+        <verse osisID="Mal.3.12">"Then all nations will call you blessed, for you'll be a delightful land," says Yahweh of Heaven's Armies.</verse>
+        
+        <title type="sub">Speaking Against God</title>
+        <verse osisID="Mal.3.13">"You've said harsh things against me," says Yahweh. "Yet you ask, 'What have we said against you?'</verse>
+        <verse osisID="Mal.3.14">You've said, 'It's useless to serve God. What do we gain by keeping his requirements and walking mournfully before Yahweh of Heaven's Armies?</verse>
+        <verse osisID="Mal.3.15">Now we call the arrogant blessed. Not only do evildoers prosper, but they even test God and escape.'"</verse>
+        
+        <title type="sub">The Book of Remembrance</title>
+        <verse osisID="Mal.3.16">Then those who respected Yahweh talked with each other, and Yahweh listened and heard. A book of remembrance was written before him for those who respected Yahweh and honored his name.</verse>
+        <verse osisID="Mal.3.17">"They'll be mine," says Yahweh of Heaven's Armies, "on the day I act, they'll be my treasured possession. I'll spare them as a father spares his son who serves him.</verse>
+        <verse osisID="Mal.3.18">Then you'll again see the difference between the righteous and the wicked, between those who serve God and those who don't.</verse>
+      </chapter>
       
-      <title type="sub">Breaking Faith Through Divorce</title>
-      <verse osisID="Mal.2.10">Don't we all have one Father? Didn't one God create us? Why do we break faith with one another, dishonoring the covenant of our ancestors?</verse>
-      <verse osisID="Mal.2.11">Judah has broken faith. A detestable thing has been done in Israel and Jerusalem: Judah has dishonored the sanctuary Yahweh loves by marrying women who worship foreign gods.</verse>
-      <verse osisID="Mal.2.12">May Yahweh cut off from the tents of Jacob anyone who does this—whoever he may be—even if he brings offerings to Yahweh of Heaven's Armies.</verse>
-      <verse osisID="Mal.2.13">Here's another thing you do: You flood Yahweh's altar with tears, weeping and crying because he no longer pays attention to your offerings or accepts them with pleasure from your hands.</verse>
-      <verse osisID="Mal.2.14">You ask, "Why?" It's because Yahweh has been a witness between you and the wife of your youth. You've broken faith with her, though she's your partner, the wife of your marriage covenant.</verse>
-      <verse osisID="Mal.2.15">Didn't he make them one, with a portion of his Spirit in them? And why one? Because he was seeking godly offspring. So guard yourselves in your spirit, and don't break faith with the wife of your youth.</verse>
-      <verse osisID="Mal.2.16">"I hate divorce," says Yahweh, the God of Israel, "and the one who covers his garment with violence," says Yahweh of Heaven's Armies. "So guard yourselves in your spirit and don't break faith."</verse>
-      <verse osisID="Mal.2.17">You have wearied Yahweh with your words. You ask, "How have we wearied him?" By saying, "Everyone who does evil is good in Yahweh's sight, and he's pleased with them," or "Where is the God of justice?"</verse>
-      <chapter eID="Mal.2"/>
+      <chapter osisID="Mal.4">
+        <title type="chapter">Chapter 4</title>
+        <title type="main">The Day of Yahweh</title>
       
-      <chapter osisID="Mal.3" sID="Mal.3"/>
-      <title type="chapter">Chapter 3</title>
-      <title type="main">The Coming Messenger and Day of Judgment</title>
-      
-      <verse osisID="Mal.3.1">"Look, I'm sending my messenger, who will prepare the way before me. Then suddenly the Lord you're seeking will come to his temple; the messenger of the covenant you desire will come," says Yahweh of Heaven's Armies.</verse>
-      <verse osisID="Mal.3.2">But who can endure the day of his coming? Who can stand when he appears? For he'll be like a refiner's fire and like launderers' soap.</verse>
-      <verse osisID="Mal.3.3">He'll sit as a refiner and purifier of silver; he'll purify the Levites and refine them like gold and silver, so they may bring offerings to Yahweh in righteousness.</verse>
-      <verse osisID="Mal.3.4">Then the offerings of Judah and Jerusalem will be acceptable to Yahweh, as in former days and years past.</verse>
-      <verse osisID="Mal.3.5">"I'll come near to you for judgment. I'll be a swift witness against sorcerers, adulterers, and those who swear falsely, against those who exploit workers' wages, who oppress widows and orphans, who deprive foreigners of justice, and don't respect me," says Yahweh of Heaven's Armies.</verse>
-      
-      <title type="sub">Call to Return to God</title>
-      <verse osisID="Mal.3.6">"I, Yahweh, don't change. That's why you, descendants of Jacob, haven't been destroyed.</verse>
-      <verse osisID="Mal.3.7">Since your ancestors' time, you've turned away from my decrees and haven't kept them. Return to me, and I'll return to you," says Yahweh of Heaven's Armies. "But you ask, 'How should we return?'</verse>
-      
-      <title type="sub">Robbing God Through Tithes</title>
-      <verse osisID="Mal.3.8">"Will a person rob God? Yet you're robbing me! But you ask, 'How are we robbing you?' In tithes and offerings!</verse>
-      <verse osisID="Mal.3.9">You're under a curse—your whole nation—because you're robbing me.</verse>
-      <verse osisID="Mal.3.10">Bring the whole tithe into the storehouse so there's food in my house. Test me in this," says Yahweh of Heaven's Armies, "and see if I won't open the windows of heaven and pour out so much blessing that you won't have room for it.</verse>
-      <verse osisID="Mal.3.11">I'll prevent pests from destroying your crops, and the vines in your fields won't fail to produce fruit," says Yahweh of Heaven's Armies.</verse>
-      <verse osisID="Mal.3.12">"Then all nations will call you blessed, for you'll be a delightful land," says Yahweh of Heaven's Armies.</verse>
-      
-      <title type="sub">Speaking Against God</title>
-      <verse osisID="Mal.3.13">"You've said harsh things against me," says Yahweh. "Yet you ask, 'What have we said against you?'</verse>
-      <verse osisID="Mal.3.14">You've said, 'It's useless to serve God. What do we gain by keeping his requirements and walking mournfully before Yahweh of Heaven's Armies?</verse>
-      <verse osisID="Mal.3.15">Now we call the arrogant blessed. Not only do evildoers prosper, but they even test God and escape.'"</verse>
-      
-      <title type="sub">The Book of Remembrance</title>
-      <verse osisID="Mal.3.16">Then those who respected Yahweh talked with each other, and Yahweh listened and heard. A book of remembrance was written before him for those who respected Yahweh and honored his name.</verse>
-      <verse osisID="Mal.3.17">"They'll be mine," says Yahweh of Heaven's Armies, "on the day I act, they'll be my treasured possession. I'll spare them as a father spares his son who serves him.</verse>
-      <verse osisID="Mal.3.18">Then you'll again see the difference between the righteous and the wicked, between those who serve God and those who don't.</verse>
-      <chapter eID="Mal.3"/>
-      
-      <chapter osisID="Mal.4" sID="Mal.4"/>
-      <title type="chapter">Chapter 4</title>
-      <title type="main">The Day of Yahweh</title>
-      
-      <verse osisID="Mal.4.1">"Look, the day is coming, burning like a furnace. All the arrogant and evildoers will be stubble, and that coming day will set them on fire," says Yahweh of Heaven's Armies. "Not a root or branch will be left.</verse>
-      <verse osisID="Mal.4.2">But for you who respect my name, the sun of righteousness will rise with healing in its wings. You'll go out and leap like calves released from their stalls.</verse>
-      <verse osisID="Mal.4.3">Then you'll trample the wicked; they'll be ashes under the soles of your feet on the day I act," says Yahweh of Heaven's Armies.</verse>
-      
-      <title type="sub">Remember the Law and the Coming of Elijah</title>
-      <verse osisID="Mal.4.4">"Remember the law of my servant Moses, the decrees and laws I gave him at Horeb for all Israel.</verse>
-      <verse osisID="Mal.4.5">Look, I'll send you the prophet Elijah before the great and terrible day of Yahweh comes.</verse>
-      <verse osisID="Mal.4.6">He'll turn the hearts of parents to their children and the hearts of children to their parents, or else I'll come and strike the land with complete destruction."</verse>
-      <chapter eID="Mal.4"/>
+        <verse osisID="Mal.4.1">"Look, the day is coming, burning like a furnace. All the arrogant and evildoers will be stubble, and that coming day will set them on fire," says Yahweh of Heaven's Armies. "Not a root or branch will be left.</verse>
+        <verse osisID="Mal.4.2">But for you who respect my name, the sun of righteousness will rise with healing in its wings. You'll go out and leap like calves released from their stalls.</verse>
+        <verse osisID="Mal.4.3">Then you'll trample the wicked; they'll be ashes under the soles of your feet on the day I act," says Yahweh of Heaven's Armies.</verse>
+        
+        <title type="sub">Remember the Law and the Coming of Elijah</title>
+        <verse osisID="Mal.4.4">"Remember the law of my servant Moses, the decrees and laws I gave him at Horeb for all Israel.</verse>
+        <verse osisID="Mal.4.5">Look, I'll send you the prophet Elijah before the great and terrible day of Yahweh comes.</verse>
+        <verse osisID="Mal.4.6">He'll turn the hearts of parents to their children and the hearts of children to their parents, or else I'll come and strike the land with complete destruction."</verse>
+      </chapter>
       
     </div>
   </osisText>
