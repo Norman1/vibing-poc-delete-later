@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <revisionDesc resp="Claude AI">
+        <date>2025-08-23</date>
+        <p>Translation from SBL Greek New Testament using functional equivalence</p>
+      </revisionDesc>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <contributor role="aut">Claude AI</contributor>
+        <creator role="aut">Claude AI</creator>
+        <subject>Bible Translation</subject>
+        <date>2025-08-23</date>
+        <description>A functional equivalence translation focusing on clear meaning</description>
+        <publisher>Public Domain</publisher>
+        <type type="OSIS">Bible</type>
+        <format>text/xml</format>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <source>SBL Greek New Testament</source>
+        <language type="ISO-639-2">eng</language>
+        <rights type="x-copyright">Public Domain</rights>
+        <scope>Col</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    
+    <div type="book" osisID="Col" canonical="true">
+      <title type="main">Letter to the Colossians</title>
+      
+      <chapter osisID="Col.1" sID="Col.1"/>
+      <title type="sub">Opening Greeting</title>
+      
+      <verse osisID="Col.1.1" sID="Col.1.1"/>Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,<verse eID="Col.1.1"/> <verse osisID="Col.1.2" sID="Col.1.2"/>to God's people in Colossae who are faithful brothers and sisters in Christ. Grace and peace to you from God our Father.<verse eID="Col.1.2"/>
+      
+      <title type="sub">Thanksgiving and Prayer</title>
+      
+      <verse osisID="Col.1.3" sID="Col.1.3"/>We always thank God, the Father of our Lord Jesus Christ, when we pray for you,<verse eID="Col.1.3"/> <verse osisID="Col.1.4" sID="Col.1.4"/>because we have heard of your faith in Christ Jesus and of the love you have for all God's people—<verse eID="Col.1.4"/> <verse osisID="Col.1.5" sID="Col.1.5"/>the faith and love that spring from the hope stored up for you in heaven and about which you have already heard in the true message of the good news<verse eID="Col.1.5"/> <verse osisID="Col.1.6" sID="Col.1.6"/>that has come to you. In the same way, the good news is bearing fruit and growing throughout the whole world—just as it has been doing among you since the day you heard it and truly understood God's grace.<verse eID="Col.1.6"/> <verse osisID="Col.1.7" sID="Col.1.7"/>You learned it from Epaphras, our dear fellow servant, who is a faithful minister of Christ on our behalf,<verse eID="Col.1.7"/> <verse osisID="Col.1.8" sID="Col.1.8"/>and who also told us of your love in the Spirit.<verse eID="Col.1.8"/>
+      
+      <verse osisID="Col.1.9" sID="Col.1.9"/>For this reason, since the day we heard about you, we have not stopped praying for you. We continually ask God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives,<verse eID="Col.1.9"/> <verse osisID="Col.1.10" sID="Col.1.10"/>so that you may live a life worthy of the Lord and please him in every way: bearing fruit in every good work, growing in the knowledge of God,<verse eID="Col.1.10"/> <verse osisID="Col.1.11" sID="Col.1.11"/>being strengthened with all power according to his glorious might so that you may have great endurance and patience,<verse eID="Col.1.11"/> <verse osisID="Col.1.12" sID="Col.1.12"/>and giving joyful thanks to the Father, who has qualified you to share in the inheritance of his people set apart for God in the kingdom of light.<verse eID="Col.1.12"/> <verse osisID="Col.1.13" sID="Col.1.13"/>For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves,<verse eID="Col.1.13"/> <verse osisID="Col.1.14" sID="Col.1.14"/>in whom we have redemption, the forgiveness of sins.<verse eID="Col.1.14"/>
+      
+      <title type="sub">The Supremacy of the Son of God</title>
+      
+      <verse osisID="Col.1.15" sID="Col.1.15"/>The Son is the image of the invisible God, the firstborn over all creation.<verse eID="Col.1.15"/> <verse osisID="Col.1.16" sID="Col.1.16"/>For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him.<verse eID="Col.1.16"/> <verse osisID="Col.1.17" sID="Col.1.17"/>He is before all things, and in him all things hold together.<verse eID="Col.1.17"/> <verse osisID="Col.1.18" sID="Col.1.18"/>And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy.<verse eID="Col.1.18"/> <verse osisID="Col.1.19" sID="Col.1.19"/>For God was pleased to have all his fullness dwell in him,<verse eID="Col.1.19"/> <verse osisID="Col.1.20" sID="Col.1.20"/>and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.<verse eID="Col.1.20"/>
+      
+      <title type="sub">Paul's Work for the Church</title>
+      
+      <verse osisID="Col.1.21" sID="Col.1.21"/>Once you were alienated from God and were enemies in your minds because of your evil behavior.<verse eID="Col.1.21"/> <verse osisID="Col.1.22" sID="Col.1.22"/>But now he has reconciled you by Christ's physical body through death to present you to himself as people who are set apart for God, without blemish and free from accusation—<verse eID="Col.1.22"/> <verse osisID="Col.1.23" sID="Col.1.23"/>if you continue in your faith, established and firm, and do not move from the hope held out in the good news. This is the good news that you heard and that has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant.<verse eID="Col.1.23"/>
+      
+      <verse osisID="Col.1.24" sID="Col.1.24"/>Now I rejoice in what I am suffering for you, and I fill up in my flesh what is still lacking in regard to Christ's afflictions, for the sake of his body, which is the church.<verse eID="Col.1.24"/> <verse osisID="Col.1.25" sID="Col.1.25"/>I have become its servant by the commission God gave me to present to you the word of God in its fullness—<verse eID="Col.1.25"/> <verse osisID="Col.1.26" sID="Col.1.26"/>the mystery that has been kept hidden for ages and generations, but is now disclosed to the Lord's people set apart for God.<verse eID="Col.1.26"/> <verse osisID="Col.1.27" sID="Col.1.27"/>To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.<verse eID="Col.1.27"/>
+      
+      <verse osisID="Col.1.28" sID="Col.1.28"/>He is the one we proclaim, admonishing and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ.<verse eID="Col.1.28"/> <verse osisID="Col.1.29" sID="Col.1.29"/>To this end I strenuously contend with all the energy Christ so powerfully works in me.<verse eID="Col.1.29"/>
+      
+      <chapter eID="Col.1"/>
+      
+      <chapter osisID="Col.2" sID="Col.2"/>
+      <title type="sub">Spiritual Fullness in Christ</title>
+      
+      <verse osisID="Col.2.1" sID="Col.2.1"/>I want you to know how hard I am contending for you and for those at Laodicea, and for all who have not met me personally.<verse eID="Col.2.1"/> <verse osisID="Col.2.2" sID="Col.2.2"/>My goal is that they may be encouraged in heart and united in love, so that they may have the full riches of complete understanding, in order that they may know the mystery of God, namely, Christ,<verse eID="Col.2.2"/> <verse osisID="Col.2.3" sID="Col.2.3"/>in whom are hidden all the treasures of wisdom and knowledge.<verse eID="Col.2.3"/> <verse osisID="Col.2.4" sID="Col.2.4"/>I tell you this so that no one may deceive you by fine-sounding arguments.<verse eID="Col.2.4"/> <verse osisID="Col.2.5" sID="Col.2.5"/>For though I am absent from you in body, I am present with you in spirit and delight to see how disciplined you are and how firm your faith in Christ is.<verse eID="Col.2.5"/>
+      
+      <verse osisID="Col.2.6" sID="Col.2.6"/>So then, just as you received Christ Jesus as Lord, continue to live your lives in him,<verse eID="Col.2.6"/> <verse osisID="Col.2.7" sID="Col.2.7"/>rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness.<verse eID="Col.2.7"/>
+      
+      <title type="sub">Warnings Against False Teaching</title>
+      
+      <verse osisID="Col.2.8" sID="Col.2.8"/>See to it that no one takes you captive through hollow and deceptive philosophy, which depends on human tradition and the elemental spiritual forces of this world rather than on Christ.<verse eID="Col.2.8"/>
+      
+      <verse osisID="Col.2.9" sID="Col.2.9"/>For in Christ all the fullness of the Deity lives in bodily form,<verse eID="Col.2.9"/> <verse osisID="Col.2.10" sID="Col.2.10"/>and in Christ you have been brought to fullness. He is the head over every power and authority.<verse eID="Col.2.10"/> <verse osisID="Col.2.11" sID="Col.2.11"/>In him you were also circumcised with a circumcision not performed by human hands. Your whole self ruled by the flesh was put off when you were circumcised by Christ,<verse eID="Col.2.11"/> <verse osisID="Col.2.12" sID="Col.2.12"/>having been buried with him in baptism, in which you were also raised with him through your faith in the working of God, who raised him from the dead.<verse eID="Col.2.12"/>
+      
+      <verse osisID="Col.2.13" sID="Col.2.13"/>When you were dead in your sins and in the uncircumcision of your flesh, God made you alive with Christ. He forgave us all our sins,<verse eID="Col.2.13"/> <verse osisID="Col.2.14" sID="Col.2.14"/>having canceled the charge of our legal indebtedness, which stood against us and condemned us; he has taken it away, nailing it to the cross.<verse eID="Col.2.14"/> <verse osisID="Col.2.15" sID="Col.2.15"/>And having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross.<verse eID="Col.2.15"/>
+      
+      <verse osisID="Col.2.16" sID="Col.2.16"/>Therefore do not let anyone judge you by what you eat or drink, or with regard to a religious festival, a New Moon celebration or a Sabbath day.<verse eID="Col.2.16"/> <verse osisID="Col.2.17" sID="Col.2.17"/>These are a shadow of the things that were to come; the reality, however, is found in Christ.<verse eID="Col.2.17"/> <verse osisID="Col.2.18" sID="Col.2.18"/>Do not let anyone who delights in false humility and the worship of angels disqualify you. Such a person also goes into great detail about what they have seen; they are puffed up with idle notions by their unspiritual mind.<verse eID="Col.2.18"/> <verse osisID="Col.2.19" sID="Col.2.19"/>They have lost connection with the head, from whom the whole body, supported and held together by its ligaments and sinews, grows as God causes it to grow.<verse eID="Col.2.19"/>
+      
+      <title type="sub">Dying and Rising with Christ</title>
+      
+      <verse osisID="Col.2.20" sID="Col.2.20"/>Since you died with Christ to the elemental spiritual forces of this world, why, as though you still belonged to the world, do you submit to its rules:<verse eID="Col.2.20"/> <verse osisID="Col.2.21" sID="Col.2.21"/>"Do not handle! Do not taste! Do not touch!"?<verse eID="Col.2.21"/> <verse osisID="Col.2.22" sID="Col.2.22"/>These rules, which have to do with things that are all destined to perish with use, are based on merely human commands and teachings.<verse eID="Col.2.22"/> <verse osisID="Col.2.23" sID="Col.2.23"/>Such regulations indeed have an appearance of wisdom, with their self-imposed worship, their false humility and their harsh treatment of the body, but they lack any value in restraining sensual indulgence.<verse eID="Col.2.23"/>
+      
+      <chapter eID="Col.2"/>
+      
+      <chapter osisID="Col.3" sID="Col.3"/>
+      <title type="sub">Living as Those Made Alive in Christ</title>
+      
+      <verse osisID="Col.3.1" sID="Col.3.1"/>Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God.<verse eID="Col.3.1"/> <verse osisID="Col.3.2" sID="Col.3.2"/>Set your minds on things above, not on earthly things.<verse eID="Col.3.2"/> <verse osisID="Col.3.3" sID="Col.3.3"/>For you died, and your life is now hidden with Christ in God.<verse eID="Col.3.3"/> <verse osisID="Col.3.4" sID="Col.3.4"/>When Christ, who is your life, appears, then you also will appear with him in glory.<verse eID="Col.3.4"/>
+      
+      <verse osisID="Col.3.5" sID="Col.3.5"/>Put to death, therefore, whatever belongs to your earthly nature: sexual sin, impurity, lust, evil desires and greed, which is idolatry.<verse eID="Col.3.5"/> <verse osisID="Col.3.6" sID="Col.3.6"/>Because of these, the anger of God is coming.<verse eID="Col.3.6"/> <verse osisID="Col.3.7" sID="Col.3.7"/>You used to walk in these ways, in the life you once lived.<verse eID="Col.3.7"/> <verse osisID="Col.3.8" sID="Col.3.8"/>But now you must also rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips.<verse eID="Col.3.8"/> <verse osisID="Col.3.9" sID="Col.3.9"/>Do not lie to each other, since you have taken off your old self with its practices<verse eID="Col.3.9"/> <verse osisID="Col.3.10" sID="Col.3.10"/>and have put on the new self, which is being renewed in knowledge in the image of its Creator.<verse eID="Col.3.10"/> <verse osisID="Col.3.11" sID="Col.3.11"/>Here there is no Gentile or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ is all, and is in all.<verse eID="Col.3.11"/>
+      
+      <title type="sub">Instructions for Christian Living</title>
+      
+      <verse osisID="Col.3.12" sID="Col.3.12"/>Therefore, as God's chosen people, set apart for God and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience.<verse eID="Col.3.12"/> <verse osisID="Col.3.13" sID="Col.3.13"/>Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.<verse eID="Col.3.13"/> <verse osisID="Col.3.14" sID="Col.3.14"/>And over all these virtues put on love, which binds them all together in perfect unity.<verse eID="Col.3.14"/>
+      
+      <verse osisID="Col.3.15" sID="Col.3.15"/>Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.<verse eID="Col.3.15"/> <verse osisID="Col.3.16" sID="Col.3.16"/>Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.<verse eID="Col.3.16"/> <verse osisID="Col.3.17" sID="Col.3.17"/>And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.<verse eID="Col.3.17"/>
+      
+      <title type="sub">Instructions for Christian Households</title>
+      
+      <verse osisID="Col.3.18" sID="Col.3.18"/>Wives, submit yourselves to your husbands, as is fitting in the Lord.<verse eID="Col.3.18"/>
+      
+      <verse osisID="Col.3.19" sID="Col.3.19"/>Husbands, love your wives and do not be harsh with them.<verse eID="Col.3.19"/>
+      
+      <verse osisID="Col.3.20" sID="Col.3.20"/>Children, obey your parents in everything, for this pleases the Lord.<verse eID="Col.3.20"/>
+      
+      <verse osisID="Col.3.21" sID="Col.3.21"/>Fathers, do not embitter your children, or they will become discouraged.<verse eID="Col.3.21"/>
+      
+      <verse osisID="Col.3.22" sID="Col.3.22"/>Slaves, obey your earthly masters in everything; and do it, not only when their eye is on you and to curry their favor, but with sincerity of heart and reverence for the Lord.<verse eID="Col.3.22"/> <verse osisID="Col.3.23" sID="Col.3.23"/>Whatever you do, work at it with all your heart, as working for the Lord, not for human masters,<verse eID="Col.3.23"/> <verse osisID="Col.3.24" sID="Col.3.24"/>since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving.<verse eID="Col.3.24"/> <verse osisID="Col.3.25" sID="Col.3.25"/>Anyone who does wrong will be repaid for their wrongs, and there is no favoritism.<verse eID="Col.3.25"/>
+      
+      <chapter eID="Col.3"/>
+      
+      <chapter osisID="Col.4" sID="Col.4"/>
+      <verse osisID="Col.4.1" sID="Col.4.1"/>Masters, provide your slaves with what is right and fair, because you know that you also have a Master in heaven.<verse eID="Col.4.1"/>
+      
+      <title type="sub">Instructions for Prayer and Conduct</title>
+      
+      <verse osisID="Col.4.2" sID="Col.4.2"/>Devote yourselves to prayer, being watchful and thankful.<verse eID="Col.4.2"/> <verse osisID="Col.4.3" sID="Col.4.3"/>And pray for us, too, that God may open a door for our message, so that we may proclaim the mystery of Christ, for which I am in chains.<verse eID="Col.4.3"/> <verse osisID="Col.4.4" sID="Col.4.4"/>Pray that I may proclaim it clearly, as I should.<verse eID="Col.4.4"/> <verse osisID="Col.4.5" sID="Col.4.5"/>Be wise in the way you act toward outsiders; make the most of every opportunity.<verse eID="Col.4.5"/> <verse osisID="Col.4.6" sID="Col.4.6"/>Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone.<verse eID="Col.4.6"/>
+      
+      <title type="sub">Final Greetings</title>
+      
+      <verse osisID="Col.4.7" sID="Col.4.7"/>Tychicus will tell you all the news about me. He is a dear brother, a faithful minister and fellow servant in the Lord.<verse eID="Col.4.7"/> <verse osisID="Col.4.8" sID="Col.4.8"/>I am sending him to you for the express purpose that you may know about our circumstances and that he may encourage your hearts.<verse eID="Col.4.8"/> <verse osisID="Col.4.9" sID="Col.4.9"/>He is coming with Onesimus, our faithful and dear brother, who is one of you. They will tell you everything that is happening here.<verse eID="Col.4.9"/>
+      
+      <verse osisID="Col.4.10" sID="Col.4.10"/>My fellow prisoner Aristarchus sends you his greetings, as does Mark, the cousin of Barnabas. (You have received instructions about him; if he comes to you, welcome him.)<verse eID="Col.4.10"/> <verse osisID="Col.4.11" sID="Col.4.11"/>Jesus, who is called Justus, also sends greetings. These are the only Jews among my co-workers for the kingdom of God, and they have proved a comfort to me.<verse eID="Col.4.11"/> <verse osisID="Col.4.12" sID="Col.4.12"/>Epaphras, who is one of you and a servant of Christ Jesus, sends greetings. He is always wrestling in prayer for you, that you may stand firm in all the will of God, mature and fully assured.<verse eID="Col.4.12"/> <verse osisID="Col.4.13" sID="Col.4.13"/>I vouch for him that he is working hard for you and for those at Laodicea and Hierapolis.<verse eID="Col.4.13"/> <verse osisID="Col.4.14" sID="Col.4.14"/>Our dear friend Luke, the doctor, and Demas send greetings.<verse eID="Col.4.14"/> <verse osisID="Col.4.15" sID="Col.4.15"/>Give my greetings to the brothers and sisters at Laodicea, and to Nympha and the church in her house.<verse eID="Col.4.15"/>
+      
+      <verse osisID="Col.4.16" sID="Col.4.16"/>After this letter has been read to you, see that it is also read in the church of the Laodiceans and that you in turn read the letter from Laodicea.<verse eID="Col.4.16"/>
+      
+      <verse osisID="Col.4.17" sID="Col.4.17"/>Tell Archippus: "See to it that you complete the ministry you have received in the Lord."<verse eID="Col.4.17"/>
+      
+      <verse osisID="Col.4.18" sID="Col.4.18"/>I, Paul, write this greeting in my own hand. Remember my chains. Grace be with you.<verse eID="Col.4.18"/>
+      
+      <chapter eID="Col.4"/>
+    </div>
+  </osisText>
+</osis>
