@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace 
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <refSystem>Bible</refSystem>
+        <rights>Public Domain</rights>
+      </work>
+    </header>
+    <div type="book" osisID="2Pet" canonical="true">
+      <title type="main">2 Peter</title>
+      
+      <chapter osisID="2Pet.1" sID="2Pet.1"/>
+      <title type="main">Growing in Faith and Character</title>
+      
+      <verse osisID="2Pet.1.1">From Simon Peter, servant and apostle of Jesus Christ. To those who have received faith equal to ours through the doing what's right by our God and Savior Jesus Christ.</verse>
+      
+      <verse osisID="2Pet.1.2">May grace and peace increase in your lives through knowing God and Jesus our Lord.</verse>
+      
+      <title type="sub">God's Promises and Our Response</title>
+      
+      <verse osisID="2Pet.1.3">His divine power has given us everything we need for life and living in a way that honors God<note type="translation">The Greek word εὐσέβεια means reverence toward God, piety.</note> through knowing the one who called us by his own glory and excellence.</verse>
+      
+      <verse osisID="2Pet.1.4">Through these things, he has given us his precious and magnificent promises so that through them you might become partners in God's divine nature, having escaped the corruption that exists in the world through evil desire.</verse>
+      
+      <verse osisID="2Pet.1.5">For this very reason, make every effort to add to your faith excellence, and to excellence knowledge,</verse>
+      
+      <verse osisID="2Pet.1.6">and to knowledge self-control, and to self-control endurance, and to endurance living in a way that honors God,</verse>
+      
+      <verse osisID="2Pet.1.7">and to living in a way that honors God brotherly love, and to brotherly love unconditional love.</verse>
+      
+      <verse osisID="2Pet.1.8">If these qualities are yours and are increasing, they will keep you from being useless or unproductive in your knowledge of our Lord Jesus Christ.</verse>
+      
+      <verse osisID="2Pet.1.9">But whoever lacks these things is blind and short-sighted, forgetting that they were cleansed from their past wrongs.</verse>
+      
+      <verse osisID="2Pet.1.10">Therefore, brothers, be all the more eager to make your calling and election certain. If you do these things, you will never stumble.</verse>
+      
+      <verse osisID="2Pet.1.11">In this way, entry into the eternal kingdom of our Lord and Savior Jesus Christ will be richly provided for you.</verse>
+      
+      <title type="sub">Peter's Reminder About Truth</title>
+      
+      <verse osisID="2Pet.1.12">Therefore, I will always remind you about these things, even though you already know them and are established in the truth you have.</verse>
+      
+      <verse osisID="2Pet.1.13">I think it's right, as long as I'm in this tent<note type="translation">The Greek word σκήνωμα refers to the human body as a temporary dwelling.</note>, to stir you up by reminding you,</verse>
+      
+      <verse osisID="2Pet.1.14">since I know that the putting off of my tent will happen soon, just as our Lord Jesus Christ revealed to me.</verse>
+      
+      <verse osisID="2Pet.1.15">I will also make every effort so that after my departure you will always be able to remember these things.</verse>
+      
+      <title type="sub">Eyewitness to Christ's Glory</title>
+      
+      <verse osisID="2Pet.1.16">We didn't follow cleverly invented myths when we made known to you the power and coming of our Lord Jesus Christ. Instead, we were eyewitnesses of his majesty.</verse>
+      
+      <verse osisID="2Pet.1.17">He received honor and glory from God the Father when a voice came to him from the Majestic Glory: "This is my beloved Son, with whom I am well pleased."</verse>
+      
+      <verse osisID="2Pet.1.18">We ourselves heard this voice coming from heaven when we were with him on the mountain set apart for God<note type="translation">The Greek word ἅγιος means set apart, consecrated.</note>.</verse>
+      
+      <verse osisID="2Pet.1.19">We also have the prophetic word made more certain. You do well to pay attention to it as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts.</verse>
+      
+      <verse osisID="2Pet.1.20">Above all, you must understand that no prophecy of Scripture comes from someone's own interpretation.</verse>
+      
+      <verse osisID="2Pet.1.21">For prophecy never came by human will, but people spoke from God as they were carried along by the Spirit set apart for God.</verse>
+      
+      <chapter eID="2Pet.1"/>
+      
+      <chapter osisID="2Pet.2" sID="2Pet.2"/>
+      <title type="main">Warning Against False Teachers</title>
+      
+      <verse osisID="2Pet.2.1">But there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them, bringing swift destruction upon themselves.</verse>
+      
+      <verse osisID="2Pet.2.2">Many will follow their shameful ways, and because of them the way of truth will be insulted<note type="translation">The Greek word βλασφημέω means to speak against, to insult.</note>.</verse>
+      
+      <verse osisID="2Pet.2.3">In their greed, they will exploit you with fabricated words. Their condemnation from long ago is not idle, and their destruction does not sleep.</verse>
+      
+      <title type="sub">Examples of God's Judgment</title>
+      
+      <verse osisID="2Pet.2.4">If God didn't spare angels when they sinned, but cast them into hell<note type="translation">The Greek word ταρταρόω refers to casting into Tartarus, the place of punishment.</note>, putting them in chains of gloom to be kept for judgment;</verse>
+      
+      <verse osisID="2Pet.2.5">and if he didn't spare the ancient world but preserved Noah, a herald of doing what's right, with seven others, when he brought a flood upon the world of ungodly people;</verse>
+      
+      <verse osisID="2Pet.2.6">and if he condemned the cities of Sodom and Gomorrah to destruction by reducing them to ashes, making them an example of what's coming to ungodly people;</verse>
+      
+      <verse osisID="2Pet.2.7">and if he rescued righteous Lot, who was oppressed by the shameless conduct of lawless people</verse>
+      
+      <verse osisID="2Pet.2.8">(for that righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard)—</verse>
+      
+      <verse osisID="2Pet.2.9">then the Lord knows how to rescue godly people from trials and to keep unrighteous people under punishment for the day of judgment,</verse>
+      
+      <verse osisID="2Pet.2.10">especially those who indulge in corrupting desires of the flesh and despise authority.</verse>
+      
+      <title type="sub">Description of False Teachers</title>
+      
+      Bold and arrogant, they don't tremble when they speak against glorious ones,</verse>
+      
+      <verse osisID="2Pet.2.11">whereas angels, though greater in strength and power, don't bring a slanderous judgment against them before the Lord.</verse>
+      
+      <verse osisID="2Pet.2.12">But these people, like unreasoning animals born as creatures of instinct to be captured and destroyed, speak against things they don't understand. In their destruction, they too will be destroyed,</verse>
+      
+      <verse osisID="2Pet.2.13">suffering harm as the wages of doing wrong. They consider it pleasure to revel in broad daylight. They are stains and blemishes, reveling in their deceptions while they feast with you.</verse>
+      
+      <verse osisID="2Pet.2.14">They have eyes full of adultery and never stop sinning. They seduce unstable souls and have hearts trained in greed. They are children under a curse!</verse>
+      
+      <verse osisID="2Pet.2.15">They have left the straight path and gone astray, following the way of Balaam son of Bosor, who loved the wages of doing wrong</verse>
+      
+      <verse osisID="2Pet.2.16">but was rebuked for his wrongdoing. A speechless donkey spoke with a human voice and restrained the prophet's madness.</verse>
+      
+      <verse osisID="2Pet.2.17">These people are springs without water and mists driven by a storm. The gloom of utter darkness has been reserved for them.</verse>
+      
+      <verse osisID="2Pet.2.18">Speaking arrogant words of vanity, they entice with fleshly desires and shameless acts those who are just escaping from people who live in error.</verse>
+      
+      <verse osisID="2Pet.2.19">They promise freedom to them, but they themselves are slaves of corruption. For whatever overcomes a person, to that they are enslaved.</verse>
+      
+      <verse osisID="2Pet.2.20">If they have escaped the pollutions of the world through knowing our Lord and Savior Jesus Christ and are again entangled in them and overcome, the last state has become worse for them than the first.</verse>
+      
+      <verse osisID="2Pet.2.21">It would have been better for them not to have known the way of doing what's right than, after knowing it, to turn back from the command set apart for God that was passed on to them.</verse>
+      
+      <verse osisID="2Pet.2.22">What happened to them proves the truth of this proverb: "A dog returns to its own vomit," and, "A washed pig returns to wallowing in the mud."</verse>
+      
+      <chapter eID="2Pet.2"/>
+      
+      <chapter osisID="2Pet.3" sID="2Pet.3"/>
+      <title type="main">The Day of the Lord</title>
+      
+      <verse osisID="2Pet.3.1">Dear friends, this is now my second letter to you. In both of them, I stir up your sincere minds by way of reminder</verse>
+      
+      <verse osisID="2Pet.3.2">to remember the words spoken in the past by the prophets set apart for God and the command given by your apostles from the Lord and Savior.</verse>
+      
+      <title type="sub">Scoffers in the Last Days</title>
+      
+      <verse osisID="2Pet.3.3">Above all, understand this: In the last days, scoffers will come, scoffing and following their own evil desires.</verse>
+      
+      <verse osisID="2Pet.3.4">They will say, "Where is this 'coming' he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation."</verse>
+      
+      <verse osisID="2Pet.3.5">But they deliberately forget that long ago by God's word the heavens came into being and the earth was formed out of water and by water.</verse>
+      
+      <verse osisID="2Pet.3.6">By these waters also the world of that time was flooded and destroyed.</verse>
+      
+      <verse osisID="2Pet.3.7">By the same word the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of ungodly people.</verse>
+      
+      <title type="sub">God's Patience and Promise</title>
+      
+      <verse osisID="2Pet.3.8">But don't forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day.</verse>
+      
+      <verse osisID="2Pet.3.9">The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to changing their mind<note type="translation">The Greek word μετάνοια means a change of mind, turning from sin to God.</note>.</verse>
+      
+      <verse osisID="2Pet.3.10">But the day of the Lord will come like a thief. The heavens will disappear with a roar; the elements will be destroyed by fire, and the earth and everything done in it will be laid bare.</verse>
+      
+      <title type="sub">Living in Light of Christ's Return</title>
+      
+      <verse osisID="2Pet.3.11">Since everything will be destroyed in this way, what kind of people ought you to be? You ought to live lives set apart for God and honoring to God</verse>
+      
+      <verse osisID="2Pet.3.12">as you look forward to the day of God and speed its coming. That day will bring about the destruction of the heavens by fire, and the elements will melt in the heat.</verse>
+      
+      <verse osisID="2Pet.3.13">But in keeping with his promise we are looking forward to a new heaven and a new earth, where doing what's right dwells.</verse>
+      
+      <verse osisID="2Pet.3.14">So then, dear friends, since you are looking forward to this, make every effort to be found spotless, blameless and at peace with him.</verse>
+      
+      <verse osisID="2Pet.3.15">Bear in mind that our Lord's patience means salvation, just as our dear brother Paul also wrote you with the wisdom that God gave him.</verse>
+      
+      <verse osisID="2Pet.3.16">He writes the same way in all his letters, speaking in them of these matters. His letters contain some things that are hard to understand, which ignorant and unstable people distort, as they do the other Scriptures, to their own destruction.</verse>
+      
+      <verse osisID="2Pet.3.17">Therefore, dear friends, since you have been forewarned, be on your guard so that you may not be carried away by the error of the lawless and fall from your secure position.</verse>
+      
+      <verse osisID="2Pet.3.18">But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen.</verse>
+      
+      <chapter eID="2Pet.3"/>
+    </div>
+  </osisText>
+</osis>
