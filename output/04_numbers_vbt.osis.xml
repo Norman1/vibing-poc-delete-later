@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <rights type="x-copyright">Public Domain</rights>
+        <scope>Num</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Num" canonical="true">
+      <title>Numbers</title>
+      
+      <title type="main">The Census and Organization of Israel</title>
+      
+      <chapter osisID="Num.1" sID="Num.1"/>
+      <title type="sub">The Census of the Tribes</title>
+      <verse osisID="Num.1.1">Yahweh spoke to Moses in the tent of meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said:</verse>
+      <verse osisID="Num.1.2">"Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one.</verse>
+      <verse osisID="Num.1.3">You and Aaron are to count according to their divisions all the men in Israel twenty years old or more who are able to serve in the army.</verse>
+      <verse osisID="Num.1.4">One man from each tribe, each of them the head of his family, is to help you.</verse>
+      <verse osisID="Num.1.5">These are the names of the men who are to assist you: from Reuben, Elizur son of Shedeur;</verse>
+      <verse osisID="Num.1.6">from Simeon, Shelumiel son of Zurishaddai;</verse>
+      <verse osisID="Num.1.7">from Judah, Nahshon son of Amminadab;</verse>
+      <verse osisID="Num.1.8">from Issachar, Nethanel son of Zuar;</verse>
+      <verse osisID="Num.1.9">from Zebulun, Eliab son of Helon;</verse>
+      <verse osisID="Num.1.10">from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur;</verse>
+      <verse osisID="Num.1.11">from Benjamin, Abidan son of Gideoni;</verse>
+      <verse osisID="Num.1.12">from Dan, Ahiezer son of Ammishaddai;</verse>
+      <verse osisID="Num.1.13">from Asher, Pagiel son of Okran;</verse>
+      <verse osisID="Num.1.14">from Gad, Eliasaph son of Deuel;</verse>
+      <verse osisID="Num.1.15">from Naphtali, Ahira son of Enan."</verse>
+      <verse osisID="Num.1.16">These were the men appointed from the community, the leaders of their ancestral tribes. They were the heads of the clans of Israel.</verse>
+      <verse osisID="Num.1.17">Moses and Aaron took these men whose names had been specified,</verse>
+      <verse osisID="Num.1.18">and they called the whole community together on the first day of the second month. The people registered their ancestry by their clans and families, and the men twenty years old or more were listed by name, one by one,</verse>
+      <verse osisID="Num.1.19">as Yahweh commanded Moses. And so he counted them in the Desert of Sinai.</verse>
+      <verse osisID="Num.1.20">From the descendants of Reuben the firstborn son of Israel: All the men twenty years old or more who were able to serve in the army were listed by name, one by one, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.21">The number from the tribe of Reuben was 46,500.</verse>
+      <verse osisID="Num.1.22">From the descendants of Simeon: All the men twenty years old or more who were able to serve in the army were counted and listed by name, one by one, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.23">The number from the tribe of Simeon was 59,300.</verse>
+      <verse osisID="Num.1.24">From the descendants of Gad: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.25">The number from the tribe of Gad was 45,650.</verse>
+      <verse osisID="Num.1.26">From the descendants of Judah: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.27">The number from the tribe of Judah was 74,600.</verse>
+      <verse osisID="Num.1.28">From the descendants of Issachar: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.29">The number from the tribe of Issachar was 54,400.</verse>
+      <verse osisID="Num.1.30">From the descendants of Zebulun: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.31">The number from the tribe of Zebulun was 57,400.</verse>
+      <verse osisID="Num.1.32">From the sons of Joseph: From the descendants of Ephraim: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.33">The number from the tribe of Ephraim was 40,500.</verse>
+      <verse osisID="Num.1.34">From the descendants of Manasseh: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.35">The number from the tribe of Manasseh was 32,200.</verse>
+      <verse osisID="Num.1.36">From the descendants of Benjamin: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.37">The number from the tribe of Benjamin was 35,400.</verse>
+      <verse osisID="Num.1.38">From the descendants of Dan: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.39">The number from the tribe of Dan was 62,700.</verse>
+      <verse osisID="Num.1.40">From the descendants of Asher: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.41">The number from the tribe of Asher was 41,500.</verse>
+      <verse osisID="Num.1.42">From the descendants of Naphtali: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.</verse>
+      <verse osisID="Num.1.43">The number from the tribe of Naphtali was 53,400.</verse>
+      <verse osisID="Num.1.44">These were the men counted by Moses and Aaron and the twelve leaders of Israel, each one representing his family.</verse>
+      <verse osisID="Num.1.45">All the Israelites twenty years old or more who were able to serve in Israel's army were counted according to their families.</verse>
+      <verse osisID="Num.1.46">The total number was 603,550.</verse>
+      <verse osisID="Num.1.47">The ancestral tribe of the Levites, however, was not counted along with the others.</verse>
+      <verse osisID="Num.1.48">Yahweh had said to Moses:</verse>
+      <verse osisID="Num.1.49">"You must not count the tribe of Levi or include them in the census of the other Israelites.</verse>
+      <verse osisID="Num.1.50">Instead, appoint the Levites to be in charge of the tabernacle of the covenant law—over all its furnishings and everything belonging to it. They are to carry the tabernacle and all its furnishings; they are to take care of it and encamp around it.</verse>
+      <verse osisID="Num.1.51">Whenever the tabernacle is to move, the Levites are to take it down, and whenever the tabernacle is to be set up, the Levites shall do it. Anyone else who approaches it is to be put to death.</verse>
+      <verse osisID="Num.1.52">The Israelites are to set up their tents by divisions, each of them in their own camp under their standard.</verse>
+      <verse osisID="Num.1.53">The Levites, however, are to set up their tents around the tabernacle of the covenant law so that my wrath will not fall on the Israelite community. The Levites are to be responsible for the care of the tabernacle of the covenant law."</verse>
+      <verse osisID="Num.1.54">The Israelites did all this just as Yahweh commanded Moses.</verse>
+      <chapter eID="Num.1"/>
+      
+      <chapter osisID="Num.2" sID="Num.2"/>
+      <title type="sub">The Arrangement of the Tribal Camps</title>
+      <verse osisID="Num.2.1">Yahweh said to Moses and Aaron:</verse>
+      <verse osisID="Num.2.2">"The Israelites are to camp around the tent of meeting some distance from it, each of them under their standard and holding the banners of their family."</verse>
+      <verse osisID="Num.2.3">On the east, toward the sunrise, the divisions of the camp of Judah are to encamp under their standard. The leader of the people of Judah is Nahshon son of Amminadab.</verse>
+      <verse osisID="Num.2.4">His division numbers 74,600.</verse>
+      <verse osisID="Num.2.5">The tribe of Issachar will camp next to them. The leader of the people of Issachar is Nethanel son of Zuar.</verse>
+      <verse osisID="Num.2.6">His division numbers 54,400.</verse>
+      <verse osisID="Num.2.7">The tribe of Zebulun will be next. The leader of the people of Zebulun is Eliab son of Helon.</verse>
+      <verse osisID="Num.2.8">His division numbers 57,400.</verse>
+      <verse osisID="Num.2.9">All the men assigned to the camp of Judah, according to their divisions, number 186,400. They will set out first.</verse>
+      <verse osisID="Num.2.10">On the south will be the divisions of the camp of Reuben under their standard. The leader of the people of Reuben is Elizur son of Shedeur.</verse>
+      <verse osisID="Num.2.11">His division numbers 46,500.</verse>
+      <verse osisID="Num.2.12">The tribe of Simeon will camp next to them. The leader of the people of Simeon is Shelumiel son of Zurishaddai.</verse>
+      <verse osisID="Num.2.13">His division numbers 59,300.</verse>
+      <verse osisID="Num.2.14">The tribe of Gad will be next. The leader of the people of Gad is Eliasaph son of Deuel.</verse>
+      <verse osisID="Num.2.15">His division numbers 45,650.</verse>
+      <verse osisID="Num.2.16">All the men assigned to the camp of Reuben, according to their divisions, number 151,450. They will set out second.</verse>
+      <verse osisID="Num.2.17">Then the tent of meeting and the camp of the Levites will set out in the middle of the camps. They will set out in the same order as they encamp, each in their own place under their standard.</verse>
+      <verse osisID="Num.2.18">On the west will be the divisions of the camp of Ephraim under their standard. The leader of the people of Ephraim is Elishama son of Ammihud.</verse>
+      <verse osisID="Num.2.19">His division numbers 40,500.</verse>
+      <verse osisID="Num.2.20">The tribe of Manasseh will be next to them. The leader of the people of Manasseh is Gamaliel son of Pedahzur.</verse>
+      <verse osisID="Num.2.21">His division numbers 32,200.</verse>
+      <verse osisID="Num.2.22">The tribe of Benjamin will be next. The leader of the people of Benjamin is Abidan son of Gideoni.</verse>
+      <verse osisID="Num.2.23">His division numbers 35,400.</verse>
+      <verse osisID="Num.2.24">All the men assigned to the camp of Ephraim, according to their divisions, number 108,100. They will set out third.</verse>
+      <verse osisID="Num.2.25">On the north will be the divisions of the camp of Dan under their standard. The leader of the people of Dan is Ahiezer son of Ammishaddai.</verse>
+      <verse osisID="Num.2.26">His division numbers 62,700.</verse>
+      <verse osisID="Num.2.27">The tribe of Asher will camp next to them. The leader of the people of Asher is Pagiel son of Okran.</verse>
+      <verse osisID="Num.2.28">His division numbers 41,500.</verse>
+      <verse osisID="Num.2.29">The tribe of Naphtali will be next. The leader of the people of Naphtali is Ahira son of Enan.</verse>
+      <verse osisID="Num.2.30">His division numbers 53,400.</verse>
+      <verse osisID="Num.2.31">All the men assigned to the camp of Dan number 157,600. They will set out last, under their standards.</verse>
+      <verse osisID="Num.2.32">These are the Israelites, counted according to their families. All the men in the camps, by their divisions, number 603,550.</verse>
+      <verse osisID="Num.2.33">The Levites, however, were not counted along with the other Israelites, as Yahweh commanded Moses.</verse>
+      <verse osisID="Num.2.34">So the Israelites did everything Yahweh commanded Moses; that is the way they encamped under their standards, and that is the way they set out, each of them with their clan and family.</verse>
+      <chapter eID="Num.2"/>
+      
+      <chapter osisID="Num.3" sID="Num.3"/>
+      <title type="sub">The Levites</title>
+      <verse osisID="Num.3.1">This is the account of the family of Aaron and Moses at the time Yahweh spoke with Moses at Mount Sinai.</verse>
+      <verse osisID="Num.3.2">The names of the sons of Aaron were Nadab the firstborn and Abihu, Eleazar and Ithamar.</verse>
+      <verse osisID="Num.3.3">Those were the names of Aaron's sons, the anointed priests, who were ordained to serve as priests.</verse>
+      <verse osisID="Num.3.4">Nadab and Abihu, however, died before Yahweh when they made an offering with unauthorized fire before him in the Desert of Sinai. They had no sons, so Eleazar and Ithamar served as priests during the lifetime of their father Aaron.</verse>
+      <verse osisID="Num.3.5">Yahweh said to Moses,</verse>
+      <verse osisID="Num.3.6">"Bring the tribe of Levi and present them to Aaron the priest to assist him.</verse>
+      <verse osisID="Num.3.7">They are to perform duties for him and for the whole community at the tent of meeting by doing the work of the tabernacle.</verse>
+      <verse osisID="Num.3.8">They are to take care of all the furnishings of the tent of meeting, fulfilling the obligations of the Israelites by doing the work of the tabernacle.</verse>
+      <verse osisID="Num.3.9">Give the Levites to Aaron and his sons; they are the Israelites who are to be given wholly to him.</verse>
+      <verse osisID="Num.3.10">Appoint Aaron and his sons to serve as priests; anyone else who approaches the sanctuary is to be put to death."</verse>
+      <verse osisID="Num.3.11">Yahweh also said to Moses,</verse>
+      <verse osisID="Num.3.12">"I have taken the Levites from among the Israelites in place of the first male offspring of every Israelite woman. The Levites are mine,</verse>
+      <verse osisID="Num.3.13">for all the firstborn are mine. When I struck down all the firstborn in Egypt, I set apart for myself every firstborn in Israel, whether human or animal. They are to be mine. I am Yahweh."</verse>
+      <verse osisID="Num.3.14">Yahweh said to Moses in the Desert of Sinai,</verse>
+      <verse osisID="Num.3.15">"Count the Levites by their families and clans. Count every male a month old or more."</verse>
+      <verse osisID="Num.3.16">So Moses counted them, as he was commanded by the word of Yahweh.</verse>
+      <verse osisID="Num.3.17">These were the names of the sons of Levi: Gershon, Kohath and Merari.</verse>
+      <verse osisID="Num.3.18">These were the names of the Gershonite clans: Libni and Shimei.</verse>
+      <verse osisID="Num.3.19">The Kohathite clans: Amram, Izhar, Hebron and Uzziel.</verse>
+      <verse osisID="Num.3.20">The Merarite clans: Mahli and Mushi. These were the Levite clans, according to their families.</verse>
+      <verse osisID="Num.3.21">To Gershon belonged the clans of the Libnites and Shimeites; these were the Gershonite clans.</verse>
+      <verse osisID="Num.3.22">The number of all the males a month old or more who were counted was 7,500.</verse>
+      <verse osisID="Num.3.23">The Gershonite clans were to camp on the west, behind the tabernacle.</verse>
+      <verse osisID="Num.3.24">The leader of the families of the Gershonites was Eliasaph son of Lael.</verse>
+      <verse osisID="Num.3.25">At the tent of meeting the Gershonites were responsible for the care of the tabernacle and tent, its coverings, the curtain at the entrance to the tent of meeting,</verse>
+      <verse osisID="Num.3.26">the curtains of the courtyard, the curtain at the entrance to the courtyard surrounding the tabernacle and altar, and the ropes—and everything related to their use.</verse>
+      <verse osisID="Num.3.27">To Kohath belonged the clans of the Amramites, Izharites, Hebronites and Uzzielites; these were the Kohathite clans.</verse>
+      <verse osisID="Num.3.28">The number of all the males a month old or more was 8,600. The Kohathites were responsible for the care of the sanctuary.</verse>
+      <verse osisID="Num.3.29">The Kohathite clans were to camp on the south side of the tabernacle.</verse>
+      <verse osisID="Num.3.30">The leader of the families of the Kohathite clans was Elizaphan son of Uzziel.</verse>
+      <verse osisID="Num.3.31">They were responsible for the care of the ark, the table, the lampstand, the altars, the articles of the sanctuary used in ministering, the curtain, and everything related to their use.</verse>
+      <verse osisID="Num.3.32">The chief leader of the Levites was Eleazar son of Aaron, the priest. He was appointed over those who were responsible for the care of the sanctuary.</verse>
+      <verse osisID="Num.3.33">To Merari belonged the clans of the Mahlites and the Mushites; these were the Merarite clans.</verse>
+      <verse osisID="Num.3.34">The number of all the males a month old or more who were counted was 6,200.</verse>
+      <verse osisID="Num.3.35">The leader of the families of the Merarite clans was Zuriel son of Abihail; they were to camp on the north side of the tabernacle.</verse>
+      <verse osisID="Num.3.36">The Merarites were appointed to take care of the frames of the tabernacle, its crossbars, posts, bases, all its equipment, and everything related to their use,</verse>
+      <verse osisID="Num.3.37">as well as the posts of the surrounding courtyard with their bases, tent pegs and ropes.</verse>
+      <verse osisID="Num.3.38">Moses and Aaron and his sons were to camp to the east of the tabernacle, toward the sunrise, in front of the tent of meeting. They were responsible for the care of the sanctuary on behalf of the Israelites. Anyone else who approached the sanctuary was to be put to death.</verse>
+      <verse osisID="Num.3.39">The total number of Levites counted at Yahweh's command by Moses and Aaron according to their clans, including every male a month old or more, was 22,000.</verse>
+      <verse osisID="Num.3.40">Yahweh said to Moses, "Count all the firstborn Israelite males who are a month old or more and make a list of their names.</verse>
+      <verse osisID="Num.3.41">Take the Levites for me in place of all the firstborn of the Israelites, and the livestock of the Levites in place of all the firstborn of the livestock of the Israelites. I am Yahweh."</verse>
+      <verse osisID="Num.3.42">So Moses counted all the firstborn of the Israelites, as Yahweh commanded him.</verse>
+      <verse osisID="Num.3.43">The total number of firstborn males a month old or more, listed by name, was 22,273.</verse>
+      <verse osisID="Num.3.44">Yahweh also said to Moses,</verse>
+      <verse osisID="Num.3.45">"Take the Levites in place of all the firstborn of Israel, and the livestock of the Levites in place of their livestock. The Levites are to be mine. I am Yahweh.</verse>
+      <verse osisID="Num.3.46">To redeem the 273 firstborn Israelites who exceed the number of the Levites,</verse>
+      <verse osisID="Num.3.47">collect five shekels for each one, according to the sanctuary shekel, which weighs twenty gerahs.</verse>
+      <verse osisID="Num.3.48">Give the money for the redemption of the additional Israelites to Aaron and his sons."</verse>
+      <verse osisID="Num.3.49">So Moses collected the redemption money from those who exceeded the number redeemed by the Levites.</verse>
+      <verse osisID="Num.3.50">From the firstborn of the Israelites he collected silver weighing 1,365 shekels, according to the sanctuary shekel.</verse>
+      <verse osisID="Num.3.51">Moses gave the redemption money to Aaron and his sons, as he was commanded by the word of Yahweh.</verse>
+      <chapter eID="Num.3"/>
+    </div>
+  </osisText>
+</osis>
