@@ -163,6 +163,32 @@ Notes should only provide factual data to help readers understand the translatio
 If the meaning requires explanation, it should be built into the translation itself using functional equivalence, not added as interpretative notes.
 
 
+## Section Headings
+
+**Purpose:**
+- Add clear, descriptive headings to organize biblical content into logical sections
+- Help readers navigate and understand the structure of each chapter
+- Use modern, accessible language that describes the content's meaning
+
+**OSIS Title Types:**
+- `<title type="main">` - Major section headings (e.g., "The Ten Commandments")
+- `<title type="sub">` - Subsection headings (e.g., "Laws About Servants") 
+- `<title type="chapter">` - Chapter introductory titles when needed
+
+**Heading Guidelines:**
+- Headings should be descriptive and meaningful to modern readers
+- Avoid traditional religious jargon in favor of clear, plain language
+- Focus on the actual content and themes rather than theological interpretations
+- Place headings before the relevant content they describe
+- Use consistent formatting and hierarchy throughout each book
+
+**Examples:**
+```xml
+<title type="main">Laws for Daily Life</title>
+<title type="sub">Property and Injury Laws</title>
+```
+
+
 ## Translation Workflow
 
 **Chapter-by-Chapter Approach:**
@@ -176,10 +202,11 @@ If the meaning requires explanation, it should be built into the translation its
 1. Read the source Hebrew/Greek text for the chapter
 2. Apply functional equivalence translation approach
 3. Replace traditional biblical terminology with modern explanations
-4. Add minimal linguistic notes (Hebrew/Greek word meanings only)
-5. Format in OSIS XML with proper verse structure
-6. Commit the completed chapter with descriptive message
-7. Continue to next chapter
+4. Add section headings using OSIS title elements to organize content logically
+5. Add minimal linguistic notes (Hebrew/Greek word meanings only)
+6. Format in OSIS XML with proper verse structure
+7. Commit the completed chapter with descriptive message
+8. Continue to next chapter
 
 **Quality Control:**
 - Each chapter must follow the established translation philosophy
