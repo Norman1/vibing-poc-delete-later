@@ -4,7 +4,7 @@
     <header>
       <revisionDesc resp="Claude">
         <date>2025-08-23</date>
-        <p>Plain Meaning Bible - 2 Chronicles Chapters 1-5</p>
+        <p>Plain Meaning Bible - 2 Chronicles Chapters 1-10</p>
       </revisionDesc>
       <work osisWork="VBT">
         <title>Plain Meaning Bible</title>
@@ -123,6 +123,160 @@
       <verse osisID="2Chr.5.13">The trumpeters and musicians joined in unison to give praise and thanks to <divineName>Yahweh</divineName>. Accompanied by trumpets, cymbals and other instruments, the singers raised their voices in praise to <divineName>Yahweh</divineName> and sang: "He is good; his love endures forever." Then the temple of <divineName>Yahweh</divineName> was filled with the cloud,</verse>
       <verse osisID="2Chr.5.14">and the priests could not perform their service because of the cloud, for the glory of <divineName>Yahweh</divineName> filled the temple of God.</verse>
       <chapter eID="2Chr.5"/>
+      
+      <chapter osisID="2Chr.6" sID="2Chr.6"/>
+      <title type="section">Solomon's Temple Dedication Prayer</title>
+      <verse osisID="2Chr.6.1">Then <name type="person">Solomon</name> said, "<divineName>Yahweh</divineName> has said that he would dwell in a dark cloud;</verse>
+      <verse osisID="2Chr.6.2">I have built a magnificent temple for you, a place for you to dwell forever."</verse>
+      <verse osisID="2Chr.6.3">While the whole assembly of <name type="place">Israel</name> was standing there, the king turned around and blessed them.</verse>
+      <verse osisID="2Chr.6.4">Then he said: "Praise be to <divineName>Yahweh</divineName>, the God of <name type="place">Israel</name>, who with his hands has fulfilled what he promised with his mouth to my father <name type="person">David</name>. For he said,</verse>
+      <verse osisID="2Chr.6.5">'Since the day I brought my people out of <name type="place">Egypt</name>, I have not chosen a city in any tribe of <name type="place">Israel</name> to have a temple built so that my Name might be there, nor have I chosen anyone to be ruler over my people <name type="place">Israel</name>.</verse>
+      <verse osisID="2Chr.6.6">But now I have chosen <name type="place">Jerusalem</name> for my Name to be there, and I have chosen <name type="person">David</name> to rule my people <name type="place">Israel</name>.'</verse>
+      <verse osisID="2Chr.6.7">My father <name type="person">David</name> had it in his heart to build a temple for the Name of <divineName>Yahweh</divineName>, the God of <name type="place">Israel</name>.</verse>
+      <verse osisID="2Chr.6.8">But <divineName>Yahweh</divineName> said to my father <name type="person">David</name>, 'You did well to have it in your heart to build a temple for my Name.</verse>
+      <verse osisID="2Chr.6.9">Nevertheless, you are not the one to build the temple, but your son, your own flesh and blood—he is the one who will build the temple for my Name.'</verse>
+      <verse osisID="2Chr.6.10"><divineName>Yahweh</divineName> has kept the promise he made. I have succeeded <name type="person">David</name> my father and now I sit on the throne of <name type="place">Israel</name>, just as <divineName>Yahweh</divineName> promised, and I have built the temple for the Name of <divineName>Yahweh</divineName>, the God of <name type="place">Israel</name>.</verse>
+      <verse osisID="2Chr.6.11">There I have placed the ark, in which is the covenant of <divineName>Yahweh</divineName> that he made with the Israelites."</verse>
+      <verse osisID="2Chr.6.12">Then <name type="person">Solomon</name> stood before the altar of <divineName>Yahweh</divineName> in front of the whole assembly of <name type="place">Israel</name> and spread out his hands.</verse>
+      <verse osisID="2Chr.6.13">Now he had made a bronze platform, five cubits long, five cubits wide and three cubits high, and had placed it in the center of the outer court. He stood on the platform and then knelt down before the whole assembly of <name type="place">Israel</name> and spread out his hands toward heaven.</verse>
+      <verse osisID="2Chr.6.14">He said: "<divineName>Yahweh</divineName>, the God of <name type="place">Israel</name>, there is no God like you in heaven or on earth—you who keep your covenant of love with your servants who continue wholeheartedly in your way.</verse>
+      <verse osisID="2Chr.6.15">You have kept your promise to your servant <name type="person">David</name> my father; with your mouth you have promised and with your hand you have fulfilled it—as it is today.</verse>
+      <verse osisID="2Chr.6.16">Now <divineName>Yahweh</divineName>, the God of <name type="place">Israel</name>, keep for your servant <name type="person">David</name> my father the promises you made to him when you said, 'You shall never fail to have a successor to sit before me on the throne of <name type="place">Israel</name>, if only your descendants are careful in all they do to walk before me according to my law, as you have done.'</verse>
+      <verse osisID="2Chr.6.17">And now, <divineName>Yahweh</divineName>, the God of <name type="place">Israel</name>, let your word that you promised your servant <name type="person">David</name> be confirmed.</verse>
+      <verse osisID="2Chr.6.18">But will God really dwell on earth with humans? The heavens, even the highest heavens, cannot contain you. How much less this temple I have built!</verse>
+      <verse osisID="2Chr.6.19">Yet give attention to your servant's prayer and his plea for mercy, <divineName>Yahweh</divineName> my God. Hear the cry and the prayer that your servant is praying in your presence.</verse>
+      <verse osisID="2Chr.6.20">May your eyes be open toward this temple day and night, this place of which you said you would put your Name there. May you hear the prayer your servant prays toward this place.</verse>
+      <verse osisID="2Chr.6.21">Hear the supplications of your servant and of your people <name type="place">Israel</name> when they pray toward this place. Hear from heaven, your dwelling place; and when you hear, forgive.</verse>
+      <verse osisID="2Chr.6.22">When anyone wrongs their neighbor and is required to take an oath and they come and swear the oath before your altar in this temple,</verse>
+      <verse osisID="2Chr.6.23">then hear from heaven and act. Judge between your servants, condemning the guilty and bringing down on their heads what they have done, and vindicating the innocent by treating them in accordance with their innocence.</verse>
+      <verse osisID="2Chr.6.24">When your people <name type="place">Israel</name> have been defeated by an enemy because they have sinned against you and when they turn back and give praise to your name, praying and making supplication before you in this temple,</verse>
+      <verse osisID="2Chr.6.25">then hear from heaven and forgive the sin of your people <name type="place">Israel</name> and bring them back to the land you gave to them and their ancestors.</verse>
+      <verse osisID="2Chr.6.26">When the heavens are shut up and there is no rain because your people have sinned against you, and when they pray toward this place and give praise to your name and turn from their sin because you have afflicted them,</verse>
+      <verse osisID="2Chr.6.27">then hear from heaven and forgive the sin of your servants, your people <name type="place">Israel</name>. Teach them the right way to live, and send rain on the land you gave your people for an inheritance.</verse>
+      <verse osisID="2Chr.6.28">When famine or plague comes to the land, or blight or mildew, locusts or grasshoppers, or when enemies besiege them in any of their cities, whatever disaster or disease may come,</verse>
+      <verse osisID="2Chr.6.29">and when a prayer or plea is made by anyone among your people <name type="place">Israel</name>—being aware of their afflictions and pains, and spreading out their hands toward this temple—</verse>
+      <verse osisID="2Chr.6.30">then hear from heaven, your dwelling place. Forgive, and deal with everyone according to all they do, since you know their hearts (for you alone know the human heart),</verse>
+      <verse osisID="2Chr.6.31">so that they will fear you and walk in obedience to you all the time they live in the land you gave our ancestors.</verse>
+      <verse osisID="2Chr.6.32">As for the foreigner who does not belong to your people <name type="place">Israel</name> but has come from a distant land because of your great name and your mighty hand and your outstretched arm—when they come and pray toward this temple,</verse>
+      <verse osisID="2Chr.6.33">then hear from heaven, your dwelling place. Do whatever the foreigner asks of you, so that all the peoples of the earth may know your name and fear you, as do your own people <name type="place">Israel</name>, and may know that this house I have built bears your Name.</verse>
+      <verse osisID="2Chr.6.34">When your people go to war against their enemies, wherever you send them, and when they pray to you toward this city you have chosen and the temple I have built for your Name,</verse>
+      <verse osisID="2Chr.6.35">then hear from heaven their prayer and their plea, and uphold their cause.</verse>
+      <verse osisID="2Chr.6.36">When they sin against you—for there is no one who does not sin—and you become angry with them and give them over to the enemy, who takes them captive to a land far away or near;</verse>
+      <verse osisID="2Chr.6.37">and if they have a change of heart in the land where they are held captive, and repent and plead with you in the land of their captivity and say, 'We have sinned, we have done wrong and acted wickedly';</verse>
+      <verse osisID="2Chr.6.38">and if they turn back to you with all their heart and soul in the land of their captivity where they were taken, and pray toward the land you gave their ancestors, toward the city you have chosen and toward the temple I have built for your Name;</verse>
+      <verse osisID="2Chr.6.39">then from heaven, your dwelling place, hear their prayer and their pleas, and uphold their cause. And forgive your people, who have sinned against you.</verse>
+      <verse osisID="2Chr.6.40">Now, my God, may your eyes be open and your ears attentive to the prayers offered in this place.</verse>
+      <verse osisID="2Chr.6.41">Now arise, <divineName>Yahweh</divineName> God, and come to your resting place, you and the ark of your might. May your priests, <divineName>Yahweh</divineName> God, be clothed with salvation, may your faithful people rejoice in your goodness.</verse>
+      <verse osisID="2Chr.6.42"><divineName>Yahweh</divineName> God, do not reject your anointed one. Remember the great love promised to <name type="person">David</name> your servant."</verse>
+      <chapter eID="2Chr.6"/>
+      
+      <chapter osisID="2Chr.7" sID="2Chr.7"/>
+      <title type="section">God's Response and Covenant</title>
+      <verse osisID="2Chr.7.1">When <name type="person">Solomon</name> finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of <divineName>Yahweh</divineName> filled the temple.</verse>
+      <verse osisID="2Chr.7.2">The priests could not enter the temple of <divineName>Yahweh</divineName> because the glory of <divineName>Yahweh</divineName> filled it.</verse>
+      <verse osisID="2Chr.7.3">When all the Israelites saw the fire coming down and the glory of <divineName>Yahweh</divineName> above the temple, they knelt on the pavement with their faces to the ground, and they worshiped and gave thanks to <divineName>Yahweh</divineName>, saying, "He is good; his love endures forever."</verse>
+      <verse osisID="2Chr.7.4">Then the king and all the people offered sacrifices before <divineName>Yahweh</divineName>.</verse>
+      <verse osisID="2Chr.7.5">And King <name type="person">Solomon</name> offered a sacrifice of twenty-two thousand head of cattle and a hundred and twenty thousand sheep and goats. So the king and all the people dedicated the temple of God.</verse>
+      <verse osisID="2Chr.7.6">The priests took their positions, as did the <name type="people">Levites</name> with <divineName>Yahweh</divineName>'s musical instruments, which King <name type="person">David</name> had made for praising <divineName>Yahweh</divineName> and which were used when he gave thanks, saying, "His love endures forever." Opposite the <name type="people">Levites</name>, the priests blew their trumpets, and all the Israelites were standing.</verse>
+      <verse osisID="2Chr.7.7"><name type="person">Solomon</name> consecrated the middle part of the courtyard in front of the temple of <divineName>Yahweh</divineName>, and there he offered burnt offerings and the fat of the fellowship offerings, because the bronze altar he had made could not hold the burnt offerings, the grain offerings and the fat portions.</verse>
+      <verse osisID="2Chr.7.8">So <name type="person">Solomon</name> observed the festival at that time for seven days, and all <name type="place">Israel</name> with him—a vast assembly, people from <name type="place">Lebo Hamath</name> to the <name type="place">Wadi of Egypt</name>.</verse>
+      <verse osisID="2Chr.7.9">On the eighth day they held an assembly, for they had celebrated the dedication of the altar for seven days and the festival for seven days more.</verse>
+      <verse osisID="2Chr.7.10">On the twenty-third day of the seventh month he sent the people to their homes, joyful and glad in heart for the good things <divineName>Yahweh</divineName> had done for <name type="person">David</name> and <name type="person">Solomon</name> and for his people <name type="place">Israel</name>.</verse>
+      <verse osisID="2Chr.7.11">When <name type="person">Solomon</name> had finished the temple of <divineName>Yahweh</divineName> and the royal palace, and had succeeded in carrying out all he had in mind to do in the temple of <divineName>Yahweh</divineName> and in his own palace,</verse>
+      <verse osisID="2Chr.7.12"><divineName>Yahweh</divineName> appeared to him at night and said: "I have heard your prayer and have chosen this place for myself as a temple for sacrifices.</verse>
+      <verse osisID="2Chr.7.13">When I shut up the heavens so that there is no rain, or command locusts to devour the land or send a plague among my people,</verse>
+      <verse osisID="2Chr.7.14">if my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land.</verse>
+      <verse osisID="2Chr.7.15">Now my eyes will be open and my ears attentive to the prayers offered in this place.</verse>
+      <verse osisID="2Chr.7.16">I have chosen and consecrated this temple so that my Name may be there forever. My eyes and my heart will always be there.</verse>
+      <verse osisID="2Chr.7.17">As for you, if you walk before me faithfully as <name type="person">David</name> your father did, and do all I command, and observe my decrees and laws,</verse>
+      <verse osisID="2Chr.7.18">I will establish your royal throne, as I covenanted with <name type="person">David</name> your father when I said, 'You shall never fail to have a successor to rule over <name type="place">Israel</name>.'</verse>
+      <verse osisID="2Chr.7.19">But if you turn away and forsake the decrees and commands I have given you and go off to serve other gods and worship them,</verse>
+      <verse osisID="2Chr.7.20">then I will uproot <name type="place">Israel</name> from my land, which I have given them, and will reject this temple I have consecrated for my Name. I will make it a byword and an object of ridicule among all peoples.</verse>
+      <verse osisID="2Chr.7.21">This temple will become a heap of rubble. All who pass by will be appalled and say, 'Why has <divineName>Yahweh</divineName> done such a thing to this land and to this temple?'</verse>
+      <verse osisID="2Chr.7.22">People will answer, 'Because they have forsaken <divineName>Yahweh</divineName>, the God of their ancestors, who brought them out of <name type="place">Egypt</name>, and have embraced other gods, worshiping and serving them—that is why he brought all this disaster on them.'"</verse>
+      <chapter eID="2Chr.7"/>
+      
+      <chapter osisID="2Chr.8" sID="2Chr.8"/>
+      <title type="section">Solomon's Building Projects and Administration</title>
+      <verse osisID="2Chr.8.1">At the end of twenty years, during which <name type="person">Solomon</name> built the temple of <divineName>Yahweh</divineName> and his own palace,</verse>
+      <verse osisID="2Chr.8.2"><name type="person">Solomon</name> rebuilt the villages that <name type="person">Hiram</name> had given him, and settled Israelites in them.</verse>
+      <verse osisID="2Chr.8.3"><name type="person">Solomon</name> then went to <name type="place">Hamath Zobah</name> and captured it.</verse>
+      <verse osisID="2Chr.8.4">He also built up <name type="place">Tadmor</name> in the desert and all the store cities he had built in <name type="place">Hamath</name>.</verse>
+      <verse osisID="2Chr.8.5">He rebuilt <name type="place">Upper Beth Horon</name> and <name type="place">Lower Beth Horon</name> as fortified cities, with walls and with gates and bars,</verse>
+      <verse osisID="2Chr.8.6">as well as <name type="place">Baalath</name> and all his store cities, and all the cities for his chariots and for his horses—whatever he desired to build in <name type="place">Jerusalem</name>, in <name type="place">Lebanon</name> and throughout all the territory he ruled.</verse>
+      <verse osisID="2Chr.8.7">There were still people left from the <name type="people">Hittites</name>, <name type="people">Amorites</name>, <name type="people">Perizzites</name>, <name type="people">Hivites</name> and <name type="people">Jebusites</name> (these peoples were not Israelites),</verse>
+      <verse osisID="2Chr.8.8">and <name type="person">Solomon</name> conscripted the descendants of all these peoples remaining in the land—whom the Israelites had not destroyed—to serve as slave labor, as it is to this day.</verse>
+      <verse osisID="2Chr.8.9">But <name type="person">Solomon</name> did not make slaves of the Israelites for his work; they were his fighting men, commanders of his captains, and commanders of his chariots and charioteers.</verse>
+      <verse osisID="2Chr.8.10">They were also King <name type="person">Solomon</name>'s chief officials—two hundred and fifty officials supervising the men.</verse>
+      <verse osisID="2Chr.8.11"><name type="person">Solomon</name> brought <name type="person">Pharaoh</name>'s daughter up from the City of <name type="person">David</name> to the palace he had built for her, for he said, "My wife must not live in the palace of <name type="person">David</name> king of <name type="place">Israel</name>, because the places the ark of <divineName>Yahweh</divineName> has entered are holy."</verse>
+      <verse osisID="2Chr.8.12">On the altar of <divineName>Yahweh</divineName> that he had built in front of the portico, <name type="person">Solomon</name> sacrificed burnt offerings to <divineName>Yahweh</divineName>,</verse>
+      <verse osisID="2Chr.8.13">according to the daily requirement for offerings commanded by <name type="person">Moses</name> for the Sabbaths, the New Moons and the three annual festivals—the Festival of Unleavened Bread, the Festival of Weeks and the Festival of Tabernacles.</verse>
+      <verse osisID="2Chr.8.14">In keeping with the ordinance of his father <name type="person">David</name>, he appointed the divisions of the priests for their duties, and the <name type="people">Levites</name> to lead the praise and to assist the priests according to each day's requirement. He also appointed the gatekeepers by divisions for the various gates, because this was what <name type="person">David</name> the man of God had ordered.</verse>
+      <verse osisID="2Chr.8.15">They did not deviate from the king's commands to the priests or to the <name type="people">Levites</name> in any matter, including that of the treasuries.</verse>
+      <verse osisID="2Chr.8.16">All <name type="person">Solomon</name>'s work was carried out, from the day the foundation of the temple of <divineName>Yahweh</divineName> was laid until its completion. So the temple of <divineName>Yahweh</divineName> was finished.</verse>
+      <verse osisID="2Chr.8.17">Then <name type="person">Solomon</name> went to <name type="place">Ezion Geber</name> and <name type="place">Elath</name> on the coast of <name type="place">Edom</name>.</verse>
+      <verse osisID="2Chr.8.18">And <name type="person">Hiram</name> sent him ships commanded by his own officers, sailors who knew the sea. These, with <name type="person">Solomon</name>'s men, sailed to <name type="place">Ophir</name> and brought back four hundred and fifty talents of gold, which they delivered to King <name type="person">Solomon</name>.</verse>
+      <chapter eID="2Chr.8"/>
+      
+      <chapter osisID="2Chr.9" sID="2Chr.9"/>
+      <title type="section">The Queen of Sheba's Visit</title>
+      <verse osisID="2Chr.9.1">When the queen of <name type="place">Sheba</name> heard of <name type="person">Solomon</name>'s fame, she came to <name type="place">Jerusalem</name> to test him with hard questions. Arriving with a very great caravan—with camels carrying spices, large quantities of gold, and precious stones—she came to <name type="person">Solomon</name> and talked with him about all she had on her mind.</verse>
+      <verse osisID="2Chr.9.2"><name type="person">Solomon</name> answered all her questions; nothing was too hard for him to explain to her.</verse>
+      <verse osisID="2Chr.9.3">When the queen of <name type="place">Sheba</name> saw the wisdom of <name type="person">Solomon</name>, as well as the palace he had built,</verse>
+      <verse osisID="2Chr.9.4">the food on his table, the seating of his officials, the attending servants in their robes, the cupbearers in their robes and the burnt offerings he made at the temple of <divineName>Yahweh</divineName>, she was overwhelmed.</verse>
+      <verse osisID="2Chr.9.5">She said to the king, "The report I heard in my own country about your achievements and your wisdom is true.</verse>
+      <verse osisID="2Chr.9.6">But I did not believe what they said until I came and saw with my own eyes. Indeed, not even half the greatness of your wisdom was told me; you have far exceeded the report I heard.</verse>
+      <verse osisID="2Chr.9.7">How happy your people must be! How happy your officials, who continually stand before you and hear your wisdom!</verse>
+      <verse osisID="2Chr.9.8">Praise be to <divineName>Yahweh</divineName> your God, who has delighted in you and placed you on his throne as king to rule for <divineName>Yahweh</divineName> your God. Because of the love of your God for <name type="place">Israel</name> and his desire to uphold them forever, he has made you king over them, to maintain justice and righteousness."</verse>
+      <verse osisID="2Chr.9.9">Then she gave the king 120 talents of gold, large quantities of spices, and precious stones. There had never been such spices as those the queen of <name type="place">Sheba</name> gave to King <name type="person">Solomon</name>.</verse>
+      <verse osisID="2Chr.9.10">(The servants of <name type="person">Hiram</name> and the servants of <name type="person">Solomon</name> brought gold from <name type="place">Ophir</name>; they also brought algumwood and precious stones.</verse>
+      <verse osisID="2Chr.9.11">The king used the algumwood to make steps for the temple of <divineName>Yahweh</divineName> and for the royal palace, and to make harps and lyres for the musicians. Nothing like them had ever been seen in <name type="place">Judah</name>.)</verse>
+      <verse osisID="2Chr.9.12">King <name type="person">Solomon</name> gave the queen of <name type="place">Sheba</name> all she desired and asked for; he gave her more than she had brought to the king. Then she left and returned with her retinue to her own country.</verse>
+      
+      <title type="section">Solomon's Wealth and Wisdom</title>
+      <verse osisID="2Chr.9.13">The weight of the gold that <name type="person">Solomon</name> received yearly was 666 talents,</verse>
+      <verse osisID="2Chr.9.14">not including the revenues brought in by merchants and traders. Also all the kings of <name type="place">Arabia</name> and the governors of the territories brought gold and silver to <name type="person">Solomon</name>.</verse>
+      <verse osisID="2Chr.9.15">King <name type="person">Solomon</name> made two hundred large shields of hammered gold; six hundred shekels of hammered gold went into each shield.</verse>
+      <verse osisID="2Chr.9.16">He also made three hundred small shields of hammered gold, with three hundred shekels of gold in each shield. The king put them in the Palace of the Forest of <name type="place">Lebanon</name>.</verse>
+      <verse osisID="2Chr.9.17">Then the king made a great throne covered with ivory and overlaid with pure gold.</verse>
+      <verse osisID="2Chr.9.18">The throne had six steps, and a footstool of gold was attached to it. On both sides of the seat were armrests, with a lion standing beside each of them.</verse>
+      <verse osisID="2Chr.9.19">Twelve lions stood on the six steps, one at either end of each step. Nothing like it had ever been made for any other kingdom.</verse>
+      <verse osisID="2Chr.9.20">All King <name type="person">Solomon</name>'s goblets were gold, and all the household articles in the Palace of the Forest of <name type="place">Lebanon</name> were pure gold. Nothing was made of silver, because silver was considered of little value in <name type="person">Solomon</name>'s day.</verse>
+      <verse osisID="2Chr.9.21">The king had a fleet of trading ships manned by <name type="person">Hiram</name>'s servants. Once every three years it returned, carrying gold, silver and ivory, and apes and baboons.</verse>
+      <verse osisID="2Chr.9.22">King <name type="person">Solomon</name> was greater in riches and wisdom than all the other kings of the earth.</verse>
+      <verse osisID="2Chr.9.23">All the kings of the earth sought audience with <name type="person">Solomon</name> to hear the wisdom God had put in his heart.</verse>
+      <verse osisID="2Chr.9.24">Year after year, everyone who came brought a gift—articles of silver and gold, and robes, weapons and spices, and horses and mules.</verse>
+      <verse osisID="2Chr.9.25"><name type="person">Solomon</name> had four thousand stalls for horses and chariots, and twelve thousand horses, which he kept in the chariot cities and also with him in <name type="place">Jerusalem</name>.</verse>
+      <verse osisID="2Chr.9.26">He ruled over all the kings from the <name type="place">Euphrates River</name> to the land of the <name type="people">Philistines</name>, as far as the border of <name type="place">Egypt</name>.</verse>
+      <verse osisID="2Chr.9.27">The king made silver as common in <name type="place">Jerusalem</name> as stones, and cedar as plentiful as sycamore-fig trees in the foothills.</verse>
+      <verse osisID="2Chr.9.28"><name type="person">Solomon</name>'s horses were imported from <name type="place">Egypt</name> and from all other countries.</verse>
+      <verse osisID="2Chr.9.29">As for the other events of <name type="person">Solomon</name>'s reign, from beginning to end, are they not written in the records of <name type="person">Nathan</name> the prophet, in the prophecy of <name type="person">Ahijah</name> the <name type="people">Shilonite</name> and in the visions of <name type="person">Iddo</name> the seer concerning <name type="person">Jeroboam</name> son of <name type="person">Nebat</name>?</verse>
+      <verse osisID="2Chr.9.30"><name type="person">Solomon</name> reigned in <name type="place">Jerusalem</name> over all <name type="place">Israel</name> forty years.</verse>
+      <verse osisID="2Chr.9.31">Then he rested with his ancestors and was buried in the city of <name type="person">David</name> his father. And <name type="person">Rehoboam</name> his son succeeded him as king.</verse>
+      <chapter eID="2Chr.9"/>
+      
+      <chapter osisID="2Chr.10" sID="2Chr.10"/>
+      <title type="section">Rehoboam's Folly and Kingdom Division</title>
+      <verse osisID="2Chr.10.1"><name type="person">Rehoboam</name> went to <name type="place">Shechem</name>, for all <name type="place">Israel</name> had gone there to make him king.</verse>
+      <verse osisID="2Chr.10.2">When <name type="person">Jeroboam</name> son of <name type="person">Nebat</name> heard this (he was in <name type="place">Egypt</name>, where he had fled from King <name type="person">Solomon</name>), he returned from <name type="place">Egypt</name>.</verse>
+      <verse osisID="2Chr.10.3">So they sent for <name type="person">Jeroboam</name>, and he and all <name type="place">Israel</name> went to <name type="person">Rehoboam</name> and said to him:</verse>
+      <verse osisID="2Chr.10.4">"Your father put a heavy yoke on us, but now lighten the harsh labor and the heavy yoke he put on us, and we will serve you."</verse>
+      <verse osisID="2Chr.10.5"><name type="person">Rehoboam</name> answered, "Come back to me in three days." So the people went away.</verse>
+      <verse osisID="2Chr.10.6">Then King <name type="person">Rehoboam</name> consulted the elders who had served his father <name type="person">Solomon</name> during his lifetime. "How would you advise me to answer these people?" he asked.</verse>
+      <verse osisID="2Chr.10.7">They replied, "If you will be kind to these people and please them and give them a favorable answer, they will always be your servants."</verse>
+      <verse osisID="2Chr.10.8">But <name type="person">Rehoboam</name> rejected the advice the elders gave him and consulted the young men who had grown up with him and were serving him.</verse>
+      <verse osisID="2Chr.10.9">He asked them, "What is your advice? How should we answer these people who say to me, 'Lighten the yoke your father put on us'?"</verse>
+      <verse osisID="2Chr.10.10">The young men who had grown up with him replied, "The people have said to you, 'Your father put a heavy yoke on us, but make our yoke lighter.' Now tell them, 'My little finger is thicker than my father's waist.</verse>
+      <verse osisID="2Chr.10.11">My father laid on you a heavy yoke; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.'"</verse>
+      <verse osisID="2Chr.10.12">Three days later <name type="person">Jeroboam</name> and all the people returned to <name type="person">Rehoboam</name>, as the king had said, "Come back to me in three days."</verse>
+      <verse osisID="2Chr.10.13">The king answered them harshly. Rejecting the advice of the elders,</verse>
+      <verse osisID="2Chr.10.14">he followed the advice of the young men and said, "My father made your yoke heavy; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions."</verse>
+      <verse osisID="2Chr.10.15">So the king did not listen to the people, for this turn of events was from God, to fulfill the word <divineName>Yahweh</divineName> had spoken to <name type="person">Jeroboam</name> son of <name type="person">Nebat</name> through <name type="person">Ahijah</name> the <name type="people">Shilonite</name>.</verse>
+      <verse osisID="2Chr.10.16">When all <name type="place">Israel</name> saw that the king refused to listen to them, they answered the king: "What share do we have in <name type="person">David</name>, what part in <name type="person">Jesse</name>'s son? To your tents, <name type="place">Israel</name>! Look after your own house, <name type="person">David</name>!" So all the Israelites went home.</verse>
+      <verse osisID="2Chr.10.17">But as for the Israelites who were living in the towns of <name type="place">Judah</name>, <name type="person">Rehoboam</name> still ruled over them.</verse>
+      <verse osisID="2Chr.10.18">King <name type="person">Rehoboam</name> sent out <name type="person">Adoniram</name>, who was in charge of forced labor, but the Israelites stoned him to death. King <name type="person">Rehoboam</name>, however, managed to get into his chariot and escape to <name type="place">Jerusalem</name>.</verse>
+      <verse osisID="2Chr.10.19">So <name type="place">Israel</name> has been in rebellion against the house of <name type="person">David</name> to this day.</verse>
+      <chapter eID="2Chr.10"/>
       
     </div>
   </osisText>
