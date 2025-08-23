@@ -10,7 +10,7 @@
         <type type="OSIS">Bible</type>
         <identifier type="OSIS">Bible.VBT</identifier>
         <rights type="x-copyright">Public Domain</rights>
-        <scope>Psalms 1-25</scope>
+        <scope>Psalms 1-50</scope>
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -1180,6 +1180,1429 @@
         </verse>
         <verse osisID="Ps.25.22">
           Deliver Israel, O God, from all their troubles!
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.26">
+        <title>Of David.</title>
+        <verse osisID="Ps.26.1">
+          Of David.
+        </verse>
+        <verse osisID="Ps.26.2">
+          Vindicate me, Yahweh, for I have walked in my integrity, and I have trusted in Yahweh without wavering.
+        </verse>
+        <verse osisID="Ps.26.3">
+          Test me, Yahweh, and try me; refine my heart and mind.
+        </verse>
+        <verse osisID="Ps.26.4">
+          For your loyal love is before my eyes, and I have walked in your faithfulness.
+        </verse>
+        <verse osisID="Ps.26.5">
+          I do not sit with deceitful people, nor do I associate with hypocrites.
+        </verse>
+        <verse osisID="Ps.26.6">
+          I hate the assembly of evildoers, and I will not sit with the wicked.
+        </verse>
+        <verse osisID="Ps.26.7">
+          I will wash my hands in innocence, and go around your altar, Yahweh,
+        </verse>
+        <verse osisID="Ps.26.8">
+          proclaiming aloud your praise and telling of all your wonderful deeds.
+        </verse>
+        <verse osisID="Ps.26.9">
+          Yahweh, I love the dwelling of your house and the place where your glory resides.
+        </verse>
+        <verse osisID="Ps.26.10">
+          Do not sweep away my soul with sinners, nor my life with bloodthirsty men,
+        </verse>
+        <verse osisID="Ps.26.11">
+          whose hands are full of evil schemes, and whose right hands are full of bribes.
+        </verse>
+        <verse osisID="Ps.26.12">
+          But I will walk in my integrity; redeem me and be gracious to me.
+        </verse>
+        <verse osisID="Ps.26.13">
+          My feet stand on level ground; in the great assembly I will bless Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.27">
+        <title>Of David.</title>
+        <verse osisID="Ps.27.1">
+          Of David.
+        </verse>
+        <verse osisID="Ps.27.2">
+          Yahweh is my light and my salvation—whom shall I fear? Yahweh is the stronghold of my life—of whom shall I be afraid?
+        </verse>
+        <verse osisID="Ps.27.3">
+          When the wicked advance against me to devour me, it is my enemies and my foes who will stumble and fall.
+        </verse>
+        <verse osisID="Ps.27.4">
+          Though an army besiege me, my heart will not fear; though war break out against me, even then I will be confident.
+        </verse>
+        <verse osisID="Ps.27.5">
+          One thing I ask from Yahweh, this only do I seek: that I may dwell in the house of Yahweh all the days of my life, to gaze on the beauty of Yahweh and to seek him in his temple.
+        </verse>
+        <verse osisID="Ps.27.6">
+          For in the day of trouble he will keep me safe in his dwelling; he will hide me in the shelter of his sacred tent and set me high upon a rock.
+        </verse>
+        <verse osisID="Ps.27.7">
+          Then my head will be exalted above the enemies who surround me; at his sacred tent I will sacrifice with shouts of joy; I will sing and make music to Yahweh.
+        </verse>
+        <verse osisID="Ps.27.8">
+          Hear my voice when I call, Yahweh; be merciful to me and answer me.
+        </verse>
+        <verse osisID="Ps.27.9">
+          My heart says of you, "Seek his face!" Your face, Yahweh, I will seek.
+        </verse>
+        <verse osisID="Ps.27.10">
+          Do not hide your face from me, do not turn your servant away in anger; you have been my helper. Do not reject me or forsake me, God my Savior.
+        </verse>
+        <verse osisID="Ps.27.11">
+          Though my father and mother forsake me, Yahweh will receive me.
+        </verse>
+        <verse osisID="Ps.27.12">
+          Teach me your way, Yahweh; lead me in a straight path because of my oppressors.
+        </verse>
+        <verse osisID="Ps.27.13">
+          Do not turn me over to the desire of my foes, for false witnesses rise up against me, spouting malicious accusations.
+        </verse>
+        <verse osisID="Ps.27.14">
+          I remain confident of this: I will see the goodness of Yahweh in the land of the living.
+        </verse>
+        <verse osisID="Ps.27.15">
+          Wait for Yahweh; be strong and take heart and wait for Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.28">
+        <title>Of David.</title>
+        <verse osisID="Ps.28.1">
+          Of David.
+        </verse>
+        <verse osisID="Ps.28.2">
+          To you, Yahweh, I call; you are my Rock, do not turn a deaf ear to me. For if you remain silent, I will be like those who go down to the pit.
+        </verse>
+        <verse osisID="Ps.28.3">
+          Hear my cry for mercy as I call to you for help, as I lift up my hands toward your Most Holy Place.
+        </verse>
+        <verse osisID="Ps.28.4">
+          Do not drag me away with the wicked, with those who do evil, who speak cordially with their neighbors but harbor malice in their hearts.
+        </verse>
+        <verse osisID="Ps.28.5">
+          Repay them for their deeds and for their evil work; repay them for what their hands have done and bring back on them what they deserve.
+        </verse>
+        <verse osisID="Ps.28.6">
+          Because they show no regard for Yahweh's deeds and what his hands have made, he will tear them down and never build them up again.
+        </verse>
+        <verse osisID="Ps.28.7">
+          Praise be to Yahweh, for he has heard my cry for mercy.
+        </verse>
+        <verse osisID="Ps.28.8">
+          Yahweh is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him.
+        </verse>
+        <verse osisID="Ps.28.9">
+          Yahweh is the strength of his people, a fortress of salvation for his anointed one.
+        </verse>
+        <verse osisID="Ps.28.10">
+          Save your people and bless your inheritance; be their shepherd and carry them forever.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.29">
+        <title>A psalm of David.</title>
+        <verse osisID="Ps.29.1">
+          A psalm of David.
+        </verse>
+        <verse osisID="Ps.29.2">
+          Ascribe to Yahweh, you heavenly beings, ascribe to Yahweh glory and strength.
+        </verse>
+        <verse osisID="Ps.29.3">
+          Ascribe to Yahweh the glory due his name; worship Yahweh in the splendor of his purity.
+        </verse>
+        <verse osisID="Ps.29.4">
+          The voice of Yahweh is over the waters; the God of glory thunders, Yahweh thunders over the mighty waters.
+        </verse>
+        <verse osisID="Ps.29.5">
+          The voice of Yahweh is powerful; the voice of Yahweh is majestic.
+        </verse>
+        <verse osisID="Ps.29.6">
+          The voice of Yahweh breaks the cedars; Yahweh breaks in pieces the cedars of Lebanon.
+        </verse>
+        <verse osisID="Ps.29.7">
+          He makes Lebanon leap like a calf, Sirion like a young wild ox.
+        </verse>
+        <verse osisID="Ps.29.8">
+          The voice of Yahweh strikes with flashes of lightning.
+        </verse>
+        <verse osisID="Ps.29.9">
+          The voice of Yahweh shakes the desert; Yahweh shakes the Desert of Kadesh.
+        </verse>
+        <verse osisID="Ps.29.10">
+          The voice of Yahweh twists the oaks and strips the forests bare. And in his temple all cry, "Glory!"
+        </verse>
+        <verse osisID="Ps.29.11">
+          Yahweh sits enthroned over the flood; Yahweh is enthroned as King forever.
+        </verse>
+        <verse osisID="Ps.29.12">
+          Yahweh gives strength to his people; Yahweh blesses his people with peace.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.30">
+        <title>A psalm. A song. For the dedication of the temple. Of David.</title>
+        <verse osisID="Ps.30.1">
+          A psalm. A song. For the dedication of the temple. Of David.
+        </verse>
+        <verse osisID="Ps.30.2">
+          I will exalt you, Yahweh, for you lifted me out of the depths and did not let my enemies gloat over me.
+        </verse>
+        <verse osisID="Ps.30.3">
+          Yahweh my God, I called to you for help, and you healed me.
+        </verse>
+        <verse osisID="Ps.30.4">
+          You, Yahweh, brought me up from the realm of the dead; you spared me from going down to the pit.
+        </verse>
+        <verse osisID="Ps.30.5">
+          Sing the praises of Yahweh, you who are faithful to him; praise his name set apart for God.
+        </verse>
+        <verse osisID="Ps.30.6">
+          For his anger lasts only a moment, but his favor lasts a lifetime; weeping may stay for the night, but rejoicing comes in the morning.
+        </verse>
+        <verse osisID="Ps.30.7">
+          When I felt secure, I said, "I will never be shaken."
+        </verse>
+        <verse osisID="Ps.30.8">
+          Yahweh, when you favored me, you made my royal mountain stand firm; but when you hid your face, I was dismayed.
+        </verse>
+        <verse osisID="Ps.30.9">
+          To you, Yahweh, I called; to the Lord I cried for mercy:
+        </verse>
+        <verse osisID="Ps.30.10">
+          "What is gained if I am silenced, if I go down to the pit? Will the dust praise you? Will it proclaim your faithfulness?
+        </verse>
+        <verse osisID="Ps.30.11">
+          Hear, Yahweh, and be merciful to me; Yahweh, be my help."
+        </verse>
+        <verse osisID="Ps.30.12">
+          You turned my wailing into dancing; you removed my sackcloth and clothed me with joy,
+        </verse>
+        <verse osisID="Ps.30.13">
+          that my heart may sing your praises and not be silent. Yahweh my God, I will praise you forever.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.31">
+        <title>For the director of music. A psalm of David.</title>
+        <verse osisID="Ps.31.1">
+          For the director of music. A psalm of David.
+        </verse>
+        <verse osisID="Ps.31.2">
+          In you, Yahweh, I have taken refuge; let me never be put to shame; deliver me in your doing what's right.
+        </verse>
+        <verse osisID="Ps.31.3">
+          Turn your ear to me, come quickly to my rescue; be my rock of refuge, a strong fortress to save me.
+        </verse>
+        <verse osisID="Ps.31.4">
+          Since you are my rock and my fortress, for the sake of your name lead and guide me.
+        </verse>
+        <verse osisID="Ps.31.5">
+          Keep me free from the trap that is set for me, for you are my refuge.
+        </verse>
+        <verse osisID="Ps.31.6">
+          Into your hands I commit my spirit; deliver me, Yahweh, my faithful God.
+        </verse>
+        <verse osisID="Ps.31.7">
+          I hate those who cling to worthless idols; as for me, I trust in Yahweh.
+        </verse>
+        <verse osisID="Ps.31.8">
+          I will be glad and rejoice in your love, for you saw my affliction and knew the anguish of my soul.
+        </verse>
+        <verse osisID="Ps.31.9">
+          You have not given me into the hands of the enemy but have set my feet in a spacious place.
+        </verse>
+        <verse osisID="Ps.31.10">
+          Be merciful to me, Yahweh, for I am in distress; my eyes grow weak with sorrow, my soul and body with grief.
+        </verse>
+        <verse osisID="Ps.31.11">
+          My life is consumed by anguish and my years by groaning; my strength fails because of my affliction, and my bones grow weak.
+        </verse>
+        <verse osisID="Ps.31.12">
+          Because of all my enemies, I am the utter contempt of my neighbors and an object of dread to my closest friends—those who see me on the street flee from me.
+        </verse>
+        <verse osisID="Ps.31.13">
+          I am forgotten as though I were dead; I have become like broken pottery.
+        </verse>
+        <verse osisID="Ps.31.14">
+          For I hear many whispering, "Terror on every side!" They conspire against me and plot to take my life.
+        </verse>
+        <verse osisID="Ps.31.15">
+          But I trust in you, Yahweh; I say, "You are my God."
+        </verse>
+        <verse osisID="Ps.31.16">
+          My times are in your hands; deliver me from the hands of my enemies, from those who pursue me.
+        </verse>
+        <verse osisID="Ps.31.17">
+          Let your face shine on your servant; save me in your unfailing love.
+        </verse>
+        <verse osisID="Ps.31.18">
+          Let me not be put to shame, Yahweh, for I have cried out to you; but let the wicked be put to shame and be silent in the realm of the dead.
+        </verse>
+        <verse osisID="Ps.31.19">
+          Let their lying lips be silenced, for with pride and contempt they speak arrogantly against those who do right.
+        </verse>
+        <verse osisID="Ps.31.20">
+          How abundant are the good things that you have stored up for those who fear you, that you bestow in the sight of all, on those who take refuge in you.
+        </verse>
+        <verse osisID="Ps.31.21">
+          In the shelter of your presence you hide them from all human intrigues; you keep them safe in your dwelling from accusing tongues.
+        </verse>
+        <verse osisID="Ps.31.22">
+          Praise be to Yahweh, for he showed me the wonders of his love when I was in a city under siege.
+        </verse>
+        <verse osisID="Ps.31.23">
+          In my alarm I said, "I am cut off from your sight!" Yet you heard my cry for mercy when I called to you for help.
+        </verse>
+        <verse osisID="Ps.31.24">
+          Love Yahweh, all his faithful people! Yahweh preserves those who are true to him, but the proud he pays back in full.
+        </verse>
+        <verse osisID="Ps.31.25">
+          Be strong and take heart, all you who hope in Yahweh.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.32">
+        <title>Of David. A maskil.</title>
+        <verse osisID="Ps.32.1">
+          Of David. A maskil.
+        </verse>
+        <verse osisID="Ps.32.2">
+          Deeply happy is the one whose stepping across the line is forgiven, whose sin is covered.
+        </verse>
+        <verse osisID="Ps.32.3">
+          Deeply happy is the one whose sin Yahweh does not count against them and in whose spirit is no deceit.
+        </verse>
+        <verse osisID="Ps.32.4">
+          When I kept silent, my bones wasted away through my groaning all day long.
+        </verse>
+        <verse osisID="Ps.32.5">
+          For day and night your hand was heavy on me; my strength was sapped as in the heat of summer.
+        </verse>
+        <verse osisID="Ps.32.6">
+          Then I acknowledged my sin to you and did not cover up my twisted wrongness. I said, "I will confess my boundary crossings to Yahweh." And you forgave the guilt of my sin.
+        </verse>
+        <verse osisID="Ps.32.7">
+          Therefore let all the faithful pray to you while you may be found; surely the rising of mighty waters will not reach them.
+        </verse>
+        <verse osisID="Ps.32.8">
+          You are my hiding place; you will protect me from trouble and surround me with songs of deliverance.
+        </verse>
+        <verse osisID="Ps.32.9">
+          I will instruct you and teach you in the way you should go; I will counsel you with my loving eye on you.
+        </verse>
+        <verse osisID="Ps.32.10">
+          Do not be like the horse or the mule, which have no understanding but must be controlled by bit and bridle or they will not come to you.
+        </verse>
+        <verse osisID="Ps.32.11">
+          Many are the woes of the wicked, but Yahweh's unfailing love surrounds the one who trusts in him.
+        </verse>
+        <verse osisID="Ps.32.12">
+          Rejoice in Yahweh and be glad, you who do right; sing, all you who are upright in heart!
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.33">
+        <title>Trust in Yahweh the Creator</title>
+        <verse osisID="Ps.33.1">
+          Sing joyfully to Yahweh, you who do right; it is fitting for the upright to praise him.
+        </verse>
+        <verse osisID="Ps.33.2">
+          Praise Yahweh with the harp; make music to him on the ten-stringed lyre.
+        </verse>
+        <verse osisID="Ps.33.3">
+          Sing to him a new song; play skillfully, and shout for joy.
+        </verse>
+        <verse osisID="Ps.33.4">
+          For the word of Yahweh is right and true; he is faithful in all he does.
+        </verse>
+        <verse osisID="Ps.33.5">
+          Yahweh loves what's right and just; the earth is full of his unfailing love.
+        </verse>
+        <verse osisID="Ps.33.6">
+          By the word of Yahweh the heavens were made, their starry host by the breath of his mouth.
+        </verse>
+        <verse osisID="Ps.33.7">
+          He gathers the waters of the sea into jars; he puts the deep into storehouses.
+        </verse>
+        <verse osisID="Ps.33.8">
+          Let all the earth fear Yahweh; let all the people of the world revere him.
+        </verse>
+        <verse osisID="Ps.33.9">
+          For he spoke, and it came to be; he commanded, and it stood firm.
+        </verse>
+        <verse osisID="Ps.33.10">
+          Yahweh foils the plans of the nations; he thwarts the purposes of the peoples.
+        </verse>
+        <verse osisID="Ps.33.11">
+          But the plans of Yahweh stand firm forever, the purposes of his heart through all generations.
+        </verse>
+        <verse osisID="Ps.33.12">
+          Deeply happy is the nation whose God is Yahweh, the people he chose for his inheritance.
+        </verse>
+        <verse osisID="Ps.33.13">
+          From heaven Yahweh looks down and sees all mankind;
+        </verse>
+        <verse osisID="Ps.33.14">
+          from his dwelling place he watches all who live on earth—
+        </verse>
+        <verse osisID="Ps.33.15">
+          he who forms the hearts of all, who considers everything they do.
+        </verse>
+        <verse osisID="Ps.33.16">
+          No king is saved by the size of his army; no warrior escapes by his great strength.
+        </verse>
+        <verse osisID="Ps.33.17">
+          A horse is a vain hope for deliverance; despite all its great strength it cannot save.
+        </verse>
+        <verse osisID="Ps.33.18">
+          But the eyes of Yahweh are on those who fear him, on those whose hope is in his unfailing love,
+        </verse>
+        <verse osisID="Ps.33.19">
+          to deliver them from death and keep them alive in famine.
+        </verse>
+        <verse osisID="Ps.33.20">
+          We wait in hope for Yahweh; he is our help and our shield.
+        </verse>
+        <verse osisID="Ps.33.21">
+          In him our hearts rejoice, for we trust in his name set apart for God.
+        </verse>
+        <verse osisID="Ps.33.22">
+          May your unfailing love be with us, Yahweh, even as we put our hope in you.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.34">
+        <title>Of David. When he pretended to be insane before Abimelek, who drove him away, and he left.</title>
+        <verse osisID="Ps.34.1">
+          Of David. When he pretended to be insane before Abimelek, who drove him away, and he left.
+        </verse>
+        <verse osisID="Ps.34.2">
+          I will extol Yahweh at all times; his praise will always be on my lips.
+        </verse>
+        <verse osisID="Ps.34.3">
+          I will glory in Yahweh; let the afflicted hear and rejoice.
+        </verse>
+        <verse osisID="Ps.34.4">
+          Glorify Yahweh with me; let us exalt his name together.
+        </verse>
+        <verse osisID="Ps.34.5">
+          I sought Yahweh, and he answered me; he delivered me from all my fears.
+        </verse>
+        <verse osisID="Ps.34.6">
+          Those who look to him are radiant; their faces are never covered with shame.
+        </verse>
+        <verse osisID="Ps.34.7">
+          This poor man called, and Yahweh heard him; he saved him out of all his troubles.
+        </verse>
+        <verse osisID="Ps.34.8">
+          The angel of Yahweh encamps around those who fear him, and he delivers them.
+        </verse>
+        <verse osisID="Ps.34.9">
+          Taste and see that Yahweh is good; deeply happy is the one who takes refuge in him.
+        </verse>
+        <verse osisID="Ps.34.10">
+          Fear Yahweh, you his people set apart for God, for those who fear him lack nothing.
+        </verse>
+        <verse osisID="Ps.34.11">
+          The lions may grow weak and hungry, but those who seek Yahweh lack no good thing.
+        </verse>
+        <verse osisID="Ps.34.12">
+          Come, my children, listen to me; I will teach you the fear of Yahweh.
+        </verse>
+        <verse osisID="Ps.34.13">
+          Whoever of you loves life and desires to see many good days,
+        </verse>
+        <verse osisID="Ps.34.14">
+          keep your tongue from evil and your lips from telling lies.
+        </verse>
+        <verse osisID="Ps.34.15">
+          Turn from evil and do good; seek peace and pursue it.
+        </verse>
+        <verse osisID="Ps.34.16">
+          The eyes of Yahweh are on those who do right, and his ears are attentive to their cry;
+        </verse>
+        <verse osisID="Ps.34.17">
+          but the face of Yahweh is against those who do evil, to blot out their name from the earth.
+        </verse>
+        <verse osisID="Ps.34.18">
+          Those who do right cry out, and Yahweh hears them; he delivers them from all their troubles.
+        </verse>
+        <verse osisID="Ps.34.19">
+          Yahweh is close to the brokenhearted and saves those who are crushed in spirit.
+        </verse>
+        <verse osisID="Ps.34.20">
+          The one who does right may have many troubles, but Yahweh delivers him from them all;
+        </verse>
+        <verse osisID="Ps.34.21">
+          he protects all his bones, not one of them will be broken.
+        </verse>
+        <verse osisID="Ps.34.22">
+          Evil will slay the wicked; the foes of those who do right will be condemned.
+        </verse>
+        <verse osisID="Ps.34.23">
+          Yahweh will rescue his servants; no one who takes refuge in him will be condemned.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.35">
+        <title>Of David.</title>
+        <verse osisID="Ps.35.1">
+          Of David.
+        </verse>
+        <verse osisID="Ps.35.2">
+          Contend, Yahweh, with those who contend with me; fight against those who fight against me.
+        </verse>
+        <verse osisID="Ps.35.3">
+          Take up shield and armor; arise and come to my aid.
+        </verse>
+        <verse osisID="Ps.35.4">
+          Brandish spear and javelin against those who pursue me. Say to me, "I am your salvation."
+        </verse>
+        <verse osisID="Ps.35.5">
+          May those who seek my life be disgraced and put to shame; may those who plot my ruin be turned back in dismay.
+        </verse>
+        <verse osisID="Ps.35.6">
+          May they be like chaff before the wind, with the angel of Yahweh driving them away;
+        </verse>
+        <verse osisID="Ps.35.7">
+          may their path be dark and slippery, with the angel of Yahweh pursuing them.
+        </verse>
+        <verse osisID="Ps.35.8">
+          Since they hid their net for me without cause and without cause dug a pit for me,
+        </verse>
+        <verse osisID="Ps.35.9">
+          may ruin overtake them by surprise—may the net they hid entangle them, may they fall into the pit, to their ruin.
+        </verse>
+        <verse osisID="Ps.35.10">
+          Then my soul will rejoice in Yahweh and delight in his salvation.
+        </verse>
+        <verse osisID="Ps.35.11">
+          My whole being will exclaim, "Who is like you, Yahweh? You rescue the poor from those too strong for them, the poor and needy from those who rob them."
+        </verse>
+        <verse osisID="Ps.35.12">
+          Ruthless witnesses come forward; they question me on things I know nothing about.
+        </verse>
+        <verse osisID="Ps.35.13">
+          They repay me evil for good and leave me like one bereaved.
+        </verse>
+        <verse osisID="Ps.35.14">
+          Yet when they were ill, I put on sackcloth and humbled myself with fasting. When my prayers returned to me unanswered,
+        </verse>
+        <verse osisID="Ps.35.15">
+          I went about mourning as though for my friend or brother. I bowed my head in grief as though weeping for my mother.
+        </verse>
+        <verse osisID="Ps.35.16">
+          But when I stumbled, they gathered in glee; assailants gathered against me without my knowledge. They slandered me without ceasing.
+        </verse>
+        <verse osisID="Ps.35.17">
+          Like the ungodly they maliciously mocked; they gnashed their teeth at me.
+        </verse>
+        <verse osisID="Ps.35.18">
+          How long, Lord, will you look on? Rescue me from their ravages, my precious life from these lions.
+        </verse>
+        <verse osisID="Ps.35.19">
+          I will give you thanks in the great assembly; among the throngs I will praise you.
+        </verse>
+        <verse osisID="Ps.35.20">
+          Do not let those gloat over me who are my enemies without cause; do not let those who hate me without reason maliciously wink the eye.
+        </verse>
+        <verse osisID="Ps.35.21">
+          They do not speak peaceably, but devise false accusations against those who live quietly in the land.
+        </verse>
+        <verse osisID="Ps.35.22">
+          They sneer at me and say, "Aha! Aha! With our own eyes we have seen it."
+        </verse>
+        <verse osisID="Ps.35.23">
+          Yahweh, you have seen this; do not be silent. Do not be far from me, Lord.
+        </verse>
+        <verse osisID="Ps.35.24">
+          Awake, and rise to my defense! Contend for me, my God and Lord.
+        </verse>
+        <verse osisID="Ps.35.25">
+          Vindicate me in your doing what's right, Yahweh my God; do not let them gloat over me.
+        </verse>
+        <verse osisID="Ps.35.26">
+          Do not let them think, "Aha, just what we wanted!" or say, "We have swallowed him up."
+        </verse>
+        <verse osisID="Ps.35.27">
+          May all who gloat over my distress be put to shame and confusion; may all who exalt themselves over me be clothed with shame and disgrace.
+        </verse>
+        <verse osisID="Ps.35.28">
+          May those who delight in my vindication shout for joy and gladness; may they always say, "Yahweh be exalted, who delights in the well-being of his servant."
+        </verse>
+        <verse osisID="Ps.35.29">
+          My tongue will proclaim your doing what's right, your praises all day long.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.36">
+        <title>For the director of music. Of David the servant of Yahweh.</title>
+        <verse osisID="Ps.36.1">
+          For the director of music. Of David the servant of Yahweh.
+        </verse>
+        <verse osisID="Ps.36.2">
+          I have a message from God in my heart concerning the sinfulness of the wicked: There is no fear of God before their eyes.
+        </verse>
+        <verse osisID="Ps.36.3">
+          In their own eyes they flatter themselves too much to detect or hate their sin.
+        </verse>
+        <verse osisID="Ps.36.4">
+          The words of their mouths are wicked and deceitful; they fail to act wisely or do good.
+        </verse>
+        <verse osisID="Ps.36.5">
+          Even on their beds they plot evil; they commit themselves to a sinful course and do not reject what is wrong.
+        </verse>
+        <verse osisID="Ps.36.6">
+          Your love, Yahweh, reaches to the heavens, your faithfulness to the skies.
+        </verse>
+        <verse osisID="Ps.36.7">
+          Your doing what's right is like the highest mountains, your justice like the great deep. You, Yahweh, preserve both people and animals.
+        </verse>
+        <verse osisID="Ps.36.8">
+          How priceless is your unfailing love, O God! People take refuge in the shadow of your wings.
+        </verse>
+        <verse osisID="Ps.36.9">
+          They feast on the abundance of your house; you give them drink from your river of delights.
+        </verse>
+        <verse osisID="Ps.36.10">
+          For with you is the fountain of life; in your light we see light.
+        </verse>
+        <verse osisID="Ps.36.11">
+          Continue your love to those who know you, your doing what's right to the upright in heart.
+        </verse>
+        <verse osisID="Ps.36.12">
+          May the foot of the proud not come against me, nor the hand of the wicked drive me away.
+        </verse>
+        <verse osisID="Ps.36.13">
+          See how the evildoers lie fallen—thrown down, not able to rise!
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.37">
+        <title>Of David.</title>
+        <verse osisID="Ps.37.1">
+          Of David.
+        </verse>
+        <verse osisID="Ps.37.2">
+          Do not fret because of those who are evil or be envious of those who do wrong;
+        </verse>
+        <verse osisID="Ps.37.3">
+          for like the grass they will soon wither, like green plants they will soon die away.
+        </verse>
+        <verse osisID="Ps.37.4">
+          Trust in Yahweh and do good; dwell in the land and enjoy safe pasture.
+        </verse>
+        <verse osisID="Ps.37.5">
+          Take delight in Yahweh, and he will give you the desires of your heart.
+        </verse>
+        <verse osisID="Ps.37.6">
+          Commit your way to Yahweh; trust in him and he will do this:
+        </verse>
+        <verse osisID="Ps.37.7">
+          He will make your innocence shine like the dawn, your vindication like the noonday sun.
+        </verse>
+        <verse osisID="Ps.37.8">
+          Be still before Yahweh and wait patiently for him; do not fret when people succeed in their ways, when they carry out their wicked schemes.
+        </verse>
+        <verse osisID="Ps.37.9">
+          Refrain from anger and turn from wrath; do not fret—it leads only to evil.
+        </verse>
+        <verse osisID="Ps.37.10">
+          For those who are evil will be destroyed, but those who hope in Yahweh will inherit the land.
+        </verse>
+        <verse osisID="Ps.37.11">
+          A little while, and the wicked will be no more; though you look for them, they will not be found.
+        </verse>
+        <verse osisID="Ps.37.12">
+          But the meek will inherit the land and enjoy peace and prosperity.
+        </verse>
+        <verse osisID="Ps.37.13">
+          The wicked plot against those who do right and gnash their teeth at them;
+        </verse>
+        <verse osisID="Ps.37.14">
+          but the Lord laughs at the wicked, for he knows their day is coming.
+        </verse>
+        <verse osisID="Ps.37.15">
+          The wicked draw the sword and bend the bow to bring down the poor and needy, to slay those whose ways are upright.
+        </verse>
+        <verse osisID="Ps.37.16">
+          But their swords will pierce their own hearts, and their bows will be broken.
+        </verse>
+        <verse osisID="Ps.37.17">
+          Better the little that those who do right have than the wealth of many wicked;
+        </verse>
+        <verse osisID="Ps.37.18">
+          for the power of the wicked will be broken, but Yahweh upholds those who do right.
+        </verse>
+        <verse osisID="Ps.37.19">
+          The blameless spend their days under Yahweh's care, and their inheritance will endure forever.
+        </verse>
+        <verse osisID="Ps.37.20">
+          In times of disaster they will not wither; in days of famine they will enjoy plenty.
+        </verse>
+        <verse osisID="Ps.37.21">
+          But the wicked will perish: Though Yahweh's enemies are like the flowers of the field, they will be consumed, they will go up in smoke.
+        </verse>
+        <verse osisID="Ps.37.22">
+          The wicked borrow and do not repay, but those who do right give generously;
+        </verse>
+        <verse osisID="Ps.37.23">
+          those Yahweh blesses will inherit the land, but those he curses will be destroyed.
+        </verse>
+        <verse osisID="Ps.37.24">
+          Yahweh makes firm the steps of the one who delights in him;
+        </verse>
+        <verse osisID="Ps.37.25">
+          though he may stumble, he will not fall, for Yahweh upholds him with his hand.
+        </verse>
+        <verse osisID="Ps.37.26">
+          I was young and now I am old, yet I have never seen those who do right forsaken or their children begging bread.
+        </verse>
+        <verse osisID="Ps.37.27">
+          They are always generous and lend freely; their children will be a blessing.
+        </verse>
+        <verse osisID="Ps.37.28">
+          Turn from evil and do good; then you will dwell in the land forever.
+        </verse>
+        <verse osisID="Ps.37.29">
+          For Yahweh loves the just and will not forsake his faithful ones. Wrongdoers will be completely destroyed; the offspring of the wicked will perish.
+        </verse>
+        <verse osisID="Ps.37.30">
+          Those who do right will inherit the land and dwell in it forever.
+        </verse>
+        <verse osisID="Ps.37.31">
+          The mouths of those who do right utter wisdom, and their tongues speak what is just.
+        </verse>
+        <verse osisID="Ps.37.32">
+          The law of their God is in their hearts; their feet do not slip.
+        </verse>
+        <verse osisID="Ps.37.33">
+          The wicked lie in wait for those who do right, intent on putting them to death;
+        </verse>
+        <verse osisID="Ps.37.34">
+          but Yahweh will not leave them in the power of the wicked or let them be condemned when brought to trial.
+        </verse>
+        <verse osisID="Ps.37.35">
+          Hope in Yahweh and keep his way. He will exalt you to inherit the land; when the wicked are destroyed, you will see it.
+        </verse>
+        <verse osisID="Ps.37.36">
+          I have seen a wicked and ruthless man flourishing like a luxuriant native tree,
+        </verse>
+        <verse osisID="Ps.37.37">
+          but he soon passed away and was no more; though I looked for him, he could not be found.
+        </verse>
+        <verse osisID="Ps.37.38">
+          Consider the blameless, observe the upright; a future awaits those who seek peace.
+        </verse>
+        <verse osisID="Ps.37.39">
+          But all sinners will be destroyed; there is no future for the wicked.
+        </verse>
+        <verse osisID="Ps.37.40">
+          The salvation of those who do right comes from Yahweh; he is their stronghold in time of trouble.
+        </verse>
+        <verse osisID="Ps.37.41">
+          Yahweh helps them and delivers them; he delivers them from the wicked and saves them, because they take refuge in him.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.38">
+        <title>A psalm of David. A petition.</title>
+        <verse osisID="Ps.38.1">
+          A psalm of David. A petition.
+        </verse>
+        <verse osisID="Ps.38.2">
+          Yahweh, do not rebuke me in your anger or discipline me in your wrath.
+        </verse>
+        <verse osisID="Ps.38.3">
+          Your arrows have pierced me, and your hand has come down on me.
+        </verse>
+        <verse osisID="Ps.38.4">
+          Because of your wrath there is no health in my body; there is no soundness in my bones because of my sin.
+        </verse>
+        <verse osisID="Ps.38.5">
+          My guilt has overwhelmed me like a burden too heavy to bear.
+        </verse>
+        <verse osisID="Ps.38.6">
+          My wounds fester and are loathsome because of my sinful folly.
+        </verse>
+        <verse osisID="Ps.38.7">
+          I am bowed down and brought very low; all day long I go about mourning.
+        </verse>
+        <verse osisID="Ps.38.8">
+          My back is filled with searing pain; there is no health in my body.
+        </verse>
+        <verse osisID="Ps.38.9">
+          I am feeble and utterly crushed; I groan in anguish of heart.
+        </verse>
+        <verse osisID="Ps.38.10">
+          All my longings lie open before you, Lord; my sighing is not hidden from you.
+        </verse>
+        <verse osisID="Ps.38.11">
+          My heart pounds, my strength fails me; even the light has gone from my eyes.
+        </verse>
+        <verse osisID="Ps.38.12">
+          My friends and companions avoid me because of my wounds; my neighbors stay far away.
+        </verse>
+        <verse osisID="Ps.38.13">
+          Those who want to kill me set their traps, those who would harm me talk of my ruin; all day long they scheme and lie.
+        </verse>
+        <verse osisID="Ps.38.14">
+          I am like the deaf, who cannot hear, like the mute, who cannot speak;
+        </verse>
+        <verse osisID="Ps.38.15">
+          I have become like one who does not hear, whose mouth can offer no reply.
+        </verse>
+        <verse osisID="Ps.38.16">
+          Yahweh, I wait for you; you will answer, Lord my God.
+        </verse>
+        <verse osisID="Ps.38.17">
+          For I said, "Do not let them gloat or exalt themselves over me when my feet slip."
+        </verse>
+        <verse osisID="Ps.38.18">
+          For I am about to fall, and my pain is ever with me.
+        </verse>
+        <verse osisID="Ps.38.19">
+          I confess my twisted wrongness; I am troubled by my sin.
+        </verse>
+        <verse osisID="Ps.38.20">
+          Many have become my enemies without cause; those who hate me without reason are numerous.
+        </verse>
+        <verse osisID="Ps.38.21">
+          Those who repay my good with evil lodge accusations against me, though I seek only to do what is good.
+        </verse>
+        <verse osisID="Ps.38.22">
+          Yahweh, do not forsake me; do not be far from me, my God.
+        </verse>
+        <verse osisID="Ps.38.23">
+          Come quickly to help me, my Lord and my Savior.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.39">
+        <title>For the director of music. For Jeduthun. A psalm of David.</title>
+        <verse osisID="Ps.39.1">
+          For the director of music. For Jeduthun. A psalm of David.
+        </verse>
+        <verse osisID="Ps.39.2">
+          I said, "I will watch my ways and keep my tongue from sin; I will put a muzzle on my mouth while in the presence of the wicked."
+        </verse>
+        <verse osisID="Ps.39.3">
+          So I remained utterly silent, not even saying anything good. But my anguish increased;
+        </verse>
+        <verse osisID="Ps.39.4">
+          my heart grew hot within me. While I meditated, the fire burned; then I spoke with my tongue:
+        </verse>
+        <verse osisID="Ps.39.5">
+          "Show me, Yahweh, my life's end and the number of my days; let me know how fleeting my life is.
+        </verse>
+        <verse osisID="Ps.39.6">
+          You have made my days a mere handbreadth; the span of my years is as nothing before you. Everyone is but a breath, even those who seem secure.
+        </verse>
+        <verse osisID="Ps.39.7">
+          Surely everyone goes around like a mere phantom; in vain they rush about, heaping up wealth without knowing whose it will finally be.
+        </verse>
+        <verse osisID="Ps.39.8">
+          But now, Lord, what do I look for? My hope is in you.
+        </verse>
+        <verse osisID="Ps.39.9">
+          Save me from all my boundary crossings; do not make me the scorn of fools.
+        </verse>
+        <verse osisID="Ps.39.10">
+          I was silent; I would not open my mouth, for you are the one who has done this.
+        </verse>
+        <verse osisID="Ps.39.11">
+          Remove your scourge from me; I am overcome by the blow of your hand.
+        </verse>
+        <verse osisID="Ps.39.12">
+          When you rebuke and discipline anyone for their sin, you consume their wealth like a moth—surely everyone is but a breath.
+        </verse>
+        <verse osisID="Ps.39.13">
+          Hear my prayer, Yahweh, listen to my cry for help; do not be deaf to my weeping. I dwell with you as a foreigner, a stranger, as all my ancestors were.
+        </verse>
+        <verse osisID="Ps.39.14">
+          Look away from me, that I may rejoice again before I depart and am no more."
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.40">
+        <title>For the director of music. Of David. A psalm.</title>
+        <verse osisID="Ps.40.1">
+          For the director of music. Of David. A psalm.
+        </verse>
+        <verse osisID="Ps.40.2">
+          I waited patiently for Yahweh; he turned to me and heard my cry.
+        </verse>
+        <verse osisID="Ps.40.3">
+          He lifted me out of the slimy pit, out of the mud and mire; he set my feet on a rock and gave me a firm place to stand.
+        </verse>
+        <verse osisID="Ps.40.4">
+          He put a new song in my mouth, a hymn of praise to our God. Many will see and fear Yahweh and put their trust in him.
+        </verse>
+        <verse osisID="Ps.40.5">
+          Deeply happy is the one who makes Yahweh their trust, who does not look to the proud, to those who turn aside to false gods.
+        </verse>
+        <verse osisID="Ps.40.6">
+          Many, Yahweh my God, are the wonders you have done, the things you planned for us. None can compare with you; were I to speak and tell of your deeds, they would be too many to declare.
+        </verse>
+        <verse osisID="Ps.40.7">
+          Sacrifice and offering you did not desire—but my ears you have opened—burnt offerings and sin offerings you did not require.
+        </verse>
+        <verse osisID="Ps.40.8">
+          Then I said, "Here I am, I have come—it is written about me in the scroll.
+        </verse>
+        <verse osisID="Ps.40.9">
+          I desire to do your will, my God; your law is within my heart."
+        </verse>
+        <verse osisID="Ps.40.10">
+          I proclaim your saving acts in the great assembly; I do not seal my lips, Yahweh, as you know.
+        </verse>
+        <verse osisID="Ps.40.11">
+          I do not hide your doing what's right in my heart; I speak of your faithfulness and your saving help. I do not conceal your love and faithfulness from the great assembly.
+        </verse>
+        <verse osisID="Ps.40.12">
+          Do not withhold your mercy from me, Yahweh; may your love and faithfulness always protect me.
+        </verse>
+        <verse osisID="Ps.40.13">
+          For troubles without number surround me; my sins have overtaken me, and I cannot see. They are more than the hairs of my head, and my heart fails within me.
+        </verse>
+        <verse osisID="Ps.40.14">
+          Be pleased to save me, Yahweh; come quickly, Yahweh, to help me.
+        </verse>
+        <verse osisID="Ps.40.15">
+          May all who want to take my life be put to shame and confusion; may all who desire my ruin be turned back in disgrace.
+        </verse>
+        <verse osisID="Ps.40.16">
+          May those who say to me, "Aha! Aha!" be appalled at their own shame.
+        </verse>
+        <verse osisID="Ps.40.17">
+          But may all who seek you rejoice and be glad in you; may those who long for your saving help always say, "Yahweh is great!"
+        </verse>
+        <verse osisID="Ps.40.18">
+          But as for me, I am poor and needy; may the Lord think of me. You are my help and my deliverer; you are my God, do not delay.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.41">
+        <title>For the director of music. A psalm of David.</title>
+        <verse osisID="Ps.41.1">
+          For the director of music. A psalm of David.
+        </verse>
+        <verse osisID="Ps.41.2">
+          Deeply happy are those who have regard for the weak; Yahweh delivers them in times of trouble.
+        </verse>
+        <verse osisID="Ps.41.3">
+          Yahweh protects and preserves them—they are counted among the deeply happy in the land—he does not give them over to the desire of their foes.
+        </verse>
+        <verse osisID="Ps.41.4">
+          Yahweh sustains them on their sickbed and restores them from their bed of illness.
+        </verse>
+        <verse osisID="Ps.41.5">
+          I said, "Have mercy on me, Yahweh; heal me, for I have sinned against you."
+        </verse>
+        <verse osisID="Ps.41.6">
+          My enemies say of me in malice, "When will he die and his name perish?"
+        </verse>
+        <verse osisID="Ps.41.7">
+          When one of them comes to see me, he speaks falsely, while his heart gathers slander; then he goes out and spreads it around.
+        </verse>
+        <verse osisID="Ps.41.8">
+          All my enemies whisper together against me; they imagine the worst for me, saying,
+        </verse>
+        <verse osisID="Ps.41.9">
+          "A vile disease has afflicted him; he will never get up from the place where he lies."
+        </verse>
+        <verse osisID="Ps.41.10">
+          Even my close friend, someone I trusted, one who shared my bread, has turned against me.
+        </verse>
+        <verse osisID="Ps.41.11">
+          But may you have mercy on me, Yahweh; raise me up, that I may repay them.
+        </verse>
+        <verse osisID="Ps.41.12">
+          I know that you are pleased with me, for my enemy does not triumph over me.
+        </verse>
+        <verse osisID="Ps.41.13">
+          Because of my integrity you uphold me and set me in your presence forever.
+        </verse>
+        <verse osisID="Ps.41.14">
+          Praise be to Yahweh, the God of Israel, from everlasting to everlasting. Amen and Amen.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.42">
+        <title>For the director of music. A maskil of the Sons of Korah.</title>
+        <verse osisID="Ps.42.1">
+          For the director of music. A maskil of the Sons of Korah.
+        </verse>
+        <verse osisID="Ps.42.2">
+          As the deer pants for streams of water, so my soul pants for you, my God.
+        </verse>
+        <verse osisID="Ps.42.3">
+          My soul thirsts for God, for the living God. When can I go and meet with God?
+        </verse>
+        <verse osisID="Ps.42.4">
+          My tears have been my food day and night, while people say to me all day long, "Where is your God?"
+        </verse>
+        <verse osisID="Ps.42.5">
+          These things I remember as I pour out my soul: how I used to go to the house of God under the protection of the Mighty One with shouts of joy and praise among the festive throng.
+        </verse>
+        <verse osisID="Ps.42.6">
+          Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.
+        </verse>
+        <verse osisID="Ps.42.7">
+          My soul is downcast within me; therefore I will remember you from the land of the Jordan, the heights of Hermon—from Mount Mizar.
+        </verse>
+        <verse osisID="Ps.42.8">
+          Deep calls to deep in the roar of your waterfalls; all your waves and breakers have swept over me.
+        </verse>
+        <verse osisID="Ps.42.9">
+          By day Yahweh directs his love, at night his song is with me—a prayer to the God of my life.
+        </verse>
+        <verse osisID="Ps.42.10">
+          I say to God my Rock, "Why have you forgotten me? Why must I go about mourning, oppressed by the enemy?"
+        </verse>
+        <verse osisID="Ps.42.11">
+          My bones suffer mortal agony as my foes taunt me, saying to me all day long, "Where is your God?"
+        </verse>
+        <verse osisID="Ps.42.12">
+          Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.43">
+        <title>A Prayer for Vindication</title>
+        <verse osisID="Ps.43.1">
+          Vindicate me, my God, and plead my cause against an unfaithful nation. Rescue me from those who are deceitful and wicked.
+        </verse>
+        <verse osisID="Ps.43.2">
+          You are God my stronghold. Why have you rejected me? Why must I go about mourning, oppressed by the enemy?
+        </verse>
+        <verse osisID="Ps.43.3">
+          Send me your light and your faithful care, let them lead me; let them bring me to your mountain set apart for God, to the place where you dwell.
+        </verse>
+        <verse osisID="Ps.43.4">
+          Then I will go to the altar of God, to God, my joy and my delight. I will praise you with the lyre, O God, my God.
+        </verse>
+        <verse osisID="Ps.43.5">
+          Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.44">
+        <title>For the director of music. Of the Sons of Korah. A maskil.</title>
+        <verse osisID="Ps.44.1">
+          For the director of music. Of the Sons of Korah. A maskil.
+        </verse>
+        <verse osisID="Ps.44.2">
+          We have heard it with our ears, O God; our ancestors have told us what you did in their days, in days long ago.
+        </verse>
+        <verse osisID="Ps.44.3">
+          With your hand you drove out the nations and planted our ancestors; you crushed the peoples and made our ancestors flourish.
+        </verse>
+        <verse osisID="Ps.44.4">
+          It was not by their sword that they won the land, nor did their arm bring them victory; it was your right hand, your arm, and the light of your face, for you loved them.
+        </verse>
+        <verse osisID="Ps.44.5">
+          You are my King and my God, who decrees victories for Jacob.
+        </verse>
+        <verse osisID="Ps.44.6">
+          Through you we push back our enemies; through your name we trample our foes.
+        </verse>
+        <verse osisID="Ps.44.7">
+          I put no trust in my bow, my sword does not bring me victory;
+        </verse>
+        <verse osisID="Ps.44.8">
+          but you give us victory over our enemies, you put our adversaries to shame.
+        </verse>
+        <verse osisID="Ps.44.9">
+          In God we make our boast all day long, and we will praise your name forever.
+        </verse>
+        <verse osisID="Ps.44.10">
+          But now you have rejected and humbled us; you no longer go out with our armies.
+        </verse>
+        <verse osisID="Ps.44.11">
+          You made us retreat before the enemy, and our adversaries have plundered us.
+        </verse>
+        <verse osisID="Ps.44.12">
+          You gave us up to be devoured like sheep and have scattered us among the nations.
+        </verse>
+        <verse osisID="Ps.44.13">
+          You sold your people for a pittance, gaining nothing from their sale.
+        </verse>
+        <verse osisID="Ps.44.14">
+          You have made us a reproach to our neighbors, the scorn and derision of those around us.
+        </verse>
+        <verse osisID="Ps.44.15">
+          You have made us a byword among the nations; the peoples shake their heads at us.
+        </verse>
+        <verse osisID="Ps.44.16">
+          I live in disgrace all day long, and my face is covered with shame
+        </verse>
+        <verse osisID="Ps.44.17">
+          at the taunts of those who reproach and revile me, because of the enemy, who is bent on revenge.
+        </verse>
+        <verse osisID="Ps.44.18">
+          All this came upon us, though we had not forgotten you; we had not been false to your covenant.
+        </verse>
+        <verse osisID="Ps.44.19">
+          Our hearts had not turned back; our feet had not strayed from your path.
+        </verse>
+        <verse osisID="Ps.44.20">
+          But you crushed us and made us a haunt for jackals; you covered us over with deep darkness.
+        </verse>
+        <verse osisID="Ps.44.21">
+          If we had forgotten the name of our God or spread out our hands to a foreign god,
+        </verse>
+        <verse osisID="Ps.44.22">
+          would not God have discovered it, since he knows the secrets of the heart?
+        </verse>
+        <verse osisID="Ps.44.23">
+          Yet for your sake we face death all day long; we are considered as sheep to be slaughtered.
+        </verse>
+        <verse osisID="Ps.44.24">
+          Awake, Lord! Why do you sleep? Rouse yourself! Do not reject us forever.
+        </verse>
+        <verse osisID="Ps.44.25">
+          Why do you hide your face and forget our misery and oppression?
+        </verse>
+        <verse osisID="Ps.44.26">
+          We are brought down to the dust; our bodies cling to the ground.
+        </verse>
+        <verse osisID="Ps.44.27">
+          Rise up and help us; rescue us because of your unfailing love.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.45">
+        <title>For the director of music. To the tune of "Lilies." Of the Sons of Korah. A maskil. A wedding song.</title>
+        <verse osisID="Ps.45.1">
+          For the director of music. To the tune of "Lilies." Of the Sons of Korah. A maskil. A wedding song.
+        </verse>
+        <verse osisID="Ps.45.2">
+          My heart is stirred by a noble theme as I recite my verses for the king; my tongue is the pen of a skillful writer.
+        </verse>
+        <verse osisID="Ps.45.3">
+          You are the most excellent of men and your lips have been anointed with grace, since God has blessed you forever.
+        </verse>
+        <verse osisID="Ps.45.4">
+          Gird your sword on your side, you mighty one; clothe yourself with splendor and majesty.
+        </verse>
+        <verse osisID="Ps.45.5">
+          In your majesty ride forth victoriously in the cause of truth, humility and what's right; let your right hand achieve awesome deeds.
+        </verse>
+        <verse osisID="Ps.45.6">
+          Let your sharp arrows pierce the hearts of the king's enemies; let the nations fall beneath your feet.
+        </verse>
+        <verse osisID="Ps.45.7">
+          Your throne, O God, will last for ever and ever; a scepter of justice will be the scepter of your kingdom.
+        </verse>
+        <verse osisID="Ps.45.8">
+          You love what's right and hate wickedness; therefore God, your God, has set you above your companions by anointing you with the oil of joy.
+        </verse>
+        <verse osisID="Ps.45.9">
+          All your robes are fragrant with myrrh and aloes and cassia; from palaces adorned with ivory the music of the strings makes you glad.
+        </verse>
+        <verse osisID="Ps.45.10">
+          Daughters of kings are among your honored women; at your right hand is the royal bride in gold of Ophir.
+        </verse>
+        <verse osisID="Ps.45.11">
+          Listen, daughter, and pay careful attention: Forget your people and your father's house.
+        </verse>
+        <verse osisID="Ps.45.12">
+          Let the king be enthralled by your beauty; honor him, for he is your lord.
+        </verse>
+        <verse osisID="Ps.45.13">
+          The city of Tyre will come with a gift, people of wealth will seek your favor.
+        </verse>
+        <verse osisID="Ps.45.14">
+          All glorious is the princess within her chamber; her gown is interwoven with gold.
+        </verse>
+        <verse osisID="Ps.45.15">
+          In embroidered garments she is led to the king; her virgin companions follow her—those brought to be with her.
+        </verse>
+        <verse osisID="Ps.45.16">
+          Led in with joy and gladness, they enter the palace of the king.
+        </verse>
+        <verse osisID="Ps.45.17">
+          Your sons will take the place of your fathers; you will make them princes throughout the land.
+        </verse>
+        <verse osisID="Ps.45.18">
+          I will perpetuate your memory through all generations; therefore the nations will praise you for ever and ever.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.46">
+        <title>For the director of music. Of the Sons of Korah. According to alamoth. A song.</title>
+        <verse osisID="Ps.46.1">
+          For the director of music. Of the Sons of Korah. According to alamoth. A song.
+        </verse>
+        <verse osisID="Ps.46.2">
+          God is our refuge and strength, an ever-present help in trouble.
+        </verse>
+        <verse osisID="Ps.46.3">
+          Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea,
+        </verse>
+        <verse osisID="Ps.46.4">
+          though its waters roar and foam and the mountains quake with their surging.
+        </verse>
+        <verse osisID="Ps.46.5">
+          There is a river whose streams make glad the city of God, the place set apart for God where the Most High dwells.
+        </verse>
+        <verse osisID="Ps.46.6">
+          God is within her, she will not fall; God will help her at break of day.
+        </verse>
+        <verse osisID="Ps.46.7">
+          Nations are in uproar, kingdoms fall; he lifts his voice, the earth melts.
+        </verse>
+        <verse osisID="Ps.46.8">
+          Yahweh Almighty is with us; the God of Jacob is our fortress.
+        </verse>
+        <verse osisID="Ps.46.9">
+          Come and see what Yahweh has done, the desolations he has brought on the earth.
+        </verse>
+        <verse osisID="Ps.46.10">
+          He makes wars cease to the ends of the earth. He breaks the bow and shatters the spear; he burns the shields with fire.
+        </verse>
+        <verse osisID="Ps.46.11">
+          He says, "Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth."
+        </verse>
+        <verse osisID="Ps.46.12">
+          Yahweh Almighty is with us; the God of Jacob is our fortress.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.47">
+        <title>For the director of music. Of the Sons of Korah. A psalm.</title>
+        <verse osisID="Ps.47.1">
+          For the director of music. Of the Sons of Korah. A psalm.
+        </verse>
+        <verse osisID="Ps.47.2">
+          Clap your hands, all you nations; shout to God with cries of joy.
+        </verse>
+        <verse osisID="Ps.47.3">
+          For Yahweh Most High is awesome, the great King over all the earth.
+        </verse>
+        <verse osisID="Ps.47.4">
+          He subdued nations under us, peoples under our feet.
+        </verse>
+        <verse osisID="Ps.47.5">
+          He chose our inheritance for us, the pride of Jacob, whom he loved.
+        </verse>
+        <verse osisID="Ps.47.6">
+          God has ascended amid shouts of joy, Yahweh amid the sounding of trumpets.
+        </verse>
+        <verse osisID="Ps.47.7">
+          Sing praises to God, sing praises; sing praises to our King, sing praises.
+        </verse>
+        <verse osisID="Ps.47.8">
+          For God is the King of all the earth; sing to him a psalm of praise.
+        </verse>
+        <verse osisID="Ps.47.9">
+          God reigns over the nations; God is seated on his throne set apart for God.
+        </verse>
+        <verse osisID="Ps.47.10">
+          The nobles of the nations assemble as the people of the God of Abraham, for the kings of the earth belong to God; he is greatly exalted.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.48">
+        <title>A song. A psalm of the Sons of Korah.</title>
+        <verse osisID="Ps.48.1">
+          A song. A psalm of the Sons of Korah.
+        </verse>
+        <verse osisID="Ps.48.2">
+          Great is Yahweh, and most worthy of praise, in the city of our God, his mountain set apart for God.
+        </verse>
+        <verse osisID="Ps.48.3">
+          Beautiful in its loftiness, the joy of the whole earth, like the heights of Zaphon is Mount Zion, the city of the Great King.
+        </verse>
+        <verse osisID="Ps.48.4">
+          God is in her citadels; he has shown himself to be her fortress.
+        </verse>
+        <verse osisID="Ps.48.5">
+          When the kings joined forces, when they advanced together,
+        </verse>
+        <verse osisID="Ps.48.6">
+          they saw her and were astounded; they fled in terror.
+        </verse>
+        <verse osisID="Ps.48.7">
+          Trembling seized them there, pain like that of a woman in labor.
+        </verse>
+        <verse osisID="Ps.48.8">
+          You destroyed them like ships of Tarshish shattered by an east wind.
+        </verse>
+        <verse osisID="Ps.48.9">
+          As we have heard, so we have seen in the city of Yahweh Almighty, in the city of our God: God makes her secure forever.
+        </verse>
+        <verse osisID="Ps.48.10">
+          Within your temple, O God, we meditate on your unfailing love.
+        </verse>
+        <verse osisID="Ps.48.11">
+          Like your name, O God, your praise reaches to the ends of the earth; your right hand is filled with doing what's right.
+        </verse>
+        <verse osisID="Ps.48.12">
+          Mount Zion rejoices, the villages of Judah are glad because of your judgments.
+        </verse>
+        <verse osisID="Ps.48.13">
+          Walk about Zion, go around her, count her towers,
+        </verse>
+        <verse osisID="Ps.48.14">
+          consider well her ramparts, view her citadels, that you may tell of them to the next generation.
+        </verse>
+        <verse osisID="Ps.48.15">
+          For this God is our God for ever and ever; he will be our guide even to the end.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.49">
+        <title>For the director of music. Of the Sons of Korah. A psalm.</title>
+        <verse osisID="Ps.49.1">
+          For the director of music. Of the Sons of Korah. A psalm.
+        </verse>
+        <verse osisID="Ps.49.2">
+          Hear this, all you peoples; listen, all who live in this world,
+        </verse>
+        <verse osisID="Ps.49.3">
+          both low and high, rich and poor alike:
+        </verse>
+        <verse osisID="Ps.49.4">
+          My mouth will speak words of wisdom; the meditation of my heart will give you understanding.
+        </verse>
+        <verse osisID="Ps.49.5">
+          I will turn my ear to a proverb; with the harp I will expound my riddle:
+        </verse>
+        <verse osisID="Ps.49.6">
+          Why should I fear when evil days come, when wicked deceivers surround me—
+        </verse>
+        <verse osisID="Ps.49.7">
+          those who trust in their wealth and boast of their great riches?
+        </verse>
+        <verse osisID="Ps.49.8">
+          No one can redeem the life of another or give to God a ransom for them—
+        </verse>
+        <verse osisID="Ps.49.9">
+          the ransom for a life is costly, no payment is ever enough—
+        </verse>
+        <verse osisID="Ps.49.10">
+          so that they should live on forever and not see decay.
+        </verse>
+        <verse osisID="Ps.49.11">
+          For all can see that the wise die, that the foolish and the senseless also perish, leaving their wealth to others.
+        </verse>
+        <verse osisID="Ps.49.12">
+          Their tombs will remain their houses forever, their dwellings for endless generations, though they had named lands after themselves.
+        </verse>
+        <verse osisID="Ps.49.13">
+          People, despite their wealth, do not endure; they are like the beasts that perish.
+        </verse>
+        <verse osisID="Ps.49.14">
+          This is the fate of those who trust in themselves, and of their followers, who approve their sayings.
+        </verse>
+        <verse osisID="Ps.49.15">
+          They are like sheep and are destined to die; death will be their shepherd (but the upright will prevail over them in the morning). Their forms will decay in the grave, far from their princely mansions.
+        </verse>
+        <verse osisID="Ps.49.16">
+          But God will redeem me from the realm of the dead; he will surely take me to himself.
+        </verse>
+        <verse osisID="Ps.49.17">
+          Do not be overawed when others grow rich, when the splendor of their houses increases;
+        </verse>
+        <verse osisID="Ps.49.18">
+          for they will take nothing with them when they die, their splendor will not descend with them.
+        </verse>
+        <verse osisID="Ps.49.19">
+          Though while they live they count themselves fortunate—and people praise you when you prosper—
+        </verse>
+        <verse osisID="Ps.49.20">
+          they will join those who have gone before them, who will never again see the light of life.
+        </verse>
+        <verse osisID="Ps.49.21">
+          People who have wealth but lack understanding are like the beasts that perish.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.50">
+        <title>A psalm of Asaph.</title>
+        <verse osisID="Ps.50.1">
+          A psalm of Asaph.
+        </verse>
+        <verse osisID="Ps.50.2">
+          The Mighty One, God, Yahweh, speaks and summons the earth from the rising of the sun to where it sets.
+        </verse>
+        <verse osisID="Ps.50.3">
+          From Zion, perfect in beauty, God shines forth.
+        </verse>
+        <verse osisID="Ps.50.4">
+          Our God comes and will not be silent; a fire devours before him, and around him a tempest rages.
+        </verse>
+        <verse osisID="Ps.50.5">
+          He summons the heavens above, and the earth, that he may judge his people:
+        </verse>
+        <verse osisID="Ps.50.6">
+          "Gather to me those set apart for God, who made a covenant with me by sacrifice."
+        </verse>
+        <verse osisID="Ps.50.7">
+          And the heavens proclaim his doing what's right, for he is a God of justice.
+        </verse>
+        <verse osisID="Ps.50.8">
+          "Listen, my people, and I will speak; I will testify against you, Israel: I am God, your God.
+        </verse>
+        <verse osisID="Ps.50.9">
+          I bring no charges against you concerning your sacrifices or concerning your burnt offerings, which are ever before me.
+        </verse>
+        <verse osisID="Ps.50.10">
+          I have no need of a bull from your stall or of goats from your pens,
+        </verse>
+        <verse osisID="Ps.50.11">
+          for every animal of the forest is mine, and the cattle on a thousand hills.
+        </verse>
+        <verse osisID="Ps.50.12">
+          I know every bird in the mountains, and the insects in the fields are mine.
+        </verse>
+        <verse osisID="Ps.50.13">
+          If I were hungry I would not tell you, for the world is mine, and all that is in it.
+        </verse>
+        <verse osisID="Ps.50.14">
+          Do I eat the flesh of bulls or drink the blood of goats?
+        </verse>
+        <verse osisID="Ps.50.15">
+          Sacrifice thank offerings to God, fulfill your vows to the Most High,
+        </verse>
+        <verse osisID="Ps.50.16">
+          and call on me in the day of trouble; I will deliver you, and you will honor me."
+        </verse>
+        <verse osisID="Ps.50.17">
+          But to the wicked person, God says: "What right have you to recite my laws or take my covenant on your lips?
+        </verse>
+        <verse osisID="Ps.50.18">
+          You hate my instruction and cast my words behind you.
+        </verse>
+        <verse osisID="Ps.50.19">
+          When you see a thief, you join with him; you throw in your lot with adulterers.
+        </verse>
+        <verse osisID="Ps.50.20">
+          You use your mouth for evil and harness your tongue to deceit.
+        </verse>
+        <verse osisID="Ps.50.21">
+          You sit and testify against your brother and slander your own mother's son.
+        </verse>
+        <verse osisID="Ps.50.22">
+          When you did these things and I kept silent, you thought I was exactly like you. But I now arraign you and set my accusations before you.
+        </verse>
+        <verse osisID="Ps.50.23">
+          Consider this, you who forget God, or I will tear you to pieces, with no one to rescue you:
+        </verse>
+        <verse osisID="Ps.50.24">
+          Those who sacrifice thank offerings honor me, and to the blameless I will show my salvation."
         </verse>
       </div>
     </div>
