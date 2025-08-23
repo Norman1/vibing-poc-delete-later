@@ -345,23 +345,24 @@
         };
 
         function processVerseContent(verseElement) {
-            let html = '';
+            let verseText = '';
+            let notes = '';
             
             // Process all child nodes (text and elements)
             for (let node of verseElement.childNodes) {
                 if (node.nodeType === Node.TEXT_NODE) {
                     // Add text content
-                    html += node.textContent;
+                    verseText += node.textContent;
                 } else if (node.nodeType === Node.ELEMENT_NODE && node.nodeName === 'note') {
-                    // Add note with proper styling
-                    html += `<span class="note">${node.textContent}</span>`;
+                    // Collect notes to add after verse text
+                    notes += `<div class="note">${node.textContent}</div>`;
                 } else if (node.nodeType === Node.ELEMENT_NODE) {
                     // Handle other elements by including their text content
-                    html += node.textContent;
+                    verseText += node.textContent;
                 }
             }
             
-            return html;
+            return verseText + notes;
         }
 
         async function loadBook() {
