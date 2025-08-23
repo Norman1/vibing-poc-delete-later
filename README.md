@@ -1,4 +1,4 @@
-\# Vibe Bible Translation
+\# Plain Meaning Bible
 
 
 

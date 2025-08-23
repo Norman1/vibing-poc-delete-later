@@ -6,7 +6,7 @@
   <osisText osisIDWork="VBT" osisRefWork="bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
-        <title>Vibe Bible Translation</title>
+        <title>Plain Meaning Bible</title>
         <type type="OSIS">Bible</type>
         <identifier type="OSIS">Bible.VBT</identifier>
         <rights type="x-copyright">Public Domain</rights>

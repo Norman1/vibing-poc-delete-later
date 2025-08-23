@@ -4,10 +4,10 @@
     <header>
       <revisionDesc resp="Claude">
         <date>2025-08-22</date>
-        <p>Vibe Bible Translation - Genesis Chapter 1</p>
+        <p>Plain Meaning Bible - Genesis Chapter 1</p>
       </revisionDesc>
       <work osisWork="VBT">
-        <title>Vibe Bible Translation</title>
+        <title>Plain Meaning Bible</title>
         <identifier type="OSIS">Bible.VBT</identifier>
         <refSystem>Bible</refSystem>
         <rights>Public Domain</rights>
