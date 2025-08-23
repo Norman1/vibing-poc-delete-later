@@ -10,7 +10,7 @@
         <type type="OSIS">Bible</type>
         <identifier type="OSIS">Bible.VBT</identifier>
         <rights type="x-copyright">Public Domain</rights>
-        <scope>Psalms 1-75</scope>
+        <scope>Psalms 1-100</scope>
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -3102,6 +3102,1456 @@
         </verse>
         <verse osisID="Ps.75.11">
           All the horns of the wicked I will cut off, but the horns of the righteous shall be lifted up.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.76">
+        <title>For the director of music. With stringed instruments. A psalm of Asaph. A song.</title>
+        <verse osisID="Ps.76.1">
+          For the director of music. With stringed instruments. A psalm of Asaph. A song.
+        </verse>
+        <verse osisID="Ps.76.2">
+          God is known in Judah; his name is great in Israel.
+        </verse>
+        <verse osisID="Ps.76.3">
+          His tent is in Salem, his dwelling place in Zion.
+        </verse>
+        <verse osisID="Ps.76.4">
+          There he broke the flashing arrows, the shields and the swords, the weapons of war.
+        </verse>
+        <verse osisID="Ps.76.5">
+          You are radiant with light, more majestic than mountains rich with game.
+        </verse>
+        <verse osisID="Ps.76.6">
+          The valiant lie plundered, they sleep their last sleep; not one of the warriors can lift his hands.
+        </verse>
+        <verse osisID="Ps.76.7">
+          At your rebuke, God of Jacob, both horse and chariot lie still.
+        </verse>
+        <verse osisID="Ps.76.8">
+          It is you alone who are to be feared. Who can stand before you when you are angry?
+        </verse>
+        <verse osisID="Ps.76.9">
+          From heaven you pronounced judgment, and the land feared and was quiet—
+        </verse>
+        <verse osisID="Ps.76.10">
+          when you, God, rose up to judge, to save all the afflicted of the land.
+        </verse>
+        <verse osisID="Ps.76.11">
+          Surely your wrath against mankind brings you praise, and the survivors of your wrath are restrained.
+        </verse>
+        <verse osisID="Ps.76.12">
+          Make vows to Yahweh your God and fulfill them; let all the neighboring lands bring gifts to the One to be feared.
+        </verse>
+        <verse osisID="Ps.76.13">
+          He breaks the spirit of rulers; he is feared by the kings of the earth.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.77">
+        <title>For the director of music. For Jeduthun. Of Asaph. A psalm.</title>
+        <verse osisID="Ps.77.1">
+          For the director of music. For Jeduthun. Of Asaph. A psalm.
+        </verse>
+        <verse osisID="Ps.77.2">
+          I cried out to God for help; I cried out to God to hear me.
+        </verse>
+        <verse osisID="Ps.77.3">
+          When I was in distress, I sought the Lord; at night I stretched out untiring hands, and I would not be comforted.
+        </verse>
+        <verse osisID="Ps.77.4">
+          I remembered you, God, and I groaned; I meditated, and my spirit grew faint.
+        </verse>
+        <verse osisID="Ps.77.5">
+          You kept my eyes from closing; I was too troubled to speak.
+        </verse>
+        <verse osisID="Ps.77.6">
+          I thought about the former days, the years of long ago;
+        </verse>
+        <verse osisID="Ps.77.7">
+          I remembered my songs in the night. My heart meditated and my spirit asked:
+        </verse>
+        <verse osisID="Ps.77.8">
+          "Will the Lord reject forever? Will he never show his favor again?
+        </verse>
+        <verse osisID="Ps.77.9">
+          Has his unfailing love vanished forever? Has his promise failed for all time?
+        </verse>
+        <verse osisID="Ps.77.10">
+          Has God forgotten to be merciful? Has he in anger withheld his compassion?"
+        </verse>
+        <verse osisID="Ps.77.11">
+          Then I thought, "To this I will appeal: the years when the Most High stretched out his right hand.
+        </verse>
+        <verse osisID="Ps.77.12">
+          I will remember the deeds of Yahweh; yes, I will remember your miracles of long ago.
+        </verse>
+        <verse osisID="Ps.77.13">
+          I will consider all your works and meditate on all your mighty deeds."
+        </verse>
+        <verse osisID="Ps.77.14">
+          Your ways, God, are set apart for God. What god is as great as our God?
+        </verse>
+        <verse osisID="Ps.77.15">
+          You are the God who performs miracles; you display your power among the peoples.
+        </verse>
+        <verse osisID="Ps.77.16">
+          With your mighty arm you redeemed your people, the descendants of Jacob and Joseph.
+        </verse>
+        <verse osisID="Ps.77.17">
+          The waters saw you, God, the waters saw you and writhed; the very depths were convulsed.
+        </verse>
+        <verse osisID="Ps.77.18">
+          The clouds poured down water, the heavens resounded with thunder; your arrows flashed back and forth.
+        </verse>
+        <verse osisID="Ps.77.19">
+          Your thunder was heard in the whirlwind, your lightning lit up the world; the earth trembled and quaked.
+        </verse>
+        <verse osisID="Ps.77.20">
+          Your path led through the sea, your way through the mighty waters, though your footprints were not seen.
+        </verse>
+        <verse osisID="Ps.77.21">
+          You led your people like a flock by the hand of Moses and Aaron.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.78">
+        <title>A maskil of Asaph.</title>
+        <verse osisID="Ps.78.1">
+          A maskil of Asaph.
+        </verse>
+        <verse osisID="Ps.78.2">
+          My people, hear my teaching; listen to the words of my mouth.
+        </verse>
+        <verse osisID="Ps.78.3">
+          I will open my mouth with a parable; I will utter hidden things, things from of old—
+        </verse>
+        <verse osisID="Ps.78.4">
+          things we have heard and known, things our ancestors have told us.
+        </verse>
+        <verse osisID="Ps.78.5">
+          We will not hide them from their descendants; we will tell the next generation the praiseworthy deeds of Yahweh, his power, and the wonders he has done.
+        </verse>
+        <verse osisID="Ps.78.6">
+          He decreed statutes for Jacob and established the law in Israel, which he commanded our ancestors to teach their children,
+        </verse>
+        <verse osisID="Ps.78.7">
+          so the next generation would know them, even the children yet to be born, and they in turn would tell their children.
+        </verse>
+        <verse osisID="Ps.78.8">
+          Then they would put their trust in God and would not forget his deeds but would keep his commands.
+        </verse>
+        <verse osisID="Ps.78.9">
+          They would not be like their ancestors—a stubborn and rebellious generation, whose hearts were not loyal to God, whose spirits were not faithful to him.
+        </verse>
+        <verse osisID="Ps.78.10">
+          The men of Ephraim, though armed with bows, turned back on the day of battle;
+        </verse>
+        <verse osisID="Ps.78.11">
+          they did not keep God's covenant and refused to live by his law.
+        </verse>
+        <verse osisID="Ps.78.12">
+          They forgot what he had done, the wonders he had shown them.
+        </verse>
+        <verse osisID="Ps.78.13">
+          He did miracles in the sight of their ancestors in the land of Egypt, in the region of Zoan.
+        </verse>
+        <verse osisID="Ps.78.14">
+          He divided the sea and led them through; he made the water stand up like a wall.
+        </verse>
+        <verse osisID="Ps.78.15">
+          He guided them with the cloud by day and with light from the fire all night.
+        </verse>
+        <verse osisID="Ps.78.16">
+          He split the rocks in the wilderness and gave them water as abundant as the seas;
+        </verse>
+        <verse osisID="Ps.78.17">
+          he brought streams out of a rocky crag and made water flow down like rivers.
+        </verse>
+        <verse osisID="Ps.78.18">
+          But they continued to sin against him, rebelling in the wilderness against the Most High.
+        </verse>
+        <verse osisID="Ps.78.19">
+          They willfully put God to the test by demanding the food they craved.
+        </verse>
+        <verse osisID="Ps.78.20">
+          They spoke against God; they said, "Can God really spread a table in the wilderness?
+        </verse>
+        <verse osisID="Ps.78.21">
+          True, he struck the rock, and water gushed out, streams flowed abundantly. But can he also give us bread? Can he supply meat for his people?"
+        </verse>
+        <verse osisID="Ps.78.22">
+          When Yahweh heard them, he was furious; his fire broke out against Jacob, and his wrath rose against Israel,
+        </verse>
+        <verse osisID="Ps.78.23">
+          for they did not believe in God or trust in his deliverance.
+        </verse>
+        <verse osisID="Ps.78.24">
+          Yet he gave a command to the skies above and opened the doors of the heavens;
+        </verse>
+        <verse osisID="Ps.78.25">
+          he rained down manna for the people to eat, he gave them the grain of heaven.
+        </verse>
+        <verse osisID="Ps.78.26">
+          Human beings ate the bread of angels; he sent them all the food they could eat.
+        </verse>
+        <verse osisID="Ps.78.27">
+          He let loose the east wind from the heavens and by his power made the south wind blow.
+        </verse>
+        <verse osisID="Ps.78.28">
+          He rained meat down on them like dust, birds like sand on the seashore.
+        </verse>
+        <verse osisID="Ps.78.29">
+          He made them come down inside their camp, all around their tents.
+        </verse>
+        <verse osisID="Ps.78.30">
+          They ate till they were gorged—he had given them what they craved.
+        </verse>
+        <verse osisID="Ps.78.31">
+          But before they turned from what they craved, even while the food was still in their mouths,
+        </verse>
+        <verse osisID="Ps.78.32">
+          God's anger rose against them; he put to death the sturdiest among them, cutting down the young men of Israel.
+        </verse>
+        <verse osisID="Ps.78.33">
+          In spite of all this, they kept on sinning; in spite of his wonders, they did not believe.
+        </verse>
+        <verse osisID="Ps.78.34">
+          So he ended their days in futility and their years in terror.
+        </verse>
+        <verse osisID="Ps.78.35">
+          Whenever God slew them, they would seek him; they eagerly turned to him again.
+        </verse>
+        <verse osisID="Ps.78.36">
+          They remembered that God was their Rock, that God Most High was their Redeemer.
+        </verse>
+        <verse osisID="Ps.78.37">
+          But then they would flatter him with their mouths, lying to him with their tongues;
+        </verse>
+        <verse osisID="Ps.78.38">
+          their hearts were not loyal to him, they were not faithful to his covenant.
+        </verse>
+        <verse osisID="Ps.78.39">
+          Yet he was merciful; he forgave their twisted wrongness and did not destroy them. Time after time he restrained his anger and did not stir up his full wrath.
+        </verse>
+        <verse osisID="Ps.78.40">
+          He remembered that they were but flesh, a passing breeze that does not return.
+        </verse>
+        <verse osisID="Ps.78.41">
+          How often they rebelled against him in the wilderness and grieved him in the wasteland!
+        </verse>
+        <verse osisID="Ps.78.42">
+          Again and again they put God to the test; they vexed the One Set Apart for God of Israel.
+        </verse>
+        <verse osisID="Ps.78.43">
+          They did not remember his power—the day he redeemed them from the oppressor,
+        </verse>
+        <verse osisID="Ps.78.44">
+          the day he displayed his signs in Egypt, his wonders in the region of Zoan.
+        </verse>
+        <verse osisID="Ps.78.45">
+          He turned their river into blood; they could not drink from their streams.
+        </verse>
+        <verse osisID="Ps.78.46">
+          He sent swarms of flies that devoured them, and frogs that devastated them.
+        </verse>
+        <verse osisID="Ps.78.47">
+          He gave their crops to the grasshopper, their produce to the locust.
+        </verse>
+        <verse osisID="Ps.78.48">
+          He destroyed their vines with hail and their sycamore-figs with sleet.
+        </verse>
+        <verse osisID="Ps.78.49">
+          He gave over their cattle to the hail, their livestock to bolts of lightning.
+        </verse>
+        <verse osisID="Ps.78.50">
+          He unleashed against them his hot anger, his wrath, indignation and hostility—a band of destroying angels.
+        </verse>
+        <verse osisID="Ps.78.51">
+          He prepared a path for his anger; he did not spare them from death but gave them over to the plague.
+        </verse>
+        <verse osisID="Ps.78.52">
+          He struck down all the firstborn of Egypt, the firstfruits of manhood in the tents of Ham.
+        </verse>
+        <verse osisID="Ps.78.53">
+          But he brought his people out like a flock; he led them like sheep through the wilderness.
+        </verse>
+        <verse osisID="Ps.78.54">
+          He guided them safely, so they were unafraid; but the sea engulfed their enemies.
+        </verse>
+        <verse osisID="Ps.78.55">
+          And so he brought them to the border of his set apart land, to the hill country his right hand had taken.
+        </verse>
+        <verse osisID="Ps.78.56">
+          He drove out nations before them and allotted their lands to them as an inheritance; he settled the tribes of Israel in their homes.
+        </verse>
+        <verse osisID="Ps.78.57">
+          But they put God to the test and rebelled against the Most High; they did not keep his statutes.
+        </verse>
+        <verse osisID="Ps.78.58">
+          Like their ancestors they were disloyal and faithless, as unreliable as a faulty bow.
+        </verse>
+        <verse osisID="Ps.78.59">
+          They angered him with their high places; they aroused his jealousy with their idols.
+        </verse>
+        <verse osisID="Ps.78.60">
+          When God heard them, he was furious; he rejected Israel completely.
+        </verse>
+        <verse osisID="Ps.78.61">
+          He abandoned the tabernacle of Shiloh, the tent he had set up among humans.
+        </verse>
+        <verse osisID="Ps.78.62">
+          He sent the ark of his might into captivity, his splendor into the hands of the enemy.
+        </verse>
+        <verse osisID="Ps.78.63">
+          He gave his people over to the sword; he was furious with his inheritance.
+        </verse>
+        <verse osisID="Ps.78.64">
+          Fire consumed their young men, and their young women had no wedding songs;
+        </verse>
+        <verse osisID="Ps.78.65">
+          their priests were put to the sword, and their widows could not weep.
+        </verse>
+        <verse osisID="Ps.78.66">
+          Then the Lord awoke as from sleep, as a warrior wakes from the stupor of wine.
+        </verse>
+        <verse osisID="Ps.78.67">
+          He beat back his enemies; he put them to everlasting shame.
+        </verse>
+        <verse osisID="Ps.78.68">
+          Then he rejected the tents of Joseph, he did not choose the tribe of Ephraim;
+        </verse>
+        <verse osisID="Ps.78.69">
+          but he chose the tribe of Judah, Mount Zion, which he loved.
+        </verse>
+        <verse osisID="Ps.78.70">
+          He built his sanctuary like the heights, like the earth that he established forever.
+        </verse>
+        <verse osisID="Ps.78.71">
+          He chose David his servant and took him from the sheep pens;
+        </verse>
+        <verse osisID="Ps.78.72">
+          from tending the sheep he brought him to be the shepherd of his people Jacob, of Israel his inheritance.
+        </verse>
+        <verse osisID="Ps.78.73">
+          And David shepherded them with integrity of heart; with skillful hands he led them.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.79">
+        <title>A psalm of Asaph.</title>
+        <verse osisID="Ps.79.1">
+          A psalm of Asaph.
+        </verse>
+        <verse osisID="Ps.79.2">
+          God, the nations have invaded your inheritance; they have defiled your temple set apart for God, they have reduced Jerusalem to rubble.
+        </verse>
+        <verse osisID="Ps.79.3">
+          They have left the dead bodies of your servants as food for the birds of the sky, the flesh of your own people for the animals of the wild.
+        </verse>
+        <verse osisID="Ps.79.4">
+          They have poured out blood like water all around Jerusalem, and there is no one to bury the dead.
+        </verse>
+        <verse osisID="Ps.79.5">
+          We are objects of contempt to our neighbors, of scorn and derision to those around us.
+        </verse>
+        <verse osisID="Ps.79.6">
+          How long, Yahweh? Will you be angry forever? How long will your jealousy burn like fire?
+        </verse>
+        <verse osisID="Ps.79.7">
+          Pour out your wrath on the nations that do not acknowledge you, on the kingdoms that do not call on your name;
+        </verse>
+        <verse osisID="Ps.79.8">
+          for they have devoured Jacob and devastated his homeland.
+        </verse>
+        <verse osisID="Ps.79.9">
+          Do not hold against us the sins of past generations; may your mercy come quickly to meet us, for we are in desperate need.
+        </verse>
+        <verse osisID="Ps.79.10">
+          Help us, God our Savior, for the glory of your name; deliver us and forgive our sins for your name's sake.
+        </verse>
+        <verse osisID="Ps.79.11">
+          Why should the nations say, "Where is their God?" Before our eyes, make known among the nations that you avenge the outpoured blood of your servants.
+        </verse>
+        <verse osisID="Ps.79.12">
+          May the groans of the prisoners come before you; with your strong arm preserve those condemned to die.
+        </verse>
+        <verse osisID="Ps.79.13">
+          Pay back into the laps of our neighbors seven times the contempt they have hurled at you, Lord.
+        </verse>
+        <verse osisID="Ps.79.14">
+          Then we your people, the sheep of your pasture, will praise you forever; from generation to generation we will proclaim your praise.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.80">
+        <title>For the director of music. To the tune of "The Lilies of the Covenant." Of Asaph. A psalm.</title>
+        <verse osisID="Ps.80.1">
+          For the director of music. To the tune of "The Lilies of the Covenant." Of Asaph. A psalm.
+        </verse>
+        <verse osisID="Ps.80.2">
+          Hear us, Shepherd of Israel, you who lead Joseph like a flock. You who sit enthroned between the cherubim, shine forth
+        </verse>
+        <verse osisID="Ps.80.3">
+          before Ephraim, Benjamin and Manasseh. Awaken your might; come and save us.
+        </verse>
+        <verse osisID="Ps.80.4">
+          Restore us, God; make your face shine on us, that we may be saved.
+        </verse>
+        <verse osisID="Ps.80.5">
+          How long, Yahweh God Almighty, will your anger smolder against the prayers of your people?
+        </verse>
+        <verse osisID="Ps.80.6">
+          You have fed them with the bread of tears; you have made them drink tears by the bowlful.
+        </verse>
+        <verse osisID="Ps.80.7">
+          You have made us an object of derision to our neighbors, and our enemies mock us.
+        </verse>
+        <verse osisID="Ps.80.8">
+          Restore us, God Almighty; make your face shine on us, that we may be saved.
+        </verse>
+        <verse osisID="Ps.80.9">
+          You transplanted a vine from Egypt; you drove out the nations and planted it.
+        </verse>
+        <verse osisID="Ps.80.10">
+          You cleared the ground for it, and it took root and filled the land.
+        </verse>
+        <verse osisID="Ps.80.11">
+          The mountains were covered with its shade, the mighty cedars with its branches.
+        </verse>
+        <verse osisID="Ps.80.12">
+          Its branches reached as far as the Sea, its shoots as far as the River.
+        </verse>
+        <verse osisID="Ps.80.13">
+          Why have you broken down its walls so that all who pass by pick its grapes?
+        </verse>
+        <verse osisID="Ps.80.14">
+          Boars from the forest ravage it, and insects from the fields feed on it.
+        </verse>
+        <verse osisID="Ps.80.15">
+          Return to us, God Almighty! Look down from heaven and see! Watch over this vine,
+        </verse>
+        <verse osisID="Ps.80.16">
+          the root your right hand has planted, the son you have raised up for yourself.
+        </verse>
+        <verse osisID="Ps.80.17">
+          Your vine is cut down, it is burned with fire; at your rebuke your people perish.
+        </verse>
+        <verse osisID="Ps.80.18">
+          Let your hand rest on the man at your right hand, the son of man you have raised up for yourself.
+        </verse>
+        <verse osisID="Ps.80.19">
+          Then we will not turn away from you; revive us, and we will call on your name.
+        </verse>
+        <verse osisID="Ps.80.20">
+          Restore us, Yahweh God Almighty; make your face shine on us, that we may be saved.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.81">
+        <title>For the director of music. According to gittith. Of Asaph.</title>
+        <verse osisID="Ps.81.1">
+          For the director of music. According to gittith. Of Asaph.
+        </verse>
+        <verse osisID="Ps.81.2">
+          Sing for joy to God our strength; shout aloud to the God of Jacob!
+        </verse>
+        <verse osisID="Ps.81.3">
+          Begin the music, strike the timbrel, play the melodious harp and lyre.
+        </verse>
+        <verse osisID="Ps.81.4">
+          Sound the ram's horn at the New Moon, and when the moon is full, on the day of our festival;
+        </verse>
+        <verse osisID="Ps.81.5">
+          this is a decree for Israel, an ordinance of the God of Jacob.
+        </verse>
+        <verse osisID="Ps.81.6">
+          When God went out against Egypt, he established it as a statute for Joseph. I heard an unknown voice say:
+        </verse>
+        <verse osisID="Ps.81.7">
+          "I removed the burden from their shoulders; their hands were set free from the basket.
+        </verse>
+        <verse osisID="Ps.81.8">
+          In your distress you called and I rescued you, I answered you out of a thundercloud; I tested you at the waters of Meribah.
+        </verse>
+        <verse osisID="Ps.81.9">
+          Hear me, my people, and I will warn you—if you would only listen to me, Israel!
+        </verse>
+        <verse osisID="Ps.81.10">
+          You shall have no foreign god among you; you shall not worship any god other than me.
+        </verse>
+        <verse osisID="Ps.81.11">
+          I am Yahweh your God, who brought you up out of Egypt. Open wide your mouth and I will fill it.
+        </verse>
+        <verse osisID="Ps.81.12">
+          "But my people would not listen to me; Israel would not submit to me.
+        </verse>
+        <verse osisID="Ps.81.13">
+          So I gave them over to their stubborn hearts to follow their own devices.
+        </verse>
+        <verse osisID="Ps.81.14">
+          "If my people would only listen to me, if Israel would only follow my ways,
+        </verse>
+        <verse osisID="Ps.81.15">
+          how quickly I would subdue their enemies and turn my hand against their foes!
+        </verse>
+        <verse osisID="Ps.81.16">
+          Those who hate Yahweh would cringe before him, and their punishment would last forever.
+        </verse>
+        <verse osisID="Ps.81.17">
+          But you would be fed with the finest of wheat; with honey from the rock I would satisfy you."
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.82">
+        <title>A psalm of Asaph.</title>
+        <verse osisID="Ps.82.1">
+          A psalm of Asaph.
+        </verse>
+        <verse osisID="Ps.82.2">
+          God presides in the great assembly; he renders judgment among the "gods":
+        </verse>
+        <verse osisID="Ps.82.3">
+          "How long will you defend the unjust and show partiality to the wicked?
+        </verse>
+        <verse osisID="Ps.82.4">
+          Defend the weak and the fatherless; uphold the cause of the poor and the oppressed.
+        </verse>
+        <verse osisID="Ps.82.5">
+          Rescue the weak and the needy; deliver them from the hand of the wicked.
+        </verse>
+        <verse osisID="Ps.82.6">
+          "The 'gods' know nothing, they understand nothing. They walk about in darkness; all the foundations of the earth are shaken.
+        </verse>
+        <verse osisID="Ps.82.7">
+          "I said, 'You are "gods"; you are all sons of the Most High.'
+        </verse>
+        <verse osisID="Ps.82.8">
+          But you will die like mere mortals; you will fall like every other ruler."
+        </verse>
+        <verse osisID="Ps.82.9">
+          Rise up, O God, judge the earth, for all the nations are your inheritance.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.83">
+        <title>A song. A psalm of Asaph.</title>
+        <verse osisID="Ps.83.1">
+          A song. A psalm of Asaph.
+        </verse>
+        <verse osisID="Ps.83.2">
+          O God, do not remain silent; do not turn a deaf ear, do not stand aloof, O God.
+        </verse>
+        <verse osisID="Ps.83.3">
+          See how your enemies growl, how your foes rear their heads.
+        </verse>
+        <verse osisID="Ps.83.4">
+          With cunning they conspire against your people; they plot against those you cherish.
+        </verse>
+        <verse osisID="Ps.83.5">
+          "Come," they say, "let us destroy them as a nation, so that Israel's name is remembered no more."
+        </verse>
+        <verse osisID="Ps.83.6">
+          With one mind they plot together; they form an alliance against you—
+        </verse>
+        <verse osisID="Ps.83.7">
+          the tents of Edom and the Ishmaelites, of Moab and the Hagrites,
+        </verse>
+        <verse osisID="Ps.83.8">
+          Byblos, Ammon and Amalek, Philistia, with the people of Tyre.
+        </verse>
+        <verse osisID="Ps.83.9">
+          Even Assyria has joined them to reinforce Lot's descendants.
+        </verse>
+        <verse osisID="Ps.83.10">
+          Do to them as you did to Midian, as you did to Sisera and Jabin at the river Kishon,
+        </verse>
+        <verse osisID="Ps.83.11">
+          who perished at Endor and became like dung on the ground.
+        </verse>
+        <verse osisID="Ps.83.12">
+          Make their nobles like Oreb and Zeeb, all their princes like Zebah and Zalmunna,
+        </verse>
+        <verse osisID="Ps.83.13">
+          who said, "Let us take possession of the pasturelands of God."
+        </verse>
+        <verse osisID="Ps.83.14">
+          Make them like tumbleweed, my God, like chaff before the wind.
+        </verse>
+        <verse osisID="Ps.83.15">
+          As fire consumes the forest or a flame sets the mountains ablaze,
+        </verse>
+        <verse osisID="Ps.83.16">
+          so pursue them with your tempest and terrify them with your storm.
+        </verse>
+        <verse osisID="Ps.83.17">
+          Cover their faces with shame, Yahweh, so that they will seek your name.
+        </verse>
+        <verse osisID="Ps.83.18">
+          May they ever be ashamed and dismayed; may they perish in disgrace.
+        </verse>
+        <verse osisID="Ps.83.19">
+          Let them know that you, whose name is Yahweh—that you alone are the Most High over all the earth.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.84">
+        <title>For the director of music. According to gittith. Of the Sons of Korah. A psalm.</title>
+        <verse osisID="Ps.84.1">
+          For the director of music. According to gittith. Of the Sons of Korah. A psalm.
+        </verse>
+        <verse osisID="Ps.84.2">
+          How lovely is your dwelling place, Yahweh Almighty!
+        </verse>
+        <verse osisID="Ps.84.3">
+          My soul yearns, even faints, for the courts of Yahweh; my heart and my flesh cry out for the living God.
+        </verse>
+        <verse osisID="Ps.84.4">
+          Even the sparrow has found a home, and the swallow a nest for herself, where she may have her young—a place near your altar, Yahweh Almighty, my King and my God.
+        </verse>
+        <verse osisID="Ps.84.5">
+          Deeply happy are those who dwell in your house; they are ever praising you.
+        </verse>
+        <verse osisID="Ps.84.6">
+          Deeply happy are those whose strength is in you, whose hearts are set on pilgrimage.
+        </verse>
+        <verse osisID="Ps.84.7">
+          As they pass through the Valley of Baka, they make it a place of springs; the autumn rains also cover it with pools.
+        </verse>
+        <verse osisID="Ps.84.8">
+          They go from strength to strength, till each appears before God in Zion.
+        </verse>
+        <verse osisID="Ps.84.9">
+          Hear my prayer, Yahweh God Almighty; listen to me, God of Jacob.
+        </verse>
+        <verse osisID="Ps.84.10">
+          Look on our shield, O God; look with favor on your anointed one.
+        </verse>
+        <verse osisID="Ps.84.11">
+          Better is one day in your courts than a thousand elsewhere; I would rather be a doorkeeper in the house of my God than dwell in the tents of the wicked.
+        </verse>
+        <verse osisID="Ps.84.12">
+          For Yahweh God is a sun and shield; Yahweh bestows favor and honor; no good thing does he withhold from those whose walk is blameless.
+        </verse>
+        <verse osisID="Ps.84.13">
+          Yahweh Almighty, deeply happy is the one who trusts in you.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.85">
+        <title>For the director of music. Of the Sons of Korah. A psalm.</title>
+        <verse osisID="Ps.85.1">
+          For the director of music. Of the Sons of Korah. A psalm.
+        </verse>
+        <verse osisID="Ps.85.2">
+          You, Yahweh, showed favor to your land; you restored the fortunes of Jacob.
+        </verse>
+        <verse osisID="Ps.85.3">
+          You forgave the twisted wrongness of your people and covered all their sins.
+        </verse>
+        <verse osisID="Ps.85.4">
+          You set aside all your wrath and turned from your fierce anger.
+        </verse>
+        <verse osisID="Ps.85.5">
+          Restore us again, God our Savior, and put away your displeasure toward us.
+        </verse>
+        <verse osisID="Ps.85.6">
+          Will you be angry with us forever? Will you prolong your anger through all generations?
+        </verse>
+        <verse osisID="Ps.85.7">
+          Will you not revive us again, that your people may rejoice in you?
+        </verse>
+        <verse osisID="Ps.85.8">
+          Show us your unfailing love, Yahweh, and grant us your salvation.
+        </verse>
+        <verse osisID="Ps.85.9">
+          I will listen to what God Yahweh says; he promises peace to his people, his faithful servants—but let them not turn to folly.
+        </verse>
+        <verse osisID="Ps.85.10">
+          Surely his salvation is near those who fear him, that his glory may dwell in our land.
+        </verse>
+        <verse osisID="Ps.85.11">
+          Love and faithfulness meet together; what's right and peace kiss each other.
+        </verse>
+        <verse osisID="Ps.85.12">
+          Faithfulness springs forth from the earth, and what's right looks down from heaven.
+        </verse>
+        <verse osisID="Ps.85.13">
+          Yahweh will indeed give what is good, and our land will yield its harvest.
+        </verse>
+        <verse osisID="Ps.85.14">
+          What's right goes before him and prepares the way for his steps.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.86">
+        <title>A prayer of David.</title>
+        <verse osisID="Ps.86.1">
+          A prayer of David.
+        </verse>
+        <verse osisID="Ps.86.2">
+          Hear me, Yahweh, and answer me, for I am poor and needy.
+        </verse>
+        <verse osisID="Ps.86.3">
+          Guard my life, for I am faithful to you; save your servant who trusts in you. You are my God;
+        </verse>
+        <verse osisID="Ps.86.4">
+          have mercy on me, Lord, for I call to you all day long.
+        </verse>
+        <verse osisID="Ps.86.5">
+          Bring joy to your servant, Lord, for I put my trust in you.
+        </verse>
+        <verse osisID="Ps.86.6">
+          You, Lord, are forgiving and good, abounding in love to all who call to you.
+        </verse>
+        <verse osisID="Ps.86.7">
+          Hear my prayer, Yahweh; listen to my cry for mercy.
+        </verse>
+        <verse osisID="Ps.86.8">
+          When I am in distress, I call to you, because you answer me.
+        </verse>
+        <verse osisID="Ps.86.9">
+          Among the gods there is none like you, Lord; no deeds can compare with yours.
+        </verse>
+        <verse osisID="Ps.86.10">
+          All the nations you have made will come and worship before you, Lord; they will bring glory to your name.
+        </verse>
+        <verse osisID="Ps.86.11">
+          For you are great and do marvelous deeds; you alone are God.
+        </verse>
+        <verse osisID="Ps.86.12">
+          Teach me your way, Yahweh, that I may rely on your faithfulness; give me an undivided heart, that I may fear your name.
+        </verse>
+        <verse osisID="Ps.86.13">
+          I will praise you, Lord my God, with all my heart; I will glorify your name forever.
+        </verse>
+        <verse osisID="Ps.86.14">
+          For great is your love toward me; you have delivered me from the depths, from the realm of the dead.
+        </verse>
+        <verse osisID="Ps.86.15">
+          Arrogant foes are attacking me, O God; ruthless people are trying to kill me—they have no regard for you.
+        </verse>
+        <verse osisID="Ps.86.16">
+          But you, Lord, are a compassionate and gracious God, slow to anger, abounding in love and faithfulness.
+        </verse>
+        <verse osisID="Ps.86.17">
+          Turn to me and have mercy on me; show your strength in behalf of your servant; save me, because I serve you just as my mother did.
+        </verse>
+        <verse osisID="Ps.86.18">
+          Give me a sign of your goodness, that my enemies may see it and be put to shame, for you, Yahweh, have helped me and comforted me.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.87">
+        <title>Of the Sons of Korah. A psalm. A song.</title>
+        <verse osisID="Ps.87.1">
+          Of the Sons of Korah. A psalm. A song.
+        </verse>
+        <verse osisID="Ps.87.2">
+          He has founded his city on the mountains set apart for God.
+        </verse>
+        <verse osisID="Ps.87.3">
+          Yahweh loves the gates of Zion more than all the other dwellings of Jacob.
+        </verse>
+        <verse osisID="Ps.87.4">
+          Glorious things are said of you, city of God:
+        </verse>
+        <verse osisID="Ps.87.5">
+          "I will record Rahab and Babylon among those who acknowledge me—Philistia too, and Tyre, along with Cush—and will say, 'This one was born in Zion.'"
+        </verse>
+        <verse osisID="Ps.87.6">
+          Indeed, of Zion it will be said, "This one and that one were born in her, and the Most High himself will establish her."
+        </verse>
+        <verse osisID="Ps.87.7">
+          Yahweh will write in the register of the peoples: "This one was born there."
+        </verse>
+        <verse osisID="Ps.87.8">
+          As they make music they will sing, "All my fountains are in you."
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.88">
+        <title>A song. A psalm of the Sons of Korah. For the director of music. According to mahalath leannoth. A maskil of Heman the Ezrahite.</title>
+        <verse osisID="Ps.88.1">
+          A song. A psalm of the Sons of Korah. For the director of music. According to mahalath leannoth. A maskil of Heman the Ezrahite.
+        </verse>
+        <verse osisID="Ps.88.2">
+          Yahweh, you are the God who saves me; day and night I cry out to you.
+        </verse>
+        <verse osisID="Ps.88.3">
+          May my prayer come before you; turn your ear to my cry.
+        </verse>
+        <verse osisID="Ps.88.4">
+          I am overwhelmed with troubles and my life draws near to death.
+        </verse>
+        <verse osisID="Ps.88.5">
+          I am counted among those who go down to the pit; I am like one without strength.
+        </verse>
+        <verse osisID="Ps.88.6">
+          I am set apart with the dead, like the slain who lie in the grave, whom you remember no more, who are cut off from your care.
+        </verse>
+        <verse osisID="Ps.88.7">
+          You have put me in the lowest pit, in the darkest depths.
+        </verse>
+        <verse osisID="Ps.88.8">
+          Your wrath lies heavily on me; you have overwhelmed me with all your waves.
+        </verse>
+        <verse osisID="Ps.88.9">
+          You have taken from me my closest friends and have made me repulsive to them. I am confined and cannot escape;
+        </verse>
+        <verse osisID="Ps.88.10">
+          my eyes are dim with grief. I call to you, Yahweh, every day; I spread out my hands to you.
+        </verse>
+        <verse osisID="Ps.88.11">
+          Do you show your wonders to the dead? Do the spirits of the dead rise up and praise you?
+        </verse>
+        <verse osisID="Ps.88.12">
+          Is your love declared in the grave, your faithfulness in Destruction?
+        </verse>
+        <verse osisID="Ps.88.13">
+          Are your wonders known in the place of darkness, or your righteous deeds in the land of oblivion?
+        </verse>
+        <verse osisID="Ps.88.14">
+          But I cry to you for help, Yahweh; in the morning my prayer comes before you.
+        </verse>
+        <verse osisID="Ps.88.15">
+          Why, Yahweh, do you reject me and hide your face from me?
+        </verse>
+        <verse osisID="Ps.88.16">
+          From my youth I have suffered and been close to death; I have borne your terrors and am in despair.
+        </verse>
+        <verse osisID="Ps.88.17">
+          Your wrath has swept over me; your terrors have destroyed me.
+        </verse>
+        <verse osisID="Ps.88.18">
+          All day long they surround me like a flood; they have completely engulfed me.
+        </verse>
+        <verse osisID="Ps.88.19">
+          You have taken from me friend and neighbor—darkness is my closest friend.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.89">
+        <title>A maskil of Ethan the Ezrahite.</title>
+        <verse osisID="Ps.89.1">
+          A maskil of Ethan the Ezrahite.
+        </verse>
+        <verse osisID="Ps.89.2">
+          I will sing of Yahweh's great love forever; with my mouth I will make your faithfulness known through all generations.
+        </verse>
+        <verse osisID="Ps.89.3">
+          I will declare that your love stands firm forever, that you have established your faithfulness in heaven itself.
+        </verse>
+        <verse osisID="Ps.89.4">
+          You said, "I have made a covenant with my chosen one, I have sworn to David my servant,
+        </verse>
+        <verse osisID="Ps.89.5">
+          'I will establish your line forever and make your throne firm through all generations.'"
+        </verse>
+        <verse osisID="Ps.89.6">
+          The heavens praise your wonders, Yahweh, your faithfulness too, in the assembly of those set apart for God.
+        </verse>
+        <verse osisID="Ps.89.7">
+          For who in the skies above can compare with Yahweh? Who is like Yahweh among the heavenly beings?
+        </verse>
+        <verse osisID="Ps.89.8">
+          In the council of those set apart for God he is greatly feared; he is more awesome than all who surround him.
+        </verse>
+        <verse osisID="Ps.89.9">
+          Who is like you, Yahweh God Almighty? You, Yahweh, are mighty, and your faithfulness surrounds you.
+        </verse>
+        <verse osisID="Ps.89.10">
+          You rule over the surging sea; when its waves mount up, you still them.
+        </verse>
+        <verse osisID="Ps.89.11">
+          You crushed Rahab like one of the slain; with your strong arm you scattered your enemies.
+        </verse>
+        <verse osisID="Ps.89.12">
+          The heavens are yours, and yours also the earth; you founded the world and all that is in it.
+        </verse>
+        <verse osisID="Ps.89.13">
+          You created the north and the south; Tabor and Hermon sing for joy at your name.
+        </verse>
+        <verse osisID="Ps.89.14">
+          Your arm is endowed with power; your hand is strong, your right hand exalted.
+        </verse>
+        <verse osisID="Ps.89.15">
+          What's right and justice are the foundation of your throne; love and faithfulness go before you.
+        </verse>
+        <verse osisID="Ps.89.16">
+          Deeply happy are those who have learned to acclaim you, who walk in the light of your presence, Yahweh.
+        </verse>
+        <verse osisID="Ps.89.17">
+          They rejoice in your name all day long; they celebrate your doing what's right.
+        </verse>
+        <verse osisID="Ps.89.18">
+          For you are their glory and strength, and by your favor you exalt our horn.
+        </verse>
+        <verse osisID="Ps.89.19">
+          Indeed, our shield belongs to Yahweh, our king to the One Set Apart for God of Israel.
+        </verse>
+        <verse osisID="Ps.89.20">
+          Once you spoke in a vision, to your faithful people you said: "I have bestowed strength on a warrior; I have raised up a young man from among the people.
+        </verse>
+        <verse osisID="Ps.89.21">
+          I have found David my servant; with my oil set apart for God I have anointed him.
+        </verse>
+        <verse osisID="Ps.89.22">
+          My hand will sustain him; surely my arm will strengthen him.
+        </verse>
+        <verse osisID="Ps.89.23">
+          The enemy will not get the better of him; the wicked will not oppress him.
+        </verse>
+        <verse osisID="Ps.89.24">
+          I will crush his foes before him and strike down his adversaries.
+        </verse>
+        <verse osisID="Ps.89.25">
+          My faithful love will be with him, and through my name his horn will be exalted.
+        </verse>
+        <verse osisID="Ps.89.26">
+          I will set his hand over the sea, his right hand over the rivers.
+        </verse>
+        <verse osisID="Ps.89.27">
+          He will call out to me, 'You are my Father, my God, the Rock my Savior.'
+        </verse>
+        <verse osisID="Ps.89.28">
+          And I will appoint him to be my firstborn, the most exalted of the kings of the earth.
+        </verse>
+        <verse osisID="Ps.89.29">
+          I will maintain my love to him forever, and my covenant with him will never fail.
+        </verse>
+        <verse osisID="Ps.89.30">
+          I will establish his line forever, his throne as long as the heavens endure.
+        </verse>
+        <verse osisID="Ps.89.31">
+          "If his sons forsake my law and do not follow my statutes,
+        </verse>
+        <verse osisID="Ps.89.32">
+          if they violate my decrees and fail to keep my commands,
+        </verse>
+        <verse osisID="Ps.89.33">
+          I will punish their sin with the rod, their twisted wrongness with flogging;
+        </verse>
+        <verse osisID="Ps.89.34">
+          but I will not take my love from him, nor will I ever betray my faithfulness.
+        </verse>
+        <verse osisID="Ps.89.35">
+          I will not violate my covenant or alter what my lips have uttered.
+        </verse>
+        <verse osisID="Ps.89.36">
+          Once for all, I have sworn by my being set apart for God—and I will not lie to David—
+        </verse>
+        <verse osisID="Ps.89.37">
+          that his line will continue forever and his throne endure before me like the sun;
+        </verse>
+        <verse osisID="Ps.89.38">
+          it will be established forever like the moon, the faithful witness in the sky."
+        </verse>
+        <verse osisID="Ps.89.39">
+          But you have rejected, you have spurned, you have been very angry with your anointed one.
+        </verse>
+        <verse osisID="Ps.89.40">
+          You have renounced the covenant with your servant and have defiled his crown in the dust.
+        </verse>
+        <verse osisID="Ps.89.41">
+          You have broken through all his walls and reduced his strongholds to ruins.
+        </verse>
+        <verse osisID="Ps.89.42">
+          All who pass by have plundered him; he has become the scorn of his neighbors.
+        </verse>
+        <verse osisID="Ps.89.43">
+          You have exalted the right hand of his foes; you have made all his enemies rejoice.
+        </verse>
+        <verse osisID="Ps.89.44">
+          Indeed, you have turned back the edge of his sword and have not supported him in battle.
+        </verse>
+        <verse osisID="Ps.89.45">
+          You have put an end to his splendor and cast his throne to the ground.
+        </verse>
+        <verse osisID="Ps.89.46">
+          You have cut short the days of his youth; you have covered him with a mantle of shame.
+        </verse>
+        <verse osisID="Ps.89.47">
+          How long, Yahweh? Will you hide yourself forever? How long will your wrath burn like fire?
+        </verse>
+        <verse osisID="Ps.89.48">
+          Remember how fleeting is my life. For what futility you have created all humanity!
+        </verse>
+        <verse osisID="Ps.89.49">
+          Who can live and not see death, or who can escape the power of the grave?
+        </verse>
+        <verse osisID="Ps.89.50">
+          Lord, where is your former great love, which in your faithfulness you swore to David?
+        </verse>
+        <verse osisID="Ps.89.51">
+          Remember, Lord, how your servant has been mocked, how I bear in my heart the taunts of all the nations,
+        </verse>
+        <verse osisID="Ps.89.52">
+          the taunts with which your enemies, Yahweh, have mocked, with which they have mocked every step of your anointed one.
+        </verse>
+        <verse osisID="Ps.89.53">
+          Praise be to Yahweh forever! Amen and Amen.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.90">
+        <title>A prayer of Moses the man of God.</title>
+        <verse osisID="Ps.90.1">
+          A prayer of Moses the man of God.
+        </verse>
+        <verse osisID="Ps.90.2">
+          Lord, you have been our dwelling place throughout all generations.
+        </verse>
+        <verse osisID="Ps.90.3">
+          Before the mountains were born or you brought forth the whole world, from everlasting to everlasting you are God.
+        </verse>
+        <verse osisID="Ps.90.4">
+          You turn people back to dust, saying, "Return to dust, you mortals."
+        </verse>
+        <verse osisID="Ps.90.5">
+          A thousand years in your sight are like a day that has just gone by, or like a watch in the night.
+        </verse>
+        <verse osisID="Ps.90.6">
+          Yet you sweep people away in the sleep of death—they are like the new grass of the morning:
+        </verse>
+        <verse osisID="Ps.90.7">
+          In the morning it springs up new, but by evening it is dry and withered.
+        </verse>
+        <verse osisID="Ps.90.8">
+          We are consumed by your anger and terrified by your indignation.
+        </verse>
+        <verse osisID="Ps.90.9">
+          You have set our twisted wrongness before you, our secret sins in the light of your presence.
+        </verse>
+        <verse osisID="Ps.90.10">
+          All our days pass away under your wrath; we finish our years with a moan.
+        </verse>
+        <verse osisID="Ps.90.11">
+          Our days may come to seventy years, or eighty, if our strength endures; yet the best of them are but trouble and sorrow, for they quickly pass, and we fly away.
+        </verse>
+        <verse osisID="Ps.90.12">
+          If only we knew the power of your anger! Your wrath is as great as the fear that is your due.
+        </verse>
+        <verse osisID="Ps.90.13">
+          Teach us to number our days, that we may gain a heart of wisdom.
+        </verse>
+        <verse osisID="Ps.90.14">
+          Relent, Yahweh! How long will it be? Have compassion on your servants.
+        </verse>
+        <verse osisID="Ps.90.15">
+          Satisfy us in the morning with your unfailing love, that we may sing for joy and be glad all our days.
+        </verse>
+        <verse osisID="Ps.90.16">
+          Make us glad for as many days as you have afflicted us, for as many years as we have seen trouble.
+        </verse>
+        <verse osisID="Ps.90.17">
+          May your deeds be shown to your servants, your splendor to their children.
+        </verse>
+        <verse osisID="Ps.90.18">
+          May the favor of the Lord our God rest on us; establish the work of our hands for us—yes, establish the work of our hands.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.91">
+        <title>Whoever dwells in the shelter of the Most High</title>
+        <verse osisID="Ps.91.1">
+          Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty.
+        </verse>
+        <verse osisID="Ps.91.2">
+          I will say of Yahweh, "He is my refuge and my fortress, my God, in whom I trust."
+        </verse>
+        <verse osisID="Ps.91.3">
+          Surely he will save you from the fowler's snare and from the deadly pestilence.
+        </verse>
+        <verse osisID="Ps.91.4">
+          He will cover you with his feathers, and under his wings you will find refuge; his faithfulness will be your shield and rampart.
+        </verse>
+        <verse osisID="Ps.91.5">
+          You will not fear the terror of night, nor the arrow that flies by day,
+        </verse>
+        <verse osisID="Ps.91.6">
+          nor the pestilence that stalks in the darkness, nor the plague that destroys at midday.
+        </verse>
+        <verse osisID="Ps.91.7">
+          A thousand may fall at your side, ten thousand at your right hand, but it will not come near you.
+        </verse>
+        <verse osisID="Ps.91.8">
+          You will only observe with your eyes and see the punishment of the wicked.
+        </verse>
+        <verse osisID="Ps.91.9">
+          If you say, "Yahweh is my refuge," and you make the Most High your dwelling,
+        </verse>
+        <verse osisID="Ps.91.10">
+          no harm will overtake you, no disaster will come near your tent.
+        </verse>
+        <verse osisID="Ps.91.11">
+          For he will command his angels concerning you to guard you in all your ways;
+        </verse>
+        <verse osisID="Ps.91.12">
+          they will lift you up in their hands, so that you will not strike your foot against a stone.
+        </verse>
+        <verse osisID="Ps.91.13">
+          You will tread on the lion and the cobra; you will trample the great lion and the serpent.
+        </verse>
+        <verse osisID="Ps.91.14">
+          "Because he loves me," says Yahweh, "I will rescue him; I will protect him, for he acknowledges my name.
+        </verse>
+        <verse osisID="Ps.91.15">
+          He will call on me, and I will answer him; I will be with him in trouble, I will deliver him and honor him.
+        </verse>
+        <verse osisID="Ps.91.16">
+          With long life I will satisfy him and show him my salvation."
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.92">
+        <title>A psalm. A song. For the Sabbath day.</title>
+        <verse osisID="Ps.92.1">
+          A psalm. A song. For the Sabbath day.
+        </verse>
+        <verse osisID="Ps.92.2">
+          It is good to praise Yahweh and make music to your name, O Most High,
+        </verse>
+        <verse osisID="Ps.92.3">
+          proclaiming your love in the morning and your faithfulness at night,
+        </verse>
+        <verse osisID="Ps.92.4">
+          to the music of the ten-stringed lyre and the melody of the harp.
+        </verse>
+        <verse osisID="Ps.92.5">
+          For you make me glad by your deeds, Yahweh; I sing for joy at what your hands have done.
+        </verse>
+        <verse osisID="Ps.92.6">
+          How great are your works, Yahweh, how profound your thoughts!
+        </verse>
+        <verse osisID="Ps.92.7">
+          Senseless people do not know, fools do not understand,
+        </verse>
+        <verse osisID="Ps.92.8">
+          that though the wicked spring up like grass and all evildoers flourish, they will be destroyed forever.
+        </verse>
+        <verse osisID="Ps.92.9">
+          But you, Yahweh, are forever exalted.
+        </verse>
+        <verse osisID="Ps.92.10">
+          For surely your enemies, Yahweh, surely your enemies will perish; all evildoers will be scattered.
+        </verse>
+        <verse osisID="Ps.92.11">
+          You have exalted my horn like that of a wild ox; fine oils have been poured on me.
+        </verse>
+        <verse osisID="Ps.92.12">
+          My eyes have seen the defeat of my adversaries; my ears have heard the rout of my wicked foes.
+        </verse>
+        <verse osisID="Ps.92.13">
+          Those who do right will flourish like a palm tree, they will grow like a cedar of Lebanon;
+        </verse>
+        <verse osisID="Ps.92.14">
+          planted in the house of Yahweh, they will flourish in the courts of our God.
+        </verse>
+        <verse osisID="Ps.92.15">
+          They will still bear fruit in old age, they will stay fresh and green,
+        </verse>
+        <verse osisID="Ps.92.16">
+          proclaiming, "Yahweh is upright; he is my Rock, and there is no wickedness in him."
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.93">
+        <title>Yahweh reigns</title>
+        <verse osisID="Ps.93.1">
+          Yahweh reigns, he is robed in majesty; Yahweh is robed in majesty and armed with strength; indeed, the world is established, firm and secure.
+        </verse>
+        <verse osisID="Ps.93.2">
+          Your throne was established long ago; you are from all eternity.
+        </verse>
+        <verse osisID="Ps.93.3">
+          The seas have lifted up, Yahweh, the seas have lifted up their voice; the seas have lifted up their pounding waves.
+        </verse>
+        <verse osisID="Ps.93.4">
+          Mightier than the thunder of the great waters, mightier than the breakers of the sea—Yahweh on high is mighty.
+        </verse>
+        <verse osisID="Ps.93.5">
+          Your statutes, Yahweh, stand firm; being set apart for God adorns your house for endless days.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.94">
+        <title>Yahweh, the God who avenges</title>
+        <verse osisID="Ps.94.1">
+          Yahweh, the God who avenges, O God who avenges, shine forth.
+        </verse>
+        <verse osisID="Ps.94.2">
+          Rise up, Judge of the earth; pay back to the proud what they deserve.
+        </verse>
+        <verse osisID="Ps.94.3">
+          How long, Yahweh, will the wicked, how long will the wicked be jubilant?
+        </verse>
+        <verse osisID="Ps.94.4">
+          They pour out arrogant words; all the evildoers are full of boasting.
+        </verse>
+        <verse osisID="Ps.94.5">
+          They crush your people, Yahweh; they oppress your inheritance.
+        </verse>
+        <verse osisID="Ps.94.6">
+          They slay the widow and the foreigner; they murder the fatherless.
+        </verse>
+        <verse osisID="Ps.94.7">
+          They say, "Yahweh does not see; the God of Jacob takes no notice."
+        </verse>
+        <verse osisID="Ps.94.8">
+          Take notice, you senseless ones among the people; you fools, when will you become wise?
+        </verse>
+        <verse osisID="Ps.94.9">
+          Does he who fashioned the ear not hear? Does he who formed the eye not see?
+        </verse>
+        <verse osisID="Ps.94.10">
+          Does he who disciplines nations not punish? Does he who teaches mankind lack knowledge?
+        </verse>
+        <verse osisID="Ps.94.11">
+          Yahweh knows all human plans; he knows that they are futile.
+        </verse>
+        <verse osisID="Ps.94.12">
+          Deeply happy is the one you discipline, Yahweh, the one you teach from your law;
+        </verse>
+        <verse osisID="Ps.94.13">
+          you grant them relief from days of trouble, till a pit is dug for the wicked.
+        </verse>
+        <verse osisID="Ps.94.14">
+          For Yahweh will not reject his people; he will never forsake his inheritance.
+        </verse>
+        <verse osisID="Ps.94.15">
+          Judgment will again be founded on what's right, and all the upright in heart will follow it.
+        </verse>
+        <verse osisID="Ps.94.16">
+          Who will rise up for me against the wicked? Who will take a stand for me against evildoers?
+        </verse>
+        <verse osisID="Ps.94.17">
+          Unless Yahweh had given me help, I would soon have dwelt in the silence of death.
+        </verse>
+        <verse osisID="Ps.94.18">
+          When I said, "My foot is slipping," your unfailing love, Yahweh, supported me.
+        </verse>
+        <verse osisID="Ps.94.19">
+          When anxiety was great within me, your consolation brought me joy.
+        </verse>
+        <verse osisID="Ps.94.20">
+          Can a corrupt throne be allied with you—a throne that brings on misery by its decrees?
+        </verse>
+        <verse osisID="Ps.94.21">
+          The wicked band together against those who do right and condemn the innocent to death.
+        </verse>
+        <verse osisID="Ps.94.22">
+          But Yahweh has become my fortress, and my God the rock in whom I take refuge.
+        </verse>
+        <verse osisID="Ps.94.23">
+          He will repay them for their sins and destroy them for their wickedness; Yahweh our God will destroy them.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.95">
+        <title>Come, let us sing for joy to Yahweh</title>
+        <verse osisID="Ps.95.1">
+          Come, let us sing for joy to Yahweh; let us shout aloud to the Rock of our salvation.
+        </verse>
+        <verse osisID="Ps.95.2">
+          Let us come before him with thanksgiving and extol him with music and song.
+        </verse>
+        <verse osisID="Ps.95.3">
+          For Yahweh is the great God, the great King above all gods.
+        </verse>
+        <verse osisID="Ps.95.4">
+          In his hand are the depths of the earth, and the mountain peaks belong to him.
+        </verse>
+        <verse osisID="Ps.95.5">
+          The sea is his, for he made it, and his hands formed the dry land.
+        </verse>
+        <verse osisID="Ps.95.6">
+          Come, let us bow down in worship, let us kneel before Yahweh our Maker;
+        </verse>
+        <verse osisID="Ps.95.7">
+          for he is our God and we are the people of his pasture, the flock under his care. Today, if only you would hear his voice,
+        </verse>
+        <verse osisID="Ps.95.8">
+          "Do not harden your hearts as you did at Meribah, as you did that day at Massah in the wilderness,
+        </verse>
+        <verse osisID="Ps.95.9">
+          where your ancestors tested me; they tried me, though they had seen what I did.
+        </verse>
+        <verse osisID="Ps.95.10">
+          For forty years I was angry with that generation; I said, 'They are a people whose hearts go astray, and they have not known my ways.'
+        </verse>
+        <verse osisID="Ps.95.11">
+          So I declared on oath in my anger, 'They shall never enter my rest.'"
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.96">
+        <title>Sing to Yahweh a new song</title>
+        <verse osisID="Ps.96.1">
+          Sing to Yahweh a new song; sing to Yahweh, all the earth.
+        </verse>
+        <verse osisID="Ps.96.2">
+          Sing to Yahweh, praise his name; proclaim his salvation day after day.
+        </verse>
+        <verse osisID="Ps.96.3">
+          Declare his glory among the nations, his marvelous deeds among all peoples.
+        </verse>
+        <verse osisID="Ps.96.4">
+          For great is Yahweh and most worthy of praise; he is to be feared above all gods.
+        </verse>
+        <verse osisID="Ps.96.5">
+          For all the gods of the nations are idols, but Yahweh made the heavens.
+        </verse>
+        <verse osisID="Ps.96.6">
+          Splendor and majesty are before him; strength and glory are in his sanctuary.
+        </verse>
+        <verse osisID="Ps.96.7">
+          Ascribe to Yahweh, all you families of nations, ascribe to Yahweh glory and strength.
+        </verse>
+        <verse osisID="Ps.96.8">
+          Ascribe to Yahweh the glory due his name; bring an offering and come into his courts.
+        </verse>
+        <verse osisID="Ps.96.9">
+          Worship Yahweh in the splendor of his being set apart for God; tremble before him, all the earth.
+        </verse>
+        <verse osisID="Ps.96.10">
+          Say among the nations, "Yahweh reigns." The world is firmly established, it cannot be moved; he will judge the peoples with equity.
+        </verse>
+        <verse osisID="Ps.96.11">
+          Let the heavens rejoice, let the earth be glad; let the sea resound, and all that is in it.
+        </verse>
+        <verse osisID="Ps.96.12">
+          Let the fields be jubilant, and everything in them; let all the trees of the forest sing for joy.
+        </verse>
+        <verse osisID="Ps.96.13">
+          Let all creation rejoice before Yahweh, for he comes, he comes to judge the earth. He will judge the world in what's right and the peoples with his faithfulness.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.97">
+        <title>Yahweh reigns</title>
+        <verse osisID="Ps.97.1">
+          Yahweh reigns, let the earth be glad; let the distant shores rejoice.
+        </verse>
+        <verse osisID="Ps.97.2">
+          Clouds and thick darkness surround him; what's right and justice are the foundation of his throne.
+        </verse>
+        <verse osisID="Ps.97.3">
+          Fire goes before him and consumes his foes on every side.
+        </verse>
+        <verse osisID="Ps.97.4">
+          His lightning lights up the world; the earth sees and trembles.
+        </verse>
+        <verse osisID="Ps.97.5">
+          The mountains melt like wax before Yahweh, before the Lord of all the earth.
+        </verse>
+        <verse osisID="Ps.97.6">
+          The heavens proclaim his doing what's right, and all peoples see his glory.
+        </verse>
+        <verse osisID="Ps.97.7">
+          All who worship images are put to shame, those who boast in idols—worship him, all you gods!
+        </verse>
+        <verse osisID="Ps.97.8">
+          Zion hears and rejoices and the villages of Judah are glad because of your judgments, Yahweh.
+        </verse>
+        <verse osisID="Ps.97.9">
+          For you, Yahweh, are the Most High over all the earth; you are exalted far above all gods.
+        </verse>
+        <verse osisID="Ps.97.10">
+          Let those who love Yahweh hate evil, for he guards the lives of his faithful ones and delivers them from the hand of the wicked.
+        </verse>
+        <verse osisID="Ps.97.11">
+          Light shines on those who do right and joy on the upright in heart.
+        </verse>
+        <verse osisID="Ps.97.12">
+          Rejoice in Yahweh, you who do right, and praise his name set apart for God.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.98">
+        <title>A psalm.</title>
+        <verse osisID="Ps.98.1">
+          A psalm.
+        </verse>
+        <verse osisID="Ps.98.2">
+          Sing to Yahweh a new song, for he has done marvelous things; his right hand and his arm set apart for God have worked salvation for him.
+        </verse>
+        <verse osisID="Ps.98.3">
+          Yahweh has made his salvation known and revealed his doing what's right to the nations.
+        </verse>
+        <verse osisID="Ps.98.4">
+          He has remembered his love and his faithfulness to Israel; all the ends of the earth have seen the salvation of our God.
+        </verse>
+        <verse osisID="Ps.98.5">
+          Shout for joy to Yahweh, all the earth, burst into jubilant song with music;
+        </verse>
+        <verse osisID="Ps.98.6">
+          make music to Yahweh with the harp, with the harp and the sound of singing,
+        </verse>
+        <verse osisID="Ps.98.7">
+          with trumpets and the blast of the ram's horn—shout for joy before Yahweh, the King.
+        </verse>
+        <verse osisID="Ps.98.8">
+          Let the sea resound, and everything in it, the world, and all who live in it.
+        </verse>
+        <verse osisID="Ps.98.9">
+          Let the rivers clap their hands, let the mountains sing together for joy;
+        </verse>
+        <verse osisID="Ps.98.10">
+          let them sing before Yahweh, for he comes to judge the earth. He will judge the world in what's right and the peoples with equity.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.99">
+        <title>Yahweh reigns</title>
+        <verse osisID="Ps.99.1">
+          Yahweh reigns, let the nations tremble; he sits enthroned between the cherubim, let the earth shake.
+        </verse>
+        <verse osisID="Ps.99.2">
+          Yahweh is great in Zion; he is exalted over all the nations.
+        </verse>
+        <verse osisID="Ps.99.3">
+          Let them praise your great and awesome name—he is set apart for God.
+        </verse>
+        <verse osisID="Ps.99.4">
+          The King is mighty, he loves justice—you have established equity; in Jacob you have done what is just and right.
+        </verse>
+        <verse osisID="Ps.99.5">
+          Exalt Yahweh our God and worship at his footstool; he is set apart for God.
+        </verse>
+        <verse osisID="Ps.99.6">
+          Moses and Aaron were among his priests, Samuel was among those who called on his name; they called on Yahweh and he answered them.
+        </verse>
+        <verse osisID="Ps.99.7">
+          He spoke to them from the pillar of cloud; they kept his statutes and the decrees he gave them.
+        </verse>
+        <verse osisID="Ps.99.8">
+          Yahweh our God, you answered them; you were to Israel a forgiving God, though you punished their misdeeds.
+        </verse>
+        <verse osisID="Ps.99.9">
+          Exalt Yahweh our God and worship at his mountain set apart for God, for Yahweh our God is set apart for God.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.100">
+        <title>A psalm. For giving grateful praise.</title>
+        <verse osisID="Ps.100.1">
+          A psalm. For giving grateful praise.
+        </verse>
+        <verse osisID="Ps.100.2">
+          Shout for joy to Yahweh, all the earth.
+        </verse>
+        <verse osisID="Ps.100.3">
+          Worship Yahweh with gladness; come before him with joyful songs.
+        </verse>
+        <verse osisID="Ps.100.4">
+          Know that Yahweh is God. It is he who made us, and we are his; we are his people, the sheep of his pasture.
+        </verse>
+        <verse osisID="Ps.100.5">
+          Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name.
+        </verse>
+        <verse osisID="Ps.100.6">
+          For Yahweh is good and his love endures forever; his faithfulness continues through all generations.
         </verse>
       </div>
     </div>
