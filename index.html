@@ -344,6 +344,26 @@
             'revelation': { title: 'Revelation', file: 'output/66_revelation_vbt.osis.xml' }
         };
 
+        function processVerseContent(verseElement) {
+            let html = '';
+            
+            // Process all child nodes (text and elements)
+            for (let node of verseElement.childNodes) {
+                if (node.nodeType === Node.TEXT_NODE) {
+                    // Add text content
+                    html += node.textContent;
+                } else if (node.nodeType === Node.ELEMENT_NODE && node.nodeName === 'note') {
+                    // Add note with proper styling
+                    html += `<span class="note">${node.textContent}</span>`;
+                } else if (node.nodeType === Node.ELEMENT_NODE) {
+                    // Handle other elements by including their text content
+                    html += node.textContent;
+                }
+            }
+            
+            return html;
+        }
+
         async function loadBook() {
             const select = document.getElementById('bookSelect');
             const content = document.getElementById('book-content');
@@ -404,7 +424,7 @@
                         
                         html += `<div class="verse">`;
                         html += `<span class="verse-number">${verseNum}</span>`;
-                        html += `<span class="verse-text">${verse.textContent}</span>`;
+                        html += `<span class="verse-text">${processVerseContent(verse)}</span>`;
                         html += `</div>`;
                     });
 
@@ -427,7 +447,7 @@
                         
                         html += `<div class="verse">`;
                         html += `<span class="verse-number">${verseNum}</span>`;
-                        html += `<span class="verse-text">${verse.textContent}</span>`;
+                        html += `<span class="verse-text">${processVerseContent(verse)}</span>`;
                         html += `</div>`;
                     });
 
@@ -463,7 +483,7 @@
                             
                             html += `<div class="verse">`;
                             html += `<span class="verse-number">${verseNum}</span>`;
-                            html += `<span class="verse-text">${currentNode.textContent}</span>`;
+                            html += `<span class="verse-text">${processVerseContent(currentNode)}</span>`;
                             html += `</div>`;
                         }
                         
