@@ -16,9 +16,8 @@
     </header>
     <div type="book" osisID="Deut" canonical="true">
       <title>Deuteronomy</title>
-      <div type="majorSection">
-        
-        <title type="main">Moses' First Address: Review of the Wilderness Journey</title>
+      
+      <title type="main">Moses' First Address: Review of the Wilderness Journey</title>
         <chapter osisID="Deut.1" sID="Deut.1"/>
         <verse osisID="Deut.1.1">These are the words Moses spoke to all Israel in the wilderness east of the Jordan—that is, in the Arabah—opposite Suph, between Paran and Tophel, Laban, Hazeroth and Dizahab.</verse>
         <verse osisID="Deut.1.2">(It takes eleven days to go from Horeb to Kadesh Barnea by the Mount Seir road.)</verse>
@@ -426,10 +425,8 @@
         <verse osisID="Deut.11.31">You are about to cross the Jordan to enter and take possession of the land Yahweh your God is giving you. When you have taken it over and are living there,</verse>
         <verse osisID="Deut.11.32">be sure that you obey all the decrees and laws I am setting before you today.</verse>
         <chapter eID="Deut.11"/>
-      </div>
       
-      <div type="majorSection">
-        <title type="main">Moses' Second Address: The Law Code</title>
+      <title type="main">Moses' Second Address: The Law Code</title>
         
         <chapter osisID="Deut.12" sID="Deut.12"/>
         <title type="sub">The One Place of Worship</title>
@@ -876,10 +873,8 @@
         <verse osisID="Deut.26.18">And Yahweh has declared this day that you are his people, his treasured possession as he promised, and that you are to keep all his commands.</verse>
         <verse osisID="Deut.26.19">He has declared that he will set you in praise, fame and honor high above all the nations he has made and that you will be a people set apart to Yahweh your God, as he promised.</verse>
         <chapter eID="Deut.26"/>
-      </div>
       
-      <div type="majorSection">
-        <title type="main">Moses' Third Address: Covenant Renewal and Final Words</title>
+      <title type="main">Moses' Third Address: Covenant Renewal and Final Words</title>
         
         <chapter osisID="Deut.27" sID="Deut.27"/>
         <title type="sub">The Altar on Mount Ebal</title>
@@ -1190,11 +1185,6 @@
         <verse osisID="Deut.34.11">who did all those signs and wonders Yahweh sent him to do in Egypt—to Pharaoh and to all his officials and to his whole land.</verse>
         <verse osisID="Deut.34.12">For no one has ever shown the mighty power or performed the awesome deeds that Moses did in the sight of all Israel.</verse>
         <chapter eID="Deut.34"/>
-        
-      </div>
-    </div>
-  </osisText>
-</osis>
     </div>
   </osisText>
 </osis>
