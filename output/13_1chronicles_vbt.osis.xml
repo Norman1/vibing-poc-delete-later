@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <revisionDesc resp="Claude">
+        <date>2025-08-23</date>
+        <p>Plain Meaning Bible - First Chronicles translation using functional equivalence methodology</p>
+      </revisionDesc>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <contributor role="aut">Claude AI Assistant</contributor>
+        <contributor role="edt">AI Overseer</contributor>
+        <date>2025-08-23</date>
+        <description>Functional equivalence translation from Hebrew WLC</description>
+        <publisher>Open Source Project</publisher>
+        <type type="OSIS">Bible</type>
+        <format>text/xml</format>
+        <identifier type="OSIS">Bible.VBT.1Chr</identifier>
+        <source>Westminster Leningrad Codex</source>
+        <language type="ISO-639-2">eng</language>
+        <rights type="x-copyright">Public Domain</rights>
+        <scope>1Chr</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="1Chr" canonical="true">
+      <title type="main">First Chronicles</title>
+      
+      <chapter osisID="1Chr.1">
+        <title type="chapter">Chapter 1</title>
+        <title type="sub">From Adam to Abraham</title>
+        
+        <verse osisID="1Chr.1.1"><name type="person">Adam</name>, <name type="person">Seth</name>, <name type="person">Enosh</name>,</verse>
+        <verse osisID="1Chr.1.2"><name type="person">Kenan</name>, <name type="person">Mahalalel</name>, <name type="person">Jared</name>,</verse>
+        <verse osisID="1Chr.1.3"><name type="person">Enoch</name>, <name type="person">Methuselah</name>, <name type="person">Lamech</name>, <name type="person">Noah</name>.</verse>
+        <verse osisID="1Chr.1.4">The sons of <name type="person">Noah</name>: <name type="person">Shem</name>, <name type="person">Ham</name> and <name type="person">Japheth</name>.</verse>
+        
+        <title type="sub">The Japhethites</title>
+        
+        <verse osisID="1Chr.1.5">The sons of <name type="person">Japheth</name>: <name type="person">Gomer</name>, <name type="person">Magog</name>, <name type="person">Madai</name>, <name type="person">Javan</name>, <name type="person">Tubal</name>, <name type="person">Meshek</name> and <name type="person">Tiras</name>.</verse>
+        <verse osisID="1Chr.1.6">The sons of <name type="person">Gomer</name>: <name type="person">Ashkenaz</name>, <name type="person">Riphath</name> and <name type="person">Togarmah</name>.</verse>
+        <verse osisID="1Chr.1.7">The sons of <name type="person">Javan</name>: <name type="person">Elishah</name>, <name type="person">Tarshish</name>, the <name type="people">Kittites</name> and the <name type="people">Rodanites</name>.</verse>
+        
+        <title type="sub">The Hamites</title>
+        
+        <verse osisID="1Chr.1.8">The sons of <name type="person">Ham</name>: <name type="person">Cush</name>, <name type="person">Egypt</name>, <name type="person">Put</name> and <name type="person">Canaan</name>.</verse>
+        <verse osisID="1Chr.1.9">The sons of <name type="person">Cush</name>: <name type="person">Seba</name>, <name type="person">Havilah</name>, <name type="person">Sabta</name>, <name type="person">Raamah</name> and <name type="person">Sabteka</name>. The sons of <name type="person">Raamah</name>: <name type="person">Sheba</name> and <name type="person">Dedan</name>.</verse>
+        <verse osisID="1Chr.1.10"><name type="person">Cush</name> was the father of <name type="person">Nimrod</name>, who became a mighty warrior on earth.</verse>
+        <verse osisID="1Chr.1.11"><name type="person">Egypt</name> was the father of the <name type="people">Ludites</name>, <name type="people">Anamites</name>, <name type="people">Lehabites</name>, <name type="people">Naphtuhites</name>,</verse>
+        <verse osisID="1Chr.1.12"><name type="people">Pathrusites</name>, <name type="people">Kasluhites</name> (from whom the <name type="people">Philistines</name> came) and <name type="people">Caphtorites</name>.</verse>
+        <verse osisID="1Chr.1.13"><name type="person">Canaan</name> was the father of <name type="person">Sidon</name> his firstborn, and of the <name type="people">Hittites</name>,</verse>
+        <verse osisID="1Chr.1.14"><name type="people">Jebusites</name>, <name type="people">Amorites</name>, <name type="people">Girgashites</name>,</verse>
+        <verse osisID="1Chr.1.15"><name type="people">Hivites</name>, <name type="people">Arkites</name>, <name type="people">Sinites</name>,</verse>
+        <verse osisID="1Chr.1.16"><name type="people">Arvadites</name>, <name type="people">Zemarites</name> and <name type="people">Hamathites</name>.</verse>
+        
+        <title type="sub">The Semites</title>
+        
+        <verse osisID="1Chr.1.17">The sons of <name type="person">Shem</name>: <name type="person">Elam</name>, <name type="person">Ashur</name>, <name type="person">Arphaxad</name>, <name type="person">Lud</name> and <name type="person">Aram</name>. The sons of <name type="person">Aram</name>: <name type="person">Uz</name>, <name type="person">Hul</name>, <name type="person">Gether</name> and <name type="person">Meshek</name>.</verse>
+        <verse osisID="1Chr.1.18"><name type="person">Arphaxad</name> was the father of <name type="person">Shelah</name>, and <name type="person">Shelah</name> the father of <name type="person">Eber</name>.</verse>
+        <verse osisID="1Chr.1.19">Two sons were born to <name type="person">Eber</name>: One was named <name type="person">Peleg</name>, because in his time the earth was divided; his brother was named <name type="person">Joktan</name>.</verse>
+        <verse osisID="1Chr.1.20"><name type="person">Joktan</name> was the father of <name type="person">Almodad</name>, <name type="person">Sheleph</name>, <name type="person">Hazarmaveth</name>, <name type="person">Jerah</name>,</verse>
+        <verse osisID="1Chr.1.21"><name type="person">Hadoram</name>, <name type="person">Uzal</name>, <name type="person">Diklah</name>,</verse>
+        <verse osisID="1Chr.1.22"><name type="person">Obal</name>, <name type="person">Abimael</name>, <name type="person">Sheba</name>,</verse>
+        <verse osisID="1Chr.1.23"><name type="person">Ophir</name>, <name type="person">Havilah</name> and <name type="person">Jobab</name>. All these were sons of <name type="person">Joktan</name>.</verse>
+        
+        <verse osisID="1Chr.1.24"><name type="person">Shem</name>, <name type="person">Arphaxad</name>, <name type="person">Shelah</name>,</verse>
+        <verse osisID="1Chr.1.25"><name type="person">Eber</name>, <name type="person">Peleg</name>, <name type="person">Reu</name>,</verse>
+        <verse osisID="1Chr.1.26"><name type="person">Serug</name>, <name type="person">Nahor</name>, <name type="person">Terah</name></verse>
+        <verse osisID="1Chr.1.27">and <name type="person">Abram</name> (that is, <name type="person">Abraham</name>).</verse>
+        
+        <title type="sub">The Family of Abraham</title>
+        
+        <verse osisID="1Chr.1.28">The sons of <name type="person">Abraham</name>: <name type="person">Isaac</name> and <name type="person">Ishmael</name>.</verse>
+        
+        <title type="sub">Descendants of Hagar</title>
+        
+        <verse osisID="1Chr.1.29">These were their descendants: <name type="person">Nebaioth</name> the firstborn of <name type="person">Ishmael</name>, <name type="person">Kedar</name>, <name type="person">Adbeel</name>, <name type="person">Mibsam</name>,</verse>
+        <verse osisID="1Chr.1.30"><name type="person">Mishma</name>, <name type="person">Dumah</name>, <name type="person">Massa</name>, <name type="person">Hadad</name>, <name type="person">Tema</name>,</verse>
+        <verse osisID="1Chr.1.31"><name type="person">Jetur</name>, <name type="person">Naphish</name> and <name type="person">Kedemah</name>. These were the sons of <name type="person">Ishmael</name>.</verse>
+        
+        <title type="sub">Descendants of Keturah</title>
+        
+        <verse osisID="1Chr.1.32">The sons born to <name type="person">Keturah</name>, <name type="person">Abraham's</name> concubine: <name type="person">Zimran</name>, <name type="person">Jokshan</name>, <name type="person">Medan</name>, <name type="person">Midian</name>, <name type="person">Ishbak</name> and <name type="person">Shuah</name>. The sons of <name type="person">Jokshan</name>: <name type="person">Sheba</name> and <name type="person">Dedan</name>.</verse>
+        <verse osisID="1Chr.1.33">The sons of <name type="person">Midian</name>: <name type="person">Ephah</name>, <name type="person">Epher</name>, <name type="person">Hanok</name>, <name type="person">Abida</name> and <name type="person">Eldaah</name>. All these were descendants of <name type="person">Keturah</name>.</verse>
+        
+        <title type="sub">Descendants of Sarah</title>
+        
+        <verse osisID="1Chr.1.34"><name type="person">Abraham</name> was the father of <name type="person">Isaac</name>. The sons of <name type="person">Isaac</name>: <name type="person">Esau</name> and <name type="person">Israel</name>.</verse>
+        
+        <title type="sub">Esau's Sons</title>
+        
+        <verse osisID="1Chr.1.35">The sons of <name type="person">Esau</name>: <name type="person">Eliphaz</name>, <name type="person">Reuel</name>, <name type="person">Jeush</name>, <name type="person">Jalam</name> and <name type="person">Korah</name>.</verse>
+        <verse osisID="1Chr.1.36">The sons of <name type="person">Eliphaz</name>: <name type="person">Teman</name>, <name type="person">Omar</name>, <name type="person">Zepho</name>, <name type="person">Gatam</name> and <name type="person">Kenaz</name>; by <name type="person">Timna</name>: <name type="person">Amalek</name>.</verse>
+        <verse osisID="1Chr.1.37">The sons of <name type="person">Reuel</name>: <name type="person">Nahath</name>, <name type="person">Zerah</name>, <name type="person">Shammah</name> and <name type="person">Mizzah</name>.</verse>
+        
+        <title type="sub">The People of Seir in Edom</title>
+        
+        <verse osisID="1Chr.1.38">The sons of <name type="person">Seir</name>: <name type="person">Lotan</name>, <name type="person">Shobal</name>, <name type="person">Zibeon</name>, <name type="person">Anah</name>, <name type="person">Dishon</name>, <name type="person">Ezer</name> and <name type="person">Dishan</name>.</verse>
+        <verse osisID="1Chr.1.39">The sons of <name type="person">Lotan</name>: <name type="person">Hori</name> and <name type="person">Homam</name>. <name type="person">Timna</name> was <name type="person">Lotan's</name> sister.</verse>
+        <verse osisID="1Chr.1.40">The sons of <name type="person">Shobal</name>: <name type="person">Alvan</name>, <name type="person">Manahath</name>, <name type="person">Ebal</name>, <name type="person">Shepho</name> and <name type="person">Onam</name>. The sons of <name type="person">Zibeon</name>: <name type="person">Aiah</name> and <name type="person">Anah</name>.</verse>
+        <verse osisID="1Chr.1.41">The son of <name type="person">Anah</name>: <name type="person">Dishon</name>. The sons of <name type="person">Dishon</name>: <name type="person">Hemdan</name>, <name type="person">Eshban</name>, <name type="person">Ithran</name> and <name type="person">Keran</name>.</verse>
+        <verse osisID="1Chr.1.42">The sons of <name type="person">Ezer</name>: <name type="person">Bilhan</name>, <name type="person">Zaavan</name> and <name type="person">Akan</name>. The sons of <name type="person">Dishan</name>: <name type="person">Uz</name> and <name type="person">Aran</name>.</verse>
+        
+        <title type="sub">The Rulers of Edom</title>
+        
+        <verse osisID="1Chr.1.43">These were the kings who reigned in <name type="geographic">Edom</name> before any Israelite king reigned: <name type="person">Bela son of Beor</name>, whose city was named <name type="geographic">Dinhabah</name>.</verse>
+        <verse osisID="1Chr.1.44">When <name type="person">Bela</name> died, <name type="person">Jobab son of Zerah</name> from <name type="geographic">Bozrah</name> succeeded him as king.</verse>
+        <verse osisID="1Chr.1.45">When <name type="person">Jobab</name> died, <name type="person">Husham</name> from the land of the <name type="people">Temanites</name> succeeded him as king.</verse>
+        <verse osisID="1Chr.1.46">When <name type="person">Husham</name> died, <name type="person">Hadad son of Bedad</name>, who defeated <name type="geographic">Midian</name> in the country of <name type="geographic">Moab</name>, succeeded him as king. His city was named <name type="geographic">Avith</name>.</verse>
+        <verse osisID="1Chr.1.47">When <name type="person">Hadad</name> died, <name type="person">Samlah</name> from <name type="geographic">Masrekah</name> succeeded him as king.</verse>
+        <verse osisID="1Chr.1.48">When <name type="person">Samlah</name> died, <name type="person">Shaul</name> from <name type="geographic">Rehoboth on the river</name> succeeded him as king.</verse>
+        <verse osisID="1Chr.1.49">When <name type="person">Shaul</name> died, <name type="person">Baal-Hanan son of Akbor</name> succeeded him as king.</verse>
+        <verse osisID="1Chr.1.50">When <name type="person">Baal-Hanan</name> died, <name type="person">Hadad</name> succeeded him as king. His city was named <name type="geographic">Pau</name>, and his wife's name was <name type="person">Mehetabel daughter of Matred</name>, the daughter of <name type="person">Me-Zahab</name>.</verse>
+        <verse osisID="1Chr.1.51"><name type="person">Hadad</name> also died. The chiefs of <name type="geographic">Edom</name> were: <name type="person">Timna</name>, <name type="person">Alvah</name>, <name type="person">Jetheth</name>,</verse>
+        <verse osisID="1Chr.1.52"><name type="person">Oholibamah</name>, <name type="person">Elah</name>, <name type="person">Pinon</name>,</verse>
+        <verse osisID="1Chr.1.53"><name type="person">Kenaz</name>, <name type="person">Teman</name>, <name type="person">Mibzar</name>,</verse>
+        <verse osisID="1Chr.1.54"><name type="person">Magdiel</name> and <name type="person">Iram</name>. These were the chiefs of <name type="geographic">Edom</name>.</verse>
+      </chapter>
+      
+      <chapter osisID="1Chr.2">
+        <title type="chapter">Chapter 2</title>
+        <title type="sub">The Sons of Israel</title>
+        
+        <verse osisID="1Chr.2.1">These were the sons of <name type="person">Israel</name>: <name type="person">Reuben</name>, <name type="person">Simeon</name>, <name type="person">Levi</name>, <name type="person">Judah</name>, <name type="person">Issachar</name>, <name type="person">Zebulun</name>,</verse>
+        <verse osisID="1Chr.2.2"><name type="person">Dan</name>, <name type="person">Joseph</name>, <name type="person">Benjamin</name>, <name type="person">Naphtali</name>, <name type="person">Gad</name> and <name type="person">Asher</name>.</verse>
+        
+        <title type="sub">Judah's Descendants</title>
+        
+        <verse osisID="1Chr.2.3">The sons of <name type="person">Judah</name>: <name type="person">Er</name>, <name type="person">Onan</name> and <name type="person">Shelah</name>. These three were born to him by a <name type="people">Canaanite</name> woman, the daughter of <name type="person">Shua</name>. <name type="person">Er</name>, <name type="person">Judah's</name> firstborn, was wicked in Yahweh's sight; so he put him to death.</verse>
+        <verse osisID="1Chr.2.4"><name type="person">Tamar</name>, <name type="person">Judah's</name> daughter-in-law, bore <name type="person">Perez</name> and <name type="person">Zerah</name> to him. <name type="person">Judah</name> had five sons in all.</verse>
+        <verse osisID="1Chr.2.5">The sons of <name type="person">Perez</name>: <name type="person">Hezron</name> and <name type="person">Hamul</name>.</verse>
+        <verse osisID="1Chr.2.6">The sons of <name type="person">Zerah</name>: <name type="person">Zimri</name>, <name type="person">Ethan</name>, <name type="person">Heman</name>, <name type="person">Kalkol</name> and <name type="person">Darda</name>—five in all.</verse>
+        <verse osisID="1Chr.2.7">The son of <name type="person">Karmi</name>: <name type="person">Akar</name>, who brought trouble on <name type="person">Israel</name> by violating the ban on taking devoted things.</verse>
+        <verse osisID="1Chr.2.8">The son of <name type="person">Ethan</name>: <name type="person">Azariah</name>.</verse>
+        
+        <title type="sub">From Hezron to David</title>
+        
+        <verse osisID="1Chr.2.9">The sons born to <name type="person">Hezron</name> were: <name type="person">Jerahmeel</name>, <name type="person">Ram</name> and <name type="person">Caleb</name>.</verse>
+        <verse osisID="1Chr.2.10"><name type="person">Ram</name> was the father of <name type="person">Amminadab</name>, and <name type="person">Amminadab</name> the father of <name type="person">Nahshon</name>, the leader of the people of <name type="person">Judah</name>.</verse>
+        <verse osisID="1Chr.2.11"><name type="person">Nahshon</name> was the father of <name type="person">Salmon</name>, <name type="person">Salmon</name> the father of <name type="person">Boaz</name>,</verse>
+        <verse osisID="1Chr.2.12"><name type="person">Boaz</name> the father of <name type="person">Obed</name> and <name type="person">Obed</name> the father of <name type="person">Jesse</name>.</verse>
+        <verse osisID="1Chr.2.13"><name type="person">Jesse</name> was the father of <name type="person">Eliab</name> his firstborn; the second son was <name type="person">Abinadab</name>, the third <name type="person">Shimea</name>,</verse>
+        <verse osisID="1Chr.2.14">the fourth <name type="person">Nethanel</name>, the fifth <name type="person">Raddai</name>,</verse>
+        <verse osisID="1Chr.2.15">the sixth <name type="person">Ozem</name> and the seventh <name type="person">David</name>.</verse>
+        <verse osisID="1Chr.2.16">Their sisters were <name type="person">Zeruiah</name> and <name type="person">Abigail</name>. <name type="person">Zeruiah's</name> three sons were <name type="person">Abishai</name>, <name type="person">Joab</name> and <name type="person">Asahel</name>.</verse>
+        <verse osisID="1Chr.2.17"><name type="person">Abigail</name> was the mother of <name type="person">Amasa</name>, whose father was <name type="person">Jether</name> the <name type="people">Ishmaelite</name>.</verse>
+        
+        <title type="sub">Caleb's Descendants</title>
+        
+        <verse osisID="1Chr.2.18"><name type="person">Caleb</name> son of <name type="person">Hezron</name> had children by his wife <name type="person">Azubah</name> (and by <name type="person">Jerioth</name>). These were her sons: <name type="person">Jesher</name>, <name type="person">Shobab</name> and <name type="person">Ardon</name>.</verse>
+        <verse osisID="1Chr.2.19">When <name type="person">Azubah</name> died, <name type="person">Caleb</name> married <name type="person">Ephrath</name>, who bore him <name type="person">Hur</name>.</verse>
+        <verse osisID="1Chr.2.20"><name type="person">Hur</name> was the father of <name type="person">Uri</name>, and <name type="person">Uri</name> the father of <name type="person">Bezalel</name>.</verse>
+        
+        <verse osisID="1Chr.2.21">Later, <name type="person">Hezron</name>, when he was sixty years old, married the daughter of <name type="person">Makir</name> the father of <name type="person">Gilead</name>. He made love to her, and she bore him <name type="person">Segub</name>.</verse>
+        <verse osisID="1Chr.2.22"><name type="person">Segub</name> was the father of <name type="person">Jair</name>, who controlled twenty-three towns in <name type="geographic">Gilead</name>.</verse>
+        <verse osisID="1Chr.2.23">(But <name type="geographic">Geshur</name> and <name type="geographic">Aram</name> captured <name type="geographic">Havvoth Jair</name>, as well as <name type="geographic">Kenath</name> with its surrounding settlements—sixty towns.) All these were descendants of <name type="person">Makir</name> the father of <name type="geographic">Gilead</name>.</verse>
+        <verse osisID="1Chr.2.24">After <name type="person">Hezron</name> died in <name type="geographic">Caleb Ephrathah</name>, <name type="person">Abijah</name> the wife of <name type="person">Hezron</name> bore him <name type="person">Ashhur</name> the father of <name type="geographic">Tekoa</name>.</verse>
+        
+        <title type="sub">Jerahmeel's Descendants</title>
+        
+        <verse osisID="1Chr.2.25">The sons of <name type="person">Jerahmeel</name> the firstborn of <name type="person">Hezron</name>: <name type="person">Ram</name> the firstborn, <name type="person">Bunah</name>, <name type="person">Oren</name>, <name type="person">Ozem</name> and <name type="person">Ahijah</name>.</verse>
+        <verse osisID="1Chr.2.26"><name type="person">Jerahmeel</name> had another wife, whose name was <name type="person">Atarah</name>; she was the mother of <name type="person">Onam</name>.</verse>
+        <verse osisID="1Chr.2.27">The sons of <name type="person">Ram</name> the firstborn of <name type="person">Jerahmeel</name>: <name type="person">Maaz</name>, <name type="person">Jamin</name> and <name type="person">Eker</name>.</verse>
+        <verse osisID="1Chr.2.28">The sons of <name type="person">Onam</name>: <name type="person">Shammai</name> and <name type="person">Jada</name>. The sons of <name type="person">Shammai</name>: <name type="person">Nadab</name> and <name type="person">Abishur</name>.</verse>
+        <verse osisID="1Chr.2.29"><name type="person">Abishur's</name> wife was named <name type="person">Abihail</name>, who bore him <name type="person">Ahban</name> and <name type="person">Molid</name>.</verse>
+        <verse osisID="1Chr.2.30">The sons of <name type="person">Nadab</name>: <name type="person">Seled</name> and <name type="person">Appaim</name>. <name type="person">Seled</name> died without children.</verse>
+        <verse osisID="1Chr.2.31">The son of <name type="person">Appaim</name>: <name type="person">Ishi</name>. The son of <name type="person">Ishi</name>: <name type="person">Sheshan</name>. The son of <name type="person">Sheshan</name>: <name type="person">Ahlai</name>.</verse>
+        <verse osisID="1Chr.2.32">The sons of <name type="person">Jada</name>, <name type="person">Shammai's</name> brother: <name type="person">Jether</name> and <name type="person">Jonathan</name>. <name type="person">Jether</name> died without children.</verse>
+        <verse osisID="1Chr.2.33">The sons of <name type="person">Jonathan</name>: <name type="person">Peleth</name> and <name type="person">Zaza</name>. These were the descendants of <name type="person">Jerahmeel</name>.</verse>
+        
+        <verse osisID="1Chr.2.34"><name type="person">Sheshan</name> had no sons—only daughters. He had an <name type="people">Egyptian</name> servant named <name type="person">Jarha</name>.</verse>
+        <verse osisID="1Chr.2.35"><name type="person">Sheshan</name> gave his daughter in marriage to his servant <name type="person">Jarha</name>, and she bore him <name type="person">Attai</name>.</verse>
+        <verse osisID="1Chr.2.36"><name type="person">Attai</name> was the father of <name type="person">Nathan</name>, <name type="person">Nathan</name> the father of <name type="person">Zabad</name>,</verse>
+        <verse osisID="1Chr.2.37"><name type="person">Zabad</name> the father of <name type="person">Ephlal</name>, <name type="person">Ephlal</name> the father of <name type="person">Obed</name>,</verse>
+        <verse osisID="1Chr.2.38"><name type="person">Obed</name> the father of <name type="person">Jehu</name>, <name type="person">Jehu</name> the father of <name type="person">Azariah</name>,</verse>
+        <verse osisID="1Chr.2.39"><name type="person">Azariah</name> the father of <name type="person">Helez</name>, <name type="person">Helez</name> the father of <name type="person">Eleasah</name>,</verse>
+        <verse osisID="1Chr.2.40"><name type="person">Eleasah</name> the father of <name type="person">Sismai</name>, <name type="person">Sismai</name> the father of <name type="person">Shallum</name>,</verse>
+        <verse osisID="1Chr.2.41"><name type="person">Shallum</name> the father of <name type="person">Jekamiah</name>, and <name type="person">Jekamiah</name> the father of <name type="person">Elishama</name>.</verse>
+        
+        <title type="sub">The Clans of Caleb</title>
+        
+        <verse osisID="1Chr.2.42">The sons of <name type="person">Caleb</name> the brother of <name type="person">Jerahmeel</name>: <name type="person">Mesha</name> his firstborn, who was the father of <name type="geographic">Ziph</name>, and his son <name type="person">Mareshah</name>, who was the father of <name type="geographic">Hebron</name>.</verse>
+        <verse osisID="1Chr.2.43">The sons of <name type="geographic">Hebron</name>: <name type="person">Korah</name>, <name type="person">Tappuah</name>, <name type="person">Rekem</name> and <name type="person">Shema</name>.</verse>
+        <verse osisID="1Chr.2.44"><name type="person">Shema</name> was the father of <name type="person">Raham</name>, and <name type="person">Raham</name> the father of <name type="geographic">Jorkeam</name>. <name type="person">Rekem</name> was the father of <name type="person">Shammai</name>.</verse>
+        <verse osisID="1Chr.2.45">The son of <name type="person">Shammai</name>: <name type="person">Maon</name>, who was the father of <name type="geographic">Beth Zur</name>.</verse>
+        <verse osisID="1Chr.2.46"><name type="person">Ephah</name>, <name type="person">Caleb's</name> concubine, was the mother of <name type="person">Haran</name>, <name type="person">Moza</name> and <name type="person">Gazez</name>. <name type="person">Haran</name> was the father of <name type="person">Gazez</name>.</verse>
+        <verse osisID="1Chr.2.47">The sons of <name type="person">Jahdai</name>: <name type="person">Regem</name>, <name type="person">Jotham</name>, <name type="person">Geshan</name>, <name type="person">Pelet</name>, <name type="person">Ephah</name> and <name type="person">Shaaph</name>.</verse>
+        <verse osisID="1Chr.2.48"><name type="person">Maakah</name>, <name type="person">Caleb's</name> concubine, was the mother of <name type="person">Sheber</name> and <name type="person">Tirhanah</name>.</verse>
+        <verse osisID="1Chr.2.49">She also gave birth to <name type="person">Shaaph</name> the father of <name type="geographic">Madmannah</name> and to <name type="person">Sheva</name> the father of <name type="geographic">Makbenah</name> and <name type="geographic">Gibea</name>. <name type="person">Caleb's</name> daughter was <name type="person">Aksah</name>.</verse>
+        <verse osisID="1Chr.2.50">These were the descendants of <name type="person">Caleb</name>. The sons of <name type="person">Hur</name> the firstborn of <name type="person">Ephrath</name>: <name type="person">Shobal</name> the father of <name type="geographic">Kiriath Jearim</name>,</verse>
+        <verse osisID="1Chr.2.51"><name type="person">Salma</name> the father of <name type="geographic">Bethlehem</name>, and <name type="person">Hareph</name> the father of <name type="geographic">Beth Gader</name>.</verse>
+        <verse osisID="1Chr.2.52">The descendants of <name type="person">Shobal</name> the father of <name type="geographic">Kiriath Jearim</name> were: <name type="person">Haroeh</name>, half the <name type="people">Manahathites</name>,</verse>
+        <verse osisID="1Chr.2.53">and the clans of <name type="geographic">Kiriath Jearim</name>: the <name type="people">Ithrites</name>, <name type="people">Puthites</name>, <name type="people">Shumathites</name> and <name type="people">Mishraites</name>. From these descended the <name type="people">Zorathites</name> and the <name type="people">Eshtaolites</name>.</verse>
+        <verse osisID="1Chr.2.54">The descendants of <name type="person">Salma</name>: <name type="geographic">Bethlehem</name>, the <name type="people">Netophathites</name>, <name type="geographic">Atroth Beth Joab</name>, half the <name type="people">Manahathites</name>, the <name type="people">Zorites</name>,</verse>
+        <verse osisID="1Chr.2.55">and the clans of scribes who lived at <name type="geographic">Jabez</name>: the <name type="people">Tirathites</name>, <name type="people">Shimeathites</name> and <name type="people">Sucathites</name>. These are the <name type="people">Kenites</name> who came from <name type="person">Hammath</name>, the father of the family of <name type="geographic">Rekab</name>.</verse>
+      </chapter>
+      
+      <chapter osisID="1Chr.3">
+        <title type="chapter">Chapter 3</title>
+        <title type="sub">The Sons of David</title>
+        
+        <verse osisID="1Chr.3.1">These were the sons of <name type="person">David</name> born to him in <name type="geographic">Hebron</name>: The firstborn was <name type="person">Amnon</name> the son of <name type="person">Ahinoam</name> of <name type="geographic">Jezreel</name>; the second, <name type="person">Daniel</name> the son of <name type="person">Abigail</name> of <name type="geographic">Carmel</name>;</verse>
+        <verse osisID="1Chr.3.2">the third, <name type="person">Absalom</name> the son of <name type="person">Maakah</name> daughter of <name type="person">Talmai</name> king of <name type="geographic">Geshur</name>; the fourth, <name type="person">Adonijah</name> the son of <name type="person">Haggith</name>;</verse>
+        <verse osisID="1Chr.3.3">the fifth, <name type="person">Shephatiah</name> the son of <name type="person">Abital</name>; and the sixth, <name type="person">Ithream</name>, by his wife <name type="person">Eglah</name>.</verse>
+        <verse osisID="1Chr.3.4">These six were born to <name type="person">David</name> in <name type="geographic">Hebron</name>, where he reigned seven years and six months. <name type="person">David</name> reigned in <name type="geographic">Jerusalem</name> thirty-three years,</verse>
+        <verse osisID="1Chr.3.5">and these were the children born to him there: <name type="person">Shammua</name>, <name type="person">Shobab</name>, <name type="person">Nathan</name> and <name type="person">Solomon</name>. These four were by <name type="person">Bathsheba</name> daughter of <name type="person">Ammiel</name>.</verse>
+        <verse osisID="1Chr.3.6">There were also <name type="person">Ibhar</name>, <name type="person">Elishua</name>, <name type="person">Eliphelet</name>,</verse>
+        <verse osisID="1Chr.3.7"><name type="person">Nogah</name>, <name type="person">Nepheg</name>, <name type="person">Japhia</name>,</verse>
+        <verse osisID="1Chr.3.8"><name type="person">Elishama</name>, <name type="person">Eliada</name> and <name type="person">Eliphelet</name>—nine in all.</verse>
+        <verse osisID="1Chr.3.9">All these were the sons of <name type="person">David</name>, besides his sons by his concubines. And <name type="person">Tamar</name> was their sister.</verse>
+        
+        <title type="sub">The Kings of Judah</title>
+        
+        <verse osisID="1Chr.3.10"><name type="person">Solomon's</name> son was <name type="person">Rehoboam</name>, <name type="person">Abijah</name> his son, <name type="person">Asa</name> his son, <name type="person">Jehoshaphat</name> his son,</verse>
+        <verse osisID="1Chr.3.11"><name type="person">Jehoram</name> his son, <name type="person">Ahaziah</name> his son, <name type="person">Joash</name> his son,</verse>
+        <verse osisID="1Chr.3.12"><name type="person">Amaziah</name> his son, <name type="person">Azariah</name> his son, <name type="person">Jotham</name> his son,</verse>
+        <verse osisID="1Chr.3.13"><name type="person">Ahaz</name> his son, <name type="person">Hezekiah</name> his son, <name type="person">Manasseh</name> his son,</verse>
+        <verse osisID="1Chr.3.14"><name type="person">Amon</name> his son, <name type="person">Josiah</name> his son.</verse>
+        <verse osisID="1Chr.3.15">The sons of <name type="person">Josiah</name>: <name type="person">Johanan</name> the firstborn, <name type="person">Jehoiakim</name> the second son, <name type="person">Zedekiah</name> the third, <name type="person">Shallum</name> the fourth.</verse>
+        <verse osisID="1Chr.3.16">The descendants of <name type="person">Jehoiakim</name>: <name type="person">Jehoiachin</name> his son, and <name type="person">Zedekiah</name> his son.</verse>
+        
+        <title type="sub">The Royal Line After the Exile</title>
+        
+        <verse osisID="1Chr.3.17">The descendants of <name type="person">Jehoiachin</name> the captive: <name type="person">Shealtiel</name> his son,</verse>
+        <verse osisID="1Chr.3.18"><name type="person">Malkiram</name>, <name type="person">Pedaiah</name>, <name type="person">Shenazzar</name>, <name type="person">Jekamiah</name>, <name type="person">Hoshama</name> and <name type="person">Nedabiah</name>.</verse>
+        <verse osisID="1Chr.3.19">The sons of <name type="person">Pedaiah</name>: <name type="person">Zerubbabel</name> and <name type="person">Shimei</name>. The sons of <name type="person">Zerubbabel</name>: <name type="person">Meshullam</name> and <name type="person">Hananiah</name>. <name type="person">Shelomith</name> was their sister.</verse>
+        <verse osisID="1Chr.3.20">There were also five others: <name type="person">Hashubah</name>, <name type="person">Ohel</name>, <name type="person">Berekiah</name>, <name type="person">Hasadiah</name> and <name type="person">Jushab-Hesed</name>.</verse>
+        <verse osisID="1Chr.3.21">The descendants of <name type="person">Hananiah</name>: <name type="person">Pelatiah</name> and <name type="person">Jeshaiah</name>, and the sons of <name type="person">Rephaiah</name>, of <name type="person">Arnan</name>, of <name type="person">Obadiah</name> and of <name type="person">Shekaniah</name>.</verse>
+        <verse osisID="1Chr.3.22">The descendants of <name type="person">Shekaniah</name>: <name type="person">Shemaiah</name> and his sons: <name type="person">Hattush</name>, <name type="person">Igal</name>, <name type="person">Bariah</name>, <name type="person">Neariah</name> and <name type="person">Shaphat</name>—six in all.</verse>
+        <verse osisID="1Chr.3.23">The sons of <name type="person">Neariah</name>: <name type="person">Elioenai</name>, <name type="person">Hizkiah</name> and <name type="person">Azrikam</name>—three in all.</verse>
+        <verse osisID="1Chr.3.24">The sons of <name type="person">Elioenai</name>: <name type="person">Hodaviah</name>, <name type="person">Eliashib</name>, <name type="person">Pelaiah</name>, <name type="person">Akkub</name>, <name type="person">Johanan</name>, <name type="person">Delaiah</name> and <name type="person">Anani</name>—seven in all.</verse>
+      </chapter>
