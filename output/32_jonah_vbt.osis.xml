@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace 
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <refSystem>Bible</refSystem>
+        <rights>Public Domain</rights>
+      </work>
+    </header>
+    <div type="book" osisID="Jonah" canonical="true">
+      <title type="main">Jonah</title>
+      
+      <chapter osisID="Jonah.1">
+        <title type="chapter">Chapter 1</title>
+        
+        <title type="main">Jonah Flees from the Lord</title>
+        
+        <verse osisID="Jonah.1.1">The word of Yahweh came to Jonah son of Amittai:</verse>
+        
+        <verse osisID="Jonah.1.2">"Get up! Go to Nineveh, the great city, and preach against it because their wickedness has come up before me."</verse>
+        
+        <verse osisID="Jonah.1.3">But Jonah got up to flee to Tarshish, away from Yahweh's presence. He went down to Joppa and found a ship going to Tarshish. He paid the fare and went down into it to go with them to Tarshish, away from Yahweh's presence.<note type="study">Tarshish was likely located in Spain, representing the farthest western destination known to ancient Israel. Joppa (modern Jaffa) was Israel's main seaport.</note></verse>
+        
+        <verse osisID="Jonah.1.4">But Yahweh hurled a great wind onto the sea, and such a great storm arose on the sea that the ship was about to break apart.</verse>
+        
+        <verse osisID="Jonah.1.5">The sailors were afraid, and each cried out to his god. They threw the ship's cargo into the sea to lighten the load. Meanwhile, Jonah had gone down to the lowest part of the vessel and had lain down and fallen into a deep sleep.</verse>
+        
+        <verse osisID="Jonah.1.6">The ship's captain approached him and said, "What's the matter with you, sleeper? Get up! Call to your god. Maybe this god will consider us, and we won't perish."</verse>
+        
+        <verse osisID="Jonah.1.7">"Come on!" the sailors said to each other. "Let's cast lots. Then we'll know who is to blame for this trouble we're in." So they cast lots, and the lot singled out Jonah.</verse>
+        
+        <verse osisID="Jonah.1.8">Then they said to him, "Tell us who is to blame for this trouble we're in. What is your business, and where are you from? What is your country, and what people are you from?"</verse>
+        
+        <verse osisID="Jonah.1.9">He answered them, "I'm a Hebrew. I worship Yahweh, the God of the heavens, who made the sea and the dry land."</verse>
+        
+        <verse osisID="Jonah.1.10">Then the men were seized with great fear and said to him, "What have you done?" The men knew he was fleeing from Yahweh's presence because he had told them.</verse>
+        
+        <verse osisID="Jonah.1.11">So they said to him, "What should we do to you so that the sea will calm down for us?" For the sea was getting worse and worse.</verse>
+        
+        <verse osisID="Jonah.1.12">He answered them, "Pick me up and throw me into the sea so it will calm down for you, for I know that I'm to blame for this great storm that's against you."</verse>
+        
+        <verse osisID="Jonah.1.13">Nevertheless, the men rowed hard to get back to dry land, but they couldn't because the sea was raging against them more and more.</verse>
+        
+        <verse osisID="Jonah.1.14">So they called out to Yahweh: "Please, Yahweh, don't let us perish because of this man's life, and don't charge us with innocent blood! For you, Yahweh, have done just as you pleased."</verse>
+        
+        <verse osisID="Jonah.1.15">Then they picked up Jonah and threw him into the sea, and the sea stopped its raging.</verse>
+        
+        <verse osisID="Jonah.1.16">The men were seized with great fear of Yahweh, and they offered a sacrifice to Yahweh and made vows.</verse>
+        
+        <verse osisID="Jonah.1.17">The Lord appointed a great fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights.<note type="study">The Hebrew דָּג גָּדוֹל (dag gadol) means "great fish," not necessarily a whale. The specific type of sea creature is not identified.</note></verse>
+      </chapter>
+      
+      <chapter osisID="Jonah.2">
+        <title type="chapter">Chapter 2</title>
+        
+        <title type="main">Jonah's Prayer</title>
+        
+        <verse osisID="Jonah.2.1">Jonah prayed to Yahweh his God from the belly of the fish:</verse>
+        
+        <verse osisID="Jonah.2.2">"I called to Yahweh in my distress, and he answered me. I cried out for help from deep within Sheol; you heard my voice.</verse>
+        
+        <verse osisID="Jonah.2.3">You threw me into the depths, into the heart of the seas, and the current surrounded me. All your breakers and your billows swept over me.</verse>
+        
+        <verse osisID="Jonah.2.4">But I said, 'I have been banished from your sight, yet I will look once more toward your set apart temple.'</verse>
+        
+        <verse osisID="Jonah.2.5">The water engulfed me up to the neck; the watery depths surrounded me; seaweed was wrapped around my head.</verse>
+        
+        <verse osisID="Jonah.2.6">I sank down to the foundations of the mountains, the earth's gates shut behind me forever! But you raised my life from the pit, Yahweh my God!</verse>
+        
+        <verse osisID="Jonah.2.7">As my life was fading away, I remembered Yahweh, and my prayer came to you, to your set apart temple.</verse>
+        
+        <verse osisID="Jonah.2.8">Those who cling to worthless idols abandon their faithful love,</verse>
+        
+        <verse osisID="Jonah.2.9">but as for me, I will sacrifice to you with a voice of thanksgiving. I will fulfill what I have vowed. Salvation belongs to Yahweh!"</verse>
+        
+        <verse osisID="Jonah.2.10">Then Yahweh commanded the fish, and it vomited Jonah onto dry land.</verse>
+      </chapter>
+      
+      <chapter osisID="Jonah.3">
+        <title type="chapter">Chapter 3</title>
+        
+        <title type="main">Jonah Goes to Nineveh</title>
+        
+        <verse osisID="Jonah.3.1">Then the word of Yahweh came to Jonah a second time:</verse>
+        
+        <verse osisID="Jonah.3.2">"Get up! Go to Nineveh, the great city, and proclaim the message that I tell you."</verse>
+        
+        <verse osisID="Jonah.3.3">So Jonah got up and went to Nineveh according to Yahweh's command. Now Nineveh was an extremely large city, a three-day walk.<note type="study">The phrase "three-day walk" likely refers to the time needed to traverse the entire metropolitan area of Nineveh, which included several connected cities.</note></verse>
+        
+        <verse osisID="Jonah.3.4">Jonah set out on the first day of his walk in the city and proclaimed, "In forty days Nineveh will be demolished!"</verse>
+        
+        <title type="main">Nineveh's Response</title>
+        
+        <verse osisID="Jonah.3.5">Then the people of Nineveh believed God. They proclaimed a fast and dressed in rough cloth—from the greatest of them to the least.</verse>
+        
+        <verse osisID="Jonah.3.6">When word reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with rough cloth, and sat in ashes.</verse>
+        
+        <verse osisID="Jonah.3.7">Then he issued a decree in Nineveh: "By order of the king and his nobles: No person or animal, herd or flock, is to taste anything at all. They must not eat or drink water.</verse>
+        
+        <verse osisID="Jonah.3.8">Furthermore, both people and animals must be covered with rough cloth, and everyone must call out earnestly to God. Each must turn from his evil ways and from the violence he is doing.</verse>
+        
+        <verse osisID="Jonah.3.9">Who knows? God may turn around and show compassion and turn from his burning anger so that we will not perish."</verse>
+        
+        <verse osisID="Jonah.3.10">God saw their actions—that they had turned from their evil ways—so God changed his mind about the disaster he had threatened them with. And he did not do it.</verse>
+      </chapter>
+      
+      <chapter osisID="Jonah.4">
+        <title type="chapter">Chapter 4</title>
+        
+        <title type="main">Jonah's Displeasure and God's Compassion</title>
+        
+        <verse osisID="Jonah.4.1">Jonah was greatly displeased and became furious.</verse>
+        
+        <verse osisID="Jonah.4.2">He prayed to Yahweh: "Please, Yahweh, isn't this what I said while I was still in my own country? That's why I fled toward Tarshish in the first place. I knew that you are a gracious and compassionate God, slow to anger, abounding in faithful love, and one who changes his mind about sending disaster.</verse>
+        
+        <verse osisID="Jonah.4.3">And now, Yahweh, take my life from me, for it is better for me to die than to live."</verse>
+        
+        <verse osisID="Jonah.4.4">Yahweh asked, "Is it right for you to be angry?"</verse>
+        
+        <verse osisID="Jonah.4.5">Jonah left the city and found a place east of it. He made himself a shelter there and sat in its shade to see what would happen to the city.</verse>
+        
+        <verse osisID="Jonah.4.6">Then Yahweh God appointed a plant, and it grew over Jonah to provide shade for his head to rescue him from his trouble. Jonah was greatly pleased with the plant.</verse>
+        
+        <verse osisID="Jonah.4.7">When dawn came the next day, God appointed a worm that attacked the plant, and it withered.</verse>
+        
+        <verse osisID="Jonah.4.8">As the sun was rising, God appointed a scorching east wind. The sun beat down on Jonah's head so much that he almost fainted, and he wanted to die. He said, "It's better for me to die than to live."</verse>
+        
+        <verse osisID="Jonah.4.9">Then God asked Jonah, "Is it right for you to be angry about the plant?" "Yes, it's right!" he replied. "I'm angry enough to die!"</verse>
+        
+        <verse osisID="Jonah.4.10">So Yahweh said, "You cared about the plant, which you did not labor over and did not grow. It appeared in a night and perished in a night.</verse>
+        
+        <verse osisID="Jonah.4.11">So may I not care about Nineveh, the great city, which has more than a hundred and twenty thousand people who cannot distinguish between their right and left hand, as well as many animals?"<note type="study">The phrase about people who "cannot distinguish between their right and left hand" likely refers to young children, indicating the large population and God's concern for the innocent.</note></verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>

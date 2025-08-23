@@ -165,7 +165,7 @@
         <verse osisID="Dummy.2.1" n="1a">Sample split verse part a.</verse>
         <verse osisID="Dummy.2.1" n="1b">Sample split verse part b.</verse>
         
-        <verse osisID="Dummy.2.2">Sample verse with speaker <speaker who="person1">Sample Speaker</speaker>: and their speech.</verse>
+        <verse osisID="Dummy.2.2">Sample verse with speaker <speaker who="person1">Sample Speaker</speaker>: and their speech content.</verse>
         
         <table>
           <head>Sample Table Heading</head>

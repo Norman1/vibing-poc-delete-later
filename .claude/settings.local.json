@@ -16,7 +16,13 @@
       "Bash(grep:*)",
       "Bash(python3:*)",
       "Bash(python:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(dir:*)",
+      "Bash(powershell:*)",
+      "Bash(for i in {44..66})",
+      "Bash(do [ ! -f \"output/$i_*.xml\" ])",
+      "Bash(echo:*)",
+      "Bash(done)"
     ],
     "deny": [],
     "ask": [],
