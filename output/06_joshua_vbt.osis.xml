@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <rights type="x-copyright">Public Domain</rights>
+        <scope>Josh</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="Josh" canonical="true">
+      <title>Joshua</title>
+      
+      <chapter osisID="Josh.1" sID="Josh.1"/>
+      <title type="sub">Joshua Installed as Leader</title>
+      <verse osisID="Josh.1.1">After the death of Moses the servant of Yahweh, Yahweh said to Joshua son of Nun, Moses' aide:</verse>
+      <verse osisID="Josh.1.2">"Moses my servant is dead. Now then, you and all these people, get ready to cross the Jordan River into the land I am about to give to them—to the Israelites.</verse>
+      <verse osisID="Josh.1.3">I will give you every place where you set your foot, as I promised Moses.</verse>
+      <verse osisID="Josh.1.4">Your territory will extend from the desert to Lebanon, and from the great river, the Euphrates—all the Hittite country—to the Mediterranean Sea in the west.</verse>
+      <verse osisID="Josh.1.5">No one will be able to stand against you all the days of your life. As I was with Moses, so I will be with you; I will never leave you nor forsake you.</verse>
+      <verse osisID="Josh.1.6">Be strong and courageous, because you will lead these people to inherit the land I swore to their ancestors to give them.</verse>
+      <verse osisID="Josh.1.7">Be strong and very courageous. Be careful to obey all the law my servant Moses gave you; do not turn from it to the right or to the left, that you may be successful wherever you go.</verse>
+      <verse osisID="Josh.1.8">Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful.</verse>
+      <verse osisID="Josh.1.9">Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for Yahweh your God will be with you wherever you go."</verse>
+      <verse osisID="Josh.1.10">So Joshua ordered the officers of the people:</verse>
+      <verse osisID="Josh.1.11">"Go through the camp and tell the people, 'Get your provisions ready. Three days from now you will cross the Jordan here to go in and take possession of the land Yahweh your God is giving you for your own.'"</verse>
+      <verse osisID="Josh.1.12">But to the Reubenites, the Gadites and the half-tribe of Manasseh, Joshua said,</verse>
+      <verse osisID="Josh.1.13">"Remember the command that Moses the servant of Yahweh gave you after he said, 'Yahweh your God will give you rest by giving you this land.'</verse>
+      <verse osisID="Josh.1.14">Your wives, your children and your livestock may stay in the land that Moses gave you east of the Jordan, but all your fighting men, ready for battle, must cross over ahead of your fellow Israelites. You are to help them</verse>
+      <verse osisID="Josh.1.15">until Yahweh gives them rest, as he has done for you, and until they too have taken possession of the land Yahweh your God is giving them. After that, you may go back and occupy your own land, which Moses the servant of Yahweh gave you east of the Jordan toward the sunrise."</verse>
+      <verse osisID="Josh.1.16">Then they answered Joshua, "Whatever you have commanded us we will do, and wherever you send us we will go.</verse>
+      <verse osisID="Josh.1.17">Just as we fully obeyed Moses, so we will obey you. Only may Yahweh your God be with you as he was with Moses.</verse>
+      <verse osisID="Josh.1.18">Whoever rebels against your word and does not obey it, whatever you may command them, will be put to death. Only be strong and courageous!"</verse>
+      <chapter eID="Josh.1"/>
+      
+      <chapter osisID="Josh.2" sID="Josh.2"/>
+      <title type="sub">Rahab and the Spies</title>
+      <verse osisID="Josh.2.1">Then Joshua son of Nun secretly sent two spies from Shittim. "Go, look over the land," he said, "especially Jericho." So they went and entered the house of a prostitute named Rahab and stayed there.</verse>
+      <verse osisID="Josh.2.2">The king of Jericho was told, "Look, some of the Israelites have come here tonight to spy out the land."</verse>
+      <verse osisID="Josh.2.3">So the king of Jericho sent this message to Rahab: "Bring out the men who came to you and entered your house, because they have come to spy out the whole land."</verse>
+      <verse osisID="Josh.2.4">But the woman had taken the two men and hidden them. She said, "Yes, the men came to me, but I did not know where they had come from.</verse>
+      <verse osisID="Josh.2.5">At dusk, when it was time to close the city gate, they left. I don't know which way they went. Go after them quickly. You may catch up with them."</verse>
+      <verse osisID="Josh.2.6">(But she had taken them up to the roof and hidden them under the stalks of flax she had laid out on the roof.)</verse>
+      <verse osisID="Josh.2.7">So the men set out in pursuit of the spies on the road that leads to the fords of the Jordan, and as soon as the pursuers had gone out, the gate was shut.</verse>
+      <verse osisID="Josh.2.8">Before the spies lay down for the night, she went up on the roof</verse>
+      <verse osisID="Josh.2.9">and said to them, "I know that Yahweh has given you this land and that a great fear of you has fallen on us, so that all who live in this country are melting in fear because of you.</verse>
+      <verse osisID="Josh.2.10">We have heard how Yahweh dried up the water of the Red Sea for you when you came out of Egypt, and what you did to Sihon and Og, the two kings of the Amorites east of the Jordan, whom you completely destroyed.</verse>
+      <verse osisID="Josh.2.11">When we heard of it, our hearts melted in fear and everyone's courage failed because of you, for Yahweh your God is God in heaven above and on the earth below.</verse>
+      <verse osisID="Josh.2.12">Now then, please swear to me by Yahweh that you will show kindness to my family, because I have shown kindness to you. Give me a sure sign</verse>
+      <verse osisID="Josh.2.13">that you will spare the lives of my father and mother, my brothers and sisters, and all who belong to them—and that you will save us from death."</verse>
+      <verse osisID="Josh.2.14">"Our lives for your lives!" the men assured her. "If you don't tell what we are doing, we will treat you kindly and faithfully when Yahweh gives us the land."</verse>
+      <verse osisID="Josh.2.15">So she let them down by a rope through the window, for the house she lived in was part of the city wall.</verse>
+      <verse osisID="Josh.2.16">She said to them, "Go to the hills so the pursuers will not find you. Hide yourselves there three days until they return, and then go on your way."</verse>
+      <verse osisID="Josh.2.17">Now the men had said to her, "This oath you made us swear will not be binding on us</verse>
+      <verse osisID="Josh.2.18">unless, when we enter the land, you have tied this scarlet cord in the window through which you let us down, and unless you have brought your father and mother, your brothers and all your family into your house.</verse>
+      <verse osisID="Josh.2.19">If any of them go outside your house into the street, their blood will be on their own heads; we will not be responsible. As for those who are in the house with you, their blood will be on our head if a hand is laid on them.</verse>
+      <verse osisID="Josh.2.20">But if you tell what we are doing, we will be released from the oath you made us swear."</verse>
+      <verse osisID="Josh.2.21">"Agreed," she replied. "Let it be as you say." So she sent them away, and they departed. And she tied the scarlet cord in the window.</verse>
+      <verse osisID="Josh.2.22">When they left, they went into the hills and stayed there three days, until the pursuers had searched all along the road and returned without finding them.</verse>
+      <verse osisID="Josh.2.23">Then the two men started back. They went down out of the hills, forded the river and came to Joshua son of Nun and told him everything that had happened to them.</verse>
+      <verse osisID="Josh.2.24">They said to Joshua, "Yahweh has surely given the whole land into our hands; all the people are melting in fear because of us."</verse>
+      <chapter eID="Josh.2"/>
+      
+      <chapter osisID="Josh.3" sID="Josh.3"/>
+      <title type="sub">Crossing the Jordan</title>
+      <verse osisID="Josh.3.1">Early in the morning Joshua and all the Israelites set out from Shittim and went to the Jordan, where they camped before crossing over.</verse>
+      <verse osisID="Josh.3.2">After three days the officers went throughout the camp,</verse>
+      <verse osisID="Josh.3.3">giving orders to the people: "When you see the ark of the covenant of Yahweh your God, and the Levitical priests carrying it, you are to move out from your positions and follow it.</verse>
+      <verse osisID="Josh.3.4">Then you will know which way to go, since you have never been this way before. But keep a distance of about two thousand cubits between you and the ark; do not go near it."</verse>
+      <verse osisID="Josh.3.5">Joshua told the people, "Consecrate yourselves, for tomorrow Yahweh will do amazing things among you."</verse>
+      <verse osisID="Josh.3.6">Joshua said to the priests, "Take up the ark of the covenant and pass on ahead of the people." So they took it up and went ahead of them.</verse>
+      <verse osisID="Josh.3.7">And Yahweh said to Joshua, "Today I will begin to exalt you in the eyes of all Israel, so they may know that I am with you as I was with Moses.</verse>
+      <verse osisID="Josh.3.8">Tell the priests who carry the ark of the covenant: 'When you reach the edge of the Jordan's waters, go and stand in the river.'"</verse>
+      <verse osisID="Josh.3.9">Joshua said to the Israelites, "Come here and listen to the words of Yahweh your God.</verse>
+      <verse osisID="Josh.3.10">This is how you will know that the living God is among you and that he will certainly drive out before you the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites and Jebusites.</verse>
+      <verse osisID="Josh.3.11">See, the ark of the covenant of the Lord of all the earth will go into the Jordan ahead of you.</verse>
+      <verse osisID="Josh.3.12">Now then, choose twelve men from the tribes of Israel, one from each tribe.</verse>
+      <verse osisID="Josh.3.13">And as soon as the priests who carry the ark of Yahweh—the Lord of all the earth—set foot in the Jordan, its waters flowing downstream will be cut off and stand up in a heap."</verse>
+      <verse osisID="Josh.3.14">So when the people broke camp to cross the Jordan, the priests carrying the ark of the covenant went ahead of them.</verse>
+      <verse osisID="Josh.3.15">Now the Jordan is at flood stage all during harvest. Yet as soon as the priests who carried the ark reached the Jordan and their feet touched the water's edge,</verse>
+      <verse osisID="Josh.3.16">the water from upstream stopped flowing. It piled up in a heap a great distance away, at a town called Adam in the vicinity of Zarethan, while the water flowing down to the Sea of the Arabah (that is, the Dead Sea) was completely cut off. So the people crossed over opposite Jericho.</verse>
+      <verse osisID="Josh.3.17">The priests who carried the ark of the covenant of Yahweh stopped in the middle of the Jordan and stood on dry ground, while all Israel passed by until the whole nation had completed the crossing on dry ground.</verse>
+      <chapter eID="Josh.3"/>
+      
+      <chapter osisID="Josh.4" sID="Josh.4"/>
+      <title type="sub">Memorial Stones Set Up</title>
+      <verse osisID="Josh.4.1">When the whole nation had finished crossing the Jordan, Yahweh said to Joshua,</verse>
+      <verse osisID="Josh.4.2">"Choose twelve men from among the people, one from each tribe,</verse>
+      <verse osisID="Josh.4.3">and tell them to take up twelve stones from the middle of the Jordan, from right where the priests are standing, and carry them over with you and put them down at the place where you stay tonight."</verse>
+      <verse osisID="Josh.4.4">So Joshua called together the twelve men he had appointed from the Israelites, one from each tribe,</verse>
+      <verse osisID="Josh.4.5">and said to them, "Go over before the ark of Yahweh your God into the middle of the Jordan. Each of you is to take up a stone on his shoulder, according to the number of the tribes of the Israelites,</verse>
+      <verse osisID="Josh.4.6">to serve as a sign among you. In the future, when your children ask you, 'What do these stones mean?'</verse>
+      <verse osisID="Josh.4.7">tell them that the flow of the Jordan was cut off before the ark of the covenant of Yahweh. When it crossed the Jordan, the waters of the Jordan were cut off. These stones are to be a memorial to the people of Israel forever."</verse>
+      <verse osisID="Josh.4.8">So the Israelites did as Joshua commanded them. They took twelve stones from the middle of the Jordan, according to the number of the tribes of the Israelites, as Yahweh had told Joshua; and they carried them over with them to their camp, where they put them down.</verse>
+      <verse osisID="Josh.4.9">Joshua set up the twelve stones that had been in the middle of the Jordan at the spot where the priests who carried the ark of the covenant had stood. And they are there to this day.</verse>
+      <verse osisID="Josh.4.10">Now the priests who carried the ark remained standing in the middle of the Jordan until everything Yahweh had commanded Joshua was done by the people, just as Moses had directed Joshua. The people hurried over,</verse>
+      <verse osisID="Josh.4.11">and as soon as all of them had crossed, the ark of Yahweh and the priests came to the other side while the people watched.</verse>
+      <verse osisID="Josh.4.12">The men of Reuben, Gad and the half-tribe of Manasseh crossed over, ready for battle, in front of the Israelites, as Moses had directed them.</verse>
+      <verse osisID="Josh.4.13">About forty thousand armed for battle crossed over before Yahweh to the plains of Jericho for war.</verse>
+      <verse osisID="Josh.4.14">That day Yahweh exalted Joshua in the sight of all Israel; and they stood in awe of him all the days of his life, just as they had stood in awe of Moses.</verse>
+      <verse osisID="Josh.4.15">Then Yahweh said to Joshua,</verse>
+      <verse osisID="Josh.4.16">"Command the priests carrying the ark of the covenant law to come up out of the Jordan."</verse>
+      <verse osisID="Josh.4.17">So Joshua commanded the priests, "Come up out of the Jordan."</verse>
+      <verse osisID="Josh.4.18">And the priests came up out of the river carrying the ark of the covenant of Yahweh. No sooner had they set their feet on the dry ground than the waters of the Jordan returned to their place and ran at flood stage as before.</verse>
+      <verse osisID="Josh.4.19">On the tenth day of the first month the people went up from the Jordan and camped at Gilgal on the eastern border of Jericho.</verse>
+      <verse osisID="Josh.4.20">And Joshua set up at Gilgal the twelve stones they had taken out of the Jordan.</verse>
+      <verse osisID="Josh.4.21">He said to the Israelites, "In the future when your descendants ask their parents, 'What do these stones mean?'</verse>
+      <verse osisID="Josh.4.22">tell them, 'Israel crossed the Jordan on dry ground.'</verse>
+      <verse osisID="Josh.4.23">For Yahweh your God dried up the Jordan before you until you had crossed over. Yahweh your God did to the Jordan what he had done to the Red Sea when he dried it up before us until we had crossed over.</verse>
+      <verse osisID="Josh.4.24">He did this so that all the peoples of the earth might know that the hand of Yahweh is powerful and so that you might always fear Yahweh your God."</verse>
+      <chapter eID="Josh.4"/>
+      
+      <chapter osisID="Josh.5" sID="Josh.5"/>
+      <title type="sub">Circumcision and Passover at Gilgal</title>
+      <verse osisID="Josh.5.1">Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how Yahweh had dried up the Jordan before the Israelites until they had crossed over, their hearts melted in fear and they no longer had the courage to face the Israelites.</verse>
+      <verse osisID="Josh.5.2">At that time Yahweh said to Joshua, "Make flint knives and circumcise the Israelites again."</verse>
+      <verse osisID="Josh.5.3">So Joshua made flint knives and circumcised the Israelites at Gibeath Haaraloth.</verse>
+      <verse osisID="Josh.5.4">Now this is why he did so: All those who came out of Egypt—all the men of military age—died in the wilderness on the way after leaving Egypt.</verse>
+      <verse osisID="Josh.5.5">All the people that came out had been circumcised, but all the people born in the wilderness during the journey from Egypt had not.</verse>
+      <verse osisID="Josh.5.6">The Israelites had moved about in the wilderness forty years until all the men who were of military age when they left Egypt had died, since they had not obeyed Yahweh. For Yahweh had sworn to them that they would not see the land he had solemnly promised their ancestors to give us, a land flowing with milk and honey.</verse>
+      <verse osisID="Josh.5.7">So he raised up their sons in their place, and these were the ones Joshua circumcised. They were still uncircumcised because they had not been circumcised on the way.</verse>
+      <verse osisID="Josh.5.8">And after the whole nation had been circumcised, they remained where they were in camp until they were healed.</verse>
+      <verse osisID="Josh.5.9">Then Yahweh said to Joshua, "Today I have rolled away the reproach of Egypt from you." So the place has been called Gilgal to this day.</verse>
+      <verse osisID="Josh.5.10">On the evening of the fourteenth day of the month, while camped at Gilgal on the plains of Jericho, the Israelites celebrated the Passover.</verse>
+      <verse osisID="Josh.5.11">The day after the Passover, that very day, they ate some of the produce of the land: unleavened bread and roasted grain.</verse>
+      <verse osisID="Josh.5.12">The manna stopped the day after they ate this food from the land; there was no longer any manna for the Israelites, but that year they ate the produce of Canaan.</verse>
+      
+      <title type="sub">The Fall of Jericho</title>
+      <verse osisID="Josh.5.13">Now when Joshua was near Jericho, he looked up and saw a man standing in front of him with a drawn sword in his hand. Joshua went up to him and asked, "Are you for us or for our enemies?"</verse>
+      <verse osisID="Josh.5.14">"Neither," he replied, "but as commander of the army of Yahweh I have now come." Then Joshua fell facedown to the ground in reverence, and asked him, "What message does my Lord have for his servant?"</verse>
+      <verse osisID="Josh.5.15">The commander of Yahweh's army replied, "Take off your sandals, for the place where you are standing is set apart." And Joshua did so.</verse>
+      <chapter eID="Josh.5"/>
+      
+      <chapter osisID="Josh.6" sID="Josh.6"/>
+      <verse osisID="Josh.6.1">Now the gates of Jericho were securely barred because of the Israelites. No one went out and no one came in.</verse>
+      <verse osisID="Josh.6.2">Then Yahweh said to Joshua, "See, I have delivered Jericho into your hands, along with its king and its fighting men.</verse>
+      <verse osisID="Josh.6.3">March around the city once with all the armed men. Do this for six days.</verse>
+      <verse osisID="Josh.6.4">Have seven priests carry trumpets of rams' horns in front of the ark. On the seventh day, march around the city seven times, with the priests blowing the trumpets.</verse>
+      <verse osisID="Josh.6.5">When you hear them sound a long blast on the trumpets, have the whole army give a loud shout; then the wall of the city will collapse and the army will go up, everyone straight in."</verse>
+      <verse osisID="Josh.6.6">So Joshua son of Nun called the priests and said to them, "Take up the ark of the covenant of Yahweh and have seven priests carry trumpets in front of it."</verse>
+      <verse osisID="Josh.6.7">And he ordered the army, "Advance! March around the city, with an armed guard going ahead of the ark of Yahweh."</verse>
+      <verse osisID="Josh.6.8">When Joshua had spoken to the people, the seven priests carrying the seven trumpets before Yahweh went forward, blowing their trumpets, and the ark of Yahweh's covenant followed them.</verse>
+      <verse osisID="Josh.6.9">The armed guard marched ahead of the priests who blew the trumpets, and the rear guard followed the ark. All this time the trumpets were sounding.</verse>
+      <verse osisID="Josh.6.10">But Joshua had commanded the army, "Do not give a war cry, do not raise your voices, do not say a word until the day I tell you to shout. Then shout!"</verse>
+      <verse osisID="Josh.6.11">So he had the ark of Yahweh carried around the city, circling it once. Then the army returned to camp and spent the night there.</verse>
+      <verse osisID="Josh.6.12">Joshua got up early the next morning and the priests took up the ark of Yahweh.</verse>
+      <verse osisID="Josh.6.13">The seven priests carrying the seven trumpets went forward, marching before the ark of Yahweh and blowing the trumpets. The armed men went ahead of them and the rear guard followed the ark of Yahweh, while the trumpets kept sounding.</verse>
+      <verse osisID="Josh.6.14">So on the second day they marched around the city once and returned to the camp. They did this for six days.</verse>
+      <verse osisID="Josh.6.15">On the seventh day, they got up at daybreak and marched around the city seven times in the same manner, except that on this day they circled the city seven times.</verse>
+      <verse osisID="Josh.6.16">The seventh time around, when the priests sounded the trumpet blast, Joshua commanded the army, "Shout! For Yahweh has given you the city!</verse>
+      <verse osisID="Josh.6.17">The city and all that is in it are to be devoted to Yahweh. Only Rahab the prostitute and all who are with her in her house shall be spared, because she hid the spies we sent.</verse>
+      <verse osisID="Josh.6.18">But keep away from the devoted things, so that you will not bring about your own destruction by taking any of them. Otherwise you will make the camp of Israel liable to destruction and bring trouble on it.</verse>
+      <verse osisID="Josh.6.19">All the silver and gold and the articles of bronze and iron are set apart to Yahweh and must go into his treasury."</verse>
+      <verse osisID="Josh.6.20">When the trumpets sounded, the army shouted, and at the sound of the trumpet, when the men gave a loud shout, the wall collapsed; so everyone charged straight in, and they took the city.</verse>
+      <verse osisID="Josh.6.21">They devoted the city to Yahweh and destroyed with the sword every living thing in it—men and women, young and old, cattle, sheep and donkeys.</verse>
+      <verse osisID="Josh.6.22">Joshua said to the two men who had spied out the land, "Go into the prostitute's house and bring her out and all who belong to her, in accordance with your oath to her."</verse>
+      <verse osisID="Josh.6.23">So the young men who had done the spying went in and brought out Rahab, her father and mother, her brothers and sisters and all who belonged to her. They brought out her entire family and put them in a place outside the camp of Israel.</verse>
+      <verse osisID="Josh.6.24">Then they burned the whole city and everything in it, but they put the silver and gold and the articles of bronze and iron into the treasury of Yahweh's house.</verse>
+      <verse osisID="Josh.6.25">But Joshua spared Rahab the prostitute, with her family and all who belonged to her, because she hid the men Joshua had sent as spies to Jericho—and she lives among the Israelites to this day.</verse>
+      <verse osisID="Josh.6.26">At that time Joshua pronounced this solemn oath: "Cursed before Yahweh is anyone who undertakes to rebuild this city, Jericho: At the cost of his firstborn son he will lay its foundations; at the cost of his youngest he will set up its gates."</verse>
+      <verse osisID="Josh.6.27">So Yahweh was with Joshua, and his fame spread throughout the land.</verse>
+      <chapter eID="Josh.6"/>
+      
+      <chapter osisID="Josh.7" sID="Josh.7"/>
+      <title type="sub">Achan's Wrongdoing</title>
+      <verse osisID="Josh.7.1">But the Israelites were unfaithful in regard to the devoted things; Achan son of Karmi, the son of Zimri, the son of Zerah, of the tribe of Judah, took some of them. So Yahweh's anger burned against Israel.</verse>
+      <verse osisID="Josh.7.2">Now Joshua sent men from Jericho to Ai, which is near Beth Aven to the east of Bethel, and told them, "Go up and spy out the region." So the men went up and spied out Ai.</verse>
+      <verse osisID="Josh.7.3">When they returned to Joshua, they said, "Not all the army will have to go up against Ai. Send two or three thousand men to take it and do not weary the whole army, for only a few people live there."</verse>
+      <verse osisID="Josh.7.4">So about three thousand went up; but they were routed by the men of Ai,</verse>
+      <verse osisID="Josh.7.5">who killed about thirty-six of them. They chased the Israelites from the city gate as far as the stone quarries and struck them down on the slopes. At this the hearts of the people melted in fear and became like water.</verse>
+      <verse osisID="Josh.7.6">Then Joshua tore his clothes and fell facedown to the ground before the ark of Yahweh, remaining there till evening. The elders of Israel did the same, and sprinkled dust on their heads.</verse>
+      <verse osisID="Josh.7.7">And Joshua said, "Alas, Sovereign Yahweh, why did you ever bring this people across the Jordan to deliver us into the hands of the Amorites to destroy us? If only we had been content to stay on the other side of the Jordan!</verse>
+      <verse osisID="Josh.7.8">Pardon your servant, Lord. What can I say, now that Israel has been routed by its enemies?</verse>
+      <verse osisID="Josh.7.9">The Canaanites and the other people of the country will hear about this and they will surround us and wipe out our name from the earth. What then will you do for your own great name?"</verse>
+      <verse osisID="Josh.7.10">Yahweh said to Joshua, "Stand up! What are you doing down on your face?</verse>
+      <verse osisID="Josh.7.11">Israel has wronged; they have violated my covenant, which I commanded them to keep. They have taken some of the devoted things; they have stolen, they have lied, they have put them with their own possessions.</verse>
+      <verse osisID="Josh.7.12">That is why the Israelites cannot stand against their enemies; they turn their backs and run because they have been made liable to destruction. I will not be with you anymore unless you destroy whatever among you is devoted to destruction.</verse>
+      <verse osisID="Josh.7.13">Go, consecrate the people. Tell them, 'Consecrate yourselves in preparation for tomorrow; for this is what Yahweh, the God of Israel, says: There are devoted things among you, Israel. You cannot stand against your enemies until you remove them.</verse>
+      <verse osisID="Josh.7.14">In the morning, present yourselves tribe by tribe. The tribe Yahweh chooses shall come forward clan by clan; the clan Yahweh chooses shall come forward family by family; and the family Yahweh chooses shall come forward man by man.</verse>
+      <verse osisID="Josh.7.15">Whoever is caught with the devoted things shall be destroyed by fire, along with all that belongs to him. He has violated the covenant of Yahweh and has done an outrageous thing in Israel!'"</verse>
+      <verse osisID="Josh.7.16">Early the next morning Joshua had Israel come forward by tribes, and Judah was chosen.</verse>
+      <verse osisID="Josh.7.17">The clans of Judah came forward, and the Zerahites were chosen. He had the clan of the Zerahites come forward by families, and Zimri was chosen.</verse>
+      <verse osisID="Josh.7.18">Joshua had his family come forward man by man, and Achan son of Karmi, the son of Zimri, the son of Zerah, of the tribe of Judah, was chosen.</verse>
+      <verse osisID="Josh.7.19">Then Joshua said to Achan, "My son, give glory to Yahweh, the God of Israel, and honor him. Tell me what you have done; do not hide it from me."</verse>
+      <verse osisID="Josh.7.20">Achan replied, "It is true! I have wronged against Yahweh, the God of Israel. This is what I have done:</verse>
+      <verse osisID="Josh.7.21">When I saw in the plunder a beautiful robe from Babylonia, two hundred shekels of silver and a bar of gold weighing fifty shekels, I coveted them and took them. They are hidden in the ground inside my tent, with the silver underneath."</verse>
+      <verse osisID="Josh.7.22">So Joshua sent messengers, and they ran to the tent, and there it was, hidden in his tent, with the silver underneath.</verse>
+      <verse osisID="Josh.7.23">They took the things from the tent, brought them to Joshua and all the Israelites and spread them out before Yahweh.</verse>
+      <verse osisID="Josh.7.24">Then Joshua, together with all Israel, took Achan son of Zerah, the silver, the robe, the gold bar, his sons and daughters, his cattle, donkeys and sheep, his tent and all that he had, to the Valley of Achor.</verse>
+      <verse osisID="Josh.7.25">Joshua said, "Why have you brought this trouble on us? Yahweh will bring trouble on you today." Then all Israel stoned him, and after they had stoned the rest, they burned them.</verse>
+      <verse osisID="Josh.7.26">Over Achan they heaped up a large pile of rocks, which remains to this day. Then Yahweh turned from his fierce anger. Therefore that place has been called the Valley of Achor ever since.</verse>
+      <chapter eID="Josh.7"/>
+      
+      <chapter osisID="Josh.8" sID="Josh.8"/>
+      <title type="sub">Ai Destroyed</title>
+      <verse osisID="Josh.8.1">Then Yahweh said to Joshua, "Do not be afraid; do not be discouraged. Take the whole army with you, and go up and attack Ai. For I have delivered into your hands the king of Ai, his people, his city and his land.</verse>
+      <verse osisID="Josh.8.2">You shall do to Ai and its king as you did to Jericho and its king, except that you may carry off their plunder and livestock for yourselves. Set an ambush behind the city."</verse>
+      <verse osisID="Josh.8.3">So Joshua and the whole army moved out to attack Ai. He chose thirty thousand of his best fighting men and sent them out at night</verse>
+      <verse osisID="Josh.8.4">with these orders: "Listen carefully. You are to set an ambush behind the city. Don't go very far from it. All of you be on the alert.</verse>
+      <verse osisID="Josh.8.5">I and all those with me will advance on the city, and when the men come out against us, as they did before, we will flee from them.</verse>
+      <verse osisID="Josh.8.6">They will pursue us until we have lured them away from the city, for they will say, 'They are running away from us as they did before.' So when we flee from them,</verse>
+      <verse osisID="Josh.8.7">you are to rise up from ambush and take the city. Yahweh your God will give it into your hand.</verse>
+      <verse osisID="Josh.8.8">When you have taken the city, set it on fire. Do what Yahweh has commanded. See to it; you have my orders."</verse>
+      <verse osisID="Josh.8.9">Then Joshua sent them off, and they went to the place of ambush and lay in wait between Bethel and Ai, to the west of Ai—but Joshua spent that night with the people.</verse>
+      <verse osisID="Josh.8.10">Early the next morning Joshua mustered his army, and he and the leaders of Israel marched before them to Ai.</verse>
+      <verse osisID="Josh.8.11">The entire force that was with him marched up and approached the city and arrived in front of it. They set up camp north of Ai, with the valley between them and the city.</verse>
+      <verse osisID="Josh.8.12">Joshua had taken about five thousand men and set them in ambush between Bethel and Ai, to the west of the city.</verse>
+      <verse osisID="Josh.8.13">So the soldiers took up their positions—with the main camp to the north of the city and the ambush to the west of it. That night Joshua went into the valley.</verse>
+      <verse osisID="Josh.8.14">When the king of Ai saw this, he and all the men of the city hurried out early in the morning to meet Israel in battle at a certain place overlooking the Arabah. But he did not know that an ambush had been set against him behind the city.</verse>
+      <verse osisID="Josh.8.15">Joshua and all Israel let themselves be driven back before them, and they fled toward the wilderness.</verse>
+      <verse osisID="Josh.8.16">All the men of Ai were called to pursue them, and they pursued Joshua and were lured away from the city.</verse>
+      <verse osisID="Josh.8.17">Not a man remained in Ai or Bethel who did not go after Israel. They left the city open and went in pursuit of Israel.</verse>
+      <verse osisID="Josh.8.18">Then Yahweh said to Joshua, "Hold out toward Ai the javelin that is in your hand, for into your hand I will deliver the city." So Joshua held out toward the city the javelin that was in his hand.</verse>
+      <verse osisID="Josh.8.19">As soon as he did this, the men in the ambush rose quickly from their position and rushed forward. They entered the city and captured it and quickly set it on fire.</verse>
+      <verse osisID="Josh.8.20">The men of Ai looked back and saw the smoke of the city rising up into the sky, but they had no chance to escape in any direction; the Israelites who had been fleeing toward the wilderness had turned back against their pursuers.</verse>
+      <verse osisID="Josh.8.21">For when Joshua and all Israel saw that the ambush had taken the city and that smoke was going up from it, they turned around and attacked the men of Ai.</verse>
+      <verse osisID="Josh.8.22">Those in the ambush also came out of the city against them, so that they were caught in the middle, with Israelites on both sides. Israel cut them down, leaving them neither survivors nor fugitives.</verse>
+      <verse osisID="Josh.8.23">But they took the king of Ai alive and brought him to Joshua.</verse>
+      <verse osisID="Josh.8.24">When Israel had finished killing all the men of Ai in the fields and in the wilderness where they had chased them, and when every one of them had been put to the sword, all the Israelites returned to Ai and killed those who were in it.</verse>
+      <verse osisID="Josh.8.25">Twelve thousand men and women fell that day—all the people of Ai.</verse>
+      <verse osisID="Josh.8.26">For Joshua did not draw back the hand that held out his javelin until he had destroyed all who lived in Ai.</verse>
+      <verse osisID="Josh.8.27">But Israel did carry off for themselves the livestock and plunder of this city, as Yahweh had instructed Joshua.</verse>
+      <verse osisID="Josh.8.28">So Joshua burned Ai and made it a permanent heap of ruins, a desolate place to this day.</verse>
+      <verse osisID="Josh.8.29">He impaled the body of the king of Ai on a pole and left it there until evening. At sunset, Joshua ordered them to take the body from the pole and throw it down at the entrance of the city gate. And they raised a large pile of rocks over it, which remains to this day.</verse>
+      
+      <title type="sub">The Covenant Renewed at Mount Ebal</title>
+      <verse osisID="Josh.8.30">Then Joshua built on Mount Ebal an altar to Yahweh, the God of Israel,</verse>
+      <verse osisID="Josh.8.31">as Moses the servant of Yahweh had commanded the Israelites. He built it according to what is written in the Book of the Law of Moses—an altar of uncut stones, on which no iron tool had been used. On it they offered to Yahweh burnt offerings and sacrificed fellowship offerings.</verse>
+      <verse osisID="Josh.8.32">There, in the presence of the Israelites, Joshua wrote on stones a copy of the law of Moses.</verse>
+      <verse osisID="Josh.8.33">All the Israelites, with their elders, officials and judges, were standing on both sides of the ark of the covenant of Yahweh, facing the Levitical priests who carried it. Both the foreigners living among them and the native-born were there. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of Yahweh had formerly commanded when he gave instructions to bless the people of Israel.</verse>
+      <verse osisID="Josh.8.34">Afterward, Joshua read all the words of the law—the blessings and the curses—just as it is written in the Book of the Law.</verse>
+      <verse osisID="Josh.8.35">There was not a word of all that Moses commanded that Joshua did not read to the whole assembly of Israel, including the women and children, and the foreigners who lived among them.</verse>
+      <chapter eID="Josh.8"/>
+      
+    </div>
+  </osisText>
+</osis>
