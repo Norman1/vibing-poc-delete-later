@@ -22,6 +22,20 @@ A Bible translation under MIT license developed with AI. The translation aim is 
 
 The translation never varies from what is stated as most likely in the critical apparatus, regardless of church tradition. Translators must read directly from these source files rather than relying on memory or secondary sources.
 
+## OSIS XML Structure
+
+**SAMPLE FILE: `output/00_dummy_vbt.osis.xml`** - This comprehensive sample demonstrates proper OSIS XML structure and includes examples of all major OSIS elements (72 out of 75 from the XSD schema). Use this file as a reference for:
+
+- Proper OSIS namespace declarations and schema validation
+- Container vs milestone formats for chapters and verses
+- All text formatting elements (divineName, hi, foreign, etc.)
+- Advanced structures (figures, tables, lists, poetry, cast lists)
+- Metadata elements (work, contributor, header information)
+- Cross-references, notes, and annotations
+- Reading variants and critical apparatus markup
+
+The dummy file is validated against `osisCore.2.1.1.xsd` and displayed correctly in the HTML viewer. When creating new translations, follow the structural patterns demonstrated in this sample file.
+
 
 
 \## Translation Approach
