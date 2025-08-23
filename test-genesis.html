@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Genesis Debug Test</title>
+</head>
+<body>
+    <h1>Genesis Chapter Display Test</h1>
+    <div id="output"></div>
+    
+    <script>
+        async function testGenesis() {
+            const response = await fetch('output/01_genesis_vbt.osis.xml');
+            const xmlText = await response.text();
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+            
+            const output = document.getElementById('output');
+            let html = '';
+            
+            // Check what we find
+            const containerChapters = xmlDoc.querySelectorAll('chapter[osisID]:not([sID]):not([eID])');
+            const milestoneStarts = xmlDoc.querySelectorAll('chapter[sID]');
+            
+            html += `<p>Container chapters found: ${containerChapters.length}</p>`;
+            html += `<p>Milestone chapter starts found: ${milestoneStarts.length}</p>`;
+            
+            // List container chapters
+            html += '<h3>Container Chapters:</h3><ul>';
+            containerChapters.forEach(ch => {
+                const id = ch.getAttribute('osisID');
+                const verseCount = ch.querySelectorAll('verse').length;
+                html += `<li>${id} - ${verseCount} verses</li>`;
+            });
+            html += '</ul>';
+            
+            // List milestone chapters
+            html += '<h3>Milestone Chapters:</h3><ul>';
+            milestoneStarts.forEach(ch => {
+                const id = ch.getAttribute('osisID');
+                
+                // Count verses between sID and eID
+                let verseCount = 0;
+                let node = ch.nextElementSibling;
+                while (node) {
+                    if (node.nodeName === 'chapter' && node.getAttribute('eID') === id) {
+                        break;
+                    }
+                    if (node.nodeName === 'verse') {
+                        verseCount++;
+                    }
+                    node = node.nextElementSibling;
+                }
+                
+                html += `<li>${id} - ${verseCount} verses</li>`;
+            });
+            html += '</ul>';
+            
+            output.innerHTML = html;
+        }
+        
+        testGenesis();
+    </script>
+</body>
+</html>

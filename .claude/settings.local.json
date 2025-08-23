@@ -15,6 +15,9 @@
       "Bash(git rm:*)"
     ],
     "deny": [],
-    "ask": []
+    "ask": [],
+    "additionalDirectories": [
+      "C:\\c\\Files\\Misc\\Projects"
+    ]
   }
 }
