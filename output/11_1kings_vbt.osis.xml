@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <revisionDesc resp="Claude">
+        <date>2025-08-23</date>
+        <p>Plain Meaning Bible - First Kings translation using functional equivalence methodology</p>
+      </revisionDesc>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <contributor role="aut">Claude AI Assistant</contributor>
+        <contributor role="edt">AI Overseer</contributor>
+        <date>2025-08-23</date>
+        <description>Functional equivalence translation from Hebrew WLC</description>
+        <publisher>Open Source Project</publisher>
+        <type type="OSIS">Bible</type>
+        <format>text/xml</format>
+        <identifier type="OSIS">Bible.VBT.1Kgs</identifier>
+        <source>Westminster Leningrad Codex</source>
+        <language type="ISO-639-2">eng</language>
+        <rights type="x-copyright">Public Domain</rights>
+        <scope>1Kgs</scope>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="1Kgs" canonical="true">
+      <title type="main">First Kings</title>
+      <chapter osisID="1Kgs.1">
+        <title type="chapter">Chapter 1</title>
+        <title type="sub">David's Old Age and Adonijah's Rebellion</title>
+        
+        <verse osisID="1Kgs.1.1">King David was old and well along in years. Though they covered him with blankets, he could not get warm.</verse>
+        <verse osisID="1Kgs.1.2">So his servants said to him, "Let us find a young virgin to serve the king and take care of him. She can lie beside you so that our lord the king may stay warm."</verse>
+        <verse osisID="1Kgs.1.3">Then they searched throughout all the territory of Israel for a beautiful young woman and found <name type="person">Abishag the Shunammite</name> and brought her to the king.</verse>
+        <verse osisID="1Kgs.1.4">The woman was very beautiful; she took care of the king and served him, but the king did not have sexual relations with her.</verse>
+        
+        <verse osisID="1Kgs.1.5">Now <name type="person">Adonijah son of Haggith</name> put himself forward and said, "I will be king." So he got chariots and horses ready, with fifty men to run ahead of him.</verse>
+        <verse osisID="1Kgs.1.6">(His father had never rebuked him by asking, "Why do you behave as you do?" He was also very handsome and was born next after <name type="person">Absalom</name>.)</verse>
+        <verse osisID="1Kgs.1.7"><name type="person">Adonijah</name> conferred with <name type="person">Joab son of Zeruiah</name> and with <name type="person">Abiathar the priest</name>, and they gave him their support.</verse>
+        <verse osisID="1Kgs.1.8">But <name type="person">Zadok the priest</name>, <name type="person">Benaiah son of Jehoiada</name>, <name type="person">Nathan the prophet</name>, <name type="person">Shimei</name> and <name type="person">Rei</name> and David's special guard did not join <name type="person">Adonijah</name>.</verse>
+        
+        <verse osisID="1Kgs.1.9"><name type="person">Adonijah</name> then sacrificed sheep, cattle and fattened calves at the <name type="geographic">Stone of Zoheleth</name> near <name type="geographic">En Rogel</name>. He invited all his brothers, the king's sons, and all the royal officials of <name type="geographic">Judah</name>,</verse>
+        <verse osisID="1Kgs.1.10">but he did not invite <name type="person">Nathan the prophet</name> or <name type="person">Benaiah</name> or the special guard or his brother <name type="person">Solomon</name>.</verse>
+        
+        <verse osisID="1Kgs.1.11">Then <name type="person">Nathan</name> asked <name type="person">Bathsheba</name>, <name type="person">Solomon's</name> mother, "Haven't you heard that <name type="person">Adonijah son of Haggith</name> has become king, and our lord <name type="person">David</name> knows nothing about it?</verse>
+        <verse osisID="1Kgs.1.12">Now then, let me advise you how you can save your own life and the life of your son <name type="person">Solomon</name>.</verse>
+        <verse osisID="1Kgs.1.13">Go in to King <name type="person">David</name> and say to him, 'My lord the king, did you not swear to me your servant: "Surely <name type="person">Solomon</name> your son shall be king after me, and he will sit on my throne"? Why then has <name type="person">Adonijah</name> become king?'</verse>
+        <verse osisID="1Kgs.1.14">While you are still there talking to the king, I will come in and add my words to what you have said."</verse>
+        
+        <verse osisID="1Kgs.1.15">So <name type="person">Bathsheba</name> went to see the aged king in his room, where <name type="person">Abishag the Shunammite</name> was attending him.</verse>
+        <verse osisID="1Kgs.1.16"><name type="person">Bathsheba</name> bowed down, prostrating herself before the king. "What is it you want?" the king asked.</verse>
+        <verse osisID="1Kgs.1.17">She said to him, "My lord, you yourself swore to me your servant by <divineName>Yahweh</divineName> your God: '<name type="person">Solomon</name> your son shall be king after me and will sit on my throne.'</verse>
+        <verse osisID="1Kgs.1.18">But now <name type="person">Adonijah</name> has become king, and you, my lord the king, do not know about it.</verse>
+        <verse osisID="1Kgs.1.19">He has sacrificed great numbers of cattle, fattened calves, and sheep, and has invited all the king's sons, <name type="person">Abiathar the priest</name> and <name type="person">Joab the commander of the army</name>, but he has not invited <name type="person">Solomon</name> your servant.</verse>
+        <verse osisID="1Kgs.1.20">My lord the king, the eyes of all Israel are on you, to learn from you who will sit on the throne of my lord the king after him.</verse>
+        <verse osisID="1Kgs.1.21">Otherwise, as soon as my lord the king is laid to rest with his ancestors, I and my son <name type="person">Solomon</name> will be treated as criminals."</verse>
+        
+        <verse osisID="1Kgs.1.22">While she was still speaking with the king, <name type="person">Nathan the prophet</name> arrived.</verse>
+        <verse osisID="1Kgs.1.23">They told the king, "<name type="person">Nathan the prophet</name> is here." So he went before the king and bowed with his face to the ground.</verse>
+        <verse osisID="1Kgs.1.24"><name type="person">Nathan</name> said, "Have you, my lord the king, declared that <name type="person">Adonijah</name> shall be king after you, and that he will sit on your throne?</verse>
+        <verse osisID="1Kgs.1.25">Today he has gone down and sacrificed great numbers of cattle, fattened calves, and sheep. He has invited all the king's sons, the commanders of the army and <name type="person">Abiathar the priest</name>. Right now they are eating and drinking with him and saying, 'Long live King <name type="person">Adonijah</name>!'</verse>
+        <verse osisID="1Kgs.1.26">But me your servant, and <name type="person">Zadok the priest</name>, and <name type="person">Benaiah son of Jehoiada</name>, and your servant <name type="person">Solomon</name> he did not invite.</verse>
+        <verse osisID="1Kgs.1.27">Is this something my lord the king has done without letting his servants know who should sit on the throne of my lord the king after him?"</verse>
+        
+        <title type="sub">David Declares Solomon King</title>
+        
+        <verse osisID="1Kgs.1.28">Then King <name type="person">David</name> said, "Call in <name type="person">Bathsheba</name>." So she came into the king's presence and stood before him.</verse>
+        <verse osisID="1Kgs.1.29">The king then took an oath: "As surely as <divineName>Yahweh</divineName> lives, who has delivered me out of every trouble,</verse>
+        <verse osisID="1Kgs.1.30">I will surely carry out this very day what I swore to you by <divineName>Yahweh</divineName>, the God of Israel: <name type="person">Solomon</name> your son shall be king after me, and he will sit on my throne in my place."</verse>
+        <verse osisID="1Kgs.1.31">Then <name type="person">Bathsheba</name> bowed down with her face to the ground, prostrating herself before the king, and said, "May my lord King <name type="person">David</name> live forever!"</verse>
+        
+        <verse osisID="1Kgs.1.32">King <name type="person">David</name> said, "Call in <name type="person">Zadok the priest</name>, <name type="person">Nathan the prophet</name> and <name type="person">Benaiah son of Jehoiada</name>." When they came before the king,</verse>
+        <verse osisID="1Kgs.1.33">he said to them: "Take your lord's servants with you and have <name type="person">Solomon</name> my son mount my own mule and take him down to <name type="geographic">Gihon</name>.</verse>
+        <verse osisID="1Kgs.1.34">There have <name type="person">Zadok the priest</name> and <name type="person">Nathan the prophet</name> anoint him king over Israel. Blow the trumpet and shout, 'Long live King <name type="person">Solomon</name>!'</verse>
+        <verse osisID="1Kgs.1.35">Then you are to go up with him, and he is to come and sit on my throne and reign in my place. I have appointed him ruler over Israel and <name type="geographic">Judah</name>."</verse>
+        
+        <verse osisID="1Kgs.1.36"><name type="person">Benaiah son of Jehoiada</name> answered the king, "Amen! May <divineName>Yahweh</divineName>, the God of my lord the king, so declare it.</verse>
+        <verse osisID="1Kgs.1.37">As <divineName>Yahweh</divineName> was with my lord the king, so may he be with <name type="person">Solomon</name> to make his throne even greater than the throne of my lord King <name type="person">David</name>!"</verse>
+        
+        <verse osisID="1Kgs.1.38">So <name type="person">Zadok the priest</name>, <name type="person">Nathan the prophet</name>, <name type="person">Benaiah son of Jehoiada</name>, the <name type="group">Kerethites</name> and the <name type="group">Pelethites</name> went down and had <name type="person">Solomon</name> mount King <name type="person">David's</name> mule, and they escorted him to <name type="geographic">Gihon</name>.</verse>
+        <verse osisID="1Kgs.1.39"><name type="person">Zadok the priest</name> took the horn of oil from the sacred tent and anointed <name type="person">Solomon</name>. Then they sounded the trumpet and all the people shouted, "Long live King <name type="person">Solomon</name>!"</verse>
+        <verse osisID="1Kgs.1.40">And all the people went up after him, playing pipes and rejoicing greatly, so that the ground shook with the sound.</verse>
+        
+        <verse osisID="1Kgs.1.41"><name type="person">Adonijah</name> and all the guests who were with him heard it as they were finishing their feast. On hearing the sound of the trumpet, <name type="person">Joab</name> asked, "What's the meaning of all the noise in the city?"</verse>
+        <verse osisID="1Kgs.1.42">Even as he was speaking, <name type="person">Jonathan son of Abiathar the priest</name> arrived. <name type="person">Adonijah</name> said, "Come in. A worthy man like you must be bringing good news."</verse>
+        <verse osisID="1Kgs.1.43">"Not at all!" <name type="person">Jonathan</name> answered. "Our lord King <name type="person">David</name> has made <name type="person">Solomon</name> king.</verse>
+        <verse osisID="1Kgs.1.44">The king has sent with him <name type="person">Zadok the priest</name>, <name type="person">Nathan the prophet</name>, <name type="person">Benaiah son of Jehoiada</name>, the <name type="group">Kerethites</name> and the <name type="group">Pelethites</name>, and they have put him on the king's mule,</verse>
+        <verse osisID="1Kgs.1.45">and <name type="person">Zadok the priest</name> and <name type="person">Nathan the prophet</name> have anointed him king at <name type="geographic">Gihon</name>. From there they have gone up cheering, and the city resounds with it. That's the noise you hear.</verse>
+        <verse osisID="1Kgs.1.46">Moreover, <name type="person">Solomon</name> has taken his seat on the royal throne.</verse>
+        <verse osisID="1Kgs.1.47">Also, the royal officials have come to congratulate our lord King <name type="person">David</name>, saying, 'May your God make <name type="person">Solomon's</name> name more famous than yours and his throne greater than yours!' And the king bowed in worship on his bed</verse>
+        <verse osisID="1Kgs.1.48">and said, 'Praise be to <divineName>Yahweh</divineName>, the God of Israel, who has allowed my eyes to see a successor sit on my throne today.'"</verse>
+        
+        <verse osisID="1Kgs.1.49">At this, all <name type="person">Adonijah's</name> guests rose in alarm and dispersed.</verse>
+        <verse osisID="1Kgs.1.50">But <name type="person">Adonijah</name>, in fear of <name type="person">Solomon</name>, went and took hold of the horns of the altar.</verse>
+        <verse osisID="1Kgs.1.51">Then <name type="person">Solomon</name> was told, "<name type="person">Adonijah</name> is afraid of King <name type="person">Solomon</name> and is clinging to the horns of the altar. He says, 'Let King <name type="person">Solomon</name> swear to me today that he will not put his servant to death with the sword.'"</verse>
+        <verse osisID="1Kgs.1.52"><name type="person">Solomon</name> replied, "If he shows himself to be worthy, not a hair of his head will fall to the ground; but if evil is found in him, he will die."</verse>
+        <verse osisID="1Kgs.1.53">Then King <name type="person">Solomon</name> sent men, and they brought him down from the altar. And <name type="person">Adonijah</name> came and bowed down to King <name type="person">Solomon</name>, and <name type="person">Solomon</name> said, "Go to your home."</verse>
+      </chapter>
+      <chapter osisID="1Kgs.2">
+        <title type="chapter">Chapter 2</title>
+        <title type="sub">David's Final Instructions and Death</title>
+        
+        <verse osisID="1Kgs.2.1">When <name type="person">David's</name> time to die drew near, he gave these commands to his son <name type="person">Solomon</name>:</verse>
+        <verse osisID="1Kgs.2.2">"I am about to go the way of all the earth. So be strong, act like a man,</verse>
+        <verse osisID="1Kgs.2.3">and observe what <divineName>Yahweh</divineName> your God requires: Walk in obedience to him, and keep his decrees and commands, his laws and regulations, as written in the Law of <name type="person">Moses</name>. Do this so that you may prosper in all you do and wherever you go</verse>
+        <verse osisID="1Kgs.2.4">and that <divineName>Yahweh</divineName> may keep his promise to me: 'If your descendants watch how they live, and if they walk faithfully before me with all their heart and soul, you will never fail to have a successor on the throne of Israel.'"</verse>
+        
+        <verse osisID="1Kgs.2.5">"Now you yourself know what <name type="person">Joab son of Zeruiah</name> did to me—what he did to the two commanders of Israel's armies, <name type="person">Abner son of Ner</name> and <name type="person">Amasa son of Jether</name>. He killed them, shedding their blood in peacetime as if in battle, and with that blood he stained the belt around his waist and the sandals on his feet.</verse>
+        <verse osisID="1Kgs.2.6">Deal with him according to your wisdom, but do not let his gray head go down to the grave in peace.</verse>
+        
+        <verse osisID="1Kgs.2.7">"But show kindness to the sons of <name type="person">Barzillai the Gileadite</name> and let them be among those who eat at your table. They stood by me when I fled from your brother <name type="person">Absalom</name>.</verse>
+        
+        <verse osisID="1Kgs.2.8">"And remember, you have with you <name type="person">Shimei son of Gera, the Benjamite from Bahurim</name>, who called down bitter curses on me the day I went to <name type="geographic">Mahanaim</name>. When he came down to meet me at the <name type="geographic">Jordan</name>, I swore to him by <divineName>Yahweh</divineName>: 'I will not put you to death by the sword.'</verse>
+        <verse osisID="1Kgs.2.9">But now, do not consider him innocent. You are a wise man; you will know what to do to him. Bring his gray head down to the grave in blood."</verse>
+        
+        <verse osisID="1Kgs.2.10">Then <name type="person">David</name> rested with his ancestors and was buried in the <name type="geographic">City of David</name>.</verse>
+        <verse osisID="1Kgs.2.11">He had reigned forty years over Israel—seven years in <name type="geographic">Hebron</name> and thirty-three in <name type="geographic">Jerusalem</name>.</verse>
+        <verse osisID="1Kgs.2.12">So <name type="person">Solomon</name> sat on the throne of his father <name type="person">David</name>, and his rule was firmly established.</verse>
+        
+        <title type="sub">Adonijah's Request and Execution</title>
+        
+        <verse osisID="1Kgs.2.13">Now <name type="person">Adonijah son of Haggith</name> went to <name type="person">Bathsheba</name>, <name type="person">Solomon's</name> mother. <name type="person">Bathsheba</name> asked him, "Do you come peacefully?" He answered, "Yes, peacefully."</verse>
+        <verse osisID="1Kgs.2.14">Then he added, "I have something to say to you." "You may say it," she replied.</verse>
+        <verse osisID="1Kgs.2.15">"As you know," he said, "the kingdom was mine. All Israel looked to me as their king. But things changed, and the kingdom has gone to my brother; for it has come to him from <divineName>Yahweh</divineName>.</verse>
+        <verse osisID="1Kgs.2.16">Now I have one request to make of you. Do not refuse me." "You may make it," she said.</verse>
+        <verse osisID="1Kgs.2.17">So he continued, "Please ask King <name type="person">Solomon</name>—he will not refuse you—to give me <name type="person">Abishag the Shunammite</name> as my wife."</verse>
+        <verse osisID="1Kgs.2.18">"Very well," <name type="person">Bathsheba</name> replied, "I will speak to the king for you."</verse>
+        
+        <verse osisID="1Kgs.2.19">When <name type="person">Bathsheba</name> went to King <name type="person">Solomon</name> to speak to him for <name type="person">Adonijah</name>, the king stood up to meet her, bowed down to her and sat down on his throne. He had a throne brought for the king's mother, and she sat down at his right hand.</verse>
+        <verse osisID="1Kgs.2.20">"I have one small request to make of you," she said. "Do not refuse me." The king replied, "Make it, my mother; I will not refuse you."</verse>
+        <verse osisID="1Kgs.2.21">So she said, "Let <name type="person">Abishag the Shunammite</name> be given in marriage to your brother <name type="person">Adonijah</name>."</verse>
+        
+        <verse osisID="1Kgs.2.22">King <name type="person">Solomon</name> answered his mother, "Why do you request <name type="person">Abishag the Shunammite</name> for <name type="person">Adonijah</name>? You might as well request the kingdom for him—after all, he is my older brother—yes, for him and for <name type="person">Abiathar the priest</name> and <name type="person">Joab son of Zeruiah</name>!"</verse>
+        
+        <verse osisID="1Kgs.2.23">Then King <name type="person">Solomon</name> swore by <divineName>Yahweh</divineName>: "May God deal with me, be it ever so severely, if <name type="person">Adonijah</name> does not pay with his life for this request!</verse>
+        <verse osisID="1Kgs.2.24">And now, as surely as <divineName>Yahweh</divineName> lives—he who has established me securely on the throne of my father <name type="person">David</name> and has founded a dynasty for me as he promised—<name type="person">Adonijah</name> shall be put to death today!"</verse>
+        <verse osisID="1Kgs.2.25">So King <name type="person">Solomon</name> gave orders to <name type="person">Benaiah son of Jehoiada</name>, and he struck down <name type="person">Adonijah</name> and he died.</verse>
+        
+        <title type="sub">Abiathar Banished and Joab Killed</title>
+        
+        <verse osisID="1Kgs.2.26">To <name type="person">Abiathar the priest</name> the king said, "Go back to your fields in <name type="geographic">Anathoth</name>. You deserve to die, but I will not put you to death now, because you carried the ark of the Sovereign <divineName>Yahweh</divineName> before <name type="person">David</name> my father and shared all my father's hardships."</verse>
+        <verse osisID="1Kgs.2.27">So <name type="person">Solomon</name> banished <name type="person">Abiathar</name> from the priesthood of <divineName>Yahweh</divineName>, fulfilling the word <divineName>Yahweh</divineName> had spoken at <name type="geographic">Shiloh</name> about the house of <name type="person">Eli</name>.</verse>
+        
+        <verse osisID="1Kgs.2.28">When the news reached <name type="person">Joab</name>, who had conspired with <name type="person">Adonijah</name> though not with <name type="person">Absalom</name>, he fled to the tent of <divineName>Yahweh</divineName> and took hold of the horns of the altar.</verse>
+        <verse osisID="1Kgs.2.29">King <name type="person">Solomon</name> was told that <name type="person">Joab</name> had fled to the tent of <divineName>Yahweh</divineName> and was beside the altar. Then <name type="person">Solomon</name> ordered <name type="person">Benaiah son of Jehoiada</name>, "Go, strike him down!"</verse>
+        
+        <verse osisID="1Kgs.2.30">So <name type="person">Benaiah</name> entered the tent of <divineName>Yahweh</divineName> and said to <name type="person">Joab</name>, "The king says, 'Come out!'" But he answered, "No, I will die here." <name type="person">Benaiah</name> reported to the king, "<name type="person">Joab</name> said this, and this is how he answered me."</verse>
+        <verse osisID="1Kgs.2.31">Then the king commanded <name type="person">Benaiah</name>, "Do as he says. Strike him down and bury him, and so clear me and my whole family of the guilt of the innocent blood that <name type="person">Joab</name> shed.</verse>
+        <verse osisID="1Kgs.2.32"><divineName>Yahweh</divineName> will repay him for the blood he shed, because without my father <name type="person">David's</name> knowledge he attacked two men and killed them with the sword. Both of them—<name type="person">Abner son of Ner</name>, commander of Israel's army, and <name type="person">Amasa son of Jether</name>, commander of Judah's army—were better men and more upright than he.</verse>
+        <verse osisID="1Kgs.2.33">May the guilt of their blood rest on the head of <name type="person">Joab</name> and his descendants forever. But on <name type="person">David</name> and his descendants, his house and his throne, may there be <divineName>Yahweh's</divineName> peace forever."</verse>
+        
+        <verse osisID="1Kgs.2.34">So <name type="person">Benaiah son of Jehoiada</name> went up and struck down <name type="person">Joab</name> and killed him, and he was buried at his home in the wilderness.</verse>
+        <verse osisID="1Kgs.2.35">The king put <name type="person">Benaiah son of Jehoiada</name> over the army in <name type="person">Joab's</name> position and replaced <name type="person">Abiathar</name> with <name type="person">Zadok the priest</name>.</verse>
+        
+        <title type="sub">Shimei's Death</title>
+        
+        <verse osisID="1Kgs.2.36">Then the king sent for <name type="person">Shimei</name> and said to him, "Build yourself a house in <name type="geographic">Jerusalem</name> and live there, but do not go anywhere else.</verse>
+        <verse osisID="1Kgs.2.37">The day you leave and cross the <name type="geographic">Kidron Valley</name>, you can be sure you will die; your blood will be on your own head."</verse>
+        
+        <verse osisID="1Kgs.2.38"><name type="person">Shimei</name> answered the king, "What you say is good. Your servant will do as my lord the king has said." And <name type="person">Shimei</name> stayed in <name type="geographic">Jerusalem</name> for a long time.</verse>
+        
+        <verse osisID="1Kgs.2.39">But three years later, two of <name type="person">Shimei's</name> slaves ran off to <name type="person">Achish son of Maakah, king of Gath</name>, and <name type="person">Shimei</name> was told, "Your slaves are in <name type="geographic">Gath</name>."</verse>
+        <verse osisID="1Kgs.2.40">At this, he saddled his donkey and went to <name type="person">Achish</name> at <name type="geographic">Gath</name> in search of his slaves. So <name type="person">Shimei</name> went away and brought the slaves back from <name type="geographic">Gath</name>.</verse>
+        
+        <verse osisID="1Kgs.2.41">When <name type="person">Solomon</name> was told that <name type="person">Shimei</name> had gone from <name type="geographic">Jerusalem</name> to <name type="geographic">Gath</name> and had returned,</verse>
+        <verse osisID="1Kgs.2.42">the king summoned <name type="person">Shimei</name> and said to him, "Did I not make you swear by <divineName>Yahweh</divineName> and warn you, 'On the day you leave to go anywhere else, you can be sure you will die'? At that time you said to me, 'What you say is good; I will obey.'</verse>
+        <verse osisID="1Kgs.2.43">Why then did you not keep your oath to <divineName>Yahweh</divineName> and obey the command I gave you?"</verse>
+        
+        <verse osisID="1Kgs.2.44">The king also said to <name type="person">Shimei</name>, "You know in your heart all the wrong you did to my father <name type="person">David</name>. Now <divineName>Yahweh</divineName> will repay you for your wrongdoing.</verse>
+        <verse osisID="1Kgs.2.45">But King <name type="person">Solomon</name> will be blessed, and <name type="person">David's</name> throne will remain secure before <divineName>Yahweh</divineName> forever."</verse>
+        
+        <verse osisID="1Kgs.2.46">Then the king gave the order to <name type="person">Benaiah son of Jehoiada</name>, and he went out and struck <name type="person">Shimei</name> down and he died. The kingdom was now established in <name type="person">Solomon's</name> hands.</verse>
+      </chapter>
+      <chapter osisID="1Kgs.3">
+        <title type="chapter">Chapter 3</title>
+        <title type="sub">Solomon's Marriage and Early Reign</title>
+        
+        <verse osisID="1Kgs.3.1"><name type="person">Solomon</name> made an alliance with <name type="person">Pharaoh king of Egypt</name> and married his daughter. He brought her to the <name type="geographic">City of David</name> until he finished building his palace and the temple of <divineName>Yahweh</divineName>, and the wall around <name type="geographic">Jerusalem</name>.</verse>
+        <verse osisID="1Kgs.3.2">The people, however, were still sacrificing at the high places, because a temple had not yet been built for the Name of <divineName>Yahweh</divineName>.</verse>
+        <verse osisID="1Kgs.3.3"><name type="person">Solomon</name> showed his love for <divineName>Yahweh</divineName> by walking according to the instructions given him by his father <name type="person">David</name>, except that he offered sacrifices and burned incense on the high places.</verse>
+        
+        <title type="sub">Solomon's Dream at Gibeon</title>
+        
+        <verse osisID="1Kgs.3.4">The king went to <name type="geographic">Gibeon</name> to offer sacrifices, for that was the most important high place, and <name type="person">Solomon</name> offered a thousand burnt offerings on that altar.</verse>
+        <verse osisID="1Kgs.3.5">At <name type="geographic">Gibeon</name> <divineName>Yahweh</divineName> appeared to <name type="person">Solomon</name> during the night in a dream, and God said, "Ask for whatever you want me to give you."</verse>
+        
+        <verse osisID="1Kgs.3.6"><name type="person">Solomon</name> answered, "You have shown great kindness to your servant, my father <name type="person">David</name>, because he was faithful to you and righteous and upright in heart. You have continued this great kindness to him and have given him a son to sit on his throne this very day.</verse>
+        <verse osisID="1Kgs.3.7">"Now, <divineName>Yahweh</divineName> my God, you have made your servant king in place of my father <name type="person">David</name>. But I am only a little child and do not know how to carry out my duties.</verse>
+        <verse osisID="1Kgs.3.8">Your servant is here among the people you have chosen, a great people, too numerous to count or number.</verse>
+        <verse osisID="1Kgs.3.9">So give your servant a discerning heart to govern your people and to distinguish between right and wrong. For who is able to govern this great people of yours?"</verse>
+        
+        <verse osisID="1Kgs.3.10">The Lord was pleased that <name type="person">Solomon</name> had asked for this.</verse>
+        <verse osisID="1Kgs.3.11">So God said to him, "Since you have asked for this and not for long life or wealth for yourself, nor have asked for the death of your enemies but for discernment in administering justice,</verse>
+        <verse osisID="1Kgs.3.12">I will do what you have asked. I will give you a wise and discerning heart, so that there will never have been anyone like you, nor will there ever be.</verse>
+        <verse osisID="1Kgs.3.13">Moreover, I will give you what you have not asked for—both wealth and honor—so that in your lifetime you will have no equal among kings.</verse>
+        <verse osisID="1Kgs.3.14">And if you walk in obedience to me and keep my decrees and commands as <name type="person">David</name> your father did, I will give you a long life."</verse>
+        
+        <verse osisID="1Kgs.3.15">Then <name type="person">Solomon</name> awoke—and he realized it had been a dream. He returned to <name type="geographic">Jerusalem</name>, stood before the ark of the Lord's covenant and sacrificed burnt offerings and fellowship offerings. Then he gave a feast for all his court.</verse>
+        
+        <title type="sub">A Wise Ruling</title>
+        
+        <verse osisID="1Kgs.3.16">Now two prostitutes came to the king and stood before him.</verse>
+        <verse osisID="1Kgs.3.17">One of them said, "Pardon me, my lord. This woman and I live in the same house, and I had a baby while she was there with me.</verse>
+        <verse osisID="1Kgs.3.18">The third day after my child was born, this woman also had a baby. We were alone; there was no one in the house but the two of us.</verse>
+        <verse osisID="1Kgs.3.19">"During the night this woman's son died because she lay on him.</verse>
+        <verse osisID="1Kgs.3.20">So she got up in the middle of the night and took my son from my side while I your servant was asleep. She put him to her breast and put her dead son to my breast.</verse>
+        <verse osisID="1Kgs.3.21">The next morning, I got up to nurse my son—and he was dead! But when I looked at him closely in the morning light, I saw that it wasn't the son I had borne."</verse>
+        
+        <verse osisID="1Kgs.3.22">The other woman said, "No! The living one is my son; the dead one is yours." But the first one insisted, "No! The dead one is yours; the living one is mine." And so they argued before the king.</verse>
+        
+        <verse osisID="1Kgs.3.23">The king said, "This one says, 'My son is alive and your son is dead,' while that one says, 'No! Your son is dead and mine is alive.'"</verse>
+        
+        <verse osisID="1Kgs.3.24">Then the king said, "Bring me a sword." So they brought a sword for the king.</verse>
+        <verse osisID="1Kgs.3.25">He then gave an order: "Cut the living child in two and give half to one and half to the other."</verse>
+        
+        <verse osisID="1Kgs.3.26">The woman whose son was alive was deeply moved out of love for her son and said to the king, "Please, my lord, give her the living baby! Don't kill him!" But the other said, "Neither I nor you shall have him. Cut him in two!"</verse>
+        
+        <verse osisID="1Kgs.3.27">Then the king gave his ruling: "Give the living baby to the first woman. Do not kill him; she is his mother."</verse>
+        
+        <verse osisID="1Kgs.3.28">When all Israel heard the verdict the king had given, they held the king in awe, because they saw that he had wisdom from God to administer justice.</verse>
+      </chapter>
+      <chapter osisID="1Kgs.4">
+        <title type="chapter">Chapter 4</title>
+        <title type="sub">Solomon's Officials and Governors</title>
+        
+        <verse osisID="1Kgs.4.1">So King <name type="person">Solomon</name> ruled over all Israel.</verse>
+        <verse osisID="1Kgs.4.2">And these were his chief officials: <name type="person">Azariah son of Zadok</name>—the priest;</verse>
+        <verse osisID="1Kgs.4.3"><name type="person">Elihoreph</name> and <name type="person">Ahijah</name>, sons of <name type="person">Shisha</name>—secretaries; <name type="person">Jehoshaphat son of Ahilud</name>—recorder;</verse>
+        <verse osisID="1Kgs.4.4"><name type="person">Benaiah son of Jehoiada</name>—commander in chief; <name type="person">Zadok</name> and <name type="person">Abiathar</name>—priests;</verse>
+        <verse osisID="1Kgs.4.5"><name type="person">Azariah son of Nathan</name>—in charge of the district governors; <name type="person">Zabud son of Nathan</name>—a priest and adviser to the king;</verse>
+        <verse osisID="1Kgs.4.6"><name type="person">Ahishar</name>—palace administrator; <name type="person">Adoniram son of Abda</name>—in charge of forced labor.</verse>
+        
+        <verse osisID="1Kgs.4.7"><name type="person">Solomon</name> had twelve district governors over all Israel, who supplied provisions for the king and the royal household. Each one had to provide supplies for one month in the year.</verse>
+        <verse osisID="1Kgs.4.8">These are their names: <name type="person">Ben-Hur</name>—in the hill country of <name type="geographic">Ephraim</name>;</verse>
+        <verse osisID="1Kgs.4.9"><name type="person">Ben-Deker</name>—in <name type="geographic">Makaz</name>, <name type="geographic">Shaalbim</name>, <name type="geographic">Beth Shemesh</name> and <name type="geographic">Elon Bethhanan</name>;</verse>
+        <verse osisID="1Kgs.4.10"><name type="person">Ben-Hesed</name>—in <name type="geographic">Arubboth</name> (<name type="geographic">Sokoh</name> and all the land of <name type="geographic">Hepher</name> were his);</verse>
+        <verse osisID="1Kgs.4.11"><name type="person">Ben-Abinadab</name>—in <name type="geographic">Naphoth Dor</name> (he was married to <name type="person">Taphath</name> daughter of <name type="person">Solomon</name>);</verse>
+        <verse osisID="1Kgs.4.12"><name type="person">Baana son of Ahilud</name>—in <name type="geographic">Taanach</name> and <name type="geographic">Megiddo</name>, and in all of <name type="geographic">Beth Shan</name> next to <name type="geographic">Zarethan</name> below <name type="geographic">Jezreel</name>, from <name type="geographic">Beth Shan</name> to <name type="geographic">Abel Meholah</name> across to <name type="geographic">Jokmeam</name>;</verse>
+        <verse osisID="1Kgs.4.13"><name type="person">Ben-Geber</name>—in <name type="geographic">Ramoth Gilead</name> (the settlements of <name type="person">Jair son of Manasseh</name> in <name type="geographic">Gilead</name> were his, as well as the region of <name type="geographic">Argob</name> in <name type="geographic">Bashan</name> and its sixty large walled cities with bronze gate bars);</verse>
+        <verse osisID="1Kgs.4.14"><name type="person">Ahinadab son of Iddo</name>—in <name type="geographic">Mahanaim</name>;</verse>
+        <verse osisID="1Kgs.4.15"><name type="person">Ahimaaz</name>—in <name type="geographic">Naphtali</name> (he had married <name type="person">Basemath</name> daughter of <name type="person">Solomon</name>);</verse>
+        <verse osisID="1Kgs.4.16"><name type="person">Baana son of Hushai</name>—in <name type="geographic">Asher</name> and in <name type="geographic">Aloth</name>;</verse>
+        <verse osisID="1Kgs.4.17"><name type="person">Jehoshaphat son of Paruah</name>—in <name type="geographic">Issachar</name>;</verse>
+        <verse osisID="1Kgs.4.18"><name type="person">Shimei son of Ela</name>—in <name type="geographic">Benjamin</name>;</verse>
+        <verse osisID="1Kgs.4.19"><name type="person">Geber son of Uri</name>—in <name type="geographic">Gilead</name> (the country of <name type="person">Sihon king of the Amorites</name> and the country of <name type="person">Og king of Bashan</name>). He was the only governor over the district.</verse>
+        
+        <title type="sub">Solomon's Daily Provisions</title>
+        
+        <verse osisID="1Kgs.4.20">The people of <name type="geographic">Judah</name> and <name type="geographic">Israel</name> were as numerous as the sand on the seashore; they ate, they drank and they were happy.</verse>
+        <verse osisID="1Kgs.4.21">And <name type="person">Solomon</name> ruled over all the kingdoms from the <name type="geographic">Euphrates River</name> to the land of the <name type="group">Philistines</name>, as far as the border of <name type="geographic">Egypt</name>. These countries brought tribute and were <name type="person">Solomon's</name> subjects all his life.</verse>
+        
+        <verse osisID="1Kgs.4.22"><name type="person">Solomon's</name> daily provisions were thirty cors of the finest flour and sixty cors of meal,</verse>
+        <verse osisID="1Kgs.4.23">ten head of stall-fed cattle, twenty of pasture-fed cattle and a hundred sheep and goats, as well as deer, gazelles, roebucks and choice fowl.</verse>
+        <verse osisID="1Kgs.4.24">For he ruled over all the kingdoms west of the <name type="geographic">Euphrates River</name>, from <name type="geographic">Tiphsah</name> to <name type="geographic">Gaza</name>, and had peace on all sides.</verse>
+        <verse osisID="1Kgs.4.25">During <name type="person">Solomon's</name> lifetime <name type="geographic">Judah</name> and <name type="geographic">Israel</name>, from <name type="geographic">Dan</name> to <name type="geographic">Beersheba</name>, lived in safety, everyone under their own vine and under their own fig tree.</verse>
+        
+        <verse osisID="1Kgs.4.26"><name type="person">Solomon</name> had four thousand stalls for chariot horses, and twelve thousand horses.</verse>
+        
+        <verse osisID="1Kgs.4.27">The district governors, each in his month, supplied provisions for King <name type="person">Solomon</name> and all who came to the king's table. They saw to it that nothing was lacking.</verse>
+        <verse osisID="1Kgs.4.28">They also brought to the proper place their quotas of barley and straw for the chariot horses and the other horses.</verse>
+        
+        <title type="sub">Solomon's Wisdom</title>
+        
+        <verse osisID="1Kgs.4.29">God gave <name type="person">Solomon</name> wisdom and very great insight, and a breadth of understanding as measureless as the sand on the seashore.</verse>
+        <verse osisID="1Kgs.4.30"><name type="person">Solomon's</name> wisdom was greater than the wisdom of all the people of the East, and greater than all the wisdom of <name type="geographic">Egypt</name>.</verse>
+        <verse osisID="1Kgs.4.31">He was wiser than anyone else, including <name type="person">Ethan the Ezrahite</name>—wiser than <name type="person">Heman</name>, <name type="person">Kalkol</name> and <name type="person">Darda</name>, the sons of <name type="person">Mahol</name>. And his fame spread to all the surrounding nations.</verse>
+        <verse osisID="1Kgs.4.32">He spoke three thousand proverbs and his songs numbered a thousand and five.</verse>
+        <verse osisID="1Kgs.4.33">He spoke about plant life, from the cedar of <name type="geographic">Lebanon</name> to the hyssop that grows out of walls. He also spoke about animals and birds, reptiles and fish.</verse>
+        <verse osisID="1Kgs.4.34">From all nations people came to listen to <name type="person">Solomon's</name> wisdom, sent by all the kings of the world, who had heard of his wisdom.</verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>
