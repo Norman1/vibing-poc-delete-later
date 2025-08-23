@@ -104,6 +104,28 @@
             background: rgba(102, 126, 234, 0.05);
         }
 
+        .section-title-main {
+            font-size: 1.6em;
+            color: #764ba2;
+            margin: 30px 0 20px 0;
+            padding: 15px 20px;
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+            border-radius: 8px;
+            font-weight: 600;
+            text-align: center;
+            border: 2px solid rgba(118, 75, 162, 0.2);
+        }
+
+        .section-title-sub {
+            font-size: 1.3em;
+            color: #555;
+            margin: 20px 0 15px 0;
+            padding: 10px 15px;
+            background: rgba(102, 126, 234, 0.05);
+            border-left: 3px solid #667eea;
+            font-weight: 500;
+        }
+
         .verse {
             margin-bottom: 15px;
             padding: 12px 15px;
@@ -455,44 +477,61 @@
                     html += `</div>`;
                 });
                 
-                // Then process milestone chapters
-                const milestoneChapterStarts = xmlDoc.querySelectorAll('chapter[sID]');
-                
-                milestoneChapterStarts.forEach(chapterStart => {
-                    const chapterId = chapterStart.getAttribute('osisID');
-                    const chapterNum = chapterId.split('.').pop();
+                // Then process all elements in order (titles and milestone chapters)
+                const divElement = xmlDoc.querySelector('div[type="book"]');
+                if (divElement) {
+                    let currentChapterHtml = '';
+                    let currentChapterId = null;
                     
-                    html += `<div class="chapter">`;
-                    html += `<div class="chapter-title">Chapter ${chapterNum}</div>`;
-                    
-                    // Find all verses between this sID and the matching eID
-                    let currentNode = chapterStart.nextElementSibling;
-                    
-                    while (currentNode) {
-                        // Check if we've reached the end marker for this chapter
-                        if (currentNode.nodeName === 'chapter' && 
-                            currentNode.getAttribute('eID') === chapterId) {
-                            break;
+                    for (let node of divElement.childNodes) {
+                        if (node.nodeType === Node.ELEMENT_NODE) {
+                            if (node.nodeName === 'title') {
+                                // Process title elements
+                                const titleType = node.getAttribute('type');
+                                let titleClass = 'section-title-main';
+                                if (titleType === 'sub') {
+                                    titleClass = 'section-title-sub';
+                                }
+                                html += `<div class="${titleClass}">${node.textContent}</div>`;
+                            }
+                            else if (node.nodeName === 'chapter' && node.getAttribute('sID')) {
+                                // Start of milestone chapter
+                                currentChapterId = node.getAttribute('osisID');
+                                const chapterNum = currentChapterId.split('.').pop();
+                                currentChapterHtml = `<div class="chapter">`;
+                                currentChapterHtml += `<div class="chapter-title">Chapter ${chapterNum}</div>`;
+                            }
+                            else if (node.nodeName === 'chapter' && node.getAttribute('eID')) {
+                                // End of milestone chapter
+                                if (currentChapterId) {
+                                    currentChapterHtml += `</div>`;
+                                    html += currentChapterHtml;
+                                    currentChapterHtml = '';
+                                    currentChapterId = null;
+                                }
+                            }
+                            else if (node.nodeName === 'verse' && node.getAttribute('osisID')) {
+                                // Process verse within current chapter
+                                const verseId = node.getAttribute('osisID');
+                                const verseNum = verseId.split('.').pop();
+                                
+                                currentChapterHtml += `<div class="verse">`;
+                                currentChapterHtml += `<span class="verse-number">${verseNum}</span>`;
+                                currentChapterHtml += `<span class="verse-text">${processVerseContent(node)}</span>`;
+                                currentChapterHtml += `</div>`;
+                            }
+                            else if (node.nodeName === 'title' && currentChapterId) {
+                                // Process title within current chapter (subsection titles)
+                                const titleType = node.getAttribute('type');
+                                let titleClass = 'section-title-sub';
+                                if (titleType === 'main') {
+                                    titleClass = 'section-title-main';
+                                }
+                                currentChapterHtml += `<div class="${titleClass}">${node.textContent}</div>`;
+                            }
                         }
-                        
-                        // Process verse elements
-                        if (currentNode.nodeName === 'verse' && 
-                            currentNode.getAttribute('osisID')) {
-                            
-                            const verseId = currentNode.getAttribute('osisID');
-                            const verseNum = verseId.split('.').pop();
-                            
-                            html += `<div class="verse">`;
-                            html += `<span class="verse-number">${verseNum}</span>`;
-                            html += `<span class="verse-text">${processVerseContent(currentNode)}</span>`;
-                            html += `</div>`;
-                        }
-                        
-                        currentNode = currentNode.nextElementSibling;
                     }
-                    
-                    html += `</div>`;
-                });
+                }
             }
 
             content.innerHTML = html;
