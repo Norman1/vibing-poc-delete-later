@@ -1291,8 +1291,9 @@
       <verse osisID="Gen.38.29">But when he drew back his hand, his brother came out, and she said, "So this is how you have broken out!" And he was named Perez.</verse>
       <verse osisID="Gen.38.30">Then his brother, who had the scarlet thread on his wrist, came out. And he was named Zerah.</verse>
       <chapter eID="Gen.38"/>
-      <!-- Chapter 39: Joseph in Potiphar's house -->
+      
       <chapter osisID="Gen.39" sID="Gen.39"/>
+      <title type="sub">Joseph in Egypt</title>
       <verse osisID="Gen.39.1">Now Joseph had been taken down to Egypt. Potiphar, an Egyptian who was one of Pharaoh's officials, the captain of the guard, bought him from the Ishmaelites who had taken him there.</verse>
       <verse osisID="Gen.39.2">Yahweh was with Joseph so that he prospered, and he lived in the house of his Egyptian master.</verse>
       <verse osisID="Gen.39.3">When his master saw that Yahweh was with him and that Yahweh gave him success in everything he did,</verse>
@@ -1343,8 +1344,9 @@
       <verse osisID="Gen.40.22">but he impaled the chief baker, just as Joseph had said to them in his interpretation.</verse>
       <verse osisID="Gen.40.23">The chief cupbearer, however, did not remember Joseph; he forgot him.</verse>
       <chapter eID="Gen.40"/>
-      <!-- Chapter 41: Pharaoh's dreams and Joseph's rise to power -->
+      
       <chapter osisID="Gen.41" sID="Gen.41"/>
+      <title type="sub">Joseph Becomes Ruler of Egypt</title>
       <verse osisID="Gen.41.1">When two full years had passed, Pharaoh had a dream: He was standing by the Nile,</verse>
       <verse osisID="Gen.41.2">when out of the river there came up seven cows, sleek and fat, and they grazed among the reeds.</verse>
       <verse osisID="Gen.41.3">After them, seven other cows, ugly and gaunt, came up out of the Nile and stood beside those on the riverbank.</verse>
