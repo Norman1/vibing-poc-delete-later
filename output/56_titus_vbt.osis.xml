@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <refSystem>Bible</refSystem>
+        <rights>Public Domain</rights>
+      </work>
+    </header>
+    
+    <div type="book" osisID="Titus" canonical="true">
+      <title type="main">Titus</title>
+
+      <chapter osisID="Titus.1" sID="Titus.1"/>
+      
+      <title type="main">Leadership Requirements for the Church</title>
+      
+      <verse osisID="Titus.1.1">Paul, a slave of God and an apostle of Jesus Christ for the faith of God's chosen people and the knowledge of the truth that leads to godliness,</verse>
+      
+      <verse osisID="Titus.1.2">based on the hope of eternal life that God, who cannot lie, promised before time began.</verse>
+      
+      <verse osisID="Titus.1.3">At the proper time he revealed his word through the preaching that I was entrusted with by the command of God our Savior.</verse>
+      
+      <verse osisID="Titus.1.4">To Titus, my true child according to our common faith: Grace and peace from God the Father and Christ Jesus our Savior.</verse>
+
+      <title type="sub">Appointing Church Leaders</title>
+      
+      <verse osisID="Titus.1.5">The reason I left you in Crete was to straighten out what was left unfinished and to appoint elders in every town, as I directed you.</verse>
+      
+      <verse osisID="Titus.1.6">An elder must be blameless, the husband of one wife, having faithful children who are not accused of wild living or rebellion.</verse>
+      
+      <verse osisID="Titus.1.7">For an overseer must be blameless as God's steward—not arrogant, not quick-tempered, not addicted to wine, not violent, not pursuing dishonest gain.</verse>
+      
+      <verse osisID="Titus.1.8">Instead, he must be hospitable, one who loves what is good, self-controlled, upright, devoted to God, disciplined,</verse>
+      
+      <verse osisID="Titus.1.9">holding firmly to the trustworthy word as taught, so that he may be able both to encourage others by sound teaching and to refute those who oppose it.</verse>
+
+      <title type="sub">Confronting False Teachers</title>
+      
+      <verse osisID="Titus.1.10">For there are many rebellious people, empty talkers and deceivers, especially those from the circumcision group,</verse>
+      
+      <verse osisID="Titus.1.11">who must be silenced. They are upsetting whole families by teaching things they ought not to teach, for the sake of dishonest gain.</verse>
+      
+      <verse osisID="Titus.1.12">One of them, a prophet of their own, said, "Cretans are always liars, evil beasts, lazy gluttons."</verse>
+      
+      <verse osisID="Titus.1.13">This testimony is true. For this reason, rebuke them sharply, so that they may be sound in the faith,</verse>
+      
+      <verse osisID="Titus.1.14">not paying attention to Jewish myths and the commands of those who turn away from the truth.</verse>
+      
+      <verse osisID="Titus.1.15">To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure. In fact, both their minds and consciences are corrupted.</verse>
+      
+      <verse osisID="Titus.1.16">They claim to know God, but by their actions they deny him. They are detestable, disobedient and unfit for doing anything good.</verse>
+      
+      <chapter eID="Titus.1"/>
+
+      <chapter osisID="Titus.2" sID="Titus.2"/>
+      
+      <title type="main">Teaching Sound Doctrine</title>
+
+      <verse osisID="Titus.2.1">You, however, must teach what is appropriate to sound teaching.</verse>
+
+      <title type="sub">Instructions for Different Groups</title>
+      
+      <verse osisID="Titus.2.2">Teach the older men to be temperate, worthy of respect, self-controlled, and sound in faith, in love and in endurance.</verse>
+      
+      <verse osisID="Titus.2.3">Likewise, teach the older women to be reverent in the way they live, not to be slanderers or addicted to much wine, but to teach what is good.</verse>
+      
+      <verse osisID="Titus.2.4">Then they can urge the younger women to love their husbands and children,</verse>
+      
+      <verse osisID="Titus.2.5">to be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will malign the word of God.</verse>
+      
+      <verse osisID="Titus.2.6">Similarly, encourage the young men to be self-controlled.</verse>
+      
+      <verse osisID="Titus.2.7">In everything set them an example by doing what is good. In your teaching show integrity, seriousness</verse>
+      
+      <verse osisID="Titus.2.8">and soundness of speech that cannot be condemned, so that those who oppose you may be ashamed because they have nothing bad to say about us.</verse>
+      
+      <verse osisID="Titus.2.9">Teach slaves to be subject to their masters in everything, to try to please them, not to talk back to them,</verse>
+      
+      <verse osisID="Titus.2.10">and not to steal from them, but to show that they can be fully trusted, so that in every way they will make the teaching about God our Savior attractive.</verse>
+
+      <title type="sub">The Grace of God</title>
+      
+      <verse osisID="Titus.2.11">For the grace of God has appeared that offers salvation to all people.</verse>
+      
+      <verse osisID="Titus.2.12">It teaches us to say "No" to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age,</verse>
+      
+      <verse osisID="Titus.2.13">while we wait for the blessed hope—the appearing of the glory of our great God and Savior, Jesus Christ,</verse>
+      
+      <verse osisID="Titus.2.14">who gave himself for us to redeem us from all wickedness and to purify for himself a people that are his very own, eager to do what is good.</verse>
+      
+      <verse osisID="Titus.2.15">These, then, are the things you should teach. Encourage and rebuke with all authority. Do not let anyone despise you.</verse>
+      
+      <chapter eID="Titus.2"/>
+
+      <chapter osisID="Titus.3" sID="Titus.3"/>
+      
+      <title type="main">Living as God's People</title>
+
+      <title type="sub">Doing Good Works</title>
+
+      <verse osisID="Titus.3.1">Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good,</verse>
+      
+      <verse osisID="Titus.3.2">to slander no one, to be peaceable and considerate, and always to be gentle toward everyone.</verse>
+      
+      <verse osisID="Titus.3.3">At one time we too were foolish, disobedient, deceived and enslaved by all kinds of passions and pleasures. We lived in malice and envy, being hated and hating one another.</verse>
+
+      <title type="sub">Saved by God's Mercy</title>
+      
+      <verse osisID="Titus.3.4">But when the kindness and love of God our Savior appeared,</verse>
+      
+      <verse osisID="Titus.3.5">he saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit,</verse>
+      
+      <verse osisID="Titus.3.6">whom he poured out on us generously through Jesus Christ our Savior,</verse>
+      
+      <verse osisID="Titus.3.7">so that, having been justified by his grace, we might become heirs having the hope of eternal life.</verse>
+      
+      <verse osisID="Titus.3.8">This is a trustworthy saying. And I want you to stress these things, so that those who have trusted in God may be careful to devote themselves to doing what is good. These things are excellent and profitable for everyone.</verse>
+
+      <title type="sub">Final Warnings and Instructions</title>
+      
+      <verse osisID="Titus.3.9">But avoid foolish controversies and genealogies and arguments and quarrels about the law, because these are unprofitable and useless.</verse>
+      
+      <verse osisID="Titus.3.10">Warn a divisive person once, and then warn them a second time. After that, have nothing to do with them.</verse>
+      
+      <verse osisID="Titus.3.11">You may be sure that such people are warped and sinful; they are self-condemned.</verse>
+
+      <title type="sub">Final Remarks</title>
+      
+      <verse osisID="Titus.3.12">As soon as I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, because I have decided to winter there.</verse>
+      
+      <verse osisID="Titus.3.13">Do everything you can to help Zenas the lawyer and Apollos on their way and see that they have everything they need.</verse>
+      
+      <verse osisID="Titus.3.14">Our people must learn to devote themselves to doing what is good, in order to provide for urgent needs and not live unproductive lives.</verse>
+      
+      <verse osisID="Titus.3.15">Everyone with me sends you greetings. Greet those who love us in the faith. Grace be with you all.</verse>
+      
+      <chapter eID="Titus.3"/>
+    </div>
+  </osisText>
+</osis>
