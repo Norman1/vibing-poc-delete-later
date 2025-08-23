@@ -8,7 +8,19 @@ A Bible translation under MIT license developed with AI. The translation aim is 
 
 \## Source Texts
 
-Uses a critical apparatus as source. The translation never varies from what is stated as most likely in the critical apparatus, regardless of church tradition.
+**MANDATORY: All translation work must be based on the authoritative source texts in the `sources/` directory.**
+
+**Hebrew Old Testament:**
+- Westminster Leningrad Codex (WLC) with morphology in `sources/hebrew/morphhb/wlc/`
+- Contains Hebrew text, Strong's numbers, morphological parsing, and lemma data
+- Each biblical book has its own XML file (e.g., `1Sam.xml`, `Gen.xml`)
+
+**Greek New Testament:**
+- Society of Biblical Literature Greek New Testament (SBLGNT) in `sources/sblgnt/data/sblgnt/xml/`
+- Contains Greek text with word-by-word markup
+- Each biblical book has its own XML file (e.g., `3John.xml`, `Matt.xml`)
+
+The translation never varies from what is stated as most likely in the critical apparatus, regardless of church tradition. Translators must read directly from these source files rather than relying on memory or secondary sources.
 
 
 
@@ -199,11 +211,14 @@ If the meaning requires explanation, it should be built into the translation its
 - Apply all word choice replacements and modernization rules per chapter
 
 **Translation Process:**
-1. Read the source Hebrew/Greek text for the chapter
-2. Apply functional equivalence translation approach
+1. **Read the source Hebrew/Greek text files** - MANDATORY first step using files from `sources/` directory:
+   - For Old Testament: Read from `sources/hebrew/morphhb/wlc/[BookName].xml`  
+   - For New Testament: Read from `sources/sblgnt/data/sblgnt/xml/[BookName].xml`
+   - Parse morphological data, lemmas, and Strong's numbers to inform translation
+2. Apply functional equivalence translation approach based on source text analysis
 3. Replace traditional biblical terminology with modern explanations
 4. Add section headings using OSIS title elements to organize content logically
-5. Add minimal linguistic notes (Hebrew/Greek word meanings only)
+5. Add minimal linguistic notes (Hebrew/Greek word meanings only, derived from source files)
 6. Format in OSIS XML with proper verse structure
 7. Commit the completed chapter with descriptive message
 8. Continue to next chapter
