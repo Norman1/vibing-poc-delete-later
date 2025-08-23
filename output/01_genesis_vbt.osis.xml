@@ -568,8 +568,11 @@
         <verse osisID="Gen.19.37">The older daughter had a son, and she named him Moab; he is the father of the Moabites of today.</verse>
         <verse osisID="Gen.19.38">The younger daughter also had a son, and she named him Ben-Ammi; he is the father of the Ammonites of today.</verse>
       </chapter>
-      <!-- Chapter 20: Abraham and Abimelech -->
+      
+      <title type="main">Abraham's Later Years</title>
+      
       <chapter osisID="Gen.20" sID="Gen.20"/>
+      <title type="sub">Abraham and Abimelech</title>
       <verse osisID="Gen.20.1">From there Abraham journeyed toward the region of the Negev and lived between Kadesh and Shur. For a while he stayed in Gerar,</verse>
       <verse osisID="Gen.20.2">and there Abraham said of his wife Sarah, "She is my sister." Then Abimelech king of Gerar sent for Sarah and took her.</verse>
       <verse osisID="Gen.20.3">But God came to Abimelech in a dream one night and said to him, "You are as good as dead because of the woman you have taken; she is a married woman."</verse>
@@ -589,8 +592,9 @@
       <verse osisID="Gen.20.17">Then Abraham prayed to God, and God healed Abimelech, his wife and his female slaves so they could have children again,</verse>
       <verse osisID="Gen.20.18">for Yahweh had kept all the women in Abimelech's household from conceiving because of Abraham's wife Sarah.</verse>
       <chapter eID="Gen.20"/>
-      <!-- Chapter 21: Birth of Isaac and banishment of Hagar -->
+      
       <chapter osisID="Gen.21" sID="Gen.21"/>
+      <title type="sub">Isaac's Birth and Hagar's Dismissal</title>
       <verse osisID="Gen.21.1">Yahweh was gracious to Sarah as he had said, and Yahweh did for Sarah what he had promised.</verse>
       <verse osisID="Gen.21.2">Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him.</verse>
       <verse osisID="Gen.21.3">Abraham gave the name Isaac to the son Sarah bore him.</verse>
@@ -626,8 +630,9 @@
       <verse osisID="Gen.21.33">Abraham planted a tamarisk tree in Beersheba, and there he called on the name of Yahweh, the Eternal God.</verse>
       <verse osisID="Gen.21.34">And Abraham stayed in the land of the Philistines for a long time.</verse>
       <chapter eID="Gen.21"/>
-      <!-- Chapter 22: Abraham's test with Isaac -->
+      
       <chapter osisID="Gen.22" sID="Gen.22"/>
+      <title type="sub">Abraham's Test of Faith</title>
       <verse osisID="Gen.22.1">Some time later God tested Abraham. He said to him, "Abraham!" "Here I am," he replied.</verse>
       <verse osisID="Gen.22.2">Then God said, "Take your son, your only son, whom you love—Isaac—and go to the region of Moriah. Sacrifice him there as a burnt offering on a mountain I will show you."</verse>
       <verse osisID="Gen.22.3">Early the next morning Abraham got up and loaded his donkey. He took with him two of his servants and his son Isaac. When he had cut enough wood for the burnt offering, he set out for the place God had told him about.</verse>
@@ -676,8 +681,9 @@
       <verse osisID="Gen.23.19">Afterward Abraham buried his wife Sarah in the cave in the field of Machpelah near Mamre (which is at Hebron) in the land of Canaan.</verse>
       <verse osisID="Gen.23.20">So the field and the cave in it were deeded to Abraham by the Hittites as a burial site.</verse>
       <chapter eID="Gen.23"/>
-      <!-- Chapter 24: Isaac and Rebekah -->
+      
       <chapter osisID="Gen.24" sID="Gen.24"/>
+      <title type="sub">Finding a Wife for Isaac</title>
       <verse osisID="Gen.24.1">Abraham was now very old, and Yahweh had blessed him in every way.</verse>
       <verse osisID="Gen.24.2">He said to the senior servant in his household, the one in charge of all that he had, "Put your hand under my thigh.</verse>
       <verse osisID="Gen.24.3">I want you to swear by Yahweh, the God of heaven and the God of earth, that you will not get a wife for my son from the daughters of the Canaanites, among whom I am living,</verse>
@@ -746,8 +752,11 @@
       <verse osisID="Gen.24.66">Then the servant told Isaac all he had done.</verse>
       <verse osisID="Gen.24.67">Isaac brought her into the tent of his mother Sarah, and he married Rebekah. So she became his wife, and he loved her; and Isaac was comforted after his mother's death.</verse>
       <chapter eID="Gen.24"/>
-      <!-- Chapter 25: Abraham's death and descendants -->
+      
+      <title type="main">Isaac and Jacob</title>
+      
       <chapter osisID="Gen.25" sID="Gen.25"/>
+      <title type="sub">Abraham's Death and Isaac's Family</title>
       <verse osisID="Gen.25.1">Abraham had taken another wife, whose name was Keturah.</verse>
       <verse osisID="Gen.25.2">She bore him Zimran, Jokshan, Medan, Midian, Ishbak and Shuah.</verse>
       <verse osisID="Gen.25.3">Jokshan was the father of Sheba and Dedan; the descendants of Dedan were the Ashurites, the Letushites and the Leummites.</verse>
@@ -1207,8 +1216,11 @@
       <verse osisID="Gen.36.42">Kenaz, Teman, Mibzar,</verse>
       <verse osisID="Gen.36.43">Magdiel and Iram. These were the chiefs of Edom, according to their settlements in the land they occupied. This is the family line of Esau, the father of the Edomites.</verse>
       <chapter eID="Gen.36"/>
-      <!-- Chapter 37: Joseph's dreams and betrayal -->
+      
+      <title type="main">Joseph and His Brothers</title>
+      
       <chapter osisID="Gen.37" sID="Gen.37"/>
+      <title type="sub">Joseph's Dreams and Betrayal</title>
       <verse osisID="Gen.37.1">Jacob lived in the land where his father had stayed, the land of Canaan.</verse>
       <verse osisID="Gen.37.2">This is the account of Jacob's family line. Joseph, a young man of seventeen, was tending the flocks with his brothers, the sons of Bilhah and the sons of Zilpah, his father's wives, and he brought their father a bad report about them.</verse>
       <verse osisID="Gen.37.3">Now Israel loved Joseph more than any of his other sons, because he had been born to him in his old age; and he made an ornate robe for him.</verse>
