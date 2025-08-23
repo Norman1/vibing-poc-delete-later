@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
+    <header>
+      <work osisWork="VBT">
+        <title>Plain Meaning Bible</title>
+        <identifier type="OSIS">Bible.VBT</identifier>
+        <refSystem>Bible</refSystem>
+        <rights>Public Domain</rights>
+      </work>
+    </header>
+    <div type="book" osisID="Zech" canonical="true">
+      <chapter osisID="Zech.1">
+        <title type="chapter">Chapter 1</title>
+        <title type="main">Yahweh's Call to Return</title>
+        <verse osisID="Zech.1.1">In the eighth month, in the second year of Darius, the word of Yahweh came to Zechariah son of Berechiah, son of Iddo the prophet, saying:</verse>
+        <verse osisID="Zech.1.2">"Yahweh was very angry with your ancestors.</verse>
+        <verse osisID="Zech.1.3">Therefore tell them, 'This is what Yahweh of armies says: Return to me,' declares Yahweh of armies, 'and I will return to you,' says Yahweh of armies.</verse>
+        <verse osisID="Zech.1.4">Do not be like your ancestors, whom the earlier prophets proclaimed to, saying, 'This is what Yahweh of armies says: Turn now from your evil ways and your evil deeds!' But they did not listen or pay attention to me,' declares Yahweh.</verse>
+        <verse osisID="Zech.1.5">"Your ancestors—where are they? And the prophets, do they live forever?</verse>
+        <verse osisID="Zech.1.6">But did not my words and my decrees, which I commanded my servants the prophets, overtake your ancestors? So they changed their minds and said, 'As Yahweh of armies determined to do to us, according to our ways and according to our deeds, so he has dealt with us.'"</verse>
+        
+        <title type="main">Vision of the Horsemen Among the Myrtle Trees</title>
+        <verse osisID="Zech.1.7">On the twenty-fourth day of the eleventh month, which is the month of Shebat, in the second year of Darius, the word of Yahweh came to Zechariah son of Berechiah, son of Iddo the prophet, saying:</verse>
+        <verse osisID="Zech.1.8">I looked during the night, and there was a man riding on a red horse! He was standing among the myrtle trees in the glen, and behind him were red, brown, and white horses.</verse>
+        <verse osisID="Zech.1.9">Then I asked, "What are these, my lord?" The angel who was speaking with me said to me, "I will show you what these are."</verse>
+        <verse osisID="Zech.1.10">So the man who was standing among the myrtle trees answered, "These are the ones whom Yahweh has sent to walk throughout the earth."</verse>
+        <verse osisID="Zech.1.11">They answered the angel of Yahweh who was standing among the myrtle trees, and said, "We have walked throughout the earth, and look, the whole earth is at rest and is peaceful."</verse>
+        <verse osisID="Zech.1.12">Then the angel of Yahweh replied, "Yahweh of armies, how long will you withhold mercy from Jerusalem and from the cities of Judah, with which you have been angry these seventy years?"</verse>
+        <verse osisID="Zech.1.13">Yahweh answered the angel who was speaking with me with good words, comforting words.</verse>
+        <verse osisID="Zech.1.14">So the angel who was speaking with me said to me, "Proclaim this: This is what Yahweh of armies says: 'I am zealous for Jerusalem and for Zion with great zeal.</verse>
+        <verse osisID="Zech.1.15">But I am very angry with the nations that are at ease; for while I was only a little angry, they helped make the disaster worse.'</verse>
+        <verse osisID="Zech.1.16">Therefore this is what Yahweh says: 'I have returned to Jerusalem with mercy. My house will be built in it,' declares Yahweh of armies, 'and a measuring line will be stretched out over Jerusalem.'</verse>
+        <verse osisID="Zech.1.17">Proclaim further: This is what Yahweh of armies says: 'My cities will again overflow with prosperity, and Yahweh will again comfort Zion and again choose Jerusalem.'"</verse>
+        
+        <title type="main">Vision of the Four Horns and Four Craftsmen</title>
+        <verse osisID="Zech.1.18">I lifted up my eyes and looked, and there were four horns!</verse>
+        <verse osisID="Zech.1.19">So I asked the angel who was speaking with me, "What are these?" He said to me, "These are the horns that have scattered Judah, Israel, and Jerusalem."</verse>
+        <verse osisID="Zech.1.20">Then Yahweh showed me four craftsmen.</verse>
+        <verse osisID="Zech.1.21">I asked, "What are these coming to do?" He answered, "These are the horns that scattered Judah so that no one could lift up his head. But these craftsmen have come to terrify them, to strike down the horns of the nations that lifted up their horns against the land of Judah to scatter it."</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.2">
+        <title type="chapter">Chapter 2</title>
+        <title type="main">Vision of the Man with a Measuring Line</title>
+        <verse osisID="Zech.2.1">I lifted up my eyes and looked, and there was a man with a measuring line in his hand!</verse>
+        <verse osisID="Zech.2.2">So I asked, "Where are you going?" He said to me, "To measure Jerusalem, to see how wide it is and how long it is."</verse>
+        <verse osisID="Zech.2.3">Then the angel who was speaking with me went out, and another angel went out to meet him.</verse>
+        <verse osisID="Zech.2.4">He said to him, "Run, speak to that young man: 'Jerusalem will be inhabited as villages without walls because of the multitude of people and livestock in it.</verse>
+        <verse osisID="Zech.2.5">For I myself will be a wall of fire around it,' declares Yahweh, 'and I will be the glory in its midst.'"</verse>
+        
+        <title type="main">Call to Flee from Babylon</title>
+        <verse osisID="Zech.2.6">"Come! Come! Flee from the land of the north," declares Yahweh, "for I have scattered you like the four winds of the heavens," declares Yahweh.</verse>
+        <verse osisID="Zech.2.7">"Come, Zion! Escape, you who live with the daughter of Babylon."</verse>
+        <verse osisID="Zech.2.8">For this is what Yahweh of armies says: "After glory sent me against the nations who plundered you—for whoever touches you touches the apple of his eye—</verse>
+        <verse osisID="Zech.2.9">Look! I will shake my hand over them, and they will become plunder for their own servants." Then you will know that Yahweh of armies has sent me.</verse>
+        <verse osisID="Zech.2.10">Sing and rejoice, daughter of Zion! For look! I am coming, and I will live among you, declares Yahweh.</verse>
+        <verse osisID="Zech.2.11">Many nations will join themselves to Yahweh in that day and will become my people. I will live among you, and you will know that Yahweh of armies has sent me to you.</verse>
+        <verse osisID="Zech.2.12">Yahweh will inherit Judah as his portion in the land set apart for God and will again choose Jerusalem.</verse>
+        <verse osisID="Zech.2.13">Be silent, all flesh, before Yahweh, for he has roused himself from his dwelling place set apart for God.</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.3">
+        <title type="chapter">Chapter 3</title>
+        <title type="main">Vision of Joshua the High Priest</title>
+        <verse osisID="Zech.3.1">Then he showed me Joshua the high priest standing before the angel of Yahweh, and Satan standing at his right hand to accuse him.</verse>
+        <verse osisID="Zech.3.2">Yahweh said to Satan, "Yahweh rebukes you, Satan! Yahweh, who has chosen Jerusalem, rebukes you! Is this not a burning stick pulled from the fire?"</verse>
+        <verse osisID="Zech.3.3">Now Joshua was clothed with filthy garments and was standing before the angel.</verse>
+        <verse osisID="Zech.3.4">The angel answered and spoke to those who were standing before him, saying, "Remove the filthy garments from him." To him he said, "See, I have taken your iniquity away from you, and I will clothe you with fine clothing."</verse>
+        <verse osisID="Zech.3.5">I said, "Let them put a clean turban on his head." So they put a clean turban on his head and clothed him with garments while the angel of Yahweh was standing by.</verse>
+        <verse osisID="Zech.3.6">The angel of Yahweh warned Joshua, saying,</verse>
+        <verse osisID="Zech.3.7">"This is what Yahweh of armies says: 'If you will walk in my ways, and if you will keep my requirements, then you will also judge my house and will also guard my courts, and I will give you free access among these who stand here.</verse>
+        <verse osisID="Zech.3.8">Listen, Joshua the high priest, you and your companions who sit before you! For these men are a sign: Look! I am about to bring my servant, the Branch.</verse>
+        <verse osisID="Zech.3.9">Look at the stone that I have put before Joshua! On one stone are seven eyes. Look! I am engraving an inscription on it,' declares Yahweh of armies, 'and I will remove the guilt of this land in one day.</verse>
+        <verse osisID="Zech.3.10">In that day,' declares Yahweh of armies, 'each of you will invite his neighbor under his vine and under his fig tree.'"</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.4">
+        <title type="chapter">Chapter 4</title>
+        <title type="main">Vision of the Golden Lampstand</title>
+        <verse osisID="Zech.4.1">Then the angel who was speaking with me returned and woke me up like a man who is wakened from his sleep.</verse>
+        <verse osisID="Zech.4.2">He said to me, "What do you see?" So I said, "I have looked, and there is a lampstand made entirely of gold, with a bowl on its top. It has seven lamps on it, and there are seven lamp wicks at the top of it.</verse>
+        <verse osisID="Zech.4.3">There are also two olive trees by it, one on the right side of the bowl and one on the left side."</verse>
+        <verse osisID="Zech.4.4">So I answered and spoke to the angel who was talking with me, saying, "What are these, my lord?"</verse>
+        <verse osisID="Zech.4.5">The angel who was speaking with me answered and said to me, "Do you not know what these are?" So I said, "No, my lord."</verse>
+        <verse osisID="Zech.4.6">So he answered and spoke to me, saying, "This is the word of Yahweh to Zerubbabel, saying, 'Not by might, nor by power, but by my Spirit,' says Yahweh of armies.</verse>
+        <verse osisID="Zech.4.7">'What are you, great mountain? Before Zerubbabel you will become level ground! He will bring out the top stone with shouts of: Grace! Grace to it!'"</verse>
+        <verse osisID="Zech.4.8">The word of Yahweh came to me, saying,</verse>
+        <verse osisID="Zech.4.9">"The hands of Zerubbabel have laid the foundation of this house, and his hands will also complete it. Then you will know that Yahweh of armies has sent me to you.</verse>
+        <verse osisID="Zech.4.10">For who has despised the day of small things? These seven eyes of Yahweh, which roam throughout all the earth, will rejoice when they see the plumb line in the hand of Zerubbabel."</verse>
+        <verse osisID="Zech.4.11">Then I answered and asked him, "What are these two olive trees on the right and on the left of the lampstand?"</verse>
+        <verse osisID="Zech.4.12">Once more I asked him, "What are the two olive branches that are beside the two golden pipes, from which the golden oil pours?"</verse>
+        <verse osisID="Zech.4.13">So he spoke to me, saying, "Do you not know what these are?" And I said, "No, my lord."</verse>
+        <verse osisID="Zech.4.14">So he said, "These are the two sons of fresh oil who stand beside the Lord of all the earth."</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.5">
+        <title type="chapter">Chapter 5</title>
+        <title type="main">Vision of the Flying Scroll</title>
+        <verse osisID="Zech.5.1">Then I lifted up my eyes again and looked, and there was a flying scroll.</verse>
+        <verse osisID="Zech.5.2">The angel said to me, "What do you see?" I answered, "I see a flying scroll; its length is twenty cubits <note>About 30 feet or 9 meters</note>, and its width is ten cubits <note>About 15 feet or 4.5 meters</note>."</verse>
+        <verse osisID="Zech.5.3">Then he said to me, "This is the curse that goes out over the face of the whole land. According to the writing on one side, everyone who steals will be cut off, and according to the writing on the other side, everyone who swears falsely will be cut off.</verse>
+        <verse osisID="Zech.5.4">I will send it out," declares Yahweh of armies, "and it will enter the house of the thief and the house of anyone who swears falsely by my name. It will remain in his house and consume it, both its timber and its stones."</verse>
+        
+        <title type="main">Vision of the Woman in the Basket</title>
+        <verse osisID="Zech.5.5">Then the angel who was speaking with me went out and said to me, "Lift up your eyes and see what this is that is appearing."</verse>
+        <verse osisID="Zech.5.6">I said, "What is it?" He said, "This is the basket that is appearing." Then he said, "This is their iniquity in all the land."</verse>
+        <verse osisID="Zech.5.7">Then a lead cover was lifted up, and there was a woman sitting in the basket!</verse>
+        <verse osisID="Zech.5.8">He said, "This is Wickedness!" Then he pushed her back down into the basket and pushed the lead cover down over its mouth.</verse>
+        <verse osisID="Zech.5.9">I lifted up my eyes and looked, and there were two women coming forward, and wind was in their wings—for they had wings like the wings of a stork. They lifted up the basket between earth and heaven.</verse>
+        <verse osisID="Zech.5.10">So I said to the angel who was speaking with me, "Where are they taking the basket?"</verse>
+        <verse osisID="Zech.5.11">He said to me, "To build a house for it in the land of Shinar <note>Babylonia</note>. When the house is ready, they will set the basket there on its prepared base."</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.6">
+        <title type="chapter">Chapter 6</title>
+        <title type="main">Vision of the Four Chariots</title>
+        <verse osisID="Zech.6.1">Once again I lifted up my eyes and looked, and there were four chariots coming out from between two mountains, and the mountains were mountains of bronze!</verse>
+        <verse osisID="Zech.6.2">The first chariot had red horses, the second chariot had black horses,</verse>
+        <verse osisID="Zech.6.3">the third chariot had white horses, and the fourth chariot had strong spotted horses.</verse>
+        <verse osisID="Zech.6.4">I asked the angel who was speaking with me, "What are these, my lord?"</verse>
+        <verse osisID="Zech.6.5">The angel answered and said to me, "These are the four spirits of heaven that go out from their station before the Lord of all the earth.</verse>
+        <verse osisID="Zech.6.6">The chariot with the black horses is going out to the north country, and the white horses go out after them. The spotted horses go out to the south country."</verse>
+        <verse osisID="Zech.6.7">These strong horses also went out and sought to go and roam over the earth, so the angel said, "Go and roam over the earth!" So they roamed over the earth.</verse>
+        <verse osisID="Zech.6.8">Then he called out to me and spoke to me, saying, "Look! The ones that went out to the north country have given my Spirit rest in the north country."</verse>
+        
+        <title type="main">The Symbolic Crowning of Joshua</title>
+        <verse osisID="Zech.6.9">The word of Yahweh came to me, saying,</verse>
+        <verse osisID="Zech.6.10">"Take an offering from the exiles, from Heldai, Tobijah, and Jedaiah, who have come from Babylon, and go the same day to the house of Josiah son of Zephaniah.</verse>
+        <verse osisID="Zech.6.11">Take silver and gold and make a crown, and set it on the head of Joshua son of Jehozadak, the high priest.</verse>
+        <verse osisID="Zech.6.12">Speak to him and say, 'This is what Yahweh of armies says: "Look! A man whose name is Branch will branch out from his place and build the temple of Yahweh.</verse>
+        <verse osisID="Zech.6.13">He will build the temple of Yahweh and will bear royal majesty, and will sit and rule on his throne. He will be a priest on his throne, and there will be peaceful understanding between the two roles."</verse>
+        <verse osisID="Zech.6.14">The crown will be for Helem, Tobijah, Jedaiah, and Hen son of Zephaniah, as a memorial in the temple of Yahweh.</verse>
+        <verse osisID="Zech.6.15">People who are far away will come and help build the temple of Yahweh. Then you will know that Yahweh of armies has sent me to you. This will happen if you will obey the voice of Yahweh your God.'"</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.7">
+        <title type="chapter">Chapter 7</title>
+        <title type="main">Question About Fasting</title>
+        <verse osisID="Zech.7.1">In the fourth year of King Darius, the word of Yahweh came to Zechariah, on the fourth day of the ninth month, which is Chislev.</verse>
+        <verse osisID="Zech.7.2">Now the people of Bethel had sent Sharezer and Regem-Melech and their men to pray before Yahweh,</verse>
+        <verse osisID="Zech.7.3">speaking to the priests who were at the house of Yahweh of armies and to the prophets, and saying, "Should I mourn in the fifth month and fast as I have done these many years?"</verse>
+        <verse osisID="Zech.7.4">So the word of Yahweh of armies came to me, saying,</verse>
+        <verse osisID="Zech.7.5">"Speak to all the people of the land and to the priests and say, 'When you fasted and mourned in the fifth and in the seventh months for these seventy years, did you truly fast for me?</verse>
+        <verse osisID="Zech.7.6">When you eat and drink, do you not eat and drink for yourselves?</verse>
+        <verse osisID="Zech.7.7">Were these not the words that Yahweh proclaimed by the mouth of the former prophets, when Jerusalem was inhabited and at ease, and her surrounding cities, and the Negev and the Shephelah were inhabited?'"</verse>
+        
+        <title type="main">Yahweh's Requirements for Justice</title>
+        <verse osisID="Zech.7.8">The word of Yahweh came to Zechariah, saying,</verse>
+        <verse osisID="Zech.7.9">"This is what Yahweh of armies says: 'Judge with true justice, and show covenant faithfulness and compassion toward each other.</verse>
+        <verse osisID="Zech.7.10">Do not oppress the widow, the fatherless, the foreigner, or the poor person, and do not plot evil in your heart against each other.'</verse>
+        <verse osisID="Zech.7.11">But they refused to pay attention and set their shoulders stubbornly. They stopped up their ears so they would not hear.</verse>
+        <verse osisID="Zech.7.12">They made their hearts as hard as diamond, so they would not listen to the law or to the words that Yahweh of armies had sent by his Spirit through the former prophets. So great anger came from Yahweh of armies.</verse>
+        <verse osisID="Zech.7.13">'It came about that when I called, they did not listen, so when they called out, I did not listen,' says Yahweh of armies.</verse>
+        <verse osisID="Zech.7.14">'I scattered them with a whirlwind to all the nations that they had not seen, and the land was desolate after them, so that no one passed through or returned to it, for they had made the pleasant land a wasteland.'"</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.8">
+        <title type="chapter">Chapter 8</title>
+        <title type="main">Yahweh's Promises to Zion</title>
+        <verse osisID="Zech.8.1">The word of Yahweh of armies came, saying,</verse>
+        <verse osisID="Zech.8.2">"This is what Yahweh of armies says: 'I am zealous for Zion with great zeal, and I am zealous for her with great anger.'</verse>
+        <verse osisID="Zech.8.3">This is what Yahweh says: 'I will return to Zion and will live in the midst of Jerusalem, for Jerusalem will be called The City of Truth, and the mountain of Yahweh of armies will be called The Mountain Set Apart for God.'</verse>
+        <verse osisID="Zech.8.4">This is what Yahweh of armies says: 'Old men and old women will again sit in the open places of Jerusalem, each person with his staff in his hand because of great age.</verse>
+        <verse osisID="Zech.8.5">The streets of the city will be full of boys and girls playing in its streets.'</verse>
+        <verse osisID="Zech.8.6">This is what Yahweh of armies says: 'If something seems impossible to the remnant of this people in those days, should it also seem impossible to me?' declares Yahweh of armies.</verse>
+        <verse osisID="Zech.8.7">This is what Yahweh of armies says: 'Look! I am about to rescue my people from the land of the sunrise and from the land of the sunset.</verse>
+        <verse osisID="Zech.8.8">For I will bring them back, and they will live in the midst of Jerusalem and be my people, and I will be their God in truth and in righteousness.'"</verse>
+        
+        <title type="main">Encouragement to Rebuild</title>
+        <verse osisID="Zech.8.9">This is what Yahweh of armies says: "Let your hands be strong, you who hear these words today from the mouth of the prophets, on the day that the foundation of the house of Yahweh of armies was laid for the rebuilding of the temple.</verse>
+        <verse osisID="Zech.8.10">For before those days there were no wages for man or beast, and there was no peace from enemies for anyone who went out or came in, for I had set every person against his neighbor.</verse>
+        <verse osisID="Zech.8.11">But now I will not be to the remnant of this people as in the former days," declares Yahweh of armies.</verse>
+        <verse osisID="Zech.8.12">"For there will be a harvest of peace: the vine will give its fruit, and the land will give its produce, and the heavens will give their dew. I will make the remnant of this people inherit all these things.</verse>
+        <verse osisID="Zech.8.13">It will come about that as you were a curse among the nations, house of Judah and house of Israel, so I will rescue you, and you will be a blessing. Do not fear. Let your hands be strong."</verse>
+        <verse osisID="Zech.8.14">For this is what Yahweh of armies says: "Just as I planned to do harm to you when your fathers provoked me to anger," says Yahweh of armies, "and I did not change my mind,</verse>
+        <verse osisID="Zech.8.15">so also I am planning in these days to do good to Jerusalem and to the house of Judah. Do not fear!</verse>
+        <verse osisID="Zech.8.16">These are the things that you must do: Speak truth, each person with his neighbor. Judge with truth and complete justice in your gates.</verse>
+        <verse osisID="Zech.8.17">Do not plan evil in your heart against your neighbor, and do not love false oaths, for I hate all these things," declares Yahweh.</verse>
+        
+        <title type="main">Joyful Fasts and Universal Worship</title>
+        <verse osisID="Zech.8.18">The word of Yahweh of armies came to me, saying,</verse>
+        <verse osisID="Zech.8.19">"This is what Yahweh of armies says: 'The fast of the fourth month, the fast of the fifth month, the fast of the seventh month, and the fast of the tenth month will become times of joy and gladness, and happy festivals for the house of Judah. But love truth and peace.'</verse>
+        <verse osisID="Zech.8.20">This is what Yahweh of armies says: 'Peoples will yet come, even the inhabitants of many cities.</verse>
+        <verse osisID="Zech.8.21">The inhabitants of one city will go to another city, saying, "Let us quickly go to beg before Yahweh and to seek Yahweh of armies! I am also going!"</verse>
+        <verse osisID="Zech.8.22">Many peoples and mighty nations will come to seek Yahweh of armies in Jerusalem and to beg before Yahweh.'</verse>
+        <verse osisID="Zech.8.23">This is what Yahweh of armies says: 'In those days, ten men from every language of the nations will grasp the robe of a Jew and say, "Let us go with you, for we have heard that God is with you."'"</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.9">
+        <title type="chapter">Chapter 9</title>
+        <title type="main">Judgment on Surrounding Nations</title>
+        <verse osisID="Zech.9.1">A declaration: The word of Yahweh is against the land of Hadrach and will rest upon Damascus, for the eyes of all mankind and all the tribes of Israel are toward Yahweh.</verse>
+        <verse osisID="Zech.9.2">This declaration also concerns Hamath, which borders on Damascus, and Tyre and Sidon, even though they are very wise.</verse>
+        <verse osisID="Zech.9.3">Tyre has built herself a stronghold and heaped up silver like dust and refined gold like mud in the streets.</verse>
+        <verse osisID="Zech.9.4">Look! The Lord will dispossess her and destroy her strength on the sea, so she will be consumed by fire.</verse>
+        <verse osisID="Zech.9.5">Ashkelon will see and be afraid! Gaza also will be in great anguish! Ekron too, for her hope will be disappointed! The king will perish from Gaza, and Ashkelon will no longer be inhabited!</verse>
+        <verse osisID="Zech.9.6">Foreigners will live in Ashdod, and I will cut off the pride of the Philistines.</verse>
+        <verse osisID="Zech.9.7">For I will remove the blood from his mouth and the detestable things from between his teeth. Then he also will become a remnant for our God and will become like a clan in Judah, and Ekron will become like the Jebusites.</verse>
+        <verse osisID="Zech.9.8">I will encamp around my house against armies, so no one will pass through or return, for no oppressor will pass through them again, since I myself have seen it now.</verse>
+        
+        <title type="main">The Coming King</title>
+        <verse osisID="Zech.9.9">Rejoice greatly, daughter of Zion! Shout with joy, daughter of Jerusalem! Look! Your king is coming to you! He is righteous and is able to save. He is humble and is riding on a donkey, on the colt of a female donkey.</verse>
+        <verse osisID="Zech.9.10">I will cut off the chariot from Ephraim and the horse from Jerusalem, and the bow of war will be cut off. He will speak peace to the nations, and his dominion will be from sea to sea, and from the River to the ends of the earth!</verse>
+        <verse osisID="Zech.9.11">As for you, because of the blood of your covenant, I will set your prisoners free from the pit where there is no water.</verse>
+        <verse osisID="Zech.9.12">Return to the stronghold, you prisoners of hope! Even today I am declaring that I will return double to you.</verse>
+        <verse osisID="Zech.9.13">For I have bent Judah as my bow and have filled it with Ephraim. I have stirred up your sons, Zion, against your sons, Greece, and have made you like a warrior's sword.</verse>
+        <verse osisID="Zech.9.14">Yahweh will appear over them and his arrows will go out like lightning! The Lord Yahweh will blow the trumpet and will go out in the whirlwinds of the south.</verse>
+        <verse osisID="Zech.9.15">Yahweh of armies will defend them, and they will devour and will tread on the sling stones. They will drink and be noisy like those full of wine, and they will be full like bowls, like the corners of the altar.</verse>
+        <verse osisID="Zech.9.16">So Yahweh their God will rescue them on that day, as the flock of his people, for they are the stones of a crown that sparkle over his land.</verse>
+        <verse osisID="Zech.9.17">How good and how beautiful they will be! Grain will make the young men flourish, and new wine the virgin daughters.</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.10">
+        <title type="chapter">Chapter 10</title>
+        <title type="main">Yahweh Will Care for Judah</title>
+        <verse osisID="Zech.10.1">Ask for rain from Yahweh in the season of the spring rain—from Yahweh who makes thunderclouds, and he gives rain showers to everyone and plants in the field.</verse>
+        <verse osisID="Zech.10.2">For household idols speak falsely, and the diviners envision a lie; they tell empty dreams and give empty comfort. Therefore the people wander like sheep and are afflicted because there is no shepherd.</verse>
+        <verse osisID="Zech.10.3">My anger burns against the shepherds; it is the male goats—the leaders—that I will punish. Yahweh of armies will care for his flock, the house of Judah, and will make them like his majestic horse in battle!</verse>
+        <verse osisID="Zech.10.4">From him will come the cornerstone; from him will come the tent peg; from him will come the battle bow; from him will come every ruler together.</verse>
+        <verse osisID="Zech.10.5">They will be like mighty warriors, trampling their enemies in the mud of the streets in battle, since Yahweh is with them; and they will shame those who ride on horses.</verse>
+        <verse osisID="Zech.10.6">"I will strengthen the house of Judah and save the house of Joseph; and I will restore them, for I have compassion on them. They will be as though I had not rejected them, for I am Yahweh their God, and I will answer them.</verse>
+        <verse osisID="Zech.10.7">Then Ephraim will become like a mighty warrior, and their hearts will rejoice as with wine; and their children will see and rejoice. Their hearts will be glad in Yahweh!</verse>
+        <verse osisID="Zech.10.8">I will whistle for them and gather them, for I will redeem them, and they will become as numerous as they previously were.</verse>
+        <verse osisID="Zech.10.9">I sowed them among the peoples, but in distant countries they will remember me and will live with their children, and they will return.</verse>
+        <verse osisID="Zech.10.10">For I will restore them from the land of Egypt and gather them from Assyria. I will bring them to the land of Gilead and Lebanon until there is no more room for them.</verse>
+        <verse osisID="Zech.10.11">They will pass through the sea of affliction; he will strike the waves in that sea and will dry up all the depths of the Nile. The majesty of Assyria will be brought down, and the scepter of Egypt will be taken away.</verse>
+        <verse osisID="Zech.10.12">I will strengthen them in Yahweh, and they will walk in his name"—this is Yahweh's declaration.</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.11">
+        <title type="chapter">Chapter 11</title>
+        <title type="main">The Destruction of the Wicked Shepherds</title>
+        <verse osisID="Zech.11.1">Open your doors, Lebanon, that fire may devour your cedars!</verse>
+        <verse osisID="Zech.11.2">Wail, cypress trees, for the cedar trees have fallen! What was majestic has been devastated! Wail, you oaks of Bashan, for the impenetrable forest has gone down!</verse>
+        <verse osisID="Zech.11.3">Listen to the wailing of the shepherds, for their majesty has been destroyed! Listen to the roaring of the young lions, for the thickets of the Jordan have been devastated!</verse>
+        
+        <title type="main">Yahweh's Flock Doomed for Slaughter</title>
+        <verse osisID="Zech.11.4">This is what Yahweh my God says: "Shepherd the flock doomed for slaughter!</verse>
+        <verse osisID="Zech.11.5">The ones who buy them slaughter them and are not punished, and the ones who sell them say, 'Blessed be Yahweh! I have become rich!' For their shepherds have no pity on them.</verse>
+        <verse osisID="Zech.11.6">For I will no longer pity the inhabitants of the land"—this is Yahweh's declaration. "Look! I am putting every person into the hand of his neighbor and into the hand of his king, and they will crush the land, and I will not rescue anyone from their hand."</verse>
+        <verse osisID="Zech.11.7">So I shepherded the flock doomed for slaughter, the most afflicted of the flock. I took two staffs; one staff I called "Favor" and the other I called "Unity." So I shepherded the flock.</verse>
+        <verse osisID="Zech.11.8">I destroyed the three shepherds in one month, for I ran out of patience with them, and they also hated me.</verse>
+        <verse osisID="Zech.11.9">Then I said, "I will not shepherd you! The one who is dying—let him die. The one who is being destroyed—let him be destroyed. Let the ones who remain devour the flesh of one another."</verse>
+        <verse osisID="Zech.11.10">So I took my staff "Favor" and broke it to break my covenant that I had made with all the peoples.</verse>
+        <verse osisID="Zech.11.11">So it was broken in that day, and the afflicted of the flock who were watching me knew that it was a word from Yahweh.</verse>
+        <verse osisID="Zech.11.12">I said to them, "If it seems good to you, give me my wages; but if not, never mind." So they weighed out my wages, thirty pieces of silver.</verse>
+        <verse osisID="Zech.11.13">Yahweh said to me, "Throw it to the potter," this magnificent price at which they valued me! So I took the thirty pieces of silver and threw them into the house of Yahweh, to the potter.</verse>
+        <verse osisID="Zech.11.14">Then I broke my second staff "Unity" to break the brotherhood between Judah and Israel.</verse>
+        <verse osisID="Zech.11.15">Yahweh said to me, "Again, take the equipment of a foolish shepherd.</verse>
+        <verse osisID="Zech.11.16">For look, I am about to raise up a shepherd in the land who will not care for the perishing sheep. He will not seek the scattered, he will not heal the broken, and he will not nourish the healthy ones. Instead, he will eat the flesh of the fattened sheep and will tear off their hooves.</verse>
+        <verse osisID="Zech.11.17">Woe to the worthless shepherd who abandons the flock! May the sword come against his arm and his right eye! May his arm be completely withered and his right eye be completely blind!"</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.12">
+        <title type="chapter">Chapter 12</title>
+        <title type="main">The Future Deliverance of Jerusalem</title>
+        <verse osisID="Zech.12.1">A declaration of the word of Yahweh concerning Israel—a declaration of Yahweh, who stretches out the heavens and lays the foundation of the earth, and who forms the spirit of mankind within him:</verse>
+        <verse osisID="Zech.12.2">"Look, I am about to make Jerusalem into a cup of reeling for all the surrounding peoples, and it will also be against Judah in the siege against Jerusalem.</verse>
+        <verse osisID="Zech.12.3">It will happen in that day that I will make Jerusalem a heavy stone for all the peoples. All who lift it will be severely injured, though all the nations of the earth will gather against it.</verse>
+        <verse osisID="Zech.12.4">In that day"—this is Yahweh's declaration—"I will strike every horse with confusion and its rider with madness. Over the house of Judah I will open my eyes, but every horse of the armies I will strike with blindness.</verse>
+        <verse osisID="Zech.12.5">Then the leaders of Judah will say in their hearts, 'The inhabitants of Jerusalem are our strength because of Yahweh of armies, their God.'</verse>
+        <verse osisID="Zech.12.6">In that day I will make the leaders of Judah like firepots among wood and like flaming torches among grain stalks, and they will consume all the surrounding peoples on the right and on the left. Jerusalem will again live in her own place, in Jerusalem.</verse>
+        <verse osisID="Zech.12.7">Yahweh will save the tents of Judah first, so that the honor of the house of David and the honor of those who live in Jerusalem may not be greater than that of Judah.</verse>
+        <verse osisID="Zech.12.8">In that day Yahweh will be like a shield around the inhabitants of Jerusalem, and on that day the one who is weak among them will be like David, while the house of David will be like God, like the angel of Yahweh before them!</verse>
+        <verse osisID="Zech.12.9">It will come about in that day that I will begin to destroy all the nations that come against Jerusalem.</verse>
+        
+        <title type="main">Mourning for the One They Pierced</title>
+        <verse osisID="Zech.12.10">But I will pour out a spirit of favor and pleadings on the house of David and on the inhabitants of Jerusalem, so they will look on me, the one whom they have pierced. They will mourn for me, as one mourns for an only son; they will bitterly lament for me, as one laments bitterly for a firstborn son.</verse>
+        <verse osisID="Zech.12.11">In that day the mourning in Jerusalem will be as great as the mourning for Hadad Rimmon in the plain of Megiddo.</verse>
+        <verse osisID="Zech.12.12">The land will mourn, each clan by itself: the clan of the house of David by itself, and their wives by themselves; the clan of the house of Nathan by itself, and their wives by themselves;</verse>
+        <verse osisID="Zech.12.13">the clan of the house of Levi by itself, and their wives by themselves; the clan of the Shimeites by itself, and their wives by themselves;</verse>
+        <verse osisID="Zech.12.14">and all the remaining clans, each clan by itself and their wives by themselves.</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.13">
+        <title type="chapter">Chapter 13</title>
+        <title type="main">The Cleansing Fountain</title>
+        <verse osisID="Zech.13.1">In that day a fountain will be opened for the house of David and for the inhabitants of Jerusalem to cleanse them from sin and from impurity.</verse>
+        <verse osisID="Zech.13.2">"It will come about in that day"—this is the declaration of Yahweh of armies—"that I will cut off the names of the idols from the land and they will no longer be remembered. I will also cause the prophets and the spirit of uncleanness to leave the land.</verse>
+        <verse osisID="Zech.13.3">If any man continues to prophesy, his father and his mother who bore him will tell him, 'You will not live, for you speak lies in the name of Yahweh!' Then his father and mother who bore him will pierce him when he prophesies.</verse>
+        <verse osisID="Zech.13.4">It will happen in that day that the prophets will each be ashamed of his vision when he prophesies, and they will no longer wear a hairy cloak in order to deceive.</verse>
+        <verse osisID="Zech.13.5">For each will say, 'I am not a prophet! I am a man who works the soil, for a man sold me in my youth!'</verse>
+        <verse osisID="Zech.13.6">But someone will say to him, 'What are these wounds between your arms?' and he will answer, 'I was wounded in my friends' house.'"</verse>
+        
+        <title type="main">The Shepherd Struck, the Sheep Scattered</title>
+        <verse osisID="Zech.13.7">"Awake, sword, against my shepherd, and against the man who is my companion"—this is the declaration of Yahweh of armies. "Strike the shepherd, and the sheep will be scattered; but I will turn my hand against the little ones.</verse>
+        <verse osisID="Zech.13.8">It will come to pass in all the land"—this is Yahweh's declaration—"that two-thirds of it will be cut off and perish, but one-third will remain alive.</verse>
+        <verse osisID="Zech.13.9">I will bring that third into the fire and will refine them as silver is refined; I will test them as gold is tested. They will call on my name, and I will answer them and say, 'This is my people!' and they will say, 'Yahweh is my God!'"</verse>
+      </chapter>
+      
+      <chapter osisID="Zech.14">
+        <title type="chapter">Chapter 14</title>
+        <title type="main">The Final Victory</title>
+        <verse osisID="Zech.14.1">Look! A day for Yahweh is coming when your plunder will be divided in your midst.</verse>
+        <verse osisID="Zech.14.2">For I will gather every nation against Jerusalem for battle, and the city will be captured. The houses will be plundered and the women raped. Half of the city will go out into captivity, but the remainder of the people will not be cut off from the city.</verse>
+        <verse osisID="Zech.14.3">But Yahweh will go out and fight against those nations as when he fights on the day of battle.</verse>
+        <verse osisID="Zech.14.4">On that day his feet will stand on the Mount of Olives, which is beside Jerusalem on the east, and the Mount of Olives will be split in half between east and west by a very great valley, and half of the mountain will remove toward the north and half toward the south.</verse>
+        <verse osisID="Zech.14.5">Then you will flee down the valley between my mountains, for the valley between the mountains will extend to Azal. You will flee just as you fled from the earthquake in the days of Uzziah, king of Judah. Then Yahweh my God will come, and all the set apart ones will be with him.</verse>
+        <verse osisID="Zech.14.6">It will happen in that day that there will be no light, but no cold or frost either.</verse>
+        <verse osisID="Zech.14.7">It will be a day known only to Yahweh—neither day nor night—but in the evening there will be light.</verse>
+        <verse osisID="Zech.14.8">It will also come about in that day that living waters will go out from Jerusalem; half of them will go to the eastern sea and half to the western sea, in summer and in winter.</verse>
+        <verse osisID="Zech.14.9">Yahweh will be king over all the earth. In that day Yahweh will be one, and his name will be one.</verse>
+        <verse osisID="Zech.14.10">All the land will be like the Arabah, from Geba to Rimmon south of Jerusalem. But Jerusalem will be raised up and remain in its place, from the Benjamin Gate to the place of the first gate, to the Corner Gate, and from the Tower of Hananel to the king's winepresses.</verse>
+        <verse osisID="Zech.14.11">People will live in Jerusalem, and there will be no more complete destruction from God on it. Jerusalem will live in safety.</verse>
+        
+        <title type="main">Punishment on Jerusalem's Enemies</title>
+        <verse osisID="Zech.14.12">This will be the plague with which Yahweh will attack all the peoples who have fought against Jerusalem: their flesh will rot away while they are still standing on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths.</verse>
+        <verse osisID="Zech.14.13">It will happen in that day that a great panic from Yahweh will be among them. Each man will seize the hand of another, and the hand of one will be raised against the hand of another.</verse>
+        <verse osisID="Zech.14.14">Judah will also fight at Jerusalem, and they will gather the wealth of all the surrounding nations—gold, silver, and clothing in great abundance.</verse>
+        <verse osisID="Zech.14.15">A plague like this will also attack the horses, the mules, the camels, the donkeys, and all the animals that are in those camps.</verse>
+        
+        <title type="main">All Nations Will Worship Yahweh</title>
+        <verse osisID="Zech.14.16">Then it will happen that all who remain from all the nations that came against Jerusalem will go up from year to year to worship the King, Yahweh of armies, and to celebrate the Festival of Shelters.</verse>
+        <verse osisID="Zech.14.17">It will be that if anyone from all the nations of the earth does not go up to Jerusalem to worship the King, Yahweh of armies, then Yahweh will not bring rain on them.</verse>
+        <verse osisID="Zech.14.18">If the nation of Egypt does not go up, then they will not receive rain either. This will be the plague with which Yahweh will attack the nations that do not go up to celebrate the Festival of Shelters.</verse>
+        <verse osisID="Zech.14.19">This will be the punishment for the sin of Egypt and the punishment for the sin of all the nations that do not go up to celebrate the Festival of Shelters.</verse>
+        <verse osisID="Zech.14.20">In that day the bells of the horses will be inscribed "Set Apart to Yahweh," and the cooking pots in Yahweh's house will be like the bowls before the altar.</verse>
+        <verse osisID="Zech.14.21">Every cooking pot in Jerusalem and in Judah will be set apart to Yahweh of armies, and all who come to sacrifice will take them and cook in them. There will no longer be a Canaanite <note>Or merchant</note> in the house of Yahweh of armies in that day.</verse>
+      </chapter>
+    </div>
+  </osisText>
+</osis>
