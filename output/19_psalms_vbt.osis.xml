@@ -10,7 +10,7 @@
         <type type="OSIS">Bible</type>
         <identifier type="OSIS">Bible.VBT</identifier>
         <rights type="x-copyright">Public Domain</rights>
-        <scope>Psalms 1-50</scope>
+        <scope>Psalms 1-75</scope>
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -2603,6 +2603,505 @@
         </verse>
         <verse osisID="Ps.50.24">
           Those who sacrifice thank offerings honor me, and to the blameless I will show my salvation."
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.51">
+        <title>David's Prayer of Changing His Mind</title>
+        <verse osisID="Ps.51.1">
+          For the chief musician. A psalm of David.
+        </verse>
+        <verse osisID="Ps.51.2">
+          When Nathan the prophet came to him, after he had gone in to Bathsheba.
+        </verse>
+        <verse osisID="Ps.51.3">
+          Be gracious to me, O God, according to your loyal love; according to the abundance of your compassion, wipe out my transgressions.
+        </verse>
+        <verse osisID="Ps.51.4">
+          Thoroughly wash me from my iniquity, and from my sin cleanse me.
+        </verse>
+        <verse osisID="Ps.51.5">
+          For I know my transgressions, and my sin is always before me.
+        </verse>
+        <verse osisID="Ps.51.6">
+          Against you, you only, have I sinned, and done what is evil in your sight, so that you are justified when you speak and blameless when you judge.
+        </verse>
+        <verse osisID="Ps.51.7">
+          Indeed, I was brought forth in iniquity, and in sin my mother conceived me.
+        </verse>
+        <verse osisID="Ps.51.8">
+          Indeed, you delight in truth in the inward being, and in the hidden part you will make me know wisdom.
+        </verse>
+        <verse osisID="Ps.51.9">
+          Purge me with hyssop, and I will be clean; wash me, and I will be whiter than snow.
+        </verse>
+        <verse osisID="Ps.51.10">
+          Make me hear joy and gladness; let the bones you have broken rejoice.
+        </verse>
+        <verse osisID="Ps.51.11">
+          Hide your face from my sins, and blot out all my iniquities.
+        </verse>
+        <verse osisID="Ps.51.12">
+          Create in me a clean heart, O God, and renew a right spirit within me.
+        </verse>
+        <verse osisID="Ps.51.13">
+          Do not cast me away from your presence, and do not take your Holy Spirit from me.
+        </verse>
+        <verse osisID="Ps.51.14">
+          Restore to me the joy of your salvation, and uphold me with a willing spirit.
+        </verse>
+        <verse osisID="Ps.51.15">
+          Then I will teach transgressors your ways, and sinners will return to you.
+        </verse>
+        <verse osisID="Ps.51.16">
+          Deliver me from bloodguiltiness, O God, O God of my salvation, and my tongue will sing aloud of your righteousness.
+        </verse>
+        <verse osisID="Ps.51.17">
+          O Lord, open my lips, and my mouth will declare your praise.
+        </verse>
+        <verse osisID="Ps.51.18">
+          For you will not delight in sacrifice, or I would give it; you will not be pleased with a burnt offering.
+        </verse>
+        <verse osisID="Ps.51.19">
+          The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.
+        </verse>
+        <verse osisID="Ps.51.20">
+          Do good to Zion in your good pleasure; rebuild the walls of Jerusalem.
+        </verse>
+        <verse osisID="Ps.51.21">
+          Then you will delight in right sacrifices, in burnt offering and whole burnt offering; then bulls will be offered on your altar.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.52">
+        <title>The Downfall of the Deceitful</title>
+        <verse osisID="Ps.52.1">
+          For the chief musician. A maskil of David.
+        </verse>
+        <verse osisID="Ps.52.2">
+          When Doeg the Edomite came and told Saul, and said to him, "David has come to the house of Ahimelech."
+        </verse>
+        <verse osisID="Ps.52.3">
+          Why do you boast in evil, O mighty one? The loyal love of God endures all day long.
+        </verse>
+        <verse osisID="Ps.52.4">
+          Your tongue plots destruction, like a sharpened razor, working deceitfully.
+        </verse>
+        <verse osisID="Ps.52.5">
+          You love evil more than good, and lying more than speaking righteousness. Selah
+        </verse>
+        <verse osisID="Ps.52.6">
+          You love all words that devour, O deceitful tongue.
+        </verse>
+        <verse osisID="Ps.52.7">
+          But God will tear you down forever; he will snatch you up and pluck you from your tent and uproot you from the land of the living. Selah
+        </verse>
+        <verse osisID="Ps.52.8">
+          The righteous will see and fear; they will laugh at him, saying,
+        </verse>
+        <verse osisID="Ps.52.9">
+          "See the man who would not make God his refuge, but trusted in his great riches and grew strong in his wickedness!"
+        </verse>
+        <verse osisID="Ps.52.10">
+          But I am like a green olive tree in the house of God; I trust in God's loyal love forever and ever.
+        </verse>
+        <verse osisID="Ps.52.11">
+          I will give you thanks forever, because you have acted; and I will hope in your name, for it is good, in the presence of your faithful ones.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.53">
+        <title>The Fool Says There Is No God</title>
+        <verse osisID="Ps.53.1">
+          For the chief musician: according to Mahalath. A maskil of David.
+        </verse>
+        <verse osisID="Ps.53.2">
+          The fool says in his heart, "There is no God." They are corrupt, and have done abominable iniquity; there is no one who does good.
+        </verse>
+        <verse osisID="Ps.53.3">
+          God looks down from heaven on the children of mankind to see if there are any who understand, who seek after God.
+        </verse>
+        <verse osisID="Ps.53.4">
+          They have all turned aside; together they have become corrupt; there is no one who does good, not even one.
+        </verse>
+        <verse osisID="Ps.53.5">
+          Have the workers of evil no knowledge, who eat up my people as they eat bread, and do not call upon God?
+        </verse>
+        <verse osisID="Ps.53.6">
+          There they are, in great fear where no fear was, for God scattered the bones of him who encamped against you; you put them to shame, for God rejected them.
+        </verse>
+        <verse osisID="Ps.53.7">
+          Oh, that salvation for Israel would come out of Zion! When God restores the fortunes of his people, Jacob will rejoice, Israel will be glad.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.54">
+        <title>The Lord Upholds My Life</title>
+        <verse osisID="Ps.54.1">
+          For the chief musician: with stringed instruments. A maskil of David.
+        </verse>
+        <verse osisID="Ps.54.2">
+          When the Ziphites went and said to Saul, "Is not David hiding among us?"
+        </verse>
+        <verse osisID="Ps.54.3">
+          O God, save me by your name, and vindicate me by your might.
+        </verse>
+        <verse osisID="Ps.54.4">
+          O God, hear my prayer; give ear to the words of my mouth.
+        </verse>
+        <verse osisID="Ps.54.5">
+          For strangers have risen against me; ruthless men seek my life; they do not set God before themselves. Selah
+        </verse>
+        <verse osisID="Ps.54.6">
+          Behold, God is my helper; the Lord is the upholder of my life.
+        </verse>
+        <verse osisID="Ps.54.7">
+          He will return the evil to my enemies; in your faithfulness put an end to them.
+        </verse>
+        <verse osisID="Ps.54.8">
+          With a freewill offering I will sacrifice to you; I will give thanks to your name, O Yahweh, for it is good.
+        </verse>
+        <verse osisID="Ps.54.9">
+          For he has delivered me from every trouble, and my eye has looked in triumph on my enemies.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.55">
+        <title>Cast Your Burden on the Lord</title>
+        <verse osisID="Ps.55.1">
+          For the chief musician: with stringed instruments. A maskil of David.
+        </verse>
+        <verse osisID="Ps.55.2">
+          Give ear to my prayer, O God, and do not hide yourself from my plea for mercy!
+        </verse>
+        <verse osisID="Ps.55.3">
+          Attend to me, and answer me; I am restless in my complaint and I moan,
+        </verse>
+        <verse osisID="Ps.55.4">
+          because of the noise of the enemy, because of the oppression of the wicked. For they drop trouble upon me, and in anger they bear a grudge against me.
+        </verse>
+        <verse osisID="Ps.55.5">
+          My heart is in anguish within me; the terrors of death have fallen upon me.
+        </verse>
+        <verse osisID="Ps.55.6">
+          Fear and trembling come upon me, and horror overwhelms me.
+        </verse>
+        <verse osisID="Ps.55.7">
+          And I say, "Oh, that I had wings like a dove! I would fly away and be at rest;
+        </verse>
+        <verse osisID="Ps.55.8">
+          yes, I would wander far away; I would lodge in the wilderness; Selah
+        </verse>
+        <verse osisID="Ps.55.9">
+          I would hurry to find a shelter from the raging wind and tempest."
+        </verse>
+        <verse osisID="Ps.55.10">
+          Destroy, O Lord, divide their tongues; for I see violence and strife in the city.
+        </verse>
+        <verse osisID="Ps.55.11">
+          Day and night they go around it on its walls, and iniquity and trouble are within it;
+        </verse>
+        <verse osisID="Ps.55.12">
+          ruin is in its midst; oppression and deceit do not depart from its marketplace.
+        </verse>
+        <verse osisID="Ps.55.13">
+          For it is not an enemy who taunts me—then I could bear it; it is not an adversary who deals insolently with me—then I could hide from him.
+        </verse>
+        <verse osisID="Ps.55.14">
+          But it is you, a man, my equal, my companion, my familiar friend.
+        </verse>
+        <verse osisID="Ps.55.15">
+          We used to take sweet counsel together; within God's house we walked in the throng.
+        </verse>
+        <verse osisID="Ps.55.16">
+          Let death seize upon them; let them go down to Sheol alive; for evil is in their dwelling place and in their heart.
+        </verse>
+        <verse osisID="Ps.55.17">
+          But I call to God, and Yahweh will save me.
+        </verse>
+        <verse osisID="Ps.55.18">
+          Evening and morning and at noon I utter my complaint and moan, and he hears my voice.
+        </verse>
+        <verse osisID="Ps.55.19">
+          He redeems my soul in safety from the battle that I wage, for many are arrayed against me.
+        </verse>
+        <verse osisID="Ps.55.20">
+          God will hear and humble them, he who is enthroned from of old, Selah because they do not change and do not fear God.
+        </verse>
+        <verse osisID="Ps.55.21">
+          My companion stretched out his hand against his friends; he violated his covenant.
+        </verse>
+        <verse osisID="Ps.55.22">
+          His speech was smooth as butter, yet war was in his heart; his words were softer than oil, yet they were drawn swords.
+        </verse>
+        <verse osisID="Ps.55.23">
+          Cast your burden on Yahweh, and he will sustain you; he will never permit the righteous to be moved.
+        </verse>
+        <verse osisID="Ps.55.24">
+          But you, O God, will cast them down into the pit of destruction; men of blood and treachery shall not live out half their days. But I will trust in you.
+        </verse>
+      </div>
+
+
+      <div type="chapter" osisID="Ps.72">
+        <title>The Reign of the Righteous King</title>
+        <verse osisID="Ps.72.1">
+          A psalm of Solomon. Give the king your justice, O God, and your righteousness to the royal son!
+        </verse>
+        <verse osisID="Ps.72.2">
+          May he judge your people with righteousness, and your poor with justice!
+        </verse>
+        <verse osisID="Ps.72.3">
+          Let the mountains bear prosperity for the people, and the hills, in righteousness!
+        </verse>
+        <verse osisID="Ps.72.4">
+          May he defend the cause of the poor of the people, give deliverance to the children of the needy, and crush the oppressor!
+        </verse>
+        <verse osisID="Ps.72.5">
+          May they fear you while the sun endures, and as long as the moon, throughout all generations!
+        </verse>
+        <verse osisID="Ps.72.6">
+          May he be like rain that falls on the mown grass, like showers that water the earth!
+        </verse>
+        <verse osisID="Ps.72.7">
+          In his days may the righteous flourish, and peace abound, till the moon be no more!
+        </verse>
+        <verse osisID="Ps.72.8">
+          May he have dominion from sea to sea, and from the River to the ends of the earth!
+        </verse>
+        <verse osisID="Ps.72.9">
+          May desert tribes bow down before him, and his enemies lick the dust!
+        </verse>
+        <verse osisID="Ps.72.10">
+          May the kings of Tarshish and of the coastlands render him tribute; may the kings of Sheba and Seba bring gifts!
+        </verse>
+        <verse osisID="Ps.72.11">
+          May all kings fall down before him, all nations serve him!
+        </verse>
+        <verse osisID="Ps.72.12">
+          For he delivers the needy when he calls, the poor and him who has no helper.
+        </verse>
+        <verse osisID="Ps.72.13">
+          He has pity on the weak and the needy, and saves the lives of the needy.
+        </verse>
+        <verse osisID="Ps.72.14">
+          From oppression and violence he redeems their life, and precious is their blood in his sight.
+        </verse>
+        <verse osisID="Ps.72.15">
+          Long may he live; may gold of Sheba be given to him! May prayer be made for him continually, and blessings invoked for him all the day!
+        </verse>
+        <verse osisID="Ps.72.16">
+          May there be abundance of grain in the land; on the tops of the mountains may it wave; may its fruit be like Lebanon; and may people blossom in the cities like the grass of the field!
+        </verse>
+        <verse osisID="Ps.72.17">
+          May his name endure forever, his fame continue as long as the sun! May people be blessed in him, all nations call him blessed!
+        </verse>
+        <verse osisID="Ps.72.18">
+          Blessed be Yahweh, the God of Israel, who alone does wondrous things.
+        </verse>
+        <verse osisID="Ps.72.19">
+          Blessed be his glorious name forever; may the whole earth be filled with his glory! Amen and Amen!
+        </verse>
+        <verse osisID="Ps.72.20">
+          The prayers of David, the son of Jesse, are ended.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.73">
+        <title>God's Justice Vindicated</title>
+        <verse osisID="Ps.73.1">
+          A psalm of Asaph. Truly God is good to Israel, to those who are pure in heart.
+        </verse>
+        <verse osisID="Ps.73.2">
+          But as for me, my feet had almost stumbled, my steps had nearly slipped.
+        </verse>
+        <verse osisID="Ps.73.3">
+          For I was envious of the arrogant when I saw the prosperity of the wicked.
+        </verse>
+        <verse osisID="Ps.73.4">
+          For they have no pangs until death; their bodies are fat and sleek.
+        </verse>
+        <verse osisID="Ps.73.5">
+          They are not in trouble as others are; they are not stricken like the rest of mankind.
+        </verse>
+        <verse osisID="Ps.73.6">
+          Therefore pride is their necklace; violence covers them as a garment.
+        </verse>
+        <verse osisID="Ps.73.7">
+          Their eyes swell out through fatness; their hearts overflow with follies.
+        </verse>
+        <verse osisID="Ps.73.8">
+          They scoff and speak with malice; loftily they threaten oppression.
+        </verse>
+        <verse osisID="Ps.73.9">
+          They set their mouths against the heavens, and their tongue struts through the earth.
+        </verse>
+        <verse osisID="Ps.73.10">
+          Therefore his people turn back to them, and find no fault in them.
+        </verse>
+        <verse osisID="Ps.73.11">
+          And they say, "How can God know? Is there knowledge in the Most High?"
+        </verse>
+        <verse osisID="Ps.73.12">
+          Behold, these are the wicked; always at ease, they increase in riches.
+        </verse>
+        <verse osisID="Ps.73.13">
+          All in vain have I kept my heart clean and washed my hands in innocence.
+        </verse>
+        <verse osisID="Ps.73.14">
+          For all the day long I have been stricken and rebuked every morning.
+        </verse>
+        <verse osisID="Ps.73.15">
+          If I had said, "I will speak thus," I would have betrayed the generation of your children.
+        </verse>
+        <verse osisID="Ps.73.16">
+          But when I thought how to understand this, it seemed to me a wearisome task,
+        </verse>
+        <verse osisID="Ps.73.17">
+          until I went into the sanctuary of God; then I discerned their end.
+        </verse>
+        <verse osisID="Ps.73.18">
+          Truly you set them in slippery places; you make them fall to ruin.
+        </verse>
+        <verse osisID="Ps.73.19">
+          How they are destroyed in a moment, swept away utterly by terrors!
+        </verse>
+        <verse osisID="Ps.73.20">
+          Like a dream when one awakes, O Lord, when you rouse yourself, you despise them as phantoms.
+        </verse>
+        <verse osisID="Ps.73.21">
+          When my soul was embittered, when I was pricked in heart,
+        </verse>
+        <verse osisID="Ps.73.22">
+          I was brutish and ignorant; I was like a beast toward you.
+        </verse>
+        <verse osisID="Ps.73.23">
+          Nevertheless, I am continually with you; you hold my right hand.
+        </verse>
+        <verse osisID="Ps.73.24">
+          You guide me with your counsel, and afterward you will receive me to glory.
+        </verse>
+        <verse osisID="Ps.73.25">
+          Whom have I in heaven but you? And there is nothing on earth that I desire besides you.
+        </verse>
+        <verse osisID="Ps.73.26">
+          My flesh and my heart may fail, but God is the strength of my heart and my portion forever.
+        </verse>
+        <verse osisID="Ps.73.27">
+          For behold, those who are far from you shall perish; you put an end to everyone who is unfaithful to you.
+        </verse>
+        <verse osisID="Ps.73.28">
+          But for me it is good to be near God; I have made the Lord Yahweh my refuge, that I may tell of all your works.
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.74">
+        <title>Plea for Help in Time of National Humiliation</title>
+        <verse osisID="Ps.74.1">
+          A maskil of Asaph. O God, why do you cast us off forever? Why does your anger smoke against the sheep of your pasture?
+        </verse>
+        <verse osisID="Ps.74.2">
+          Remember your congregation, which you have purchased of old, which you have redeemed to be the tribe of your heritage! Remember Mount Zion, where you have dwelt.
+        </verse>
+        <verse osisID="Ps.74.3">
+          Direct your steps to the perpetual ruins; the enemy has destroyed everything in the sanctuary!
+        </verse>
+        <verse osisID="Ps.74.4">
+          Your foes have roared in the midst of your meeting place; they set up their own signs for signs.
+        </verse>
+        <verse osisID="Ps.74.5">
+          They were like those who swing axes in a forest of trees.
+        </verse>
+        <verse osisID="Ps.74.6">
+          And all its carved wood they broke down with hatchets and hammers.
+        </verse>
+        <verse osisID="Ps.74.7">
+          They set your sanctuary on fire; they profaned the dwelling place of your name, bringing it down to the ground.
+        </verse>
+        <verse osisID="Ps.74.8">
+          They said to themselves, "We will utterly subdue them"; they burned all the meeting places of God in the land.
+        </verse>
+        <verse osisID="Ps.74.9">
+          We do not see our signs; there is no longer any prophet, and there is none among us who knows how long.
+        </verse>
+        <verse osisID="Ps.74.10">
+          How long, O God, is the foe to scoff? Is the enemy to revile your name forever?
+        </verse>
+        <verse osisID="Ps.74.11">
+          Why do you hold back your hand, your right hand? Take it from the fold of your garment and destroy them!
+        </verse>
+        <verse osisID="Ps.74.12">
+          Yet God my King is from of old, working salvation in the midst of the earth.
+        </verse>
+        <verse osisID="Ps.74.13">
+          You divided the sea by your might; you broke the heads of the sea monsters on the waters.
+        </verse>
+        <verse osisID="Ps.74.14">
+          You crushed the heads of Leviathan; you gave him as food for the creatures of the wilderness.
+        </verse>
+        <verse osisID="Ps.74.15">
+          You split open springs and brooks; you dried up ever-flowing streams.
+        </verse>
+        <verse osisID="Ps.74.16">
+          Yours is the day, yours also the night; you have established the heavenly lights and the sun.
+        </verse>
+        <verse osisID="Ps.74.17">
+          You have fixed all the boundaries of the earth; you have made summer and winter.
+        </verse>
+        <verse osisID="Ps.74.18">
+          Remember this, O Yahweh, how the enemy scoffs, and a foolish people reviles your name.
+        </verse>
+        <verse osisID="Ps.74.19">
+          Do not deliver the soul of your dove to the wild beasts; do not forget the life of your poor forever.
+        </verse>
+        <verse osisID="Ps.74.20">
+          Have regard for the covenant, for the dark places of the land are full of the habitations of violence.
+        </verse>
+        <verse osisID="Ps.74.21">
+          Let not the downtrodden turn back in shame; let the poor and needy praise your name.
+        </verse>
+        <verse osisID="Ps.74.22">
+          Arise, O God, defend your cause; remember how the foolish scoff at you all the day!
+        </verse>
+        <verse osisID="Ps.74.23">
+          Do not forget the clamor of your foes, the uproar of those who rise against you, which goes up continually!
+        </verse>
+      </div>
+
+      <div type="chapter" osisID="Ps.75">
+        <title>God Abases the Proud but Exalts the Righteous</title>
+        <verse osisID="Ps.75.1">
+          For the chief musician: according to Do Not Destroy. A psalm of Asaph. A song.
+        </verse>
+        <verse osisID="Ps.75.2">
+          We give thanks to you, O God; we give thanks, for your name is near. We recount your wondrous deeds.
+        </verse>
+        <verse osisID="Ps.75.3">
+          "At the set time that I appoint I will judge with equity.
+        </verse>
+        <verse osisID="Ps.75.4">
+          When the earth totters, and all its inhabitants, it is I who keep steady its pillars. Selah
+        </verse>
+        <verse osisID="Ps.75.5">
+          I say to the boastful, 'Do not boast,' and to the wicked, 'Do not lift up your horn;
+        </verse>
+        <verse osisID="Ps.75.6">
+          do not lift up your horn on high, or speak with haughty neck.'"
+        </verse>
+        <verse osisID="Ps.75.7">
+          For not from the east or from the west and not from the wilderness comes lifting up,
+        </verse>
+        <verse osisID="Ps.75.8">
+          but it is God who executes judgment, putting down one and lifting up another.
+        </verse>
+        <verse osisID="Ps.75.9">
+          For in the hand of Yahweh there is a cup with foaming wine, well mixed, and he pours out from it, and all the wicked of the earth shall drain it down to the dregs.
+        </verse>
+        <verse osisID="Ps.75.10">
+          But I will declare it forever; I will sing praises to the God of Jacob.
+        </verse>
+        <verse osisID="Ps.75.11">
+          All the horns of the wicked I will cut off, but the horns of the righteous shall be lifted up.
         </verse>
       </div>
     </div>
