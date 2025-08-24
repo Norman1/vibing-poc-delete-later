@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="John" canonical="true">
       <title type="main">The Gospel According to John</title>
+      <div type="introduction">
+        <p>John presents Jesus as God's unique Son who became human to reveal the Father and provide eternal life to all who believe in him. Written by the apostle whom Jesus loved, this Gospel focuses on Jesus' divine identity through seven miraculous signs and seven "I am" statements that demonstrate his deity. John emphasizes that Jesus is both fully God and fully human, the eternal Word who became flesh to bridge the gap between God and humanity. The purpose is clearly stated: that readers might believe Jesus is the Christ, the Son of God, and through believing have eternal life in his name.</p>
+      </div>
       <chapter osisID="John.1" sID="John.1"/>
       <title type="main">The Word Became Flesh</title>
       <verse osisID="John.1.1">In the beginning was the Word, and the Word was with God, and the Word was God.</verse>

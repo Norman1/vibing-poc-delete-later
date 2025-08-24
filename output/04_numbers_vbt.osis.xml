@@ -16,6 +16,9 @@
     </header>
     <div type="book" osisID="Num" canonical="true">
       <title>Numbers</title>
+      <div type="introduction">
+        <p>Numbers records Israel's forty-year journey through the wilderness from Mount Sinai to the edge of the Promised Land. The book includes two censuses of the people, the organization of the tribes, rebellion against Moses and God, and the consequences of unbelief. It shows how God remained faithful to his people despite their repeated disobedience and complaining.</p>
+      </div>
       
       <title type="main">The Census and Organization of Israel</title>
       

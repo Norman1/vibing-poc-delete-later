@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Job" canonical="true">
       <title type="main">Job</title>
+      <div type="introduction">
+        <p>Job wrestles with the age-old question of why good people suffer, as a righteous man loses everything and struggles to understand God's purposes. Through dialogues with his friends and God's powerful speeches from the whirlwind, the book reveals that God's wisdom far exceeds human understanding. Job teaches that true faith trusts God even when his ways cannot be fully comprehended, and that suffering doesn't always indicate personal sin.</p>
+      </div>
       <chapter osisID="Job.1" sID="Job.1"/>
       <verse osisID="Job.1.1">There was a man in the land of Uz whose name was Job. This man was blameless and upright, one who feared God and turned away from evil.</verse>
       <verse osisID="Job.1.2">Seven sons and three daughters were born to him.</verse>

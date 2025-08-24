@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Phlm" canonical="true">
       <title type="main">Philemon</title>
+      <div type="introduction">
+        <p>This personal letter from Paul addresses the delicate situation of a runaway slave named Onesimus who had become a Christian and was now returning to his master Philemon. Paul appeals to Philemon to receive Onesimus back not merely as a slave but as a beloved brother in Christ. Though brief, Philemon demonstrates the transforming power of the gospel in human relationships and shows Christian principles applied to social issues.</p>
+      </div>
       <chapter osisID="Phlm.1">
         <title type="chapter">Paul's Appeal for Onesimus</title>
         

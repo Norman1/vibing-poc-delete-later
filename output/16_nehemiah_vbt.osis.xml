@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Neh" canonical="true">
       <title type="main">Nehemiah</title>
+      <div type="introduction">
+        <p>Nehemiah tells the story of rebuilding Jerusalem's walls after the Babylonian exile. Despite opposition from enemies and discouragement from within, Nehemiah led the people to complete this crucial task in just 52 days. The book shows how God uses dedicated leaders who combine prayer, planning, and perseverance to accomplish his purposes and restore his people.</p>
+      </div>
       <chapter osisID="Neh.1" sID="Neh.1"/>
       <verse osisID="Neh.1.1">The words of Nehemiah son of Hacaliah: In the month of Kislev in the twentieth year, while I was in the citadel of Susa,</verse>
       <verse osisID="Neh.1.2">Hanani, one of my brothers, came from Judah with some other men, and I questioned them about the Jewish remnant that had survived the exile, and also about Jerusalem.</verse>

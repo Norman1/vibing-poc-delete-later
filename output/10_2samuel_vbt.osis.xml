@@ -16,6 +16,9 @@
     </header>
     <div type="book" osisID="2Sam" canonical="true">
       <title>Second Book of Samuel</title>
+      <div type="introduction">
+        <p>Second Samuel focuses on David's reign as king of Israel, including his great victories, his sin with Bathsheba, and the consequences that followed. The book shows David's heart for God despite his failures, the establishment of Jerusalem as Israel's capital, and God's promise that David's throne would endure forever. It demonstrates both the blessings of following God and the serious consequences of sin.</p>
+      </div>
       
       <chapter osisID="2Sam.1">
         <title type="chapter">Chapter 1</title>

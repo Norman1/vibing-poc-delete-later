@@ -30,6 +30,9 @@
     
     <div type="book" osisID="Eph" canonical="true">
       <title type="main">Letter to the Ephesians</title>
+      <div type="introduction">
+        <p>Ephesians reveals God's grand plan to unite all things in Christ, showing how Jewish and Gentile believers are brought together as one body. Paul explains the spiritual blessings believers have received in Christ and how this should transform their relationships in marriage, family, and society. This letter emphasizes the church as God's masterpiece, created to display his wisdom and grace to the spiritual powers in the heavenly realms.</p>
+      </div>
       
       <chapter osisID="Eph.1" sID="Eph.1"/>
       <title type="sub">Opening Greeting</title>

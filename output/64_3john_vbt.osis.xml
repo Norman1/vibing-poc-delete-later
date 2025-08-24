@@ -16,6 +16,9 @@
     </header>
     <div type="book" osisID="3John" canonical="true">
       <title>Third Letter of John</title>
+      <div type="introduction">
+        <p>Third John is a personal letter from the apostle John to his friend Gaius, praising him for supporting traveling ministers and contrasting him with Diotrephes, who refused hospitality to God's servants. This brief letter emphasizes the importance of supporting those who spread the truth and warns against prideful church leaders who hinder the gospel work.</p>
+      </div>
       <div type="chapter" osisID="3John.1">
         <verse osisID="3John.1.1">
           <note type="study" n="1">The Greek word πρεσβύτερος (presbyter) literally means "elder."</note>

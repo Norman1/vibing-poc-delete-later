@@ -15,6 +15,9 @@
     
     <div type="book" osisID="Titus" canonical="true">
       <title type="main">Titus</title>
+      <div type="introduction">
+        <p>Paul wrote to Titus, who was overseeing the churches on the island of Crete, providing instructions for appointing qualified church leaders and maintaining sound doctrine. The letter addresses the challenge of false teachers and emphasizes the importance of good works as evidence of genuine faith. Titus shows how the gospel should transform believers' behavior in their families, communities, and society.</p>
+      </div>
 
       <chapter osisID="Titus.1" sID="Titus.1"/>
       

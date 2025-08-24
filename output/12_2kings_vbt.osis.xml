@@ -25,6 +25,9 @@
     </header>
     <div type="book" osisID="2Kgs" canonical="true">
       <title type="main">Second Kings</title>
+      <div type="introduction">
+        <p>Second Kings continues the history of the divided kingdom of Israel and Judah, recording the ministries of prophets like Elijah and Elisha and the reigns of both good and evil kings. The book culminates in the destruction of both kingdoms due to their persistent idolatry and disobedience to God. It demonstrates that no nation, even God's chosen people, can escape judgment when they persistently reject him.</p>
+      </div>
       
       <!-- Chapter 1: Elijah and King Ahaziah -->
       <chapter osisID="2Kgs.1">

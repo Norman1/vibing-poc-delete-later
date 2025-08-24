@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Heb" canonical="true">
       <title type="main">Hebrews</title>
+      <div type="introduction">
+        <p>The letter to the Hebrews demonstrates the superiority of Jesus Christ over all the institutions and figures of the old covenant, including angels, Moses, and the Levitical priesthood. Written to Jewish believers who were being tempted to return to Judaism under persecution, this book shows how Christ perfectly fulfills and surpasses everything that came before him. Hebrews emphasizes Jesus as our great high priest who entered heaven itself to offer his own blood for our sins, providing believers with confident access to God's throne of grace.</p>
+      </div>
       <chapter osisID="Heb.1">
         <title type="chapter">Chapter 1</title>
         <title type="main">God's Final Message Through His Son</title>

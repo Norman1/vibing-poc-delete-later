@@ -14,6 +14,9 @@
     </header>
     <div type="book" osisID="1Pet" canonical="true">
       <title type="main">First Letter of Peter</title>
+      <div type="introduction">
+        <p>Peter wrote this letter to encourage Christians who were suffering persecution throughout the Roman Empire, reminding them of their living hope in Christ and their identity as God's chosen people. The apostle teaches believers how to respond to suffering with faith, hope, and good conduct that honors God even in difficult circumstances. First Peter emphasizes that suffering for doing right is better than suffering for doing wrong, and that present trials are temporary compared to eternal glory.</p>
+      </div>
       
       <chapter osisID="1Pet.1" sID="1Pet.1"/>
       <title type="main">Hope and Living as God's Set Apart People</title>

@@ -15,6 +15,9 @@
     <div type="book" osisID="1John" canonical="true">
       <title type="main">1 John</title>
       <title type="runningHead">1 John</title>
+      <div type="introduction">
+        <p>John wrote this letter to believers who were being confused by false teachers denying that Jesus Christ had truly come in human flesh. The apostle emphasizes the tests of genuine faith: believing in Jesus as God's Son who became human, obeying God's commands, and loving fellow believers. First John provides assurance to Christians about their eternal life while warning against the deceptions of those who claim to know God but do not live according to his truth.</p>
+      </div>
       
       <div type="majorSection">
         <title type="main">The Word of Life Revealed</title>

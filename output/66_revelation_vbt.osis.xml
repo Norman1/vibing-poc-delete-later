@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Rev" canonical="true">
       <title type="main">The Revelation to John</title>
+      <div type="introduction">
+        <p>The apostle John received these visions while exiled on the island of Patmos, revealing the ultimate victory of Jesus Christ over evil and the establishment of God's eternal kingdom. Written to encourage persecuted Christians in the Roman Empire, Revelation shows that despite present suffering, God is sovereign and will judge the wicked while rewarding the faithful. The book culminates in the vision of new heavens and a new earth where God will dwell forever with his people, wiping away every tear and removing all pain, death, and sorrow.</p>
+      </div>
       <chapter osisID="Rev.1" sID="Rev.1"/>
       <title type="main">Introduction and Greeting</title>
       <verse osisID="Rev.1.1">This is the revelation<note type="translation">The Greek word "apokalypsis" means unveiling or disclosure</note> of Jesus Christ, which God gave him to show his servants what must soon take place. He made it known by sending his angel to his servant John,</verse>

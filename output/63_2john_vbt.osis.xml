@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="2John" canonical="true">
       <title type="main">The Second Letter of John</title>
+      <div type="introduction">
+        <p>Second John is a brief letter from the apostle John to "the chosen lady and her children," likely referring to a local church and its members. The letter warns against false teachers who deny that Jesus Christ came in human flesh and instructs believers not to welcome such deceivers into their homes or support their work. Though short, Second John emphasizes the importance of both truth and love in the Christian life.</p>
+      </div>
       <chapter osisID="2John.1" sID="2John.1"/>
       <title type="main">Greeting</title>
       <verse osisID="2John.1.1">The elder, to the lady chosen by God and to her children, whom I love in the truth—and not I only, but also all who know the truth—</verse>

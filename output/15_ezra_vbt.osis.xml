@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Ezra" canonical="true">
       <title type="main">Ezra</title>
+      <div type="introduction">
+        <p>Ezra records the return of Jewish exiles from Babylon and the rebuilding of the temple in Jerusalem. The book shows God's faithfulness in bringing his people back to the Promised Land and the importance of obedience to his Word. Ezra the priest led spiritual renewal by teaching the Law and calling the people to separate themselves from practices that compromised their devotion to God.</p>
+      </div>
       <chapter osisID="Ezra.1" sID="Ezra.1"/>
       <verse osisID="Ezra.1.1">In the first year of Cyrus king of Persia, in order to fulfill the word of <divineName>Yahweh</divineName> spoken by Jeremiah, <divineName>Yahweh</divineName> stirred up the spirit of Cyrus king of Persia to make a proclamation throughout all his kingdom, and also in writing:</verse>
       <verse osisID="Ezra.1.2">"This is what Cyrus king of Persia says: <divineName>Yahweh</divineName>, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah.</verse>

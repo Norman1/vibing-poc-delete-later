@@ -16,6 +16,9 @@
     <div type="book" osisID="Acts" canonical="true">
       <title type="main">Acts</title>
       <title type="runningHead">Acts</title>
+      <div type="introduction">
+        <p>Acts records the remarkable growth of the early Christian church from a small group of Jewish believers in Jerusalem to a worldwide movement spanning the Roman Empire. Written by Luke as a sequel to his Gospel, this historical account shows how the Holy Spirit empowered the apostles to spread the good news about Jesus despite intense persecution and opposition. The book traces the expansion of the gospel from Jerusalem to Judea, Samaria, and ultimately to Rome, demonstrating God's plan to include all nations in his salvation. Acts emphasizes the crucial role of the apostle Paul in bringing the message to non-Jewish peoples and establishing churches throughout the Mediterranean world.</p>
+      </div>
       
       <chapter osisID="Acts.1" sID="Acts.1"/>
       <title type="main">Jesus Ascends to Heaven</title>

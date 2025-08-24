@@ -14,6 +14,9 @@
     </header>
     <div type="book" osisID="2Pet" canonical="true">
       <title type="main">2 Peter</title>
+      <div type="introduction">
+        <p>In his final letter, Peter warns against false teachers who were infiltrating the church and leading believers astray with destructive heresies. The apostle emphasizes the importance of spiritual growth and reminds readers that God's apparent delay in judgment is actually his patience, giving more people time to come to salvation. Second Peter concludes with a vivid description of the day of the Lord when Christ will return to judge the world and create new heavens and a new earth.</p>
+      </div>
       
       <chapter osisID="2Pet.1" sID="2Pet.1"/>
       <title type="main">Growing in Faith and Character</title>

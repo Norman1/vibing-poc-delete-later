@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Mark" canonical="true">
       <title type="main">The Gospel According to Mark</title>
+      <div type="introduction">
+        <p>Mark presents a fast-paced, action-packed account of Jesus' ministry, emphasizing his deeds more than his teachings. Written by John Mark, a companion of the apostle Peter, this Gospel portrays Jesus as the suffering servant who came to serve others and give his life as payment for many. Mark focuses on Jesus' power over demons, disease, and death, showing how the Son of God willingly went to the cross to accomplish salvation.</p>
+      </div>
       <chapter osisID="Mark.1" sID="Mark.1"/>
       <title type="main">John the Baptist Prepares the Way</title>
       <verse osisID="Mark.1.1">The beginning of the good news about Jesus the Messiah<note type="translation">The Greek word "Christ" means "Anointed One" or "Messiah"</note>, the Son of God.</verse>

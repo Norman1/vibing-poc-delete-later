@@ -15,6 +15,9 @@
     
     <div type="book" osisID="2Tim" canonical="true">
       <title type="main">2 Timothy</title>
+      <div type="introduction">
+        <p>This final letter from Paul to Timothy reveals an aging apostle facing execution, passing on his last instructions to his beloved spiritual son. Written from a Roman prison, Paul encourages Timothy to remain faithful to the gospel despite increasing persecution and false teaching. Second Timothy contains Paul's famous charge to "preach the word" and his confident declaration that he has "fought the good fight" and "finished the race."</p>
+      </div>
 
       <chapter osisID="2Tim.1" sID="2Tim.1"/>
       

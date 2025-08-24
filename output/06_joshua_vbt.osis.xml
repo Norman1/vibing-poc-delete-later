@@ -16,6 +16,9 @@
     </header>
     <div type="book" osisID="Josh" canonical="true">
       <title>Joshua</title>
+      <div type="introduction">
+        <p>Joshua tells the story of Israel's conquest of the Promised Land under Joshua's leadership after Moses' death. The book records the crossing of the Jordan River, the fall of Jericho, major military campaigns, and the division of the land among the twelve tribes. It demonstrates God's faithfulness in fulfilling his promises to Abraham, Isaac, and Jacob.</p>
+      </div>
       
       <chapter osisID="Josh.1" sID="Josh.1"/>
       <title type="sub">Joshua Installed as Leader</title>

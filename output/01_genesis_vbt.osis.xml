@@ -15,6 +15,11 @@
     </header>
     <div type="book" osisID="Gen" canonical="true">
       <title type="main">Genesis</title>
+      
+      <div type="introduction">
+        <p>Genesis tells the story of beginnings—the creation of the world, the first humans, and the origin of sin and death. After humanity's rebellion brings judgment through the flood, God begins his plan to restore all things by calling Abraham and promising to bless all nations through his descendants. The book follows Abraham's family through Isaac, Jacob, and Joseph, showing how God preserves his chosen people even through slavery in Egypt.</p>
+      </div>
+      
       <chapter osisID="Gen.1">
         <title type="chapter">Chapter 1</title>
         <title type="main">The Creation</title>

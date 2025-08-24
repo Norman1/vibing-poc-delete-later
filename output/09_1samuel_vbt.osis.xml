@@ -16,6 +16,9 @@
     </header>
     <div type="book" osisID="1Sam" canonical="true">
       <title>First Book of Samuel</title>
+      <div type="introduction">
+        <p>First Samuel records Israel's transition from the period of judges to the kingdom under their first king, Saul. The book tells the stories of Samuel the prophet, Saul's rise and tragic fall, and young David's anointing and early victories. It shows how God chose David, a man after his own heart, to replace the disobedient King Saul.</p>
+      </div>
       
       <chapter osisID="1Sam.1" sID="1Sam.1"/>
       <title type="sub">Hannah's Prayer for a Son</title>

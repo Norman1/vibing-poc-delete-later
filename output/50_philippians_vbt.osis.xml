@@ -30,6 +30,9 @@
     
     <div type="book" osisID="Phil" canonical="true">
       <title type="main">Letter to the Philippians</title>
+      <div type="introduction">
+        <p>Paul wrote this joyful letter from prison to thank the Philippians for their financial support and to encourage them in their faith. Despite his difficult circumstances, the apostle demonstrates how to find contentment and joy in Christ regardless of external situations. Philippians contains the famous passage about Christ's humility in taking human form and Paul's testimony about counting everything as loss compared to knowing Christ.</p>
+      </div>
       
       <chapter osisID="Phil.1" sID="Phil.1"/>
       <title type="sub">Opening Greeting</title>

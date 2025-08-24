@@ -14,6 +14,9 @@
     </header>
     <div type="book" osisID="1Cor" canonical="true">
       <title type="main">1 Corinthians</title>
+      <div type="introduction">
+        <p>Paul wrote this letter to address serious problems that had developed in the Corinthian church, including divisions, sexual immorality, lawsuits among believers, and confusion about spiritual gifts. The apostle provides practical solutions to these issues while teaching important principles about Christian unity, proper conduct, marriage, and the proper use of spiritual gifts. First Corinthians contains Paul's famous teaching on love as the highest spiritual virtue and his detailed explanation of the resurrection of the dead.</p>
+      </div>
       
       <chapter osisID="1Cor.1" sID="1Cor.1"/>
       <title type="main">Paul's Greeting</title>

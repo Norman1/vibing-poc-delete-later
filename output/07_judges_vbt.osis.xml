@@ -16,6 +16,9 @@
     </header>
     <div type="book" osisID="Judg" canonical="true">
       <title>Judges</title>
+      <div type="introduction">
+        <p>Judges covers the dark period in Israel's history when "everyone did what was right in their own eyes" after Joshua's generation died. The book tells of Israel's repeated cycle of sin, oppression by enemies, crying out to God, and deliverance through judges like Gideon, Deborah, and Samson. It shows both God's patience with his rebellious people and the chaos that results from rejecting his leadership.</p>
+      </div>
       
       <chapter osisID="Judg.1" sID="Judg.1"/>
       <title type="sub">Israel Fights the Remaining Canaanites</title>

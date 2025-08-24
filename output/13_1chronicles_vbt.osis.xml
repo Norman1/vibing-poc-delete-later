@@ -25,6 +25,9 @@
     </header>
     <div type="book" osisID="1Chr" canonical="true">
       <title type="main">First Chronicles</title>
+      <div type="introduction">
+        <p>First Chronicles retells Israel's history from Adam through David's reign, emphasizing God's faithfulness to his covenant promises. The book includes extensive genealogies, David's preparations for the temple, and the organization of worship and the priesthood. Written after the Babylonian exile, it encouraged the returned exiles by showing God's continuous work through his chosen people and the importance of proper worship.</p>
+      </div>
       
       <chapter osisID="1Chr.1">
         <title type="chapter">Chapter 1</title>

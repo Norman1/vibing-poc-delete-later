@@ -16,6 +16,9 @@
     </header>
     <div type="book" osisID="Esth" canonical="true">
       <title>The Book of Esther</title>
+      <div type="introduction">
+        <p>Esther records how God providentially saved the Jewish people from complete destruction during their exile in Persia. Though God's name is never mentioned, his hand is clearly seen working through ordinary people like Esther and Mordecai to preserve his covenant people. The book establishes the festival of Purim and demonstrates that God is sovereignly at work even when he seems absent.</p>
+      </div>
       <div type="chapter" osisID="Esth.1">
         <title>Queen Vashti Defies King Xerxes</title>
         <verse osisID="Esth.1.1">

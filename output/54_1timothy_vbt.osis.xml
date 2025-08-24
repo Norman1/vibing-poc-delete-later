@@ -15,6 +15,9 @@
     
     <div type="book" osisID="1Tim" canonical="true">
       <title type="main">1 Timothy</title>
+      <div type="introduction">
+        <p>Paul wrote this letter to provide his young protégé Timothy with guidance for leading the church in Ephesus. The apostle addresses practical issues of church leadership, including qualifications for pastors and deacons, proper worship procedures, and how to handle false teachers. First Timothy emphasizes the importance of sound doctrine, godly character in leaders, and maintaining good order in the church while caring for all members of the congregation.</p>
+      </div>
 
       <chapter osisID="1Tim.1" sID="1Tim.1"/>
       

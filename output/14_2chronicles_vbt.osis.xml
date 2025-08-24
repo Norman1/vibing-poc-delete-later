@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="2Chr" canonical="true">
       <title type="main">2 Chronicles</title>
+      <div type="introduction">
+        <p>Second Chronicles covers the reigns of Solomon and the kings of Judah until the Babylonian exile. The book focuses on the temple, showing how the nation's spiritual health was reflected in their worship and the condition of God's house. It emphasizes how kings who sought the Lord brought blessing, while those who turned to idols brought judgment, ultimately leading to exile.</p>
+      </div>
       
       <chapter osisID="2Chr.1" sID="2Chr.1"/>
       <title type="section">Solomon's Request for Wisdom</title>

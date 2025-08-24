@@ -30,6 +30,9 @@
     
     <div type="book" osisID="Col" canonical="true">
       <title type="main">Letter to the Colossians</title>
+      <div type="introduction">
+        <p>Paul wrote to combat false teaching that was diminishing Christ's supremacy by promoting angel worship and strict religious rules. The apostle presents Christ as the image of the invisible God and the head of all creation, in whom the fullness of deity dwells. Colossians emphasizes that believers are complete in Christ and need nothing beyond him for spiritual maturity and salvation.</p>
+      </div>
       
       <chapter osisID="Col.1" sID="Col.1"/>
       <title type="sub">Opening Greeting</title>

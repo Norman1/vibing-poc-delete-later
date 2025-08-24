@@ -808,6 +808,17 @@
             const content = document.getElementById('book-content');
             let html = `<div class="book-title">${bookTitle}</div>`;
             
+            // Display introduction if present
+            const introduction = xmlDoc.querySelector('div[type="introduction"]');
+            if (introduction) {
+                html += `<div style="margin: 20px 30px; padding: 20px; background: #f8f9fa; border-left: 4px solid #667eea; border-radius: 8px;">`;
+                const introParas = introduction.querySelectorAll('p');
+                introParas.forEach(para => {
+                    html += `<p style="margin: 10px 0; line-height: 1.8; color: #2c3e50; font-size: 1.1em;">${para.textContent}</p>`;
+                });
+                html += `</div>`;
+            }
+            
             // Display cast list from header if present
             const castList = xmlDoc.querySelector('header castList');
             if (castList) {

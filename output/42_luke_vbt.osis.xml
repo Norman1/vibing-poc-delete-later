@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Luke" canonical="true">
       <title type="main">The Gospel According to Luke</title>
+      <div type="introduction">
+        <p>Luke provides the most detailed and historically precise account of Jesus' life, written by a physician who carefully investigated eyewitness reports. This Gospel emphasizes Jesus' compassion for outcasts, women, children, and the poor, showing how God's salvation extends to all people regardless of social status. Luke presents Jesus as the perfect human being who came to seek and save the lost, offering hope and healing to everyone who believes.</p>
+      </div>
       <chapter osisID="Luke.1" sID="Luke.1"/>
       <title type="main">Introduction</title>
       <verse osisID="Luke.1.1">Many have undertaken to draw up an account of the things that have been fulfilled among us,</verse>

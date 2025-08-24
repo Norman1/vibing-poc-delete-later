@@ -15,6 +15,9 @@
     
     <div type="book" osisID="2Thess" canonical="true">
       <title type="main">2 Thessalonians</title>
+      <div type="introduction">
+        <p>Paul wrote this follow-up letter to correct misunderstandings about Christ's second coming and to address problems with people who had stopped working. Some believers thought Jesus had already returned, while others were living off the generosity of fellow Christians instead of supporting themselves. Second Thessalonians clarifies the signs that will precede Christ's return and emphasizes the importance of productive work while waiting for the Lord.</p>
+      </div>
 
       <chapter osisID="2Thess.1" sID="2Thess.1"/>
       

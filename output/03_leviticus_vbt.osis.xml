@@ -23,6 +23,9 @@
     </header>
     <div type="book" osisID="Lev" canonical="true">
       <title>Plain Meaning Bible - Leviticus</title>
+      <div type="introduction">
+        <p>Leviticus contains God's instructions for worship, sacrifice, and daily living given to Israel through Moses. The book details the sacrificial system, the priesthood, ceremonial laws, and moral guidelines for God's chosen people. These laws taught Israel how to approach God, maintain ceremonial purity, and live as a set apart nation.</p>
+      </div>
       
       <title type="main">Laws for Worship and Daily Life</title>
       

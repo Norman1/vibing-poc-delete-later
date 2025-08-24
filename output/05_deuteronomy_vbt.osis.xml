@@ -16,6 +16,9 @@
     </header>
     <div type="book" osisID="Deut" canonical="true">
       <title>Deuteronomy</title>
+      <div type="introduction">
+        <p>Deuteronomy contains Moses' final speeches to Israel before they entered the Promised Land. Moses reviews God's laws, reminds the people of their history, and calls them to faithfully obey God in their new homeland. The book emphasizes loving God with all your heart, soul, and strength, and warns about the consequences of turning away from him.</p>
+      </div>
       
       <title type="main">Moses' First Address: Review of the Wilderness Journey</title>
         <chapter osisID="Deut.1" sID="Deut.1"/>

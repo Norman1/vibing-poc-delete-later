@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Matt" canonical="true">
       <title type="main">The Gospel According to Matthew</title>
+      <div type="introduction">
+        <p>Matthew presents Jesus as the promised Messiah of Israel, demonstrating through extensive Old Testament quotations how Jesus fulfilled ancient prophecies. Written by the tax collector who became an apostle, this Gospel emphasizes Jesus' role as the long-awaited King of Israel and his teachings about the kingdom of heaven. Matthew shows how Jesus bridges the old covenant with the new, bringing salvation first to the Jewish people and then to all nations.</p>
+      </div>
       <chapter osisID="Matt.1" sID="Matt.1"/>
       <title type="main">The Ancestry of Jesus Christ</title>
       <verse osisID="Matt.1.1">This is the record of the ancestry of Jesus Christ<note type="translation">The Greek word "Christ" means "Anointed One" or "Messiah"</note>, the son of David, the son of Abraham.</verse>

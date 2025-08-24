@@ -30,6 +30,9 @@
     
     <div type="book" osisID="1Thess" canonical="true">
       <title type="main">First Letter to the Thessalonians</title>
+      <div type="introduction">
+        <p>Paul's first letter to the Thessalonians addresses questions about Jesus' second coming and provides comfort to believers who were grieving loved ones who had died. Written to encourage a young church facing persecution, this letter emphasizes living in a way that honors God while eagerly awaiting Christ's return. Paul teaches that believers who have died will be resurrected when Jesus comes back and reassures the church about the timing and nature of future events.</p>
+      </div>
       
       <chapter osisID="1Thess.1" sID="1Thess.1"/>
       <title type="sub">Opening Greeting and Thanksgiving</title>

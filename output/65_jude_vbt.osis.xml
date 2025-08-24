@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Jude" canonical="true">
       <title type="main">The Letter of Jude</title>
+      <div type="introduction">
+        <p>Jude, the brother of James and half-brother of Jesus, wrote this urgent letter to warn believers about false teachers who had infiltrated the church. These ungodly people were twisting God's grace into an excuse for immoral behavior and denying Jesus Christ as Lord. Jude calls Christians to contend earnestly for the faith and reminds them that such false teachers will face certain judgment, just as rebellious people did in Old Testament times.</p>
+      </div>
       <chapter osisID="Jude.1" sID="Jude.1"/>
       <title type="main">Greeting</title>
       <verse osisID="Jude.1.1">Jude, a servant of Jesus Christ<note type="translation">The Greek word "Christ" means "Anointed One" or "Messiah"</note> and a brother of James, to those who have been called, who are loved in God the Father and kept for Jesus Christ:</verse>

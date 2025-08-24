@@ -14,6 +14,9 @@
     </header>
     <div type="book" osisID="Jas" canonical="true">
       <title type="main">James</title>
+      <div type="introduction">
+        <p>James, the brother of Jesus and leader of the Jerusalem church, wrote this practical letter emphasizing that genuine faith must be demonstrated through good works and righteous living. Addressing issues like favoritism, controlling the tongue, and caring for the poor, James shows how Christian faith should impact every area of daily life. The letter is known for its direct, no-nonsense approach to Christian maturity and its insistence that "faith without works is dead."</p>
+      </div>
       
       <chapter osisID="Jas.1" sID="Jas.1"/>
       <title type="main">Greeting</title>

@@ -14,6 +14,9 @@
     </header>
     <div type="book" osisID="2Cor" canonical="true">
       <title type="main">2 Corinthians</title>
+      <div type="introduction">
+        <p>Paul wrote this deeply personal letter to defend his apostolic authority and address ongoing problems in the Corinthian church. The apostle shares his struggles, weaknesses, and sufferings to demonstrate that God's power is made perfect in human weakness. Second Corinthians contains some of Paul's most intimate reflections on ministry, including his experience of being caught up to paradise and his famous "thorn in the flesh" that kept him humble.</p>
+      </div>
       
       <chapter osisID="2Cor.1" sID="2Cor.1"/>
       <title type="main">Paul's Greeting and God's Comfort</title>

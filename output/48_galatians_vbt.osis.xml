@@ -30,6 +30,9 @@
     
     <div type="book" osisID="Gal" canonical="true">
       <title type="main">Letter to the Galatians</title>
+      <div type="introduction">
+        <p>Paul wrote this passionate letter to counteract false teachers who were telling Gentile Christians they needed to follow Jewish law to be truly saved. The apostle vigorously defends the gospel of salvation by faith alone, arguing that adding works to faith actually undermines the sufficiency of Christ's sacrifice. Galatians emphasizes Christian freedom from legalism while calling believers to live by the Spirit and serve one another in love.</p>
+      </div>
       
       <chapter osisID="Gal.1" sID="Gal.1"/>
       <title type="sub">Opening Greeting</title>

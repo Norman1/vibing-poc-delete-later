@@ -14,6 +14,9 @@
     </header>
     <div type="book" osisID="Rom" canonical="true">
       <title type="main">Romans</title>
+      <div type="introduction">
+        <p>Romans provides Paul's most comprehensive explanation of the Christian gospel, systematically presenting how all people are sinful and separated from God, yet can be made right with God through faith in Jesus Christ alone. Written to believers in Rome whom Paul had not yet visited, this letter establishes the theological foundation for Christian doctrine and living. Paul demonstrates that salvation comes not through keeping the law or performing good works, but solely through God's grace received by faith. The letter addresses crucial questions about God's justice, the role of Israel, and how believers should live as people transformed by God's grace.</p>
+      </div>
       
       <chapter osisID="Rom.1" sID="Rom.1"/>
       

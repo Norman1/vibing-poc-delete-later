@@ -14,6 +14,9 @@
     </header>
     <div type="book" osisID="Joel" canonical="true">
       <title type="main">Joel</title>
+      <div type="introduction">
+        <p>Joel uses a devastating locust plague to warn Judah of the coming "day of the Lord" - a time of judgment followed by blessing. The prophet calls the people to sincere repentance and fasting, promising that God will restore what the locusts destroyed. Joel's prophecy of God pouring out his Spirit on all people was fulfilled on the day of Pentecost.</p>
+      </div>
       
       <chapter osisID="Joel.1">
         <title type="chapter">Chapter 1</title>

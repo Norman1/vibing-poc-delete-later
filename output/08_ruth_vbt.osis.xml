@@ -16,6 +16,9 @@
     </header>
     <div type="book" osisID="Ruth" canonical="true">
       <title>The Book of Ruth</title>
+      <div type="introduction">
+        <p>Ruth tells the beautiful story of loyalty and love during the troubled time of the judges. When Naomi loses her husband and sons, her Moabite daughter-in-law Ruth chooses to stay with her and worship Yahweh. Through Ruth's faithfulness and God's provision, she becomes the great-grandmother of King David, showing how God works through ordinary people to accomplish his purposes.</p>
+      </div>
       <div type="chapter" osisID="Ruth.1">
         <title>Naomi Loses Her Family</title>
         <verse osisID="Ruth.1.1">

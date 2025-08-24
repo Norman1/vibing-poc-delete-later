@@ -16,6 +16,9 @@
     </header>
     <div type="book" osisID="Dan" canonical="true">
       <title>The Book of Daniel</title>
+      <div type="introduction">
+        <p>Daniel tells the story of a young Jewish exile who remained faithful to God while serving in Babylon's royal court. The book includes Daniel's courage in the lion's den, his friends' deliverance from the fiery furnace, and Daniel's prophetic visions of future kingdoms and the coming Messiah. It demonstrates that God is sovereign over all earthly rulers and will ultimately establish his eternal kingdom.</p>
+      </div>
       <div type="chapter" osisID="Dan.1">
         <title>Daniel and His Friends in Babylon</title>
         <verse osisID="Dan.1.1">

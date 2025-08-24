@@ -25,6 +25,9 @@
     </header>
     <div type="book" osisID="1Kgs" canonical="true">
       <title type="main">First Kings</title>
+      <div type="introduction">
+        <p>First Kings continues the history of Israel from the end of David's reign through the division of the kingdom. The book covers Solomon's wisdom and the building of the temple, but also his tragic turn to idolatry, which led to the kingdom splitting into Israel and Judah. It shows how the kings' faithfulness to God determined their success and their people's welfare.</p>
+      </div>
       <chapter osisID="1Kgs.1">
         <title type="chapter">Chapter 1</title>
         <title type="sub">David's Old Age and Adonijah's Rebellion</title>

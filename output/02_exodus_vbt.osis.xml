@@ -15,6 +15,9 @@
     </header>
     <div type="book" osisID="Exod" canonical="true">
       <title type="main">Exodus</title>
+      <div type="introduction">
+        <p>Exodus tells the story of God delivering the Israelites from slavery in Egypt and establishing them as his chosen nation. The book records the ten plagues, the Passover, the parting of the Red Sea, and the giving of the Law at Mount Sinai. It shows how God kept his promise to Abraham by rescuing his descendants and making a covenant with them through Moses.</p>
+      </div>
       <chapter osisID="Exod.1" sID="Exod.1"/>
       <title type="main">The Israelites Multiply in Egypt</title>
       <verse osisID="Exod.1.1">These are the names of the Israelites who came to Egypt with Jacob, each bringing his family:</verse>
