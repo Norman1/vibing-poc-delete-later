@@ -9,19 +9,19 @@ COMPLIANT VERSES:
   [OK] Mark.9.44: Correctly omitted
   [OK] Mark.9.46: Correctly omitted
   [OK] Mark.11.26: Correctly omitted
+  [OK] Mark.15.28: Correctly omitted
   [OK] Luke.17.36: Correctly omitted
   [OK] Luke.23.17: Correctly omitted
   [OK] John.5.4: Correctly omitted
+  [OK] Rom.16.24: Correctly omitted
   [OK] Matt.6.13: Does not contain TR reading: 'For thine is the kingdom'
   [OK] 1Tim.3.16: Does not contain TR reading: 'God was manifest'
 
 NON-COMPLIANT VERSES:
-  [FAIL] Rom.16.24: Verse present but should be omitted (TR reading)
+  [FAIL] Mark.16.9: Verse missing entirely (should be bracketed)
+  [FAIL] John.7.53: Verse missing entirely (should be bracketed)
 
 NEEDS CHECKING:
-  [CHECK] Mark.15.28: Verse reference exists but content may be different
-  [CHECK] Mark.16.9: Verse present - verify if bracketed or noted as disputed
-  [CHECK] John.7.53: Verse present - verify if bracketed or noted as disputed
   [CHECK] Acts.8.37: Verse reference exists but content may be different
   [CHECK] Acts.15.34: Verse reference exists but content may be different
   [CHECK] Acts.24.7: Unable to determine status
