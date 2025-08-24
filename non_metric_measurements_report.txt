@@ -1,0 +1,149 @@
+DETAILED NON-METRIC MEASUREMENT REPORT
+================================================================================
+
+
+INCHES (2 instances):
+----------------------------------------
+26_ezekiel_vbt.osis.xml:1147
+  Match: '21 inches'
+  Context: ...ation">A long cubit was about 21 inches or 53 centimeters</note>, eac...
+
+27_daniel_vbt.osis.xml:250
+  Match: '18 inches'
+  Context: ...study" n="9">A cubit is about 18 inches or 45 centimeters. The statue...
+
+
+MILES (1 instances):
+----------------------------------------
+30_amos_vbt.osis.xml:28
+  Match: '10 miles'
+  Context: ...study">Tekoa was a town about 10 miles south of Jerusalem. The earth...
+
+
+OUNCES (3 instances):
+----------------------------------------
+26_ezekiel_vbt.osis.xml:203
+  Match: '8 ounces'
+  Context: ...note type="translation">About 8 ounces or 230 grams</note> of food t...
+
+28_hosea_vbt.osis.xml:112
+  Match: '6 ounces'
+  Context: ...note type="translation">About 6 ounces of silver and 430 pounds of b...
+
+43_john_vbt.osis.xml:634
+  Match: '12 ounces'
+  Context: ...on">A litra of nard was about 12 ounces or 340 grams, worth about a y...
+
+
+POUNDS (8 instances):
+----------------------------------------
+08_ruth_vbt.osis.xml:232
+  Match: '60 pounds'
+  Context: ...n="34">Six measures was about 60 pounds or 27 kilograms of barley.</n...
+
+10_2samuel_vbt.osis.xml:389
+  Match: '75 pounds'
+  Context: ...is own head. It weighed about 75 pounds and was set with precious sto...
+
+11_1kings_vbt.osis.xml:985
+  Match: '150 pounds'
+  Context: ...two talents of silver, about 150 pounds, and built a city on the hill...
+
+11_1kings_vbt.osis.xml:1235
+  Match: '75 pounds'
+  Context: ...pay a talent of silver, about 75 pounds.'</verse>...
+
+17_esther_vbt.osis.xml:210
+  Match: '000 pounds'
+  Context: ...an enormous sum, perhaps 750,000 pounds of silver, showing Haman's we...
+
+28_hosea_vbt.osis.xml:112
+  Match: '430 pounds'
+  Context: ...>About 6 ounces of silver and 430 pounds of barley</note></verse>...
+
+40_matthew_vbt.osis.xml:537
+  Match: '60 pounds'
+  Context: ...three measures, approximately 60 pounds of flour</note> of flour unti...
+
+43_john_vbt.osis.xml:957
+  Match: '75 pounds'
+  Context: ...n">A hundred litrai was about 75 pounds or 34 kilograms.</note>...
+
+
+QUARTS (1 instances):
+----------------------------------------
+26_ezekiel_vbt.osis.xml:205
+  Match: '3 quart'
+  Context: ...te type="translation">About 2/3 quart or 0.6 liter</note> of water...
+
+
+WRITTEN_NUMBERS (17 instances):
+----------------------------------------
+02_exodus_vbt.osis.xml:756
+  Match: 'four feet'
+  Context: ...for it and fasten them to its four feet, with two rings on one side a...
+
+02_exodus_vbt.osis.xml:1222
+  Match: 'four feet'
+  Context: ...r it and fastened them to its four feet, with two rings on one side a...
+
+09_1samuel_vbt.osis.xml:49
+  Match: 'two pounds'
+  Context: ...e-year-old bull, about twenty-two pounds of flour and a skin of wine,...
+
+09_1samuel_vbt.osis.xml:136
+  Match: 'thousand foot'
+  Context: ...ery great; Israel lost thirty thousand foot soldiers.</verse>...
+
+09_1samuel_vbt.osis.xml:448
+  Match: 'thousand foot'
+  Context: ...ed them at Telaim—two hundred thousand foot soldiers and ten thousand fro...
+
+10_2samuel_vbt.osis.xml:264
+  Match: 'thousand foot'
+  Context: ...ousand charioteers and twenty thousand foot soldiers. He hamstrung all bu...
+
+13_1chronicles_vbt.osis.xml:1015
+  Match: 'thousand foot'
+  Context: ...thousand horsemen, and twenty thousand foot soldiers. Also <name type="pe...
+
+13_1chronicles_vbt.osis.xml:1061
+  Match: 'thousand foot'
+  Context: ...housand charioteers and forty thousand foot soldiers of the <name type="p...
+
+17_esther_vbt.osis.xml:337
+  Match: 'five feet'
+  Context: ...e type="study" n="28">Seventy-five feet high would make the pole visi...
+
+40_matthew_vbt.osis.xml:185
+  Match: 'one mile'
+  Context: ...civilians to carry equipment one mile.</note></verse>...
+
+40_matthew_vbt.osis.xml:729
+  Match: 'two feet'
+  Context: ...led than to have two hands or two feet and be thrown into eternal fi...
+
+42_luke_vbt.osis.xml:868
+  Match: 'hundred gallons'
+  Context: ...erse osisID="Luke.16.6">'Nine hundred gallons of olive oil,' he replied. Th...
+
+43_john_vbt.osis.xml:90
+  Match: 'thirty gallons'
+  Context: ..., each holding from twenty to thirty gallons.<note type="background">Stone...
+
+43_john_vbt.osis.xml:956
+  Match: 'five pounds'
+  Context: ...yrrh and aloes, about seventy-five pounds.</verse>...
+
+66_revelation_vbt.osis.xml:150
+  Match: 'Two pounds'
+  Context: ...ur living creatures, saying, "Two pounds of wheat for a day's wages<no...
+
+66_revelation_vbt.osis.xml:150
+  Match: 'six pounds'
+  Context: ...out a day's wages</note>, and six pounds of barley for a day's wages,...
+
+66_revelation_vbt.osis.xml:361
+  Match: 'hundred pounds'
+  Context: ...stones, each weighing about a hundred pounds<note type="translation">About...
+
