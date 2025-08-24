@@ -52,19 +52,33 @@ Replace traditional biblical terms with their meanings:
 - Maintain biblical truthfulness (e.g., virgin in prophecy, not young woman)
 
 ### Notes and Annotations Rules
+
+#### Plain Meaning Study Notes Principle
+Add notes when modern readers would miss the plain meaning that the original audience understood immediately. The test: "Would the original audience have needed this explained?" If no, include the note.
+
+**REQUIRED note types (using `<note type="background">`):**
+- Ancient cosmology that affects meaning: "The Hebrew 'heavens' is always plural, reflecting ancient belief in multiple heavens: atmosphere, stellar realm, and God's dwelling"
+- Cultural practices essential to understanding: "Sitting at the city gate meant serving as a judge"
+- Word concepts that have shifted: "In Hebrew thought, 'heart' meant mind/will, not emotions"
+- Social structures unknown today: "The firstborn received a double portion of inheritance by law"
+- Geographic/agricultural realities: "The 'former and latter rains' were the two critical rainfall periods for crops"
+- Euphemisms not obvious today: "Uncovering feet is a euphemism for sexual relations"
+
 **ALLOWED in notes:**
 - Linguistic data: "The Greek word X means Y"
 - Cultural context: "A denarius was a day's wage"
 - Measurement conversions: "A cubit is about 18 inches"
-- Idiom explanations only
+- Idiom explanations: "To 'see someone's face' meant to have an audience with them"
 
 **NEVER include:**
 - Speculation about motives
-- Historical interpretation
-- Theological commentary
+- Historical interpretation beyond facts
+- Theological commentary or application
 - Narrative explanation
 - Editorial analysis
 - Manuscript variants
+- Cross-references to other passages
+- Spiritual lessons or morals
 
 ### Section Headings
 - Use `<title type="main">` for major sections
@@ -112,7 +126,7 @@ Replace traditional biblical terms with their meanings:
 3. Apply functional equivalence translation
 4. Replace traditional terminology with modern explanations
 5. Add section headings using OSIS title elements
-6. Add minimal linguistic notes (Hebrew/Greek meanings only)
+6. Add Plain Meaning Study Notes where modern readers would miss the original meaning
 7. Format in OSIS XML with proper verse structure
 8. Commit completed chapter with descriptive message
 9. Continue to next chapter

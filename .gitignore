@@ -33,4 +33,7 @@ build/
 .vscode/
 
 ### Quality Control ###
-quality-control/
+# Ignore review files but keep the study notes plan
+quality-control/**/*_Review.md
+quality-control/validate_all_findings.py
+quality-control/review_all_findings.py
