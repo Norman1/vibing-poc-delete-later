@@ -30,7 +30,10 @@
       "Bash(break)",
       "Bash(fi)",
       "Bash(do if grep -q \"FINDING\\|VIOLATION\" \"$file\")",
-      "Bash(then basename \"$file\")"
+      "Bash(then basename \"$file\")",
+      "Bash(find:*)",
+      "Bash(do if ! grep -q \"// No findings\" \"$file\")",
+      "Bash(then echo \"$file\")"
     ],
     "deny": [],
     "ask": [],
