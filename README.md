@@ -64,7 +64,8 @@ The dummy file is validated against `osisCore.2.1.1.xsd` and displayed correctly
 
 \- Time references are modernized (e.g., "third hour" → "9 AM")
 
-\- Cultural measurements include both original and modern meaning (e.g., "a Sabbath day's journey, about half a mile")
+\- Measurements are replaced with modern metric equivalents (e.g., "an omer" → "2 liters", "a cubit" → "half a meter")
+  - Exception: Keep original terms when culturally significant (e.g., "a Sabbath day's journey, about 1 kilometer")
 
 \- Monetary values include both original and equivalent (e.g., "a denarius, a day's wage")
 
@@ -88,83 +89,49 @@ The dummy file is validated against `osisCore.2.1.1.xsd` and displayed correctly
 
 The translation avoids Bible-only words that are only used in the Christian context but not understood outside of it.
 
+These traditional biblical terms are replaced with their actual meaning:
 
+**EXCEPTION:** Do NOT replace "Holy Spirit" - this term remains as is.
 
-These words are not used, but instead translated with their actual meaning (examples):
-
-\- \*\*Repent\*\* → change mind
-
-\- \*\*Holy\*\* → set apart for God
-
-\- \*\*Hallelujah\*\* → praise Yahweh
-
-\- \*\*Anointed\*\* → oil poured on
-
-\- \*\*Redeem\*\* → buying back slaves/property
-
-\- \*\*Trespass\*\* → boundary crossing
-
-\- \*\*Transgression\*\* → stepping across a line
-
-\- \*\*Profane\*\* → treating sacred as common
-
-\- \*\*Behold\*\* → pay attention
-
-\- \*\*Righteousness\*\* → being in right standing with God / doing what's right
-
-\- \*\*Sanctification\*\* → becoming more like God / being made holy
-
-\- \*\*Justification\*\* → being declared innocent / made right with God
-
-\- \*\*Propitiation\*\* → satisfying God's anger
-
-\- \*\*Atonement\*\* → making things right / covering wrongs
-
-\- \*\*Reconciliation\*\* → making peace / restoring relationship
-
-\- \*\*Perdition\*\* → destruction / being lost forever
-
-\- \*\*Edification\*\* → building up / strengthening
-
-\- \*\*Exhortation\*\* → strong encouragement / urgent advice
-
-\- \*\*Supplication\*\* → humble request / pleading prayer
-
-\- \*\*Intercession\*\* → praying for others / standing between
-
-\- \*\*Blasphemy\*\* → insulting God / speaking against the sacred
-
-\- \*\*Apostasy\*\* → falling away / abandoning faith
-
-\- \*\*Covetousness\*\* → wanting what others have
-
-\- \*\*Forbearance\*\* → patient restraint / holding back
-
-\- \*\*Long-suffering\*\* → patient endurance
-
-\- \*\*Lovingkindness\*\* → loyal love / steadfast love
-
-\- \*\*Iniquity\*\* → twisted wrongness / moral corruption
-
-\- \*\*Abomination\*\* → disgusting practice / detestable thing
-
-\- \*\*Fornication\*\* → sex outside marriage
-
-\- \*\*Lasciviousness\*\* → uncontrolled lust
-
-\- \*\*Concupiscence\*\* → strong desire / lust
-
-\- \*\*Thee/Thou/Thine\*\* → you/your
-
-\- \*\*Verily\*\* → truly
-
-\- \*\*Beseech\*\* → beg / urgently ask
-
-\- \*\*Smite/Smote\*\* → strike/struck
-
-\- \*\*Woe\*\* → terrible sorrow / disaster
-
-\- \*\*Selah\*\* → \[musical pause] or omit
+| Traditional Term | Replace With |
+|-----------------|--------------|
+| **Repent** | change mind |
+| **Holy** | set apart for God (except in "Holy Spirit") |
+| **Hallelujah** | praise Yahweh |
+| **Anointed** | oil poured on |
+| **Redeem** | buying back slaves/property |
+| **Trespass** | boundary crossing |
+| **Transgression** | stepping across a line |
+| **Profane** | treating sacred as common |
+| **Behold** | pay attention |
+| **Righteousness** | being in right standing with God / doing what's right |
+| **Sanctification** | becoming more like God / being made holy |
+| **Justification** | being declared innocent / made right with God |
+| **Propitiation** | satisfying God's anger |
+| **Atonement** | making things right / covering wrongs |
+| **Reconciliation** | making peace / restoring relationship |
+| **Perdition** | destruction / being lost forever |
+| **Edification** | building up / strengthening |
+| **Exhortation** | strong encouragement / urgent advice |
+| **Supplication** | humble request / pleading prayer |
+| **Intercession** | praying for others / standing between |
+| **Blasphemy** | insulting God / speaking against the sacred |
+| **Apostasy** | falling away / abandoning faith |
+| **Covetousness** | wanting what others have |
+| **Forbearance** | patient restraint / holding back |
+| **Long-suffering** | patient endurance |
+| **Lovingkindness** | loyal love / steadfast love |
+| **Iniquity** | twisted wrongness / moral corruption |
+| **Abomination** | disgusting practice / detestable thing |
+| **Fornication** | sex outside marriage |
+| **Lasciviousness** | uncontrolled lust |
+| **Concupiscence** | strong desire / lust |
+| **Thee/Thou/Thine** | you/your |
+| **Verily** | truly |
+| **Beseech** | beg / urgently ask |
+| **Smite/Smote** | strike/struck |
+| **Woe** | terrible sorrow / disaster |
+| **Selah** | [musical pause] or omit |
 
 
 
@@ -207,6 +174,8 @@ If the meaning requires explanation, it should be built into the translation its
 - Focus on the actual content and themes rather than theological interpretations
 - Place headings before the relevant content they describe
 - Use consistent formatting and hierarchy throughout each book
+- **Granularity:** Use roughly one heading per chapter as a general guideline (not a hard rule)
+- Headings should provide navigation value for readers searching through the Bible
 
 **Examples:**
 ```xml

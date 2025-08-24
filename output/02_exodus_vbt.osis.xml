@@ -16,6 +16,7 @@
     <div type="book" osisID="Exod" canonical="true">
       <title type="main">Exodus</title>
       <chapter osisID="Exod.1" sID="Exod.1"/>
+      <title type="main">The Israelites Multiply in Egypt</title>
       <verse osisID="Exod.1.1">These are the names of the Israelites who came to Egypt with Jacob, each bringing his family:</verse>
       <verse osisID="Exod.1.2">Reuben, Simeon, Levi, and Judah;</verse>
       <verse osisID="Exod.1.3">Issachar, Zebulun, and Benjamin;</verse>
@@ -23,6 +24,7 @@
       <verse osisID="Exod.1.5">Joseph was already in Egypt. The total number of Jacob's descendants was seventy people.</verse>
       <verse osisID="Exod.1.6">Eventually Joseph died, along with all his brothers and that entire generation.</verse>
       <verse osisID="Exod.1.7">But the Israelites had many children and their population grew rapidly. They became very numerous and powerful, filling the land.</verse>
+      <title type="sub">Oppression Under Pharaoh</title>
       <verse osisID="Exod.1.8">Then a new king came to power in Egypt who didn't know anything about Joseph.</verse>
       <verse osisID="Exod.1.9">He told his people, "Look, the Israelite people have become more numerous and powerful than we are.</verse>
       <verse osisID="Exod.1.10">We need to deal with them carefully, or they'll continue to multiply. If war breaks out, they might join our enemies, fight against us, and leave the country."</verse>
@@ -154,7 +156,7 @@
       <verse osisID="Exod.6.3">I appeared to Abraham, to Isaac and to Jacob as God Almighty, but by my name Yahweh I did not make myself fully known to them.</verse>
       <verse osisID="Exod.6.4">I also established my covenant with them to give them the land of Canaan, where they resided as foreigners.</verse>
       <verse osisID="Exod.6.5">Moreover, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant.</verse>
-      <verse osisID="Exod.6.6">Therefore, say to the Israelites: 'I am Yahweh, and I will bring you out from under the yoke of the Egyptians. I will free you from being slaves to them, and I will redeem you with an outstretched arm and with mighty acts of judgment.</verse>
+      <verse osisID="Exod.6.6">Therefore, say to the Israelites: 'I am Yahweh, and I will bring you out from under the yoke of the Egyptians. I will free you from being slaves to them, and I will buy you back from slavery with an outstretched arm and with mighty acts of judgment.</verse>
       <verse osisID="Exod.6.7">I will take you as my own people, and I will be your God. Then you will know that I am Yahweh your God, who brought you out from under the yoke of the Egyptians.</verse>
       <verse osisID="Exod.6.8">And I will bring you to the land I swore with uplifted hand to give to Abraham, to Isaac and to Jacob. I will give it to you as a possession. I am Yahweh.'"</verse>
       <verse osisID="Exod.6.9">Moses reported this to the Israelites, but they did not listen to him because of their discouragement and harsh labor.</verse>
@@ -208,6 +210,7 @@
       <verse osisID="Exod.7.25">Seven days passed after Yahweh struck the Nile.</verse>
       <chapter eID="Exod.7"/>
       <chapter osisID="Exod.8" sID="Exod.8"/>
+      <title type="main">The Plagues Continue</title>
       <verse osisID="Exod.8.1">Then Yahweh said to Moses, "Go to Pharaoh and say to him, 'This is what Yahweh says: Let my people go, so that they may serve me.</verse>
       <verse osisID="Exod.8.2">If you refuse to let them go, I will send a plague of frogs on your whole country.</verse>
       <verse osisID="Exod.8.3">The Nile will teem with frogs. They will come up into your palace and your bedroom and onto your bed, into the houses of your officials and on your people, and into your ovens and kneading troughs.</verse>
@@ -322,6 +325,7 @@
       <verse osisID="Exod.11.10">Moses and Aaron performed all these wonders before Pharaoh, but Yahweh hardened Pharaoh's heart, and he would not let the Israelites go out of his country.</verse>
       <chapter eID="Exod.11"/>
       <chapter osisID="Exod.12" sID="Exod.12"/>
+      <title type="main">The Passover and the Exodus</title>
       <verse osisID="Exod.12.1">Yahweh said to Moses and Aaron in Egypt,</verse>
       <verse osisID="Exod.12.2">"This month is to be for you the first month, the first month of your year.</verse>
       <verse osisID="Exod.12.3">Tell the whole community of Israel that on the tenth day of this month each man is to take a lamb for his family, one for each household.</verse>
@@ -332,7 +336,7 @@
       <verse osisID="Exod.12.8">That same night they are to eat the meat roasted over the fire, along with bitter herbs, and bread made without yeast.</verse>
       <verse osisID="Exod.12.9">Do not eat the meat raw or boiled in water, but roast it over a fire—with the head, legs and internal organs.</verse>
       <verse osisID="Exod.12.10">Do not leave any of it till morning; if some is left till morning, you must burn it.</verse>
-      <verse osisID="Exod.12.11">This is how you are to eat it: with your cloak tucked into your belt, your sandals on your feet and your staff in your hand. Eat it in haste; it is Yahweh's Passover.</verse>
+      <verse osisID="Exod.12.11">This is how you are to eat it: with your cloak tucked into your belt, your sandals on your feet and your staff in your hand. Eat it in haste; it is Yahweh's Passover.<note type="explanation" osisID="Exod.12.11!note">"Passover" means God passing over marked houses</note></verse>
       <verse osisID="Exod.12.12">On that same night I will pass through Egypt and strike down every firstborn of both people and animals, and I will bring judgment on all the gods of Egypt. I am Yahweh.</verse>
       <verse osisID="Exod.12.13">The blood will be a sign for you on the houses where you are, and when I see the blood, I will pass over you. No destructive plague will touch you when I strike Egypt.</verse>
       <verse osisID="Exod.12.14">This is a day you are to commemorate; for the generations to come you shall celebrate it as a festival to Yahweh—a lasting ordinance.</verse>
@@ -387,9 +391,9 @@
       <verse osisID="Exod.13.10">You must keep this ordinance at the appointed time year after year.</verse>
       <verse osisID="Exod.13.11">After Yahweh brings you into the land of the Canaanites and gives it to you, as he promised on oath to you and your ancestors,</verse>
       <verse osisID="Exod.13.12">you are to give over to Yahweh the first offspring of every womb. All the firstborn males of your livestock belong to Yahweh.</verse>
-      <verse osisID="Exod.13.13">Redeem with a lamb every firstborn donkey, but if you do not redeem it, break its neck. Redeem every firstborn among your sons.</verse>
+      <verse osisID="Exod.13.13">Buy back with a lamb every firstborn donkey, but if you do not buy it back, break its neck. Buy back every firstborn among your sons.</verse>
       <verse osisID="Exod.13.14">In days to come, when your son asks you, 'What does this mean?' say to him, 'With a mighty hand Yahweh brought us out of Egypt, out of the land of slavery.</verse>
-      <verse osisID="Exod.13.15">When Pharaoh stubbornly refused to let us go, Yahweh killed the firstborn of both people and animals in Egypt. This is why I sacrifice to Yahweh the first male offspring of every womb and redeem each of my firstborn sons.'</verse>
+      <verse osisID="Exod.13.15">When Pharaoh stubbornly refused to let us go, Yahweh killed the firstborn of both people and animals in Egypt. This is why I sacrifice to Yahweh the first male offspring of every womb and buy back each of my firstborn sons.'</verse>
       <verse osisID="Exod.13.16">And it will be like a sign on your hand and a symbol on your forehead that Yahweh brought us out of Egypt with his mighty hand."</verse>
       <verse osisID="Exod.13.17">When Pharaoh let the people go, God did not lead them on the road through the Philistine country, though that was shorter. For God said, "If they face war, they might change their minds and return to Egypt."</verse>
       <verse osisID="Exod.13.18">So God led the people around by the desert road toward the Red Sea. The Israelites went up out of Egypt ready for battle.</verse>
@@ -422,7 +426,7 @@
       <verse osisID="Exod.14.21">Then Moses stretched out his hand over the sea, and all that night Yahweh drove the sea back with a strong east wind and turned it into dry land. The waters were divided,</verse>
       <verse osisID="Exod.14.22">and the Israelites went through the sea on dry ground, with a wall of water on their right and on their left.</verse>
       <verse osisID="Exod.14.23">The Egyptians pursued them, and all Pharaoh's horses and chariots and horsemen followed them into the sea.</verse>
-      <verse osisID="Exod.14.24">During the last watch of the night Yahweh looked down from the pillar of fire and cloud at the Egyptian army and threw it into confusion.</verse>
+      <verse osisID="Exod.14.24">Between 3 and 6 AM Yahweh looked down from the pillar of fire and cloud at the Egyptian army and threw it into confusion.</verse>
       <verse osisID="Exod.14.25">He jammed the wheels of their chariots so that they had difficulty driving. And the Egyptians said, "Let's get away from the Israelites! Yahweh is fighting for them against Egypt."</verse>
       <verse osisID="Exod.14.26">Then Yahweh said to Moses, "Stretch out your hand over the sea so that the waters may flow back over the Egyptians and their chariots and horsemen."</verse>
       <verse osisID="Exod.14.27">Moses stretched out his hand over the sea, and at daybreak the sea went back to its place. The Egyptians were fleeing toward it, and Yahweh swept them into the sea.</verse>
@@ -444,7 +448,7 @@
       <verse osisID="Exod.15.10">But you blew with your breath, and the sea covered them. They sank like lead in the mighty waters.</verse>
       <verse osisID="Exod.15.11">Who among the gods is like you, Yahweh? Who is like you—majestic in being set apart for God, awesome in honor, working wonders?</verse>
       <verse osisID="Exod.15.12">You stretch out your right hand, and the earth swallows your enemies.</verse>
-      <verse osisID="Exod.15.13">In your unfailing love you will lead the people you have redeemed. In your strength you will guide them to your set apart dwelling.</verse>
+      <verse osisID="Exod.15.13">In your unfailing love you will lead the people you have bought back. In your strength you will guide them to your set apart dwelling.</verse>
       <verse osisID="Exod.15.14">The nations will hear and tremble; anguish will grip the people of Philistia.</verse>
       <verse osisID="Exod.15.15">The chiefs of Edom will be terrified, the leaders of Moab will be seized with trembling, the people of Canaan will melt away;</verse>
       <verse osisID="Exod.15.16">terror and dread will fall on them. By the power of your arm they will be as still as a stone—until your people pass by, Yahweh, until the people you bought pass by.</verse>
@@ -476,9 +480,9 @@
       <verse osisID="Exod.16.13">That evening quail came and covered the camp, and in the morning there was a layer of dew around the camp.</verse>
       <verse osisID="Exod.16.14">When the dew was gone, thin flakes like frost on the ground appeared on the desert floor.</verse>
       <verse osisID="Exod.16.15">When the Israelites saw it, they said to each other, "What is it?" For they did not know what it was. Moses said to them, "It is the bread Yahweh has given you to eat.</verse>
-      <verse osisID="Exod.16.16">This is what Yahweh has commanded: 'Everyone is to gather as much as they need. Take an omer for each person you have in your tent.'"</verse>
+      <verse osisID="Exod.16.16">This is what Yahweh has commanded: 'Everyone is to gather as much as they need. Take 2 liters for each person you have in your tent.'"</verse>
       <verse osisID="Exod.16.17">The Israelites did as they were told; some gathered much, some little.</verse>
-      <verse osisID="Exod.16.18">And when they measured it by the omer, the one who gathered much did not have too much, and the one who gathered little did not have too little. Everyone had gathered just as much as they needed.</verse>
+      <verse osisID="Exod.16.18">And when they measured it by 2 liters per person, the one who gathered much did not have too much, and the one who gathered little did not have too little. Everyone had gathered just as much as they needed.</verse>
       <verse osisID="Exod.16.19">Then Moses said to them, "No one is to keep any of it until morning."</verse>
       <verse osisID="Exod.16.20">However, some of them paid no attention to Moses; they kept part of it until morning, but it was full of maggots and began to smell. So Moses was angry with them.</verse>
       <verse osisID="Exod.16.21">Each morning everyone gathered as much as they needed, and when the sun grew hot, it melted away.</verse>
@@ -496,7 +500,6 @@
       <verse osisID="Exod.16.33">So Moses said to Aaron, "Take a jar and put an omer of manna in it. Then place it before Yahweh to be kept for the generations to come."</verse>
       <verse osisID="Exod.16.34">As Yahweh commanded Moses, Aaron put the manna with the tablets of the covenant law, so that it might be preserved.</verse>
       <verse osisID="Exod.16.35">The Israelites ate manna forty years, until they came to a land that was settled; they ate manna until they reached the border of Canaan.</verse>
-      <verse osisID="Exod.16.36">(An omer is one-tenth of an ephah.)</verse>
       <chapter eID="Exod.16"/>
       <chapter osisID="Exod.17" sID="Exod.17"/>
       <verse osisID="Exod.17.1">The whole Israelite community set out from the Desert of Sin, traveling from place to place as Yahweh commanded. They camped at Rephidim, but there was no water for the people to drink.</verse>
@@ -609,7 +612,7 @@
       <verse osisID="Exod.21.5">But if the servant declares, 'I love my master and my wife and children and do not want to go free,'</verse>
       <verse osisID="Exod.21.6">then his master must take him before the judges. He shall take him to the door or the doorpost and pierce his ear with an awl. Then he will be his servant for life.</verse>
       <verse osisID="Exod.21.7">If a man sells his daughter as a servant, she is not to go free as male servants do.</verse>
-      <verse osisID="Exod.21.8">If she does not please the master who has selected her for himself, he must let her be redeemed. He has no right to sell her to foreigners, because he has broken faith with her.</verse>
+      <verse osisID="Exod.21.8">If she does not please the master who has selected her for himself, he must let her be bought back. He has no right to sell her to foreigners, because he has broken faith with her.</verse>
       <verse osisID="Exod.21.9">If he selects her for his son, he must grant her the rights of a daughter.</verse>
       <verse osisID="Exod.21.10">If he marries another woman, he must not deprive the first one of her food, clothing and marital rights.</verse>
       <verse osisID="Exod.21.11">If he does not provide her with these three things, she is to go free, without any payment of money.</verse>
@@ -631,7 +634,7 @@
       <verse osisID="Exod.21.27">And an owner who knocks out the tooth of a male or female slave must let the slave go free to compensate for the tooth.</verse>
       <verse osisID="Exod.21.28">If a bull gores a man or woman to death, the bull is to be stoned to death, and its meat must not be eaten. But the owner of the bull will not be held responsible.</verse>
       <verse osisID="Exod.21.29">If, however, the bull has had the habit of goring and the owner has been warned but has not kept it penned up and it kills a man or woman, the bull is to be stoned and its owner also is to be put to death.</verse>
-      <verse osisID="Exod.21.30">However, if payment is demanded, the owner may redeem his life by the payment of whatever is demanded.</verse>
+      <verse osisID="Exod.21.30">However, if payment is demanded, the owner may buy back his life by the payment of whatever is demanded.</verse>
       <verse osisID="Exod.21.31">This law also applies if the bull gores a son or daughter.</verse>
       <verse osisID="Exod.21.32">If the bull gores a male or female slave, the owner must pay thirty shekels of silver to the master of the slave, and the bull is to be stoned to death.</verse>
       <verse osisID="Exod.21.33">If anyone uncovers a pit or digs one and fails to cover it and an ox or a donkey falls into it,</verse>
@@ -748,7 +751,7 @@
       <verse osisID="Exod.25.14">Insert the poles into the rings on the sides of the ark to carry it.</verse>
       <verse osisID="Exod.25.15">The poles are to remain in the rings of this ark; they are not to be removed.</verse>
       <verse osisID="Exod.25.16">Then put in the ark the tablets of the covenant law, which I will give you.</verse>
-      <verse osisID="Exod.25.17">Make an atonement cover of pure gold—two and a half cubits long and a cubit and a half wide.</verse>
+      <verse osisID="Exod.25.17">Make a cover of pure gold—125 centimeters long and 75 centimeters wide.</verse>
       <verse osisID="Exod.25.18">And make two cherubim out of hammered gold at the ends of the cover.</verse>
       <verse osisID="Exod.25.19">Make one cherub on one end and the second cherub on the other; make the cherubim of one piece with the cover, at the two ends.</verse>
       <verse osisID="Exod.25.20">The cherubim are to have their wings spread upward, overshadowing the cover with them. The cherubim are to face each other, looking toward the cover.</verse>
@@ -807,8 +810,8 @@
       <verse osisID="Exod.26.30">Set up the tabernacle according to the plan shown you on the mountain.</verse>
       <verse osisID="Exod.26.31">Make a curtain of blue, purple and scarlet yarn and finely twisted linen, with cherubim woven into it by a skilled worker.</verse>
       <verse osisID="Exod.26.32">Hang it with gold hooks on four posts of acacia wood overlaid with gold and standing on four silver bases.</verse>
-      <verse osisID="Exod.26.33">Hang the curtain from the clasps and place the ark of the covenant law behind the curtain. The curtain will separate the Holy Place from the Most Holy Place.</verse>
-      <verse osisID="Exod.26.34">Put the atonement cover on the ark of the covenant law in the Most Holy Place.</verse>
+      <verse osisID="Exod.26.33">Hang the curtain from the clasps and place the ark of the covenant law behind the curtain. The curtain will separate the sanctuary from the inner sanctuary.</verse>
+      <verse osisID="Exod.26.34">Put the cover on the ark of the covenant law in the inner sanctuary.</verse>
       <verse osisID="Exod.26.35">Place the table outside the curtain on the north side of the tabernacle and put the lampstand opposite it on the south side.</verse>
       <verse osisID="Exod.26.36">For the entrance to the tent make a curtain of blue, purple and scarlet yarn and finely twisted linen—the work of an embroiderer.</verse>
       <verse osisID="Exod.26.37">Make gold hooks for this curtain and five posts of acacia wood overlaid with gold. And cast five bronze bases for them."</verse>
@@ -867,13 +870,13 @@
       <verse osisID="Exod.28.26">Make two gold rings and attach them to the other two corners of the breastpiece on the inside edge next to the ephod.</verse>
       <verse osisID="Exod.28.27">Make two more gold rings and attach them to the bottom of the shoulder pieces on the front of the ephod, close to the seam just above the waistband of the ephod.</verse>
       <verse osisID="Exod.28.28">The rings of the breastpiece are to be tied to the rings of the ephod with blue cord, connecting it to the waistband, so that the breastpiece will not swing out from the ephod.</verse>
-      <verse osisID="Exod.28.29">Whenever Aaron enters the Holy Place, he will bear the names of the sons of Israel over his heart on the breastpiece of decision as a continuing memorial before Yahweh.</verse>
+      <verse osisID="Exod.28.29">Whenever Aaron enters the sanctuary, he will bear the names of the sons of Israel over his heart on the breastpiece of decision as a continuing memorial before Yahweh.</verse>
       <verse osisID="Exod.28.30">Also put the Urim and the Thummim in the breastpiece, so they may be over Aaron's heart whenever he enters the presence of Yahweh. Thus Aaron will always bear the means of making decisions for the Israelites over his heart before Yahweh.</verse>
       <verse osisID="Exod.28.31">Make the robe of the ephod entirely of blue cloth,</verse>
       <verse osisID="Exod.28.32">with an opening for the head in its center. There shall be a woven edge like a collar around this opening, so that it will not tear.</verse>
       <verse osisID="Exod.28.33">Make pomegranates of blue, purple and scarlet yarn around the hem of the robe, with gold bells between them.</verse>
       <verse osisID="Exod.28.34">The gold bells and the pomegranates are to alternate around the hem of the robe.</verse>
-      <verse osisID="Exod.28.35">Aaron must wear it when he ministers. The sound of the bells will be heard when he enters the Holy Place before Yahweh and when he comes out, so that he will not die.</verse>
+      <verse osisID="Exod.28.35">Aaron must wear it when he ministers. The sound of the bells will be heard when he enters the sanctuary before Yahweh and when he comes out, so that he will not die.</verse>
       <verse osisID="Exod.28.36">Make a plate of pure gold and engrave on it as on a seal: Set apart for Yahweh.</verse>
       <verse osisID="Exod.28.37">Fasten a blue cord to it to attach it to the turban; it is to be on the front of the turban.</verse>
       <verse osisID="Exod.28.38">It will be on Aaron's forehead, and he will bear the guilt involved in the sacred gifts the Israelites consecrate, whatever their gifts may be. It will be on Aaron's forehead continually so that they will be acceptable to Yahweh.</verse>
@@ -881,7 +884,7 @@
       <verse osisID="Exod.28.40">Make tunics, sashes and caps for Aaron's sons to give them dignity and honor.</verse>
       <verse osisID="Exod.28.41">After you put these clothes on your brother Aaron and his sons, anoint and ordain them. Consecrate them so they may serve me as priests.</verse>
       <verse osisID="Exod.28.42">Make linen undergarments as a covering for the body, reaching from the waist to the thighs.</verse>
-      <verse osisID="Exod.28.43">Aaron and his sons must wear them whenever they enter the tent of meeting or approach the altar to minister in the Holy Place, so that they will not incur guilt and die. This is to be a lasting ordinance for Aaron and his descendants."</verse>
+      <verse osisID="Exod.28.43">Aaron and his sons must wear them whenever they enter the tent of meeting or approach the altar to minister in the sanctuary, so that they will not incur guilt and die. This is to be a lasting ordinance for Aaron and his descendants."</verse>
       <chapter eID="Exod.28"/>
       
       <chapter osisID="Exod.29" sID="Exod.29"/>
@@ -913,15 +916,15 @@
       <verse osisID="Exod.29.26">After you take the breast of the ram for Aaron's ordination, wave it before Yahweh as a wave offering, and it will be your share.</verse>
       <verse osisID="Exod.29.27">Consecrate those parts of the ordination ram that belong to Aaron and his sons: the breast that was waved and the thigh that was presented.</verse>
       <verse osisID="Exod.29.28">This is always to be the perpetual share from the Israelites for Aaron and his sons. It is the contribution the Israelites are to make to Yahweh from their fellowship offerings.</verse>
-      <verse osisID="Exod.29.29">Aaron's sacred garments will belong to his descendants so that they can be anointed and ordained in them.</verse>
-      <verse osisID="Exod.29.30">The son who succeeds him as priest and comes to the tent of meeting to minister in the Holy Place is to wear them seven days.</verse>
+      <verse osisID="Exod.29.29">Aaron's sacred garments will belong to his descendants so that they can have oil poured on them and be ordained in them.</verse>
+      <verse osisID="Exod.29.30">The son who succeeds him as priest and comes to the tent of meeting to minister in the sanctuary is to wear them seven days.</verse>
       <verse osisID="Exod.29.31">Take the ram for the ordination and cook the meat in a sacred place.</verse>
       <verse osisID="Exod.29.32">At the entrance to the tent of meeting, Aaron and his sons are to eat the meat of the ram and the bread that is in the basket.</verse>
-      <verse osisID="Exod.29.33">They are to eat these offerings by which atonement was made for their ordination and consecration. But no one else may eat them, because they are sacred.</verse>
+      <verse osisID="Exod.29.33">They are to eat these offerings by which things were made right for their ordination and setting apart for God. But no one else may eat them, because they are sacred.</verse>
       <verse osisID="Exod.29.34">And if any of the meat of the ordination ram or any bread is left over till morning, burn it up. It must not be eaten, because it is sacred.</verse>
       <verse osisID="Exod.29.35">Do for Aaron and his sons everything I have commanded you, taking seven days to ordain them.</verse>
-      <verse osisID="Exod.29.36">Sacrifice a bull each day as a sin offering to make atonement. Purify the altar by making atonement for it, and anoint it to consecrate it.</verse>
-      <verse osisID="Exod.29.37">For seven days make atonement for the altar and consecrate it. Then the altar will be most holy, and whatever touches it will be holy.</verse>
+      <verse osisID="Exod.29.36">Sacrifice a bull each day as a sin offering to make things right. Purify the altar by making things right for it, and pour oil on it to set it apart for God.</verse>
+      <verse osisID="Exod.29.37">For seven days make things right for the altar and set it apart for God. Then the altar will be most set apart for God, and whatever touches it will be set apart for God.</verse>
       <verse osisID="Exod.29.38">This is what you are to offer on the altar regularly each day: two lambs a year old.</verse>
       <verse osisID="Exod.29.39">Offer one in the morning and the other at twilight.</verse>
       <verse osisID="Exod.29.40">With the first lamb offer a tenth of an ephah of the finest flour mixed with a quarter of a hin of oil from pressed olives, and a quarter of a hin of wine as a drink offering.</verse>
@@ -939,17 +942,17 @@
       <verse osisID="Exod.30.3">Overlay the top and all the sides and the horns with pure gold, and make a gold molding around it.</verse>
       <verse osisID="Exod.30.4">Make two gold rings for the altar below the molding—two on each of the opposite sides—to hold the poles used to carry it.</verse>
       <verse osisID="Exod.30.5">Make the poles of acacia wood and overlay them with gold.</verse>
-      <verse osisID="Exod.30.6">Put the altar in front of the curtain that shields the ark of the covenant law—before the atonement cover that is over the tablets of the covenant law—where I will meet with you.</verse>
+      <verse osisID="Exod.30.6">Put the altar in front of the curtain that shields the ark of the covenant law—before the cover that is over the tablets of the covenant law—where I will meet with you.</verse>
       <verse osisID="Exod.30.7">Aaron must burn fragrant incense on the altar every morning when he tends the lamps.</verse>
       <verse osisID="Exod.30.8">He must burn incense again when he lights the lamps at twilight so incense will burn regularly before Yahweh for the generations to come.</verse>
       <verse osisID="Exod.30.9">Do not offer on this altar any other incense or any burnt offering or grain offering, and do not pour a drink offering on it.</verse>
-      <verse osisID="Exod.30.10">Once a year Aaron shall make atonement on its horns. This annual atonement must be made with the blood of the atoning sin offering for the generations to come. It is most holy to Yahweh."</verse>
+      <verse osisID="Exod.30.10">Once a year Aaron shall make things right on its horns. This annual making things right must be made with the blood of the sin offering for making things right for the generations to come. It is most set apart for Yahweh."</verse>
       <verse osisID="Exod.30.11">Then Yahweh said to Moses,</verse>
       <verse osisID="Exod.30.12">"When you take a census of the Israelites to count them, each one must pay Yahweh a ransom for his life at the time he is counted. Then no plague will come on them when you number them.</verse>
       <verse osisID="Exod.30.13">Each one who crosses over to those already counted is to give a half shekel, according to the sanctuary shekel, which weighs twenty gerahs. This half shekel is an offering to Yahweh.</verse>
       <verse osisID="Exod.30.14">All who cross over, those twenty years old or more, are to give an offering to Yahweh.</verse>
       <verse osisID="Exod.30.15">The rich are not to give more than a half shekel and the poor are not to give less when you make the offering to Yahweh to atone for your lives.</verse>
-      <verse osisID="Exod.30.16">Receive the atonement money from the Israelites and use it for the service of the tent of meeting. It will be a memorial for the Israelites before Yahweh, making atonement for your lives."</verse>
+      <verse osisID="Exod.30.16">Receive the money for making things right from the Israelites and use it for the service of the tent of meeting. It will be a memorial for the Israelites before Yahweh, making things right for your lives."</verse>
       <verse osisID="Exod.30.17">Then Yahweh said to Moses,</verse>
       <verse osisID="Exod.30.18">"Make a bronze basin, with its bronze stand, for washing. Place it between the tent of meeting and the altar, and put water in it.</verse>
       <verse osisID="Exod.30.19">Aaron and his sons are to wash their hands and feet with water from it.</verse>
@@ -1350,9 +1353,9 @@
       <verse osisID="Exod.40.6">Place the altar of burnt offering in front of the entrance to the tabernacle, the tent of meeting;</verse>
       <verse osisID="Exod.40.7">place the basin between the tent of meeting and the altar and put water in it.</verse>
       <verse osisID="Exod.40.8">Set up the courtyard around it and put the curtain at the entrance to the courtyard.</verse>
-      <verse osisID="Exod.40.9">Take the anointing oil and anoint the tabernacle and everything in it; consecrate it and all its furnishings, and it will be set apart for God.</verse>
-      <verse osisID="Exod.40.10">Then anoint the altar of burnt offering and all its utensils; consecrate the altar, and it will be most set apart for God.</verse>
-      <verse osisID="Exod.40.11">Anoint the basin and its stand and consecrate them.</verse>
+      <verse osisID="Exod.40.9">Take the oil for pouring and pour oil on the tabernacle and everything in it; set it apart for God with all its furnishings, and it will be set apart for God.</verse>
+      <verse osisID="Exod.40.10">Then pour oil on the altar of burnt offering and all its utensils; set apart the altar for God, and it will be most set apart for God.</verse>
+      <verse osisID="Exod.40.11">Pour oil on the basin and its stand and set them apart for God.</verse>
       <verse osisID="Exod.40.12">Bring Aaron and his sons to the entrance to the tent of meeting and wash them with water.</verse>
       <verse osisID="Exod.40.13">Then dress Aaron in the sacred garments, anoint him and consecrate him so he may serve me as priest.</verse>
       <verse osisID="Exod.40.14">Bring his sons and dress them in tunics.</verse>
@@ -1361,7 +1364,7 @@
       <verse osisID="Exod.40.17">So the tabernacle was set up on the first day of the first month in the second year.</verse>
       <verse osisID="Exod.40.18">When Moses set up the tabernacle, he put the bases in place, erected the frames, inserted the crossbars and set up the posts.</verse>
       <verse osisID="Exod.40.19">Then he spread the tent over the tabernacle and put the covering over the tent, as Yahweh commanded him.</verse>
-      <verse osisID="Exod.40.20">He took the tablets of the covenant law and placed them in the ark, attached the poles to the ark and put the atonement cover over it.</verse>
+      <verse osisID="Exod.40.20">He took the tablets of the covenant law and placed them in the ark, attached the poles to the ark and put the cover over it.</verse>
       <verse osisID="Exod.40.21">Then he brought the ark into the tabernacle and hung the shielding curtain and shielded the ark of the covenant law, as Yahweh commanded him.</verse>
       <verse osisID="Exod.40.22">Moses placed the table in the tent of meeting on the north side of the tabernacle outside the curtain</verse>
       <verse osisID="Exod.40.23">and set out the bread on it before Yahweh, as Yahweh commanded him.</verse>

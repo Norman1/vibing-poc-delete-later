@@ -17,8 +17,9 @@
       <title type="main">Genesis</title>
       <chapter osisID="Gen.1">
         <title type="chapter">Chapter 1</title>
+        <title type="main">The Creation</title>
         <verse osisID="Gen.1.1">In the beginning, God created the heavens and the earth.</verse>
-        <verse osisID="Gen.1.2">The earth was formless and empty, with darkness covering the surface of the deep waters. God's spirit moved over the water's surface.</verse>
+        <verse osisID="Gen.1.2">The earth was formless and empty, with darkness covering the surface of the deep waters. God's Spirit moved over the water's surface.</verse>
         <verse osisID="Gen.1.3">God said, "Let there be light," and there was light.</verse>
         <verse osisID="Gen.1.4">God saw that the light was good, so he separated the light from the darkness.</verse>
         <verse osisID="Gen.1.5">God called the light "day" and the darkness "night." Evening came, then morning came—the first day.</verse>
@@ -42,6 +43,7 @@
         <verse osisID="Gen.1.23">Evening came, then morning came—the fifth day.</verse>
         <verse osisID="Gen.1.24">God said, "Let the land produce living creatures, each producing offspring like itself: livestock, small animals, and wild animals." It happened exactly as he said.</verse>
         <verse osisID="Gen.1.25">God made the wild animals, livestock, and all the small animals that move along the ground, each producing offspring like itself. God saw that it was good.</verse>
+        <title type="sub">The Creation of Humanity</title>
         <verse osisID="Gen.1.26">God said, "Let us make humans in our image, to be like us. They will rule over the fish in the sea, the birds in the sky, the livestock, all the wild animals on earth, and the small animals that scurry along the ground."</verse>
         <verse osisID="Gen.1.27">So God created humans in his own image. In the image of God he created them; male and female he created them.</verse>
         <verse osisID="Gen.1.28">God blessed them and said to them, "Have many children and fill the earth. Take charge of it. Rule over the fish in the sea, the birds in the sky, and all the animals that move along the ground."</verse>
@@ -53,7 +55,7 @@
         <title type="chapter">Chapter 2</title>
         <verse osisID="Gen.2.1">So the sky and earth were finished, along with everything in them.</verse>
         <verse osisID="Gen.2.2">By the seventh day God had finished the work he had been doing, so on the seventh day he rested from all his work.</verse>
-        <verse osisID="Gen.2.3">God blessed the seventh day and set it apart as something special because on that day he rested from all the creative work he had done.</verse>
+        <verse osisID="Gen.2.3">God blessed the seventh day and set it apart for God because on that day he rested from all the creative work he had done.</verse>
         <verse osisID="Gen.2.4">This is the account of the sky and earth when they were created, when Yahweh God made the earth and sky.</verse>
         <verse osisID="Gen.2.5">No wild plants had yet appeared on the earth, and no crops had begun to grow, because Yahweh God had not sent rain on the earth and there was no one to work the ground.</verse>
         <verse osisID="Gen.2.6">Instead, water would come up from the earth and water the entire surface of the ground.<note type="translation">Hebrew 'ed can mean mist, stream, or spring</note></verse>
@@ -178,7 +180,7 @@
         <verse osisID="Gen.6.6">Yahweh regretted that he had made human beings on the earth, and his heart was deeply troubled.</verse>
         <verse osisID="Gen.6.7">So Yahweh said, "I will wipe from the face of the earth the human race I have created—and with them the animals, the birds and the creatures that move along the ground—for I regret that I have made them."</verse>
         <verse osisID="Gen.6.8">But Noah found favor in the eyes of Yahweh.</verse>
-        <verse osisID="Gen.6.9">This is the account of Noah and his family. Noah was a righteous man, blameless among the people of his time, and he walked faithfully with God.</verse>
+        <verse osisID="Gen.6.9">This is the account of Noah and his family. Noah was a man in right standing with God, blameless among the people of his time, and he walked faithfully with God.</verse>
         <verse osisID="Gen.6.10">Noah had three sons: Shem, Ham and Japheth.</verse>
         <verse osisID="Gen.6.11">Now the earth was corrupt in God's sight and was full of violence.</verse>
         <verse osisID="Gen.6.12">God saw how corrupt the earth had become, for all the people on earth had corrupted their ways.</verse>
@@ -195,15 +197,15 @@
       </chapter>
       <chapter osisID="Gen.7">
         <title type="chapter">Chapter 7</title>
-        <verse osisID="Gen.7.1">Yahweh then said to Noah, "Go into the ark, you and your whole family, because I have found you righteous in this generation.</verse>
+        <verse osisID="Gen.7.1">Yahweh then said to Noah, "Go into the ark, you and your whole family, because I have found you in right standing with me in this generation.</verse>
         <verse osisID="Gen.7.2">Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate,</verse>
         <verse osisID="Gen.7.3">and also seven pairs of every kind of bird, male and female, to keep their various kinds alive throughout the earth.</verse>
         <verse osisID="Gen.7.4">Seven days from now I will send rain on the earth for forty days and forty nights, and I will wipe from the face of the earth every living creature I have made."</verse>
         <verse osisID="Gen.7.5">And Noah did all that Yahweh commanded him.</verse>
         <verse osisID="Gen.7.6">Noah was six hundred years old when the floodwaters came on the earth.</verse>
         <verse osisID="Gen.7.7">And Noah and his sons and his wife and his sons' wives entered the ark to escape the waters of the flood.</verse>
-        <verse osisID="Gen.7.8">Pairs of clean and unclean animals, of birds and of all creatures that move along the ground, male and female, came to Noah and entered the ark, as God had commanded Noah.</verse>
-        <verse osisID="Gen.7.9">Pairs of clean and unclean animals, of birds and of all creatures that move along the ground, male and female, came to Noah and entered the ark, as God had commanded Noah.</verse>
+        <verse osisID="Gen.7.8">Pairs of clean and unclean animals, of birds and of all creatures that move along the ground,</verse>
+        <verse osisID="Gen.7.9">male and female, came to Noah and entered the ark, as God had commanded Noah.</verse>
         <verse osisID="Gen.7.10">And after the seven days the floodwaters came on the earth.</verse>
         <verse osisID="Gen.7.11">In the six hundredth year of Noah's life, on the seventeenth day of the second month—on that day all the springs of the great deep burst forth, and the floodgates of the heavens were opened.</verse>
         <verse osisID="Gen.7.12">And rain fell on the earth forty days and forty nights.</verse>
@@ -425,7 +427,7 @@
         <verse osisID="Gen.15.3">And Abram said, "You have given me no children; so a servant in my household will be my heir."</verse>
         <verse osisID="Gen.15.4">Then the word of Yahweh came to him: "This man will not be your heir, but a son who is your own flesh and blood will be your heir."</verse>
         <verse osisID="Gen.15.5">He took him outside and said, "Look up at the sky and count the stars—if indeed you can count them." Then he said to him, "So shall your offspring be."</verse>
-        <verse osisID="Gen.15.6">Abram believed Yahweh, and he credited it to him as righteousness.</verse>
+        <verse osisID="Gen.15.6">Abram believed Yahweh, and he credited it to him as right standing with God.</verse>
         <verse osisID="Gen.15.7">He also said to him, "I am Yahweh, who brought you out of Ur of the Chaldeans to give you this land to take possession of it."</verse>
         <verse osisID="Gen.15.8">But Abram said, "Sovereign Yahweh, how can I know that I will gain possession of it?"</verse>
         <verse osisID="Gen.15.9">So Yahweh said to him, "Bring me a heifer, a goat and a ram, each three years old, along with a dove and a young pigeon."</verse>
@@ -660,6 +662,7 @@
       <chapter eID="Gen.22"/>
       <!-- Chapter 23: Death of Sarah -->
       <chapter osisID="Gen.23" sID="Gen.23"/>
+      <title type="main">The Death of Sarah</title>
       <verse osisID="Gen.23.1">Sarah lived to be a hundred and twenty-seven years old.</verse>
       <verse osisID="Gen.23.2">She died at Kiriath Arba (that is, Hebron) in the land of Canaan, and Abraham went to mourn for Sarah and to weep over her.</verse>
       <verse osisID="Gen.23.3">Then Abraham rose from beside his dead wife and spoke to the Hittites. He said,</verse>
