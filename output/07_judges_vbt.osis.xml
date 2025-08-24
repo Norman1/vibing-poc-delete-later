@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <type type="OSIS">Bible</type>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
         <rights type="x-copyright">Public Domain</rights>
-        <scope>Judg</scope>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -20,7 +21,7 @@
         <p>Judges covers the dark period in Israel's history when "everyone did what was right in their own eyes" after Joshua's generation died. The book tells of Israel's repeated cycle of sin, oppression by enemies, crying out to God, and deliverance through judges like Gideon, Deborah, and Samson. It shows both God's patience with his rebellious people and the chaos that results from rejecting his leadership.</p>
       </div>
       
-      <chapter osisID="Judg.1" sID="Judg.1"/>
+      <chapter osisID="Judg.1" sID="Judg.1" />
       <title type="sub">Israel Fights the Remaining Canaanites</title>
       <verse osisID="Judg.1.1">After the death of Joshua, the Israelites asked Yahweh, "Who of us is to go up first to fight against the Canaanites?"</verse>
       <verse osisID="Judg.1.2">Yahweh answered, "Judah shall go up; I have given the land into their hands."</verse>
@@ -58,9 +59,9 @@
       <verse osisID="Judg.1.34">The Amorites confined the Danites to the hill country, not allowing them to come down into the plain.</verse>
       <verse osisID="Judg.1.35">And the Amorites were determined also to hold out in Mount Heres, Aijalon and Shaalbim, but when the tribes of Joseph became stronger, they too were pressed into forced labor.</verse>
       <verse osisID="Judg.1.36">The boundary of the Amorites was from Scorpion Pass to Sela and beyond.</verse>
-      <chapter eID="Judg.1"/>
+      <chapter eID="Judg.1" />
       
-      <chapter osisID="Judg.2" sID="Judg.2"/>
+      <chapter osisID="Judg.2" sID="Judg.2" />
       <title type="sub">The Angel of Yahweh at Bokim</title>
       <verse osisID="Judg.2.1">The angel of Yahweh went up from Gilgal to Bokim and said, "I brought you up out of Egypt and led you into the land I swore to give to your ancestors. I said, 'I will never break my covenant with you,</verse>
       <verse osisID="Judg.2.2">and you shall not make a covenant with the people of this land, but you shall break down their altars.' Yet you have disobeyed me. Why have you done this?</verse>
@@ -87,9 +88,9 @@
       <verse osisID="Judg.2.21">I will no longer drive out before them any of the nations Joshua left when he died.</verse>
       <verse osisID="Judg.2.22">I will use them to test Israel and see whether they will keep the way of Yahweh and walk in it as their ancestors did."</verse>
       <verse osisID="Judg.2.23">Yahweh had allowed those nations to remain; he did not drive them out at once by giving them into the hands of Joshua.</verse>
-      <chapter eID="Judg.2"/>
+      <chapter eID="Judg.2" />
       
-      <chapter osisID="Judg.3" sID="Judg.3"/>
+      <chapter osisID="Judg.3" sID="Judg.3" />
       <verse osisID="Judg.3.1">These are the nations Yahweh left to test all those Israelites who had not experienced any of the wars in Canaan</verse>
       <verse osisID="Judg.3.2">(he did this only to teach warfare to the descendants of the Israelites who had not had previous battle experience):</verse>
       <verse osisID="Judg.3.3">the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites living in the Lebanon mountains from Mount Baal Hermon to Lebo Hamath.</verse>
@@ -127,9 +128,9 @@
       
       <title type="sub">Shamgar</title>
       <verse osisID="Judg.3.31">After Ehud came Shamgar son of Anath, who struck down six hundred Philistines with an oxgoad. He too saved Israel.</verse>
-      <chapter eID="Judg.3"/>
+      <chapter eID="Judg.3" />
       
-      <chapter osisID="Judg.4" sID="Judg.4"/>
+      <chapter osisID="Judg.4" sID="Judg.4" />
       <title type="sub">Deborah</title>
       <verse osisID="Judg.4.1">Again the Israelites did evil in the eyes of Yahweh, now that Ehud was dead.</verse>
       <verse osisID="Judg.4.2">So Yahweh sold them into the hands of Jabin king of Canaan, who reigned in Hazor. Sisera, the commander of his army, lived in Harosheth Haggoyim.</verse>
@@ -155,9 +156,9 @@
       <verse osisID="Judg.4.22">Just then Barak came by in pursuit of Sisera, and Jael went out to meet him. "Come," she said, "I will show you the man you're looking for." So he went in with her, and there lay Sisera with the tent peg through his temple—dead.</verse>
       <verse osisID="Judg.4.23">On that day God subdued Jabin king of Canaan before the Israelites.</verse>
       <verse osisID="Judg.4.24">And the hand of the Israelites pressed harder and harder against Jabin king of Canaan until they destroyed him.</verse>
-      <chapter eID="Judg.4"/>
+      <chapter eID="Judg.4" />
       
-      <chapter osisID="Judg.5" sID="Judg.5"/>
+      <chapter osisID="Judg.5" sID="Judg.5" />
       <title type="sub">The Song of Deborah</title>
       <verse osisID="Judg.5.1">On that day Deborah and Barak son of Abinoam sang this song:</verse>
       <verse osisID="Judg.5.2">"When the princes in Israel take the lead, when the people willingly offer themselves— praise Yahweh!</verse>
@@ -190,9 +191,9 @@
       <verse osisID="Judg.5.29">The wisest of her ladies answer her; indeed, she keeps saying to herself,</verse>
       <verse osisID="Judg.5.30">'Are they not finding and dividing the spoils: a woman or two for each man, colorful garments as plunder for Sisera, colorful garments embroidered, highly embroidered garments for my neck— all this as plunder?'</verse>
       <verse osisID="Judg.5.31">So may all your enemies perish, Yahweh! But may all who love you be like the sun when it rises in its strength." Then the land had peace forty years.</verse>
-      <chapter eID="Judg.5"/>
+      <chapter eID="Judg.5" />
       
-      <chapter osisID="Judg.6" sID="Judg.6"/>
+      <chapter osisID="Judg.6" sID="Judg.6" />
       <title type="sub">Gideon</title>
       <verse osisID="Judg.6.1">The Israelites did evil in the eyes of Yahweh, and for seven years he gave them into the hands of the Midianites.</verse>
       <verse osisID="Judg.6.2">Because the power of Midian was so oppressive, the Israelites prepared shelters for themselves in mountain clefts, caves and strongholds.</verse>
@@ -218,9 +219,9 @@
       <verse osisID="Judg.6.22">When Gideon realized that it was the angel of Yahweh, he exclaimed, "Alas, Sovereign Yahweh! I have seen the angel of Yahweh face to face!"</verse>
       <verse osisID="Judg.6.23">But Yahweh said to him, "Peace! Do not be afraid. You are not going to die."</verse>
       <verse osisID="Judg.6.24">So Gideon built an altar to Yahweh there and called it Yahweh-Shalom. To this day it stands in Ophrah of the Abiezrites.</verse>
-      <chapter eID="Judg.6"/>
+      <chapter eID="Judg.6" />
       
-      <chapter osisID="Judg.7" sID="Judg.7"/>
+      <chapter osisID="Judg.7" sID="Judg.7" />
       <title type="sub">Gideon Defeats the Midianites</title>
       <verse osisID="Judg.7.1">Early in the morning, Jerub-Baal (that is, Gideon) and all his men camped at the spring of Harod. The camp of Midian was north of them in the valley near the hill of Moreh.</verse>
       <verse osisID="Judg.7.2">Yahweh said to Gideon, "You have too many men. I cannot deliver Midian into their hands, or Israel would boast against me, 'My own strength has saved me.'</verse>
@@ -247,9 +248,9 @@
       <verse osisID="Judg.7.23">Israelites from Naphtali, Asher and all Manasseh were called out, and they pursued the Midianites.</verse>
       <verse osisID="Judg.7.24">Gideon sent messengers throughout the hill country of Ephraim, saying, "Come down against the Midianites and seize the waters of the Jordan ahead of them as far as Beth Barah." So all the men of Ephraim were called out and they seized the waters of the Jordan as far as Beth Barah.</verse>
       <verse osisID="Judg.7.25">They also captured two of the Midianite leaders, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb at the winepress of Zeeb. They pursued the Midianites and brought the heads of Oreb and Zeeb to Gideon, who was by the Jordan.</verse>
-      <chapter eID="Judg.7"/>
+      <chapter eID="Judg.7" />
       
-      <chapter osisID="Judg.8" sID="Judg.8"/>
+      <chapter osisID="Judg.8" sID="Judg.8" />
       <title type="sub">Zebah and Zalmunna</title>
       <verse osisID="Judg.8.1">Now the Ephraimites asked Gideon, "Why have you treated us like this? Why didn't you call us when you went to fight Midian?" And they challenged him vigorously.</verse>
       <verse osisID="Judg.8.2">But he answered them, "What have I accomplished compared to you? Aren't the gleanings of Ephraim's grapes better than the full grape harvest of Abiezer?</verse>
@@ -290,9 +291,9 @@
       <verse osisID="Judg.8.33">No sooner had Gideon died than the Israelites again prostituted themselves to the Baals. They set up Baal-Berith as their god</verse>
       <verse osisID="Judg.8.34">and did not remember Yahweh their God, who had rescued them from the hands of all their enemies on every side.</verse>
       <verse osisID="Judg.8.35">They also failed to show any loyalty to the family of Jerub-Baal (that is, Gideon) in spite of all the good things he had done for them.</verse>
-      <chapter eID="Judg.8"/>
+      <chapter eID="Judg.8" />
       
-      <chapter osisID="Judg.9" sID="Judg.9"/>
+      <chapter osisID="Judg.9" sID="Judg.9" />
       <title type="sub">Abimelek</title>
       <verse osisID="Judg.9.1">Abimelek son of Jerub-Baal went to his mother's brothers in Shechem and said to them and to all his mother's clan,</verse>
       <verse osisID="Judg.9.2">"Ask all the citizens of Shechem, 'Which is better for you: to have all seventy of Jerub-Baal's sons rule over you, or just one man?' Remember, I am your flesh and blood."</verse>
@@ -351,9 +352,9 @@
       <verse osisID="Judg.9.55">When the Israelites saw that Abimelek was dead, they went home.</verse>
       <verse osisID="Judg.9.56">Thus God repaid the wickedness that Abimelek had done to his father by murdering his seventy brothers.</verse>
       <verse osisID="Judg.9.57">God also made the people of Shechem pay for all their wickedness. The curse of Jotham son of Jerub-Baal came on them.</verse>
-      <chapter eID="Judg.9"/>
+      <chapter eID="Judg.9" />
       
-      <chapter osisID="Judg.10" sID="Judg.10"/>
+      <chapter osisID="Judg.10" sID="Judg.10" />
       <title type="sub">Tola</title>
       <verse osisID="Judg.10.1">After the time of Abimelek, a man of Issachar named Tola son of Puah, the son of Dodo, rose to save Israel. He lived in Shamir, in the hill country of Ephraim.</verse>
       <verse osisID="Judg.10.2">He led Israel twenty-three years; then he died, and was buried in Shamir.</verse>
@@ -377,9 +378,9 @@
       <verse osisID="Judg.10.16">Then they got rid of the foreign gods among them and served Yahweh. And he could bear Israel's misery no longer.</verse>
       <verse osisID="Judg.10.17">When the Ammonites were called to arms and camped in Gilead, the Israelites assembled and camped at Mizpah.</verse>
       <verse osisID="Judg.10.18">The leaders of the people of Gilead said to each other, "Whoever will take the lead in attacking the Ammonites will be head over all who live in Gilead."</verse>
-      <chapter eID="Judg.10"/>
+      <chapter eID="Judg.10" />
       
-      <chapter osisID="Judg.11" sID="Judg.11"/>
+      <chapter osisID="Judg.11" sID="Judg.11" />
       <verse osisID="Judg.11.1">Jephthah the Gileadite was a mighty warrior. His father was Gilead; his mother was a prostitute.</verse>
       <verse osisID="Judg.11.2">Gilead's wife also bore him sons, and when they were grown up, they drove Jephthah away. "You are not going to get any inheritance in our family," they said, "because you are the son of another woman."</verse>
       <verse osisID="Judg.11.3">So Jephthah fled from his brothers and settled in the land of Tob, where a gang of scoundrels gathered around him and followed him.</verse>
@@ -420,9 +421,9 @@
       <verse osisID="Judg.11.38">"You may go," he said. And he let her go for two months. She and her friends went into the hills and wept because she would never marry.</verse>
       <verse osisID="Judg.11.39">After the two months, she returned to her father, and he did to her as he had vowed. And she was a virgin. From this comes the Israelite tradition</verse>
       <verse osisID="Judg.11.40">that each year the young women of Israel go out for four days to commemorate the daughter of Jephthah the Gileadite.</verse>
-      <chapter eID="Judg.11"/>
+      <chapter eID="Judg.11" />
       
-      <chapter osisID="Judg.12" sID="Judg.12"/>
+      <chapter osisID="Judg.12" sID="Judg.12" />
       <title type="sub">Jephthah and Ephraim</title>
       <verse osisID="Judg.12.1">The Ephraimite forces were called out, and they crossed over to Zaphon. They said to Jephthah, "Why did you go to fight the Ammonites without calling us to go with you? We're going to burn down your house over your head."</verse>
       <verse osisID="Judg.12.2">Jephthah answered, "I and my people were engaged in a great struggle with the Ammonites, and although I called, you didn't save me out of their hands.</verse>
@@ -441,9 +442,9 @@
       <verse osisID="Judg.12.13">After him, Abdon son of Hillel, from Pirathon, led Israel.</verse>
       <verse osisID="Judg.12.14">He had forty sons and thirty grandsons, who rode on seventy donkeys. He led Israel eight years.</verse>
       <verse osisID="Judg.12.15">Then Abdon son of Hillel died and was buried at Pirathon in Ephraim, in the hill country of the Amalekites.</verse>
-      <chapter eID="Judg.12"/>
+      <chapter eID="Judg.12" />
       
-      <chapter osisID="Judg.13" sID="Judg.13"/>
+      <chapter osisID="Judg.13" sID="Judg.13" />
       <title type="sub">The Birth of Samson</title>
       <verse osisID="Judg.13.1">Again the Israelites did evil in the eyes of Yahweh, so Yahweh delivered them into the hands of the Philistines for forty years.</verse>
       <verse osisID="Judg.13.2">A certain man of Zorah, named Manoah, from the clan of the Danites, had a wife who was childless and remained childless.</verse>
@@ -470,9 +471,9 @@
       <verse osisID="Judg.13.23">But his wife answered, "If Yahweh had meant to kill us, he would not have accepted a burnt offering and grain offering from our hands, nor shown us all these things or now told us this."</verse>
       <verse osisID="Judg.13.24">The woman gave birth to a boy and named him Samson. He grew and Yahweh blessed him,</verse>
       <verse osisID="Judg.13.25">and the Spirit of Yahweh began to stir him while he was in Mahaneh Dan, between Zorah and Eshtaol.</verse>
-      <chapter eID="Judg.13"/>
+      <chapter eID="Judg.13" />
       
-      <chapter osisID="Judg.14" sID="Judg.14"/>
+      <chapter osisID="Judg.14" sID="Judg.14" />
       <title type="sub">Samson's Marriage</title>
       <verse osisID="Judg.14.1">Samson went down to Timnah and saw there a young Philistine woman.</verse>
       <verse osisID="Judg.14.2">When he returned, he said to his father and mother, "I have seen a Philistine woman in Timnah; now get her for me as my wife."</verse>
@@ -494,9 +495,9 @@
       <verse osisID="Judg.14.18">Before sunset on the seventh day the men of the town said to him, "What is sweeter than honey? What is stronger than a lion?" Samson said to them, "If you had not plowed with my heifer, you would not have solved my riddle."</verse>
       <verse osisID="Judg.14.19">Then the Spirit of Yahweh came powerfully upon him. He went down to Ashkelon, struck down thirty of their men, stripped them of everything and gave their clothes to those who had explained the riddle. Burning with anger, he returned to his father's home.</verse>
       <verse osisID="Judg.14.20">And Samson's wife was given to one of his companions who had attended him at the feast.</verse>
-      <chapter eID="Judg.14"/>
+      <chapter eID="Judg.14" />
       
-      <chapter osisID="Judg.15" sID="Judg.15"/>
+      <chapter osisID="Judg.15" sID="Judg.15" />
       <title type="sub">Samson's Vengeance on the Philistines</title>
       <verse osisID="Judg.15.1">Later on, at the time of wheat harvest, Samson took a young goat and went to visit his wife. He said, "I'm going to my wife's room." But her father would not let him go in.</verse>
       <verse osisID="Judg.15.2">"I was so sure you hated her," he said, "that I gave her to your companion. Isn't her younger sister more attractive? Take her instead."</verse>
@@ -518,9 +519,9 @@
       <verse osisID="Judg.15.18">Because he was very thirsty, he cried out to Yahweh, "You have given your servant this great victory. Must I now die of thirst and fall into the hands of the uncircumcised?"</verse>
       <verse osisID="Judg.15.19">Then God opened up the hollow place in Lehi, and water came out of it. When Samson drank, his strength returned and he revived. So the spring was called En Hakkore, and it is still there in Lehi.</verse>
       <verse osisID="Judg.15.20">Samson led Israel for twenty years in the days of the Philistines.</verse>
-      <chapter eID="Judg.15"/>
+      <chapter eID="Judg.15" />
       
-      <chapter osisID="Judg.16" sID="Judg.16"/>
+      <chapter osisID="Judg.16" sID="Judg.16" />
       <title type="sub">Samson and Delilah</title>
       <verse osisID="Judg.16.1">One day Samson went to Gaza, where he saw a prostitute. He went in to spend the night with her.</verse>
       <verse osisID="Judg.16.2">The people of Gaza were told, "Samson is here!" So they surrounded the place and lay in wait for him all night at the city gate. They made no move during the night, saying, "At dawn we'll kill him."</verse>
@@ -555,9 +556,9 @@
       <verse osisID="Judg.16.29">Then Samson reached toward the two central pillars on which the temple stood. Bracing himself against them, his right hand on the one and his left hand on the other,</verse>
       <verse osisID="Judg.16.30">Samson said, "Let me die with the Philistines!" Then he pushed with all his might, and down came the temple on the rulers and all the people in it. Thus he killed many more when he died than while he lived.</verse>
       <verse osisID="Judg.16.31">Then his brothers and his father's whole family went down to get him. They brought him back and buried him between Zorah and Eshtaol in the tomb of Manoah his father. He had led Israel twenty years.</verse>
-      <chapter eID="Judg.16"/>
+      <chapter eID="Judg.16" />
       
-      <chapter osisID="Judg.17" sID="Judg.17"/>
+      <chapter osisID="Judg.17" sID="Judg.17" />
       <title type="sub">Micah's Idols</title>
       <verse osisID="Judg.17.1">Now a man named Micah from the hill country of Ephraim</verse>
       <verse osisID="Judg.17.2">said to his mother, "The eleven hundred shekels of silver that were taken from you and about which I heard you utter a curse—I have that silver with me; I took it." Then his mother said, "Yahweh bless you, my son!"</verse>
@@ -572,9 +573,9 @@
       <verse osisID="Judg.17.11">So the Levite agreed to live with him, and the young man became like one of his sons to him.</verse>
       <verse osisID="Judg.17.12">Then Micah installed the Levite, and the young man became his priest and lived in his house.</verse>
       <verse osisID="Judg.17.13">And Micah said, "Now I know that Yahweh will be good to me, since this Levite has become my priest."</verse>
-      <chapter eID="Judg.17"/>
+      <chapter eID="Judg.17" />
       
-      <chapter osisID="Judg.18" sID="Judg.18"/>
+      <chapter osisID="Judg.18" sID="Judg.18" />
       <title type="sub">The Danites Settle in Laish</title>
       <verse osisID="Judg.18.1">In those days Israel had no king. And in those days the tribe of the Danites was seeking a place of their own where they might settle, because they had not yet come into an inheritance among the tribes of Israel.</verse>
       <verse osisID="Judg.18.2">So the Danites sent five of their leading men from Zorah and Eshtaol to spy out the land and explore it. These men represented all the Danites. They told them, "Go, explore the land." So they entered the hill country of Ephraim and came to the house of Micah, where they spent the night.</verse>
@@ -607,9 +608,9 @@
       <verse osisID="Judg.18.29">They named it Dan after their ancestor Dan, who was born to Israel—though the city used to be called Laish.</verse>
       <verse osisID="Judg.18.30">There the Danites set up for themselves the idol, and Jonathan son of Gershom, the son of Moses, and his sons were priests for the tribe of Dan until the time of the captivity of the land.</verse>
       <verse osisID="Judg.18.31">They continued to use the idol Micah had made, all the time the house of God was in Shiloh.</verse>
-      <chapter eID="Judg.18"/>
+      <chapter eID="Judg.18" />
       
-      <chapter osisID="Judg.19" sID="Judg.19"/>
+      <chapter osisID="Judg.19" sID="Judg.19" />
       <title type="main">The Levite and His Concubine</title>
       <verse osisID="Judg.19.1">In those days Israel had no king. A Levite who lived in a remote area in the hill country of Ephraim took a concubine from Bethlehem in Judah.</verse>
       <verse osisID="Judg.19.2">But she was unfaithful to him. She left him and went back to her parents' home in Bethlehem, Judah. After she had been there four months,</verse>
@@ -641,9 +642,9 @@
       <verse osisID="Judg.19.28">He said to her, "Get up; let's go." But there was no answer. Then the man put her on his donkey and set out for home.</verse>
       <verse osisID="Judg.19.29">When he reached home, he took a knife and cut up his concubine, limb by limb, into twelve parts and sent them into all the areas of Israel.</verse>
       <verse osisID="Judg.19.30">Everyone who saw it was saying to one another, "Such a thing has never been seen or done, not since the day the Israelites came up out of Egypt. Just imagine! We must do something! So speak up!"</verse>
-      <chapter eID="Judg.19"/>
+      <chapter eID="Judg.19" />
       
-      <chapter osisID="Judg.20" sID="Judg.20"/>
+      <chapter osisID="Judg.20" sID="Judg.20" />
       <title type="main">The Israelites Punish the Benjamites</title>
       <verse osisID="Judg.20.1">Then all Israel from Dan to Beersheba and from the land of Gilead came together as one and assembled before Yahweh in Mizpah.</verse>
       <verse osisID="Judg.20.2">The leaders of all the people of the tribes of Israel took their places in the assembly of God's people, four hundred thousand men armed with swords.</verse>
@@ -693,9 +694,9 @@
       <verse osisID="Judg.20.46">On that day twenty-five thousand Benjamite swordsmen fell, all of them valiant fighters.</verse>
       <verse osisID="Judg.20.47">But six hundred of them turned and fled to the wilderness to the rock of Rimmon, where they stayed four months.</verse>
       <verse osisID="Judg.20.48">The men of Israel went back to Benjamin and put all the towns to the sword, including the animals and everything else they found. All the towns they came across they set on fire.</verse>
-      <chapter eID="Judg.20"/>
+      <chapter eID="Judg.20" />
       
-      <chapter osisID="Judg.21" sID="Judg.21"/>
+      <chapter osisID="Judg.21" sID="Judg.21" />
       <title type="sub">Wives for the Benjamites</title>
       <verse osisID="Judg.21.1">The men of Israel had taken an oath at Mizpah: "Not one of us will give his daughter in marriage to a Benjamite."</verse>
       <verse osisID="Judg.21.2">The people went to Bethel, where they sat before God until evening, raising their voices and weeping bitterly.</verse>
@@ -722,7 +723,7 @@
       <verse osisID="Judg.21.23">So that is what the Benjamites did. While the young women were dancing, each man caught one and carried her off to be his wife. Then they returned to their inheritance and rebuilt the towns and settled in them.</verse>
       <verse osisID="Judg.21.24">At that time the Israelites left that place and went home to their tribes and clans, each to his own inheritance.</verse>
       <verse osisID="Judg.21.25">In those days Israel had no king; everyone did as they saw fit.</verse>
-      <chapter eID="Judg.21"/>
+      <chapter eID="Judg.21" />
     </div>
   </osisText>
 </osis>

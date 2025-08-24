@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
@@ -7,9 +7,13 @@
         <p>Plain Meaning Bible - John</p>
       </revisionDesc>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
-        <rights>Public Domain</rights>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -18,7 +22,7 @@
       <div type="introduction">
         <p>John presents Jesus as God's unique Son who became human to reveal the Father and provide eternal life to all who believe in him. Written by the apostle whom Jesus loved, this Gospel focuses on Jesus' divine identity through seven miraculous signs and seven "I am" statements that demonstrate his deity. John emphasizes that Jesus is both fully God and fully human, the eternal Word who became flesh to bridge the gap between God and humanity. The purpose is clearly stated: that readers might believe Jesus is the Christ, the Son of God, and through believing have eternal life in his name.</p>
       </div>
-      <chapter osisID="John.1" sID="John.1"/>
+      <chapter osisID="John.1" sID="John.1" />
       <title type="main">The Word Became Flesh</title>
       <verse osisID="John.1.1">In the beginning was the Word, and the Word was with God, and the Word was God.</verse>
       <verse osisID="John.1.2">He was with God in the beginning.</verse>
@@ -75,8 +79,8 @@
       <verse osisID="John.1.49">Then Nathanael declared, "Rabbi, you are the Son of God; you are the king of Israel."</verse>
       <verse osisID="John.1.50">Jesus said, "You believe because I told you I saw you under the fig tree. You will see greater things than that."</verse>
       <verse osisID="John.1.51">He then added, "Very truly I tell you, you will see heaven open, and the angels of God ascending and descending on the Son of Man."</verse>
-      <chapter eID="John.1"/>
-      <chapter osisID="John.2" sID="John.2"/>
+      <chapter eID="John.1" />
+      <chapter osisID="John.2" sID="John.2" />
       <title type="main">Jesus Changes Water Into Wine</title>
       <verse osisID="John.2.1">On the third day a wedding took place at Cana in Galilee. Jesus' mother was there,</verse>
       <verse osisID="John.2.2">and Jesus and his disciples had also been invited to the wedding.</verse>
@@ -104,8 +108,8 @@
       <verse osisID="John.2.23">Now while he was in Jerusalem at the Passover Festival, many people saw the signs he was performing and believed in his name.</verse>
       <verse osisID="John.2.24">But Jesus would not entrust himself to them, for he knew all people.</verse>
       <verse osisID="John.2.25">He did not need any testimony about mankind, for he knew what was in each person.</verse>
-      <chapter eID="John.2"/>
-      <chapter osisID="John.3" sID="John.3"/>
+      <chapter eID="John.2" />
+      <chapter osisID="John.3" sID="John.3" />
       <title type="main">Jesus Teaches Nicodemus</title>
       <verse osisID="John.3.1">Now there was a Pharisee, a man named Nicodemus who was a member of the Jewish ruling council.</verse>
       <verse osisID="John.3.2">He came to Jesus at night and said, "Rabbi, we know that you are a teacher who has come from God. For no one could perform the signs you are doing if God were not with him."</verse>
@@ -144,8 +148,8 @@
       <verse osisID="John.3.34">For the one whom God has sent speaks the words of God, for God gives the Spirit without limit.</verse>
       <verse osisID="John.3.35">The Father loves the Son and has placed everything in his hands.</verse>
       <verse osisID="John.3.36">Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on them.</verse>
-      <chapter eID="John.3"/>
-      <chapter osisID="John.4" sID="John.4"/>
+      <chapter eID="John.3" />
+      <chapter osisID="John.4" sID="John.4" />
       <title type="main">Jesus and the Samaritan Woman</title>
       <verse osisID="John.4.1">Now Jesus learned that the Pharisees had heard that Jesus was gaining and baptizing more disciples than John—</verse>
       <verse osisID="John.4.2">although in fact it was not Jesus who baptized, but his disciples.</verse>
@@ -206,8 +210,8 @@
       <note type="explanation">The seventh hour was 1 PM by Roman time keeping.</note>
       <verse osisID="John.4.53">Then the father realized that this was the exact time at which Jesus had said to him, "Your son will live." So he and his whole household believed.</verse>
       <verse osisID="John.4.54">This was the second sign Jesus performed after coming from Judea to Galilee.</verse>
-      <chapter eID="John.4"/>
-      <chapter osisID="John.5" sID="John.5"/>
+      <chapter eID="John.4" />
+      <chapter osisID="John.5" sID="John.5" />
       <title type="main">Jesus Heals at the Pool of Bethesda</title>
       <verse osisID="John.5.1">After this there was a feast of the Jews, and Jesus went up to Jerusalem.</verse>
       <verse osisID="John.5.2">Now there is in Jerusalem near the Sheep Gate a pool, which is called in Aramaic Bethesda, having five covered walkways.</verse>
@@ -258,8 +262,8 @@
       <verse osisID="John.5.45">"But do not think I will accuse you before the Father. Your accuser is Moses, on whom your hopes are set.</verse>
       <verse osisID="John.5.46">If you believed Moses, you would believe me, for he wrote about me.</verse>
       <verse osisID="John.5.47">But since you do not believe what he wrote, how are you going to believe what I say?"</verse>
-      <chapter eID="John.5"/>
-      <chapter osisID="John.6" sID="John.6"/>
+      <chapter eID="John.5" />
+      <chapter osisID="John.6" sID="John.6" />
       <title type="main">Jesus Feeds the Five Thousand</title>
       <verse osisID="John.6.1">Some time after this, Jesus crossed to the far shore of the Sea of Galilee (that is, the Sea of Tiberias),</verse>
       <verse osisID="John.6.2">and a great crowd of people followed him because they saw the signs he had performed by healing the sick.</verse>
@@ -338,8 +342,8 @@
       <note type="explanation">The Greek word hagios means "set apart" or "consecrated to God."</note>
       <verse osisID="John.6.70">Then Jesus replied, "Have I not chosen you, the Twelve? Yet one of you is a devil!"</verse>
       <verse osisID="John.6.71">(He meant Judas, the son of Simon Iscariot, who, though one of the Twelve, was later to betray him.)</verse>
-      <chapter eID="John.6"/>
-      <chapter osisID="John.7" sID="John.7"/>
+      <chapter eID="John.6" />
+      <chapter osisID="John.7" sID="John.7" />
       <title type="main">Jesus Goes to the Festival of Tabernacles</title>
       <verse osisID="John.7.1">After this, Jesus went around in Galilee. He did not want to go about in Judea because the Jewish leaders there were looking for a way to kill him.</verse>
       <verse osisID="John.7.2">But when the Jewish Festival of Tabernacles was near,</verse>
@@ -398,8 +402,8 @@
       <verse osisID="John.7.51">"Does our law condemn a man without first hearing him to find out what he has been doing?"</verse>
       <verse osisID="John.7.52">They replied, "Are you from Galilee, too? Look into it, and you will find that a prophet does not come out of Galilee."</verse>
       <verse osisID="John.7.53">Then they all went home,</verse>
-      <chapter eID="John.7"/>
-      <chapter osisID="John.8" sID="John.8"/>
+      <chapter eID="John.7" />
+      <chapter osisID="John.8" sID="John.8" />
       <verse osisID="John.8.1">but Jesus went to the Mount of Olives.</verse>
       <title type="main">The Woman Caught in Adultery</title>
       <verse osisID="John.8.2">At dawn he appeared again in the temple courts, where all the people gathered around him, and he sat down to teach them.</verse>
@@ -464,8 +468,8 @@
       <verse osisID="John.8.57">"You are not yet fifty years old," they said to him, "and you have seen Abraham!"</verse>
       <verse osisID="John.8.58">"Very truly I tell you," Jesus answered, "before Abraham was born, I am!"</verse>
       <verse osisID="John.8.59">At this, they picked up stones to stone him, but Jesus hid himself, slipping away from the temple grounds.</verse>
-      <chapter eID="John.8"/>
-      <chapter osisID="John.9" sID="John.9"/>
+      <chapter eID="John.8" />
+      <chapter osisID="John.9" sID="John.9" />
       <title type="main">Jesus Heals a Man Born Blind</title>
       <verse osisID="John.9.1">As he went along, he saw a man blind from birth.</verse>
       <verse osisID="John.9.2">His disciples asked him, "Rabbi, who sinned, this man or his parents, that he was born blind?"</verse>
@@ -511,8 +515,8 @@
       <verse osisID="John.9.39">Jesus said, "For judgment I have come into this world, so that the blind will see and those who see will become blind."</verse>
       <verse osisID="John.9.40">Some Pharisees who were with him heard him say this and asked, "What? Are we blind too?"</verse>
       <verse osisID="John.9.41">Jesus said, "If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains."</verse>
-      <chapter eID="John.9"/>
-      <chapter osisID="John.10" sID="John.10"/>
+      <chapter eID="John.9" />
+      <chapter osisID="John.10" sID="John.10" />
       <title type="main">The Good Shepherd and His Sheep</title>
       <verse osisID="John.10.1">"Very truly I tell you Pharisees, anyone who does not enter the sheep pen by the gate, but climbs in by some other way, is a thief and a robber.</verse>
       <verse osisID="John.10.2">The one who enters by the gate is the shepherd of the sheep.</verse>
@@ -558,8 +562,8 @@
       <verse osisID="John.10.40">Then Jesus went back across the Jordan to the place where John had been baptizing in the early days. There he stayed,</verse>
       <verse osisID="John.10.41">and many people came to him. They said, "Though John never performed a sign, all that John said about this man was true."</verse>
       <verse osisID="John.10.42">And in that place many believed in Jesus.</verse>
-      <chapter eID="John.10"/>
-      <chapter osisID="John.11" sID="John.11"/>
+      <chapter eID="John.10" />
+      <chapter osisID="John.11" sID="John.11" />
       <title type="main">The Death of Lazarus</title>
       <verse osisID="John.11.1">Now a man named Lazarus was sick. He was from Bethany, the village of Mary and her sister Martha.</verse>
       <verse osisID="John.11.2">(This Mary, whose brother Lazarus now lay sick, was the same one who poured perfume on the Lord and wiped his feet with her hair.)</verse>
@@ -623,8 +627,8 @@
       <verse osisID="John.11.55">When it was almost time for the Jewish Passover, many went up from the country to Jerusalem for their ceremonial cleansing before the Passover.</verse>
       <verse osisID="John.11.56">They kept looking for Jesus, and as they stood in the temple courts they asked one another, "What do you think? Isn't he coming to the festival at all?"</verse>
       <verse osisID="John.11.57">But the chief priests and the Pharisees had given orders that anyone who found out where Jesus was should report it so that they might arrest him.</verse>
-      <chapter eID="John.11"/>
-      <chapter osisID="John.12" sID="John.12"/>
+      <chapter eID="John.11" />
+      <chapter osisID="John.12" sID="John.12" />
       <title type="main">Jesus Anointed at Bethany</title>
       <verse osisID="John.12.1">Six days before the Passover, Jesus came to Bethany, where Lazarus lived, whom Jesus had raised from the dead.</verse>
       <verse osisID="John.12.2">Here a dinner was given in Jesus' honor. Martha served, while Lazarus was among those reclining at the table with him.</verse>
@@ -680,8 +684,8 @@
       <verse osisID="John.12.48">There is a judge for the one who rejects me and does not accept my words; the very words I have spoken will condemn them at the last day.</verse>
       <verse osisID="John.12.49">For I did not speak on my own, but the Father who sent me commanded me to say all that I have spoken.</verse>
       <verse osisID="John.12.50">I know that his command leads to eternal life. So whatever I say is just what the Father has told me to say."</verse>
-      <chapter eID="John.12"/>
-      <chapter osisID="John.13" sID="John.13"/>
+      <chapter eID="John.12" />
+      <chapter osisID="John.13" sID="John.13" />
       <title type="main">Jesus Washes His Disciples' Feet</title>
       <verse osisID="John.13.1">It was just before the Passover celebration. Jesus knew that the time had come for him to leave this world and go to the Father. Having loved his own who were in the world, he loved them to the very end.</verse>
       <verse osisID="John.13.2">The evening meal was in progress, and the devil had already prompted Judas, the son of Simon Iscariot, to betray Jesus.</verse>
@@ -723,8 +727,8 @@
       <verse osisID="John.13.36">Simon Peter asked him, "Lord, where are you going?" Jesus replied, "Where I am going, you cannot follow now, but you will follow later."</verse>
       <verse osisID="John.13.37">Peter asked, "Lord, why can't I follow you now? I will lay down my life for you."</verse>
       <verse osisID="John.13.38">Then Jesus answered, "Will you really lay down your life for me? Truly, truly, I tell you, before the rooster crows, you will disown me three times!</verse>
-      <chapter eID="John.13"/>
-      <chapter osisID="John.14" sID="John.14"/>
+      <chapter eID="John.13" />
+      <chapter osisID="John.14" sID="John.14" />
       <title type="main">Jesus Comforts His Disciples</title>
       <verse osisID="John.14.1">"Do not let your hearts be troubled. You believe in God; believe also in me.</verse>
       <verse osisID="John.14.2">My Father's house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?</verse>
@@ -759,8 +763,8 @@
       <verse osisID="John.14.29">I have told you now before it happens, so that when it does happen you will believe.</verse>
       <verse osisID="John.14.30">I will not say much more to you, for the prince of this world is coming. He has no hold over me,</verse>
       <verse osisID="John.14.31">but he comes so that the world may learn that I love the Father and do exactly what my Father has commanded me. "Come now; let us leave.</verse>
-      <chapter eID="John.14"/>
-      <chapter osisID="John.15" sID="John.15"/>
+      <chapter eID="John.14" />
+      <chapter osisID="John.15" sID="John.15" />
       <title type="main">The Vine and the Branches</title>
       <verse osisID="John.15.1">"I am the true vine, and my Father is the gardener.</verse>
       <verse osisID="John.15.2">He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful.</verse>
@@ -791,8 +795,8 @@
       <title type="sub">The Work of the Spirit</title>
       <verse osisID="John.15.26">"When the Helper comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—he will testify about me.</verse>
       <verse osisID="John.15.27">And you also must testify, for you have been with me from the beginning.</verse>
-      <chapter eID="John.15"/>
-      <chapter osisID="John.16" sID="John.16"/>
+      <chapter eID="John.15" />
+      <chapter osisID="John.16" sID="John.16" />
       <verse osisID="John.16.1">"All this I have told you so that you will not fall away.</verse>
       <verse osisID="John.16.2">They will put you out of the synagogue; in fact, the time is coming when anyone who kills you will think they are offering a service to God.</verse>
       <verse osisID="John.16.3">They will do such things because they have not known the Father or me.</verse>
@@ -828,8 +832,8 @@
       <verse osisID="John.16.31">"Do you now believe?" Jesus replied.</verse>
       <verse osisID="John.16.32">"A time is coming and in fact has come when you will be scattered, each to your own home. You will leave me all alone. Yet I am not alone, for my Father is with me.</verse>
       <verse osisID="John.16.33">"I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world."</verse>
-      <chapter eID="John.16"/>
-      <chapter osisID="John.17" sID="John.17"/>
+      <chapter eID="John.16" />
+      <chapter osisID="John.17" sID="John.17" />
       <title type="main">Jesus Prays to Be Glorified</title>
       <verse osisID="John.17.1">After Jesus said this, he looked toward heaven and prayed: "Father, the hour has come. Glorify your Son, that your Son may glorify you.</verse>
       <verse osisID="John.17.2">For you granted him authority over all people that he might give eternal life to all those you have given him.</verse>
@@ -859,8 +863,8 @@
       <verse osisID="John.17.24">"Father, I want those you have given me to be with me where I am, and to see my glory, the glory you have given me because you loved me before the creation of the world.</verse>
       <verse osisID="John.17.25">"Father who is in right standing with all, though the world does not know you, I know you, and they know that you have sent me.</verse>
       <verse osisID="John.17.26">I have made you known to them, and will continue to make you known in order that the love you have for me may be in them and that I myself may be in them."</verse>
-      <chapter eID="John.17"/>
-      <chapter osisID="John.18" sID="John.18"/>
+      <chapter eID="John.17" />
+      <chapter osisID="John.18" sID="John.18" />
       <title type="main">Jesus Arrested</title>
       <verse osisID="John.18.1">When he had finished praying, Jesus left with his disciples and crossed the Kidron Valley. On the other side there was a garden, and he and his disciples went into it.</verse>
       <verse osisID="John.18.2">Now Judas, who betrayed him, knew the place, because Jesus had often met there with his disciples.</verse>
@@ -906,8 +910,8 @@
       <verse osisID="John.18.38">"What is truth?" retorted Pilate. With this he went out again to the Jews gathered there and said, "I find no basis for a charge against him.</verse>
       <verse osisID="John.18.39">But it is your custom for me to release to you one prisoner at the time of the Passover. Do you want me to release 'the king of the Jews'?"</verse>
       <verse osisID="John.18.40">They shouted back, "No, not him! Give us Barabbas!" Now Barabbas had taken part in an uprising.</verse>
-      <chapter eID="John.18"/>
-      <chapter osisID="John.19" sID="John.19"/>
+      <chapter eID="John.18" />
+      <chapter osisID="John.19" sID="John.19" />
       <title type="main">Jesus Sentenced to be Crucified</title>
       <verse osisID="John.19.1">Then Pilate took Jesus and had him flogged.</verse>
       <verse osisID="John.19.2">The soldiers twisted together a crown of thorns and put it on his head. They clothed him in a purple robe</verse>
@@ -956,8 +960,8 @@
       <verse osisID="John.19.40">Taking Jesus' body, the two of them wrapped it, with the spices, in strips of linen. This was in accordance with Jewish burial customs.</verse>
       <verse osisID="John.19.41">At the place where Jesus was crucified, there was a garden, and in the garden a new tomb, in which no one had ever been laid.</verse>
       <verse osisID="John.19.42">Because it was the Jewish day of Preparation and since the tomb was nearby, they laid Jesus there.</verse>
-      <chapter eID="John.19"/>
-      <chapter osisID="John.20" sID="John.20"/>
+      <chapter eID="John.19" />
+      <chapter osisID="John.20" sID="John.20" />
       <title type="main">The Empty Tomb</title>
       <verse osisID="John.20.1">Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance.</verse>
       <verse osisID="John.20.2">So she came running to Simon Peter and the other disciple, the one Jesus loved, and said, "They have taken the Lord out of the tomb, and we don't know where they have put him!"</verse>
@@ -994,8 +998,8 @@
       <title type="sub">The Purpose of John's Gospel</title>
       <verse osisID="John.20.30">Jesus performed many other signs in the presence of his disciples, which are not recorded in this book.</verse>
       <verse osisID="John.20.31">But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.</verse>
-      <chapter eID="John.20"/>
-      <chapter osisID="John.21" sID="John.21"/>
+      <chapter eID="John.20" />
+      <chapter osisID="John.21" sID="John.21" />
       <title type="main">Jesus Reinstates Peter</title>
       <verse osisID="John.21.1">Afterward Jesus appeared again to his disciples, by the Sea of Galilee. It happened this way:</verse>
       <verse osisID="John.21.2">Simon Peter, Thomas (also known as Didymus), Nathanael from Cana in Galilee, the sons of Zebedee, and two other disciples were together.</verse>
@@ -1023,7 +1027,7 @@
       <verse osisID="John.21.23">Because of this, the rumor spread among the believers that this disciple would not die. But Jesus did not say that he would not die; he only said, "If I want him to remain alive until I return, what is that to you?"</verse>
       <verse osisID="John.21.24">This is the disciple who testifies to these things and who wrote them down. We know that his testimony is true.</verse>
       <verse osisID="John.21.25">Jesus did many other things as well. If every one of them were written down, I suppose that even the whole world would not have room for the books that would be written.</verse>
-      <chapter eID="John.21"/>
+      <chapter eID="John.21" />
     </div>
   </osisText>
 </osis>

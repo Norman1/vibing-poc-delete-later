@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <type type="OSIS">Bible</type>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
         <rights type="x-copyright">Public Domain</rights>
-        <scope>Num</scope>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -22,7 +23,7 @@
       
       <title type="main">The Census and Organization of Israel</title>
       
-      <chapter osisID="Num.1" sID="Num.1"/>
+      <chapter osisID="Num.1" sID="Num.1" />
       <title type="sub">The Census of the Tribes</title>
       <verse osisID="Num.1.1">Yahweh spoke to Moses in the tent of meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said:</verse>
       <verse osisID="Num.1.2">"Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one.</verse>
@@ -78,9 +79,9 @@
       <verse osisID="Num.1.52">The Israelites are to set up their tents by divisions, each of them in their own camp under their standard.</verse>
       <verse osisID="Num.1.53">The Levites, however, are to set up their tents around the tabernacle of the covenant law so that my wrath will not fall on the Israelite community. The Levites are to be responsible for the care of the tabernacle of the covenant law."</verse>
       <verse osisID="Num.1.54">The Israelites did all this just as Yahweh commanded Moses.</verse>
-      <chapter eID="Num.1"/>
+      <chapter eID="Num.1" />
       
-      <chapter osisID="Num.2" sID="Num.2"/>
+      <chapter osisID="Num.2" sID="Num.2" />
       <title type="sub">The Arrangement of the Tribal Camps</title>
       <verse osisID="Num.2.1">Yahweh said to Moses and Aaron:</verse>
       <verse osisID="Num.2.2">"The Israelites are to camp around the tent of meeting some distance from it, each of them under their standard and holding the banners of their family."</verse>
@@ -116,9 +117,9 @@
       <verse osisID="Num.2.32">These are the Israelites, counted according to their families. All the men in the camps, by their divisions, number 603,550.</verse>
       <verse osisID="Num.2.33">The Levites, however, were not counted along with the other Israelites, as Yahweh commanded Moses.</verse>
       <verse osisID="Num.2.34">So the Israelites did everything Yahweh commanded Moses; that is the way they encamped under their standards, and that is the way they set out, each of them with their clan and family.</verse>
-      <chapter eID="Num.2"/>
+      <chapter eID="Num.2" />
       
-      <chapter osisID="Num.3" sID="Num.3"/>
+      <chapter osisID="Num.3" sID="Num.3" />
       <title type="sub">The Levites</title>
       <verse osisID="Num.3.1">This is the account of the family of Aaron and Moses at the time Yahweh spoke with Moses at Mount Sinai.</verse>
       <verse osisID="Num.3.2">The names of the sons of Aaron were Nadab the firstborn and Abihu, Eleazar and Ithamar.</verse>
@@ -171,9 +172,9 @@
       <verse osisID="Num.3.49">So Moses collected the money for buying back from those who exceeded the number bought back by the Levites.</verse>
       <verse osisID="Num.3.50">From the firstborn of the Israelites he collected silver weighing 1,365 shekels, according to the sanctuary shekel.</verse>
       <verse osisID="Num.3.51">Moses gave the redemption money to Aaron and his sons, as he was commanded by the word of Yahweh.</verse>
-      <chapter eID="Num.3"/>
+      <chapter eID="Num.3" />
       
-      <chapter osisID="Num.4" sID="Num.4"/>
+      <chapter osisID="Num.4" sID="Num.4" />
       <title type="sub">The Kohathites</title>
       <verse osisID="Num.4.1">Yahweh said to Moses and Aaron:</verse>
       <verse osisID="Num.4.2">"Take a census of the Kohathite branch of the Levites by their clans and families.</verse>
@@ -224,11 +225,11 @@
       <verse osisID="Num.4.47">All the men from thirty to fifty years of age who came to do the work of serving and carrying at the tent of meeting</verse>
       <verse osisID="Num.4.48">numbered 8,580.</verse>
       <verse osisID="Num.4.49">At Yahweh's command through Moses, each was assigned his work and told what to carry. Thus they were counted, as Yahweh commanded Moses.</verse>
-      <chapter eID="Num.4"/>
+      <chapter eID="Num.4" />
       
       <title type="main">Purity and Dedication in the Camp</title>
       
-      <chapter osisID="Num.5" sID="Num.5"/>
+      <chapter osisID="Num.5" sID="Num.5" />
       <title type="sub">The Purity of the Camp</title>
       <verse osisID="Num.5.1">Yahweh said to Moses,</verse>
       <verse osisID="Num.5.2">"Command the Israelites to send away from the camp anyone who has a defiling skin disease or a discharge of any kind, or who is ceremonially unclean because of a dead body.</verse>
@@ -261,9 +262,9 @@
       <verse osisID="Num.5.29">This, then, is the law of jealousy when a woman goes astray and makes herself impure while married to her husband,</verse>
       <verse osisID="Num.5.30">or when feelings of jealousy come over a man because he suspects his wife. The priest is to have her stand before Yahweh and is to apply this entire law to her.</verse>
       <verse osisID="Num.5.31">The husband will be innocent of any wrongdoing, but the woman will bear the consequences of her wrongdoing.'"</verse>
-      <chapter eID="Num.5"/>
+      <chapter eID="Num.5" />
       
-      <chapter osisID="Num.6" sID="Num.6"/>
+      <chapter osisID="Num.6" sID="Num.6" />
       <title type="sub">The Nazirite Vow</title>
       <verse osisID="Num.6.1">Yahweh said to Moses,</verse>
       <verse osisID="Num.6.2">"Speak to the Israelites and say to them: 'If a man or woman wants to make a special vow, a vow of dedication to Yahweh as a Nazirite,</verse>
@@ -292,11 +293,11 @@
       <verse osisID="Num.6.25">Yahweh make his face shine on you and be gracious to you;</verse>
       <verse osisID="Num.6.26">Yahweh turn his face toward you and give you peace."'</verse>
       <verse osisID="Num.6.27">So they will put my name on the Israelites, and I will bless them."</verse>
-      <chapter eID="Num.6"/>
+      <chapter eID="Num.6" />
       
       <title type="main">Offerings and Journey Preparations</title>
       
-      <chapter osisID="Num.7" sID="Num.7"/>
+      <chapter osisID="Num.7" sID="Num.7" />
       <title type="sub">Offerings at the Dedication of the Tabernacle</title>
       <verse osisID="Num.7.1">When Moses finished setting up the tabernacle, he poured oil on it and set it apart for God along with all its furnishings. He also poured oil on the altar and set it apart for God and all its utensils.</verse>
       <verse osisID="Num.7.2">Then the leaders of Israel, the heads of families who were the tribal leaders in charge of those who were counted, made offerings.</verse>
@@ -387,9 +388,9 @@
       <verse osisID="Num.7.87">The total number of animals for the burnt offering came to twelve young bulls, twelve rams and twelve male lambs a year old, together with their grain offering. Twelve male goats were used for the wrongdoing offering.</verse>
       <verse osisID="Num.7.88">The total number of animals for the sacrifice of the fellowship offering came to twenty-four oxen, sixty rams, sixty male goats and sixty male lambs a year old. These were the offerings for the dedication of the altar after oil had been poured on it.</verse>
       <verse osisID="Num.7.89">When Moses entered the tent of meeting to speak with Yahweh, he heard the voice speaking to him from between the two cherubim above the covering for wrongs on the ark of the covenant law. In this way Yahweh spoke to him.</verse>
-      <chapter eID="Num.7"/>
+      <chapter eID="Num.7" />
       
-      <chapter osisID="Num.8" sID="Num.8"/>
+      <chapter osisID="Num.8" sID="Num.8" />
       <title type="sub">Setting Up the Lamps</title>
       <verse osisID="Num.8.1">Yahweh said to Moses,</verse>
       <verse osisID="Num.8.2">"Speak to Aaron and say to him, 'When you set up the lamps, see that all seven light up the area in front of the lampstand.'"</verse>
@@ -417,9 +418,9 @@
       <verse osisID="Num.8.24">"This applies to the Levites: Men twenty-five years old or more shall come to take part in the work at the tent of meeting,</verse>
       <verse osisID="Num.8.25">but at the age of fifty, they must retire from their regular service and work no longer.</verse>
       <verse osisID="Num.8.26">They may assist their brothers in performing their duties at the tent of meeting, but they themselves must not do the work. This, then, is how you are to assign the responsibilities of the Levites."</verse>
-      <chapter eID="Num.8"/>
+      <chapter eID="Num.8" />
       
-      <chapter osisID="Num.9" sID="Num.9"/>
+      <chapter osisID="Num.9" sID="Num.9" />
       <title type="sub">The Passover</title>
       <verse osisID="Num.9.1">Yahweh spoke to Moses in the Desert of Sinai in the first month of the second year after they came out of Egypt. He said,</verse>
       <verse osisID="Num.9.2">"Have the Israelites celebrate the Passover at the appointed time.</verse>
@@ -444,9 +445,9 @@
       <verse osisID="Num.9.21">Sometimes the cloud stayed only from evening till morning, and when it lifted in the morning, they set out. Whether by day or by night, whenever the cloud lifted, they set out.</verse>
       <verse osisID="Num.9.22">Whether the cloud stayed over the tabernacle for two days or a month or a year, the Israelites would remain in camp and not set out; but when it lifted, they would set out.</verse>
       <verse osisID="Num.9.23">At Yahweh's command they encamped, and at Yahweh's command they set out. They obeyed Yahweh's order, in accordance with his command through Moses.</verse>
-      <chapter eID="Num.9"/>
+      <chapter eID="Num.9" />
       
-      <chapter osisID="Num.10" sID="Num.10"/>
+      <chapter osisID="Num.10" sID="Num.10" />
       <title type="sub">The Silver Trumpets</title>
       <verse osisID="Num.10.1">Yahweh said to Moses:</verse>
       <verse osisID="Num.10.2">"Make two trumpets of hammered silver, and use them for calling the community together and for having the camps set out.</verse>
@@ -484,11 +485,11 @@
       <verse osisID="Num.10.34">The cloud of Yahweh was over them by day when they set out from the camp.</verse>
       <verse osisID="Num.10.35">Whenever the ark set out, Moses said, "Rise up, Yahweh! May your enemies be scattered; may your foes flee before you."</verse>
       <verse osisID="Num.10.36">Whenever it came to rest, he said, "Return, Yahweh, to the countless thousands of Israel."</verse>
-      <chapter eID="Num.10"/>
+      <chapter eID="Num.10" />
       
       <title type="main">Wilderness Complaints and Rebellions</title>
       
-      <chapter osisID="Num.11" sID="Num.11"/>
+      <chapter osisID="Num.11" sID="Num.11" />
       <title type="sub">Fire from Yahweh</title>
       <verse osisID="Num.11.1">Now the people complained about their hardships in the hearing of Yahweh, and when he heard them his anger was aroused. Then fire from Yahweh burned among them and consumed some of the outskirts of the camp.</verse>
       <verse osisID="Num.11.2">When the people cried out to Moses, he prayed to Yahweh and the fire died down.</verse>
@@ -525,9 +526,9 @@
       <verse osisID="Num.11.33">But while the meat was still between their teeth and before it could be consumed, the anger of Yahweh burned against the people, and he struck them with a severe plague.</verse>
       <verse osisID="Num.11.34">Therefore the place was named Kibroth Hattaavah, because there they buried the people who had craved other food.</verse>
       <verse osisID="Num.11.35">From Kibroth Hattaavah the people traveled to Hazeroth and stayed there.</verse>
-      <chapter eID="Num.11"/>
+      <chapter eID="Num.11" />
       
-      <chapter osisID="Num.12" sID="Num.12"/>
+      <chapter osisID="Num.12" sID="Num.12" />
       <title type="sub">Miriam and Aaron Oppose Moses</title>
       <verse osisID="Num.12.1">Miriam and Aaron began to talk against Moses because of his Cushite wife, for he had married a Cushite.</verse>
       <verse osisID="Num.12.2">"Has Yahweh spoken only through Moses?" they asked. "Hasn't he also spoken through us?" And Yahweh heard this.</verse>
@@ -545,9 +546,9 @@
       <verse osisID="Num.12.14">Yahweh replied to Moses, "If her father had spit in her face, would she not have been in disgrace for seven days? Confine her outside the camp for seven days; after that she can be brought back."</verse>
       <verse osisID="Num.12.15">So Miriam was confined outside the camp for seven days, and the people did not move on till she was brought back.</verse>
       <verse osisID="Num.12.16">After that, the people left Hazeroth and encamped in the Desert of Paran.</verse>
-      <chapter eID="Num.12"/>
+      <chapter eID="Num.12" />
       
-      <chapter osisID="Num.13" sID="Num.13"/>
+      <chapter osisID="Num.13" sID="Num.13" />
       <title type="sub">Exploring the Land</title>
       <verse osisID="Num.13.1">Yahweh said to Moses,</verse>
       <verse osisID="Num.13.2">"Send some men to explore the land of Canaan, which I am giving to the Israelites. From each ancestral tribe send one of its leaders."</verse>
@@ -582,9 +583,9 @@
       <verse osisID="Num.13.31">But the men who had gone up with him said, "We can't attack those people; they are stronger than we are."</verse>
       <verse osisID="Num.13.32">And they spread among the Israelites a bad report about the land they had explored. They said, "The land we explored devours those living in it. All the people we saw there are of great size.</verse>
       <verse osisID="Num.13.33">We saw the Nephilim there (the descendants of Anak come from the Nephilim). We seemed like grasshoppers in our own eyes, and we looked the same to them."</verse>
-      <chapter eID="Num.13"/>
+      <chapter eID="Num.13" />
       
-      <chapter osisID="Num.14" sID="Num.14"/>
+      <chapter osisID="Num.14" sID="Num.14" />
       <title type="sub">The People Rebel</title>
       <verse osisID="Num.14.1">That night all the members of the community raised their voices and wept aloud.</verse>
       <verse osisID="Num.14.2">All the Israelites grumbled against Moses and Aaron, and the whole assembly said to them, "If only we had died in Egypt! Or in this wilderness!</verse>
@@ -631,11 +632,11 @@
       <verse osisID="Num.14.43">for the Amalekites and the Canaanites will face you there. Because you have turned away from Yahweh, he will not be with you and you will fall by the sword."</verse>
       <verse osisID="Num.14.44">Nevertheless, in their presumption they went up toward the highest point in the hill country, though neither Moses nor the ark of Yahweh's covenant moved from the camp.</verse>
       <verse osisID="Num.14.45">Then the Amalekites and the Canaanites who lived in that hill country came down and attacked them and beat them down all the way to Hormah.</verse>
-      <chapter eID="Num.14"/>
+      <chapter eID="Num.14" />
       
       <title type="main">Additional Laws and Regulations</title>
       
-      <chapter osisID="Num.15" sID="Num.15"/>
+      <chapter osisID="Num.15" sID="Num.15" />
       <title type="sub">Supplementary Offerings</title>
       <verse osisID="Num.15.1">Yahweh said to Moses,</verse>
       <verse osisID="Num.15.2">"Speak to the Israelites and say to them: 'After you enter the land I am giving you as a home</verse>
@@ -678,9 +679,9 @@
       <verse osisID="Num.15.39">You will have these tassels to look at and so you will remember all the commands of Yahweh, that you may obey them and not prostitute yourselves by chasing after the lusts of your own hearts and eyes.</verse>
       <verse osisID="Num.15.40">Then you will remember to obey all my commands and will be consecrated to your God.</verse>
       <verse osisID="Num.15.41">I am Yahweh your God, who brought you out of Egypt to be your God. I am Yahweh your God.'"</verse>
-      <chapter eID="Num.15"/>
+      <chapter eID="Num.15" />
       
-      <chapter osisID="Num.16" sID="Num.16"/>
+      <chapter osisID="Num.16" sID="Num.16" />
       <title type="sub">Korah, Dathan and Abiram</title>
       <verse osisID="Num.16.1">Korah son of Izhar, the son of Kohath, the son of Levi, and certain Reubenites—Dathan and Abiram, sons of Eliab, and On son of Peleth—became insolent</verse>
       <verse osisID="Num.16.2">and rose up against Moses. With them were 250 Israelite men, well-known community leaders who had been appointed members of the council.</verse>
@@ -732,9 +733,9 @@
       <verse osisID="Num.16.48">He stood between the living and the dead, and the plague stopped.</verse>
       <verse osisID="Num.16.49">But 14,700 people died from the plague, in addition to those who had died because of Korah.</verse>
       <verse osisID="Num.16.50">Then Aaron returned to Moses at the entrance to the tent of meeting, for the plague had stopped.</verse>
-      <chapter eID="Num.16"/>
+      <chapter eID="Num.16" />
       
-      <chapter osisID="Num.17" sID="Num.17"/>
+      <chapter osisID="Num.17" sID="Num.17" />
       <title type="sub">The Budding of Aaron's Staff</title>
       <verse osisID="Num.17.1">Yahweh said to Moses,</verse>
       <verse osisID="Num.17.2">"Speak to the Israelites and get twelve staffs from them, one from the leader of each of their ancestral tribes. Write the name of each man on his staff.</verse>
@@ -749,9 +750,9 @@
       <verse osisID="Num.17.11">Moses did just as Yahweh commanded him.</verse>
       <verse osisID="Num.17.12">The Israelites said to Moses, "We will die! We are lost, we are all lost!</verse>
       <verse osisID="Num.17.13">Anyone who even comes near the tabernacle of Yahweh will die. Are we all going to die?"</verse>
-      <chapter eID="Num.17"/>
+      <chapter eID="Num.17" />
       
-      <chapter osisID="Num.18" sID="Num.18"/>
+      <chapter osisID="Num.18" sID="Num.18" />
       <title type="sub">Duties of Priests and Levites</title>
       <verse osisID="Num.18.1">Yahweh said to Aaron, "You, your sons and your family are to bear the responsibility for offenses connected with the sanctuary, and you and your sons alone are to bear the responsibility for offenses connected with the priesthood.</verse>
       <verse osisID="Num.18.2">Bring your fellow Levites from your ancestral tribe to join you and assist you when you and your sons minister before the tent of the covenant law.</verse>
@@ -785,11 +786,11 @@
       <verse osisID="Num.18.30">Say to the Levites: 'When you present the best part, it will be reckoned to you as the product of the threshing floor or the winepress.</verse>
       <verse osisID="Num.18.31">You and your households may eat the rest of it anywhere, for it is your wages for your work at the tent of meeting.</verse>
       <verse osisID="Num.18.32">By presenting the best part of it you will not be guilty in this matter; then you will not defile the set apart offerings of the Israelites, and you will not die.'"</verse>
-      <chapter eID="Num.18"/>
+      <chapter eID="Num.18" />
       
       <title type="main">Purification and Final Wilderness Events</title>
       
-      <chapter osisID="Num.19" sID="Num.19"/>
+      <chapter osisID="Num.19" sID="Num.19" />
       <title type="sub">The Water of Cleansing</title>
       <verse osisID="Num.19.1">Yahweh said to Moses and Aaron:</verse>
       <verse osisID="Num.19.2">"This is a requirement of the law that Yahweh has commanded: Tell the Israelites to bring you a red heifer without defect or blemish and that has never been under a yoke.</verse>
@@ -813,9 +814,9 @@
       <verse osisID="Num.19.20">But if those who are unclean do not purify themselves, they must be cut off from the community, because they have defiled the sanctuary of Yahweh. The water of cleansing has not been sprinkled on them, and they are unclean.</verse>
       <verse osisID="Num.19.21">This is a lasting ordinance for them. The man who sprinkles the water of cleansing must also wash his clothes, and anyone who touches the water of cleansing will be unclean till evening.</verse>
       <verse osisID="Num.19.22">Anything that an unclean person touches becomes unclean, and anyone who touches it becomes unclean till evening."</verse>
-      <chapter eID="Num.19"/>
+      <chapter eID="Num.19" />
       
-      <chapter osisID="Num.20" sID="Num.20"/>
+      <chapter osisID="Num.20" sID="Num.20" />
       <title type="sub">Water from the Rock</title>
       <verse osisID="Num.20.1">In the first month the whole Israelite community arrived at the Desert of Zin, and they stayed at Kadesh. There Miriam died and was buried.</verse>
       <verse osisID="Num.20.2">Now there was no water for the community, and the people gathered in opposition to Moses and Aaron.</verse>
@@ -846,9 +847,9 @@
       <verse osisID="Num.20.27">Moses did as Yahweh commanded: They went up Mount Hor in the sight of the whole community.</verse>
       <verse osisID="Num.20.28">Moses removed Aaron's garments and put them on his son Eleazar. And Aaron died there on top of the mountain. Then Moses and Eleazar came down from the mountain,</verse>
       <verse osisID="Num.20.29">and when the whole community learned that Aaron had died, they mourned for him thirty days.</verse>
-      <chapter eID="Num.20"/>
+      <chapter eID="Num.20" />
       
-      <chapter osisID="Num.21" sID="Num.21"/>
+      <chapter osisID="Num.21" sID="Num.21" />
       <title type="sub">Arad Destroyed</title>
       <verse osisID="Num.21.1">When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming along the road to Atharim, he attacked the Israelites and captured some of them.</verse>
       <verse osisID="Num.21.2">Then Israel made this vow to Yahweh: "If you will deliver these people into our hands, we will totally destroy their cities."</verse>
@@ -885,10 +886,10 @@
       <verse osisID="Num.21.33">Then they turned and went up along the road toward Bashan, and Og king of Bashan and his whole army marched out to meet them in battle at Edrei.</verse>
       <verse osisID="Num.21.34">Yahweh said to Moses, "Do not be afraid of him, for I have delivered him into your hands, along with his whole army and his land. Do to him what you did to Sihon king of the Amorites, who reigned in Heshbon."</verse>
       <verse osisID="Num.21.35">So they struck him down, together with his sons and his whole army, leaving them no survivors. And they took possession of his land.</verse>
-      <chapter eID="Num.21"/>
+      <chapter eID="Num.21" />
 
       <title type="sub">Balaam and Balak</title>
-      <chapter osisID="Num.22" sID="Num.22"/>
+      <chapter osisID="Num.22" sID="Num.22" />
       <verse osisID="Num.22.1">Then the Israelites traveled to the plains of Moab and camped along the Jordan across from Jericho.</verse>
       <verse osisID="Num.22.2">Now Balak son of Zippor saw all that Israel had done to the Amorites.</verse>
       <verse osisID="Num.22.3">And Moab was terrified because there were so many people. Indeed, Moab was filled with dread because of the Israelites.</verse>
@@ -930,9 +931,9 @@
       <verse osisID="Num.22.39">Then Balaam went with Balak to Kiriath Huzoth.</verse>
       <verse osisID="Num.22.40">Balak sacrificed cattle and sheep, and gave some to Balaam and the officials who were with him.</verse>
       <verse osisID="Num.22.41">The next morning Balak took Balaam up to Bamoth Baal, and from there he could see the outskirts of the Israelite camp.</verse>
-      <chapter eID="Num.22"/>
+      <chapter eID="Num.22" />
 
-      <chapter osisID="Num.23" sID="Num.23"/>
+      <chapter osisID="Num.23" sID="Num.23" />
       <verse osisID="Num.23.1">Balaam said, "Build me seven altars here, and prepare seven bulls and seven rams for me."</verse>
       <verse osisID="Num.23.2">Balak did as Balaam said, and the two of them offered a bull and a ram on each altar.</verse>
       <verse osisID="Num.23.3">Then Balaam said to Balak, "Stay here beside your burnt offering while I go aside. Perhaps Yahweh will come to meet with me. Whatever he reveals to me I will tell you." Then he went off to a barren height.</verse>
@@ -963,9 +964,9 @@
       <verse osisID="Num.23.28">And Balak took Balaam to the top of Peor, overlooking the wasteland.</verse>
       <verse osisID="Num.23.29">Balaam said, "Build me seven altars here, and prepare seven bulls and seven rams for me."</verse>
       <verse osisID="Num.23.30">Balak did as Balaam had said, and offered a bull and a ram on each altar.</verse>
-      <chapter eID="Num.23"/>
+      <chapter eID="Num.23" />
 
-      <chapter osisID="Num.24" sID="Num.24"/>
+      <chapter osisID="Num.24" sID="Num.24" />
       <verse osisID="Num.24.1">Now when Balaam saw that it pleased Yahweh to bless Israel, he did not resort to divination as at other times, but turned his face toward the wilderness.</verse>
       <verse osisID="Num.24.2">When Balaam looked out and saw Israel encamped tribe by tribe, the Spirit of God came on him</verse>
       <verse osisID="Num.24.3">and he spoke his message: "The prophecy of Balaam son of Beor, the prophecy of one whose eye sees clearly,</verse>
@@ -991,10 +992,10 @@
       <verse osisID="Num.24.23">Then he spoke his message: "Alas, who can live when God does this?</verse>
       <verse osisID="Num.24.24">Ships will come from the shores of Cyprus; they will subdue Ashur and Eber, but they too will come to ruin."</verse>
       <verse osisID="Num.24.25">Then Balaam got up and returned home, and Balak went his own way.</verse>
-      <chapter eID="Num.24"/>
+      <chapter eID="Num.24" />
 
       <title type="sub">Israel's Sin at Peor</title>
-      <chapter osisID="Num.25" sID="Num.25"/>
+      <chapter osisID="Num.25" sID="Num.25" />
       <verse osisID="Num.25.1">While Israel was staying in Shittim, the men began to indulge in sexual immorality with Moabite women,</verse>
       <verse osisID="Num.25.2">who invited them to the sacrifices to their gods. The people ate the sacrificial meal and bowed down before these gods.</verse>
       <verse osisID="Num.25.3">So Israel yoked themselves to the Baal of Peor. And Yahweh's anger burned against them.</verse>
@@ -1013,10 +1014,10 @@
       <verse osisID="Num.25.16">Yahweh said to Moses,</verse>
       <verse osisID="Num.25.17">"Treat the Midianites as enemies and kill them.</verse>
       <verse osisID="Num.25.18">They treated you as enemies when they deceived you in the Peor incident involving their sister Kozbi, the daughter of a Midianite leader, the woman who was killed when the plague came as a result of that incident."</verse>
-      <chapter eID="Num.25"/>
+      <chapter eID="Num.25" />
 
       <title type="sub">The Second Census</title>
-      <chapter osisID="Num.26" sID="Num.26"/>
+      <chapter osisID="Num.26" sID="Num.26" />
       <verse osisID="Num.26.1">After the plague Yahweh said to Moses and Eleazar son of Aaron, the priest,</verse>
       <verse osisID="Num.26.2">"Take a census of the whole Israelite community by families—all those twenty years old or more who are able to serve in the army of Israel."</verse>
       <verse osisID="Num.26.3">So on the plains of Moab by the Jordan across from Jericho, Moses and Eleazar the priest spoke with them and said,</verse>
@@ -1082,10 +1083,10 @@
       <verse osisID="Num.26.63">These are the ones counted by Moses and Eleazar the priest when they counted the Israelites on the plains of Moab by the Jordan across from Jericho.</verse>
       <verse osisID="Num.26.64">Not one of them was among those counted by Moses and Aaron the priest when they counted the Israelites in the Desert of Sinai.</verse>
       <verse osisID="Num.26.65">For Yahweh had told those Israelites they would surely die in the wilderness, and not one of them was left except Caleb son of Jephunneh and Joshua son of Nun.</verse>
-      <chapter eID="Num.26"/>
+      <chapter eID="Num.26" />
 
       <title type="sub">Zelophehad's Daughters and Inheritance Laws</title>
-      <chapter osisID="Num.27" sID="Num.27"/>
+      <chapter osisID="Num.27" sID="Num.27" />
       <verse osisID="Num.27.1">The daughters of Zelophehad son of Hepher, the son of Gilead, the son of Makir, the son of Manasseh, belonged to the clans of Manasseh son of Joseph. The names of the daughters were Mahlah, Noah, Hoglah, Milkah and Tirzah. They came forward</verse>
       <verse osisID="Num.27.2">and stood before Moses, Eleazar the priest, the leaders and the whole assembly at the entrance to the tent of meeting and said,</verse>
       <verse osisID="Num.27.3">"Our father died in the wilderness. He was not among Korah's followers, who banded together against Yahweh, but he died for his own wrongdoing and left no sons.</verse>
@@ -1109,10 +1110,10 @@
       <verse osisID="Num.27.21">He is to stand before Eleazar the priest, who will obtain decisions for him by inquiring of the Urim before Yahweh. At his command he and the entire community of the Israelites will go out, and at his command they will come in."</verse>
       <verse osisID="Num.27.22">Moses did as Yahweh commanded him. He took Joshua and had him stand before Eleazar the priest and the whole assembly.</verse>
       <verse osisID="Num.27.23">Then he laid his hands on him and commissioned him, as Yahweh instructed through Moses.</verse>
-      <chapter eID="Num.27"/>
+      <chapter eID="Num.27" />
 
       <title type="sub">Daily Offerings</title>
-      <chapter osisID="Num.28" sID="Num.28"/>
+      <chapter osisID="Num.28" sID="Num.28" />
       <verse osisID="Num.28.1">Yahweh said to Moses,</verse>
       <verse osisID="Num.28.2">"Give this command to the Israelites and say to them: 'Make sure that you present to me at the appointed time my food offering, as an aroma pleasing to me.'</verse>
       <verse osisID="Num.28.3">Say to them: 'This is the food offering you are to present to Yahweh: two lambs a year old without defect, as a regular burnt offering each day.</verse>
@@ -1144,10 +1145,10 @@
       <verse osisID="Num.28.29">and with each of the seven lambs, one-tenth.</verse>
       <verse osisID="Num.28.30">Include one male goat to make things right for you.</verse>
       <verse osisID="Num.28.31">Offer these together with their drink offerings, in addition to the regular burnt offering and its grain offering. Be sure the animals are without defect.</verse>
-      <chapter eID="Num.28"/>
+      <chapter eID="Num.28" />
 
       <title type="sub">Offerings for Festivals</title>
-      <chapter osisID="Num.29" sID="Num.29"/>
+      <chapter osisID="Num.29" sID="Num.29" />
       <verse osisID="Num.29.1">On the first day of the seventh month hold a sacred assembly and do no regular work. It is a day for you to sound the trumpets.</verse>
       <verse osisID="Num.29.2">As an aroma pleasing to Yahweh, offer a burnt offering of one young bull, one ram and seven male lambs a year old, all without defect.</verse>
       <verse osisID="Num.29.3">With the bull offer a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with the ram, two-tenths;</verse>
@@ -1188,10 +1189,10 @@
       <verse osisID="Num.29.38">Include one male goat as a wrongdoing offering, in addition to the regular burnt offering with its grain offering and drink offering.</verse>
       <verse osisID="Num.29.39">In addition to what you vow and your freewill offerings, offer these to Yahweh at your appointed festivals: your burnt offerings, grain offerings, drink offerings and fellowship offerings.'"</verse>
       <verse osisID="Num.29.40">Moses told the Israelites all that Yahweh commanded him.</verse>
-      <chapter eID="Num.29"/>
+      <chapter eID="Num.29" />
 
       <title type="sub">Vows</title>
-      <chapter osisID="Num.30" sID="Num.30"/>
+      <chapter osisID="Num.30" sID="Num.30" />
       <verse osisID="Num.30.1">Moses said to the heads of the tribes of Israel: "This is what Yahweh commands:</verse>
       <verse osisID="Num.30.2">When a man makes a vow to Yahweh or takes an oath to obligate himself by a pledge, he must not break his word but must do everything he said.</verse>
       <verse osisID="Num.30.3">When a young woman still living in her father's household makes a vow to Yahweh or obligates herself by a pledge</verse>
@@ -1208,10 +1209,10 @@
       <verse osisID="Num.30.14">But if her husband says nothing to her about it from day to day, then he confirms all her vows or the pledges binding on her. He confirms them by saying nothing to her when he hears about them.</verse>
       <verse osisID="Num.30.15">If, however, he nullifies them some time after he hears about them, then he must bear the consequences of her wrongdoing."</verse>
       <verse osisID="Num.30.16">These are the regulations Yahweh gave Moses concerning relationships between a man and his wife, and between a father and his young daughter still living at home.</verse>
-      <chapter eID="Num.30"/>
+      <chapter eID="Num.30" />
 
       <title type="sub">Vengeance on the Midianites</title>
-      <chapter osisID="Num.31" sID="Num.31"/>
+      <chapter osisID="Num.31" sID="Num.31" />
       <verse osisID="Num.31.1">Yahweh said to Moses,</verse>
       <verse osisID="Num.31.2">"Take vengeance on the Midianites for the Israelites. After that, you will be gathered to your people."</verse>
       <verse osisID="Num.31.3">So Moses said to the people, "Arm some of your men to go to war against the Midianites so that they may carry out Yahweh's vengeance on them.</verse>
@@ -1266,10 +1267,10 @@
       <verse osisID="Num.31.52">All the gold from the commanders of thousands and commanders of hundreds that Moses and Eleazar presented as a gift to Yahweh weighed 16,750 shekels.</verse>
       <verse osisID="Num.31.53">Each soldier had taken plunder for himself.</verse>
       <verse osisID="Num.31.54">Moses and Eleazar the priest accepted the gold from the commanders of thousands and hundreds and brought it into the tent of meeting as a memorial for the Israelites before Yahweh.</verse>
-      <chapter eID="Num.31"/>
+      <chapter eID="Num.31" />
 
       <title type="sub">The Transjordan Tribes</title>
-      <chapter osisID="Num.32" sID="Num.32"/>
+      <chapter osisID="Num.32" sID="Num.32" />
       <verse osisID="Num.32.1">The Reubenites and Gadites, who had very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock.</verse>
       <verse osisID="Num.32.2">So they came to Moses and Eleazar the priest and to the leaders of the community, and said,</verse>
       <verse osisID="Num.32.3">"Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo and Beon—</verse>
@@ -1312,10 +1313,10 @@
       <verse osisID="Num.32.40">So Moses gave Gilead to the Makirites, the descendants of Manasseh, and they settled there.</verse>
       <verse osisID="Num.32.41">Jair, a descendant of Manasseh, went and captured their settlements and called them Havvoth Jair.</verse>
       <verse osisID="Num.32.42">And Nobah went and captured Kenath and its surrounding settlements and called it Nobah after himself.</verse>
-      <chapter eID="Num.32"/>
+      <chapter eID="Num.32" />
 
       <title type="sub">Stages in Israel's Journey</title>
-      <chapter osisID="Num.33" sID="Num.33"/>
+      <chapter osisID="Num.33" sID="Num.33" />
       <verse osisID="Num.33.1">Here are the stages in the journey of the Israelites when they came out of Egypt by divisions under the leadership of Moses and Aaron.</verse>
       <verse osisID="Num.33.2">At Yahweh's command Moses recorded the stages in their journey. This is their journey by stages:</verse>
       <verse osisID="Num.33.3">The Israelites set out from Rameses on the fifteenth day of the first month, the day after the Passover. They marched out defiantly in full view of all the Egyptians,</verse>
@@ -1372,10 +1373,10 @@
       <verse osisID="Num.33.54">Distribute the land by lot, according to your clans. To a larger group give a larger inheritance, and to a smaller group a smaller one. Whatever falls to them by lot will be theirs. Distribute it according to your ancestral tribes.</verse>
       <verse osisID="Num.33.55">But if you do not drive out the inhabitants of the land, those you allow to remain will become barbs in your eyes and thorns in your sides. They will give you trouble in the land where you will live.</verse>
       <verse osisID="Num.33.56">And then I will do to you what I plan to do to them.'"</verse>
-      <chapter eID="Num.33"/>
+      <chapter eID="Num.33" />
 
       <title type="sub">Boundaries of Canaan</title>
-      <chapter osisID="Num.34" sID="Num.34"/>
+      <chapter osisID="Num.34" sID="Num.34" />
       <verse osisID="Num.34.1">Yahweh said to Moses,</verse>
       <verse osisID="Num.34.2">"Command the Israelites and say to them: 'When you enter Canaan, the land that will be allotted to you as an inheritance is Canaan with these boundaries:</verse>
       <verse osisID="Num.34.3">Your southern side will include some of the Desert of Zin along the border of Edom. Your southern boundary will start in the east from the southern end of the Dead Sea,</verse>
@@ -1405,9 +1406,9 @@
       <verse osisID="Num.34.27">Ahihud son of Shelomi, the leader from the tribe of Asher;</verse>
       <verse osisID="Num.34.28">Pedahel son of Ammihud, the leader from the tribe of Naphtali."</verse>
       <verse osisID="Num.34.29">These are the men Yahweh commanded to assign the inheritance to the Israelites in Canaan.</verse>
-      <chapter eID="Num.34"/>
+      <chapter eID="Num.34" />
 
-      <chapter osisID="Num.35" sID="Num.35"/>
+      <chapter osisID="Num.35" sID="Num.35" />
       <title type="sub">Towns for the Levites</title>
       <verse osisID="Num.35.1">On the plains of Moab by the Jordan across from Jericho, Yahweh said to Moses,</verse>
       <verse osisID="Num.35.2">"Command the Israelites to give the Levites towns to live in from the inheritance the Israelites will possess. And give them pasturelands around the towns.</verse>
@@ -1443,9 +1444,9 @@
       <verse osisID="Num.35.32">Do not accept a ransom for anyone who has fled to a city of refuge and so allow them to go back and live on their own land before the death of the high priest.</verse>
       <verse osisID="Num.35.33">Do not pollute the land where you are. Bloodshed pollutes the land, and things cannot be made right for the land on which blood has been shed, except by the blood of the one who shed it.</verse>
       <verse osisID="Num.35.34">Do not defile the land where you live and where I dwell, for I, Yahweh, dwell among the Israelites.'"</verse>
-      <chapter eID="Num.35"/>
+      <chapter eID="Num.35" />
 
-      <chapter osisID="Num.36" sID="Num.36"/>
+      <chapter osisID="Num.36" sID="Num.36" />
       <title type="sub">Inheritance of Zelophehad's Daughters</title>
       <verse osisID="Num.36.1">The family heads of the clan of Gilead son of Makir, the son of Manasseh, who were from the clans of the descendants of Joseph, came and spoke before Moses and the leaders, the heads of the Israelite families.</verse>
       <verse osisID="Num.36.2">They said, "When Yahweh commanded my lord to give the land as an inheritance to the Israelites by lot, he ordered you to give the inheritance of our brother Zelophehad to his daughters.</verse>
@@ -1460,7 +1461,7 @@
       <verse osisID="Num.36.11">Zelophehad's daughters—Mahlah, Tirzah, Hoglah, Milkah and Noah—married their cousins on their father's side.</verse>
       <verse osisID="Num.36.12">They married within the clans of the descendants of Manasseh son of Joseph, and their inheritance remained in their father's tribe and clan.</verse>
       <verse osisID="Num.36.13">These are the commands and regulations Yahweh gave through Moses to the Israelites on the plains of Moab by the Jordan across from Jericho.</verse>
-      <chapter eID="Num.36"/>
+      <chapter eID="Num.36" />
     </div>
   </osisText>
 </osis>

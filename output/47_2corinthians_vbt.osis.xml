@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="2Cor" canonical="true">
@@ -18,7 +19,7 @@
         <p>Paul wrote this deeply personal letter to defend his apostolic authority and address ongoing problems in the Corinthian church. The apostle shares his struggles, weaknesses, and sufferings to demonstrate that God's power is made perfect in human weakness. Second Corinthians contains some of Paul's most intimate reflections on ministry, including his experience of being caught up to paradise and his famous "thorn in the flesh" that kept him humble.</p>
       </div>
       
-      <chapter osisID="2Cor.1" sID="2Cor.1"/>
+      <chapter osisID="2Cor.1" sID="2Cor.1" />
       <title type="main">Paul's Greeting and God's Comfort</title>
       
       <verse osisID="2Cor.1.1">Paul, an apostle of Christ Jesus by God's will, and Timothy our brother, to God's church in Corinth, along with all the people set apart for God throughout Achaia:</verse>
@@ -76,9 +77,9 @@
       <verse osisID="2Cor.1.23">I call God as my witness—and I stake my life on it—that it was in order to spare you that I did not return to Corinth.</verse>
       
       <verse osisID="2Cor.1.24">Not that we lord it over your faith, but we work with you for your joy, because it is by faith you stand firm.</verse>
-      <chapter eID="2Cor.1"/>
+      <chapter eID="2Cor.1" />
 
-      <chapter osisID="2Cor.2" sID="2Cor.2"/>
+      <chapter osisID="2Cor.2" sID="2Cor.2" />
       <verse osisID="2Cor.2.1">So I made up my mind that I would not make another painful visit to you.</verse>
       
       <verse osisID="2Cor.2.2">For if I grieve you, who is left to make me glad but you whom I have grieved?</verse>
@@ -116,9 +117,9 @@
       <verse osisID="2Cor.2.16">To the one we are an aroma that brings death; to the other, an aroma that brings life. And who is equal to such a task?</verse>
       
       <verse osisID="2Cor.2.17">Unlike so many, we do not peddle the word of God for profit. On the contrary, in Christ we speak before God with sincerity, as those sent from God.</verse>
-      <chapter eID="2Cor.2"/>
+      <chapter eID="2Cor.2" />
 
-      <chapter osisID="2Cor.3" sID="2Cor.3"/>
+      <chapter osisID="2Cor.3" sID="2Cor.3" />
       <verse osisID="2Cor.3.1">Are we beginning to commend ourselves again? Or do we need, like some people, letters of recommendation to you or from you?</verse>
       
       <verse osisID="2Cor.3.2">You yourselves are our letter, written on our hearts, known and read by everyone.</verse>
@@ -156,9 +157,9 @@
       <verse osisID="2Cor.3.17">Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.</verse>
       
       <verse osisID="2Cor.3.18">And we all, who with unveiled faces contemplate the Lord's glory, are being transformed into his image with ever-increasing glory, which comes from the Lord, who is the Spirit.</verse>
-      <chapter eID="2Cor.3"/>
+      <chapter eID="2Cor.3" />
 
-      <chapter osisID="2Cor.4" sID="2Cor.4"/>
+      <chapter osisID="2Cor.4" sID="2Cor.4" />
       <title type="main">Present Weakness and Resurrection Life</title>
       
       <verse osisID="2Cor.4.1">Therefore, since through God's mercy we have this ministry, we do not lose heart.</verse>
@@ -198,9 +199,9 @@
       <verse osisID="2Cor.4.17">For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all.</verse>
       
       <verse osisID="2Cor.4.18">So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.</verse>
-      <chapter eID="2Cor.4"/>
+      <chapter eID="2Cor.4" />
 
-      <chapter osisID="2Cor.5" sID="2Cor.5"/>
+      <chapter osisID="2Cor.5" sID="2Cor.5" />
       <title type="sub">Awaiting the New Body</title>
       
       <verse osisID="2Cor.5.1">For we know that if the earthly tent we live in is destroyed, we have a building from God, an eternal house in heaven, not built by human hands.</verse>
@@ -246,9 +247,9 @@
       <verse osisID="2Cor.5.20">We are therefore Christ's ambassadors, as though God were making his appeal through us. We implore you on Christ's behalf: Be reconciled to God.</verse>
       
       <verse osisID="2Cor.5.21">God made him who had no sin to be sin for us, so that in him we might become the right-standing with God.</verse>
-      <chapter eID="2Cor.5"/>
+      <chapter eID="2Cor.5" />
 
-      <chapter osisID="2Cor.6" sID="2Cor.6"/>
+      <chapter osisID="2Cor.6" sID="2Cor.6" />
       <verse osisID="2Cor.6.1">As God's co-workers we urge you not to receive God's grace in vain.</verse>
       
       <verse osisID="2Cor.6.2">For he says, "In the time of my favor I heard you, and in the day of salvation I helped you." I tell you, now is the time of God's favor, now is the day of salvation.</verse>
@@ -288,9 +289,9 @@
       <verse osisID="2Cor.6.17">Therefore, "Come out from them and be separate, says the Lord. Touch no unclean thing, and I will receive you."</verse>
       
       <verse osisID="2Cor.6.18">"And I will be a Father to you, and you will be my sons and daughters, says the Lord Almighty."</verse>
-      <chapter eID="2Cor.6"/>
+      <chapter eID="2Cor.6" />
 
-      <chapter osisID="2Cor.7" sID="2Cor.7"/>
+      <chapter osisID="2Cor.7" sID="2Cor.7" />
       <verse osisID="2Cor.7.1">Therefore, since we have these promises, dear friends, let us purify ourselves from everything that contaminates body and spirit, perfecting our set-apart life out of reverence for God.</verse>
       
       <title type="sub">Paul's Joy Over the Church's Repentance</title>
@@ -324,9 +325,9 @@
       <verse osisID="2Cor.7.15">And his affection for you is all the greater when he remembers that you were all obedient, receiving him with fear and trembling.</verse>
       
       <verse osisID="2Cor.7.16">I am glad I can have complete confidence in you.</verse>
-      <chapter eID="2Cor.7"/>
+      <chapter eID="2Cor.7" />
 
-      <chapter osisID="2Cor.8" sID="2Cor.8"/>
+      <chapter osisID="2Cor.8" sID="2Cor.8" />
       <title type="main">The Collection for the Jerusalem Church</title>
       
       <verse osisID="2Cor.8.1">And now, brothers and sisters, we want you to know about the grace that God has given the Macedonian churches.</verse>
@@ -378,9 +379,9 @@
       <verse osisID="2Cor.8.23">As for Titus, he is my partner and co-worker among you; as for our brothers, they are representatives of the churches and an honor to Christ.</verse>
       
       <verse osisID="2Cor.8.24">Therefore show these men the proof of your love and the reason for our pride in you, so that the churches can see it.</verse>
-      <chapter eID="2Cor.8"/>
+      <chapter eID="2Cor.8" />
 
-      <chapter osisID="2Cor.9" sID="2Cor.9"/>
+      <chapter osisID="2Cor.9" sID="2Cor.9" />
       <verse osisID="2Cor.9.1">There is no need for me to write to you about this service to the Lord's people.</verse>
       
       <verse osisID="2Cor.9.2">For I know your eagerness to help, and I have been boasting about it to the Macedonians, telling them that since last year you in Achaia were ready to give; and your enthusiasm has stirred most of them to action.</verse>
@@ -412,9 +413,9 @@
       <verse osisID="2Cor.9.14">And in their prayers for you their hearts will go out to you, because of the surpassing grace God has given you.</verse>
       
       <verse osisID="2Cor.9.15">Thanks be to God for his indescribable gift!</verse>
-      <chapter eID="2Cor.9"/>
+      <chapter eID="2Cor.9" />
 
-      <chapter osisID="2Cor.10" sID="2Cor.10"/>
+      <chapter osisID="2Cor.10" sID="2Cor.10" />
       <title type="main">Paul Defends His Ministry</title>
       
       <verse osisID="2Cor.10.1">By the humility and gentleness of Christ, I appeal to you—I, Paul, who am "timid" when face to face with you, but "bold" toward you when away!</verse>
@@ -452,9 +453,9 @@
       <verse osisID="2Cor.10.17">But, "Let the one who boasts boast in the Lord."</verse>
       
       <verse osisID="2Cor.10.18">For it is not the one who commends himself who is approved, but the one whom the Lord commends.</verse>
-      <chapter eID="2Cor.10"/>
+      <chapter eID="2Cor.10" />
 
-      <chapter osisID="2Cor.11" sID="2Cor.11"/>
+      <chapter osisID="2Cor.11" sID="2Cor.11" />
       <title type="sub">Paul and the False Apostles</title>
       
       <verse osisID="2Cor.11.1">I hope you will put up with me in a little foolishness. Yes, please put up with me!</verse>
@@ -524,9 +525,9 @@
       <verse osisID="2Cor.11.32">In Damascus the governor under King Aretas had the city of the Damascenes guarded in order to arrest me.</verse>
       
       <verse osisID="2Cor.11.33">But I was lowered in a basket from a window in the wall and slipped through his hands.</verse>
-      <chapter eID="2Cor.11"/>
+      <chapter eID="2Cor.11" />
 
-      <chapter osisID="2Cor.12" sID="2Cor.12"/>
+      <chapter osisID="2Cor.12" sID="2Cor.12" />
       <title type="sub">Paul's Vision and His Thorn</title>
       
       <verse osisID="2Cor.12.1">I must go on boasting. Although there is nothing to be gained, I will go on to visions and revelations from the Lord.</verse>
@@ -572,9 +573,9 @@
       <verse osisID="2Cor.12.20">For I am afraid that when I come I may not find you as I want you to be, and you may not find me as you want me to be. I fear that there may be discord, jealousy, fits of rage, selfish ambition, slander, gossip, arrogance and disorder.</verse>
       
       <verse osisID="2Cor.12.21">I am afraid that when I come again my God will humble me before you, and I will be grieved over many who have sinned earlier and have not changed their minds about the impurity, sex outside marriage and debauchery in which they have indulged.</verse>
-      <chapter eID="2Cor.12"/>
+      <chapter eID="2Cor.12" />
 
-      <chapter osisID="2Cor.13" sID="2Cor.13"/>
+      <chapter osisID="2Cor.13" sID="2Cor.13" />
       <title type="sub">Final Warnings</title>
       
       <verse osisID="2Cor.13.1">This will be my third visit to you. "Every matter must be established by the testimony of two or three witnesses."</verse>
@@ -604,7 +605,7 @@
       <verse osisID="2Cor.13.12">Greet one another with a pure kiss.</verse>
       
       <verse osisID="2Cor.13.13">All God's people here send their greetings. The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Spirit that is set apart for God be with you all.</verse>
-      <chapter eID="2Cor.13"/>
+      <chapter eID="2Cor.13" />
     </div>
   </osisText>
 </osis>

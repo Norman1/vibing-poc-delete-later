@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
@@ -7,10 +7,14 @@
         <p>Plain Meaning Bible - Ezra</p>
       </revisionDesc>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="Ezra" canonical="true">
@@ -18,7 +22,7 @@
       <div type="introduction">
         <p>Ezra records the return of Jewish exiles from Babylon and the rebuilding of the temple in Jerusalem. The book shows God's faithfulness in bringing his people back to the Promised Land and the importance of obedience to his Word. Ezra the priest led spiritual renewal by teaching the Law and calling the people to separate themselves from practices that compromised their devotion to God.</p>
       </div>
-      <chapter osisID="Ezra.1" sID="Ezra.1"/>
+      <chapter osisID="Ezra.1" sID="Ezra.1" />
       <verse osisID="Ezra.1.1">In the first year of Cyrus king of Persia, in order to fulfill the word of <divineName>Yahweh</divineName> spoken by Jeremiah, <divineName>Yahweh</divineName> stirred up the spirit of Cyrus king of Persia to make a proclamation throughout all his kingdom, and also in writing:</verse>
       <verse osisID="Ezra.1.2">"This is what Cyrus king of Persia says: <divineName>Yahweh</divineName>, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah.</verse>
       <verse osisID="Ezra.1.3">Any of his people among you may go up to Jerusalem in Judah and build the temple of <divineName>Yahweh</divineName>, the God of Israel, the God who is in Jerusalem. And may their God be with them.</verse>
@@ -30,8 +34,8 @@
       <verse osisID="Ezra.1.9">This was the inventory: gold dishes, 30; silver dishes, 1,000; silver pans, 29;</verse>
       <verse osisID="Ezra.1.10">gold bowls, 30; silver bowls of a second kind, 410; and other articles, 1,000.</verse>
       <verse osisID="Ezra.1.11">In all, there were 5,400 articles of gold and of silver. Sheshbazzar brought all these along with the exiles when they came up from Babylon to Jerusalem.</verse>
-      <chapter eID="Ezra.1"/>
-      <chapter osisID="Ezra.2" sID="Ezra.2"/>
+      <chapter eID="Ezra.1" />
+      <chapter osisID="Ezra.2" sID="Ezra.2" />
       <verse osisID="Ezra.2.1">Now these are the people of the province who came up from the captivity of the exiles, whom Nebuchadnezzar king of Babylon had taken captive to Babylon (they returned to Jerusalem and Judah, each to their own town),</verse>
       <verse osisID="Ezra.2.2">in company with Zerubbabel, Joshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum and Baanah: The list of the men of the people of Israel:</verse>
       <verse osisID="Ezra.2.3">the descendants of Parosh, 2,172;</verse>
@@ -102,8 +106,8 @@
       <verse osisID="Ezra.2.68">When they arrived at the house of <divineName>Yahweh</divineName> in Jerusalem, some of the heads of the families gave freewill offerings toward the rebuilding of the house of God on its site.</verse>
       <verse osisID="Ezra.2.69">According to their ability they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver and 100 priestly garments.</verse>
       <verse osisID="Ezra.2.70">The priests, the Levites, the musicians, the gatekeepers and the temple servants settled in their own towns, along with some of the other people, and the rest of the Israelites settled in their towns.</verse>
-      <chapter eID="Ezra.2"/>
-      <chapter osisID="Ezra.3" sID="Ezra.3"/>
+      <chapter eID="Ezra.2" />
+      <chapter osisID="Ezra.3" sID="Ezra.3" />
       <verse osisID="Ezra.3.1">When the seventh month came and the Israelites had settled in their towns, the people assembled as one in Jerusalem.</verse>
       <verse osisID="Ezra.3.2">Then Joshua son of Jozadak and his fellow priests and Zerubbabel son of Shealtiel and his associates began to build the altar of the God of Israel to sacrifice burnt offerings on it, in accordance with what is written in the Law of Moses the man of God.</verse>
       <verse osisID="Ezra.3.3">Despite their fear of the peoples around them, they built the altar on its foundation and sacrificed burnt offerings on it to <divineName>Yahweh</divineName>, both the morning and evening sacrifices.</verse>
@@ -117,8 +121,8 @@
       <verse osisID="Ezra.3.11">With praise and thanksgiving they sang to <divineName>Yahweh</divineName>: "He is good; his love toward Israel endures forever." And all the people gave a great shout of praise to <divineName>Yahweh</divineName>, because the foundation of the house of <divineName>Yahweh</divineName> was laid.</verse>
       <verse osisID="Ezra.3.12">But many of the older priests and Levites and family heads, who had seen the former temple, wept aloud when they saw the foundation of this temple being laid, while many others shouted for joy.</verse>
       <verse osisID="Ezra.3.13">No one could distinguish the sound of the shouts of joy from the sound of weeping, because the people made so much noise. And the sound was heard far away.</verse>
-      <chapter eID="Ezra.3"/>
-      <chapter osisID="Ezra.4" sID="Ezra.4"/>
+      <chapter eID="Ezra.3" />
+      <chapter osisID="Ezra.4" sID="Ezra.4" />
       <verse osisID="Ezra.4.1">When the enemies of Judah and Benjamin heard that the exiles were building a temple for <divineName>Yahweh</divineName>, the God of Israel,</verse>
       <verse osisID="Ezra.4.2">they came to Zerubbabel and to the heads of the families and said, "Let us help you build because, like you, we seek your God and have been sacrificing to him since the time of Esarhaddon king of Assyria, who brought us here."</verse>
       <verse osisID="Ezra.4.3">But Zerubbabel, Joshua and the rest of the heads of the families of Israel answered, "You have no part with us in building a temple to our God. We alone will build it for <divineName>Yahweh</divineName>, the God of Israel, as King Cyrus, the king of Persia, commanded us."</verse>
@@ -143,8 +147,8 @@
       <verse osisID="Ezra.4.22">Be careful not to neglect this matter. Why let this threat grow, to the detriment of the royal interests?</verse>
       <verse osisID="Ezra.4.23">As soon as the copy of the letter of King Artaxerxes was read to Rehum and Shimshai the secretary and their associates, they went immediately to the Jews in Jerusalem and compelled them by force to stop.</verse>
       <verse osisID="Ezra.4.24">Thus the work on the house of God in Jerusalem came to a standstill until the second year of the reign of Darius king of Persia.</verse>
-      <chapter eID="Ezra.4"/>
-      <chapter osisID="Ezra.5" sID="Ezra.5"/>
+      <chapter eID="Ezra.4" />
+      <chapter osisID="Ezra.5" sID="Ezra.5" />
       <verse osisID="Ezra.5.1">Now Haggai the prophet and Zechariah the prophet, a descendant of Iddo, prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them.</verse>
       <verse osisID="Ezra.5.2">Then Zerubbabel son of Shealtiel and Joshua son of Jozadak set to work to rebuild the house of God in Jerusalem. And the prophets of God were with them, supporting them.</verse>
       <verse osisID="Ezra.5.3">At that time Tattenai, governor of Trans-Euphrates, and Shethar-Bozenai and their associates went to them and asked, "Who authorized you to rebuild this temple and to finish it?"</verse>
@@ -162,8 +166,8 @@
       <verse osisID="Ezra.5.15">and he told him, 'Take these articles and go and deposit them in the temple in Jerusalem. And rebuild the house of God on its site.'</verse>
       <verse osisID="Ezra.5.16">So this Sheshbazzar came and laid the foundations of the house of God in Jerusalem. From that day to the present it has been under construction but is not yet finished."</verse>
       <verse osisID="Ezra.5.17">Now if it pleases the king, let a search be made in the royal archives of Babylon to see if King Cyrus did in fact issue a decree to rebuild this house of God in Jerusalem. Then let the king send us his decision in this matter.</verse>
-      <chapter eID="Ezra.5"/>
-      <chapter osisID="Ezra.6" sID="Ezra.6"/>
+      <chapter eID="Ezra.5" />
+      <chapter osisID="Ezra.6" sID="Ezra.6" />
       <verse osisID="Ezra.6.1">King Darius then issued an order, and they searched in the archives stored in the treasury at Babylon.</verse>
       <verse osisID="Ezra.6.2">A scroll was found in the citadel of Ecbatana in the province of Media, and this was written on it: Memorandum:</verse>
       <verse osisID="Ezra.6.3">In the first year of King Cyrus, the king issued a decree concerning the temple of God in Jerusalem: Let the temple be rebuilt as a place to present sacrifices, and let its foundations be laid. It is to be sixty cubits high and sixty cubits wide,</verse>
@@ -186,8 +190,8 @@
       <verse osisID="Ezra.6.20">The priests and Levites had purified themselves and were all ceremonially clean. The Levites slaughtered the Passover lamb for all the exiles, for their relatives the priests and for themselves.</verse>
       <verse osisID="Ezra.6.21">So the Israelites who had returned from the exile ate it, together with all who had separated themselves from the unclean practices of their Gentile neighbors in order to seek <divineName>Yahweh</divineName>, the God of Israel.</verse>
       <verse osisID="Ezra.6.22">For seven days they celebrated with joy the Festival of Unleavened Bread, because <divineName>Yahweh</divineName> had filled them with joy by changing the attitude of the king of Assyria so that he assisted them in the work on the house of God, the God of Israel.</verse>
-      <chapter eID="Ezra.6"/>
-      <chapter osisID="Ezra.7" sID="Ezra.7"/>
+      <chapter eID="Ezra.6" />
+      <chapter osisID="Ezra.7" sID="Ezra.7" />
       <verse osisID="Ezra.7.1">After these things, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, the son of Azariah, the son of Hilkiah,</verse>
       <verse osisID="Ezra.7.2">the son of Shallum, the son of Zadok, the son of Ahitub,</verse>
       <verse osisID="Ezra.7.3">the son of Amariah, the son of Azariah, the son of Meraioth,</verse>
@@ -216,8 +220,8 @@
       <verse osisID="Ezra.7.26">Whoever does not obey the law of your God and the law of the king must surely be punished by death, banishment, confiscation of property, or imprisonment.</verse>
       <verse osisID="Ezra.7.27">Praise be to <divineName>Yahweh</divineName>, the God of our ancestors, who has put it into the king's heart to bring honor to the house of <divineName>Yahweh</divineName> in Jerusalem in this way</verse>
       <verse osisID="Ezra.7.28">and who has extended his good favor to me before the king and his advisers and all the king's powerful officials. Because the hand of <divineName>Yahweh</divineName> my God was on me, I took courage and gathered leaders from Israel to go up with me.</verse>
-      <chapter eID="Ezra.7"/>
-      <chapter osisID="Ezra.8" sID="Ezra.8"/>
+      <chapter eID="Ezra.7" />
+      <chapter osisID="Ezra.8" sID="Ezra.8" />
       <verse osisID="Ezra.8.1">These are the family heads and those registered with them who came up with me from Babylon during the reign of King Artaxerxes:</verse>
       <verse osisID="Ezra.8.2">of the descendants of Phinehas, Gershom; of the descendants of Ithamar, Daniel; of the descendants of David, Hattush</verse>
       <verse osisID="Ezra.8.3">of the descendants of Shekaniah; of the descendants of Parosh, Zechariah, and with him were registered 150 men;</verse>
@@ -254,8 +258,8 @@
       <verse osisID="Ezra.8.34">Everything was accounted for by number and weight, and the entire weight was recorded at that time.</verse>
       <verse osisID="Ezra.8.35">Then the exiles who had returned from captivity sacrificed burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs and, as a sin offering, twelve male goats. All this was a burnt offering to <divineName>Yahweh</divineName>.</verse>
       <verse osisID="Ezra.8.36">They also delivered the king's orders to the royal satraps and to the governors of Trans-Euphrates, who then gave assistance to the people and to the house of God.</verse>
-      <chapter eID="Ezra.8"/>
-      <chapter osisID="Ezra.9" sID="Ezra.9"/>
+      <chapter eID="Ezra.8" />
+      <chapter osisID="Ezra.9" sID="Ezra.9" />
       <verse osisID="Ezra.9.1">After these things had been done, the leaders came to me and said, "The people of Israel, including the priests and the Levites, have not kept themselves separate from the neighboring peoples with their detestable practices, like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians and Amorites.</verse>
       <verse osisID="Ezra.9.2">They have taken some of their daughters as wives for themselves and their sons, and have mingled the people set apart for God with the peoples around them. And the leaders and officials have led the way in this unfaithfulness."</verse>
       <verse osisID="Ezra.9.3">When I heard this, I tore my tunic and cloak, pulled hair from my head and beard and sat down appalled.</verse>
@@ -271,8 +275,8 @@
       <verse osisID="Ezra.9.13">What has happened to us is a result of our evil deeds and our great guilt, and yet, our God, you have punished us less than our sins deserved and have given us a remnant like this.</verse>
       <verse osisID="Ezra.9.14">Shall we then break your commands again and intermarry with the peoples who commit such detestable practices? Would you not be angry enough with us to destroy us, leaving us no remnant or survivor?</verse>
       <verse osisID="Ezra.9.15"><divineName>Yahweh</divineName>, the God of Israel, you are in right standing with God! We are left this day as a remnant. Here we are before you in our guilt, though because of it not one of us can stand in your presence."</verse>
-      <chapter eID="Ezra.9"/>
-      <chapter osisID="Ezra.10" sID="Ezra.10"/>
+      <chapter eID="Ezra.9" />
+      <chapter osisID="Ezra.10" sID="Ezra.10" />
       <verse osisID="Ezra.10.1">While Ezra was praying and confessing, weeping and throwing himself down before the house of God, a large crowd of Israelites—men, women and children—gathered around him. They too wept bitterly.</verse>
       <verse osisID="Ezra.10.2">Then Shekaniah son of Jehiel, one of the descendants of Elam, said to Ezra, "We have been unfaithful to our God by marrying foreign women from the peoples around us. But in spite of this, there is still hope for Israel.</verse>
       <verse osisID="Ezra.10.3">Now let us make a covenant before our God to send away all these women and their children, in accordance with the counsel of my lord and of those who fear the commands of our God. Let it be done according to the Law.</verse>
@@ -317,7 +321,7 @@
       <verse osisID="Ezra.10.42">Shallum, Amariah and Joseph.</verse>
       <verse osisID="Ezra.10.43">From the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel and Benaiah.</verse>
       <verse osisID="Ezra.10.44">All these had married foreign women, and some of them had children by these wives.</verse>
-      <chapter eID="Ezra.10"/>
+      <chapter eID="Ezra.10" />
     </div>
   </osisText>
 </osis>

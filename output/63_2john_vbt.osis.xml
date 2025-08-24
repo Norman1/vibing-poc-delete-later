@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
@@ -7,9 +7,13 @@
         <p>Plain Meaning Bible - 2 John</p>
       </revisionDesc>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
-        <rights>Public Domain</rights>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -18,7 +22,7 @@
       <div type="introduction">
         <p>Second John is a brief letter from the apostle John to "the chosen lady and her children," likely referring to a local church and its members. The letter warns against false teachers who deny that Jesus Christ came in human flesh and instructs believers not to welcome such deceivers into their homes or support their work. Though short, Second John emphasizes the importance of both truth and love in the Christian life.</p>
       </div>
-      <chapter osisID="2John.1" sID="2John.1"/>
+      <chapter osisID="2John.1" sID="2John.1" />
       <title type="main">Greeting</title>
       <verse osisID="2John.1.1">The elder, to the lady chosen by God and to her children, whom I love in the truth—and not I only, but also all who know the truth—</verse>
       <verse osisID="2John.1.2">because of the truth, which lives in us and will be with us forever:</verse>
@@ -36,7 +40,7 @@
       <title type="sub">Final Greetings</title>
       <verse osisID="2John.1.12">I have much to write to you, but I do not want to use paper and ink. Instead, I hope to visit you and talk with you face to face, so that our joy may be complete.</verse>
       <verse osisID="2John.1.13">The children of your sister, who is chosen by God, send their greetings.</verse>
-      <chapter eID="2John.1"/>
+      <chapter eID="2John.1" />
     </div>
   </osisText>
 </osis>

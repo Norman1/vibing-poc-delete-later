@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     
@@ -19,7 +20,7 @@
         <p>This final letter from Paul to Timothy reveals an aging apostle facing execution, passing on his last instructions to his beloved spiritual son. Written from a Roman prison, Paul encourages Timothy to remain faithful to the gospel despite increasing persecution and false teaching. Second Timothy contains Paul's famous charge to "preach the word" and his confident declaration that he has "fought the good fight" and "finished the race."</p>
       </div>
 
-      <chapter osisID="2Tim.1" sID="2Tim.1"/>
+      <chapter osisID="2Tim.1" sID="2Tim.1" />
       
       <title type="main">Paul's Final Instructions to Timothy</title>
       
@@ -65,9 +66,9 @@
       
       <verse osisID="2Tim.1.18">May the Lord grant that he will find mercy from the Lord on that day! You know very well in how many ways he helped me in Ephesus.</verse>
       
-      <chapter eID="2Tim.1"/>
+      <chapter eID="2Tim.1" />
 
-      <chapter osisID="2Tim.2" sID="2Tim.2"/>
+      <chapter osisID="2Tim.2" sID="2Tim.2" />
       
       <title type="main">The Appeal Renewed</title>
 
@@ -131,9 +132,9 @@
       
       <verse osisID="2Tim.2.26">and that they will come to their senses and escape from the trap of the devil, who has taken them captive to do his will.</verse>
       
-      <chapter eID="2Tim.2"/>
+      <chapter eID="2Tim.2" />
 
-      <chapter osisID="2Tim.3" sID="2Tim.3"/>
+      <chapter osisID="2Tim.3" sID="2Tim.3" />
       
       <title type="main">Warning About the Last Days</title>
 
@@ -175,9 +176,9 @@
       
       <verse osisID="2Tim.3.17">so that the servant of God may be thoroughly equipped for every good work.</verse>
       
-      <chapter eID="2Tim.3"/>
+      <chapter eID="2Tim.3" />
 
-      <chapter osisID="2Tim.4" sID="2Tim.4"/>
+      <chapter osisID="2Tim.4" sID="2Tim.4" />
       
       <title type="main">Paul's Charge to Timothy</title>
 
@@ -231,7 +232,7 @@
       
       <verse osisID="2Tim.4.22">The Lord be with your spirit. Grace be with you all.</verse>
       
-      <chapter eID="2Tim.4"/>
+      <chapter eID="2Tim.4" />
     </div>
   </osisText>
 </osis>

@@ -33,7 +33,9 @@
       "Bash(then basename \"$file\")",
       "Bash(find:*)",
       "Bash(do if ! grep -q \"// No findings\" \"$file\")",
-      "Bash(then echo \"$file\")"
+      "Bash(then echo \"$file\")",
+      "Bash(do echo \"=== $file ===\")",
+      "Bash(do echo \"Validating $file...\")"
     ],
     "deny": [],
     "ask": [],

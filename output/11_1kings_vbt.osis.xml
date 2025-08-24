@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
@@ -7,19 +7,29 @@
         <p>Plain Meaning Bible - First Kings translation using functional equivalence methodology</p>
       </revisionDesc>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
-        <contributor role="aut">Claude AI Assistant</contributor>
+
         <contributor role="edt">AI Overseer</contributor>
+
         <date>2025-08-23</date>
+
         <description>Functional equivalence translation from Hebrew WLC</description>
+
         <publisher>Open Source Project</publisher>
+
         <type type="OSIS">Bible</type>
+
         <format>text/xml</format>
+
         <identifier type="OSIS">Bible.VBT.1Kgs</identifier>
+
         <source>Westminster Leningrad Codex</source>
+
         <language type="ISO-639-2">eng</language>
+
         <rights type="x-copyright">Public Domain</rights>
-        <scope>1Kgs</scope>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -80,14 +90,14 @@
         <verse osisID="1Kgs.1.36"><name type="person">Benaiah son of Jehoiada</name> answered the king, "Amen! May <divineName>Yahweh</divineName>, the God of my lord the king, so declare it.</verse>
         <verse osisID="1Kgs.1.37">As <divineName>Yahweh</divineName> was with my lord the king, so may he be with <name type="person">Solomon</name> to make his throne even greater than the throne of my lord King <name type="person">David</name>!"</verse>
         
-        <verse osisID="1Kgs.1.38">So <name type="person">Zadok the priest</name>, <name type="person">Nathan the prophet</name>, <name type="person">Benaiah son of Jehoiada</name>, the <name type="group">Kerethites</name> and the <name type="group">Pelethites</name> went down and had <name type="person">Solomon</name> mount King <name type="person">David's</name> mule, and they escorted him to <name type="geographic">Gihon</name>.</verse>
+        <verse osisID="1Kgs.1.38">So <name type="person">Zadok the priest</name>, <name type="person">Nathan the prophet</name>, <name type="person">Benaiah son of Jehoiada</name>, the <name type="person">Kerethites</name> and the <name type="person">Pelethites</name> went down and had <name type="person">Solomon</name> mount King <name type="person">David's</name> mule, and they escorted him to <name type="geographic">Gihon</name>.</verse>
         <verse osisID="1Kgs.1.39"><name type="person">Zadok the priest</name> took the horn of oil from the sacred tent and had oil poured on <name type="person">Solomon</name>. Then they sounded the trumpet and all the people shouted, "Long live King <name type="person">Solomon</name>!"</verse>
         <verse osisID="1Kgs.1.40">And all the people went up after him, playing pipes and rejoicing greatly, so that the ground shook with the sound.</verse>
         
         <verse osisID="1Kgs.1.41"><name type="person">Adonijah</name> and all the guests who were with him heard it as they were finishing their feast. On hearing the sound of the trumpet, <name type="person">Joab</name> asked, "What's the meaning of all the noise in the city?"</verse>
         <verse osisID="1Kgs.1.42">Even as he was speaking, <name type="person">Jonathan son of Abiathar the priest</name> arrived. <name type="person">Adonijah</name> said, "Come in. A worthy man like you must be bringing good news."</verse>
         <verse osisID="1Kgs.1.43">"Not at all!" <name type="person">Jonathan</name> answered. "Our lord King <name type="person">David</name> has made <name type="person">Solomon</name> king.</verse>
-        <verse osisID="1Kgs.1.44">The king has sent with him <name type="person">Zadok the priest</name>, <name type="person">Nathan the prophet</name>, <name type="person">Benaiah son of Jehoiada</name>, the <name type="group">Kerethites</name> and the <name type="group">Pelethites</name>, and they have put him on the king's mule,</verse>
+        <verse osisID="1Kgs.1.44">The king has sent with him <name type="person">Zadok the priest</name>, <name type="person">Nathan the prophet</name>, <name type="person">Benaiah son of Jehoiada</name>, the <name type="person">Kerethites</name> and the <name type="person">Pelethites</name>, and they have put him on the king's mule,</verse>
         <verse osisID="1Kgs.1.45">and <name type="person">Zadok the priest</name> and <name type="person">Nathan the prophet</name> have had oil poured on him as king at <name type="geographic">Gihon</name>. From there they have gone up cheering, and the city resounds with it. That's the noise you hear.</verse>
         <verse osisID="1Kgs.1.46">Moreover, <name type="person">Solomon</name> has taken his seat on the royal throne.</verse>
         <verse osisID="1Kgs.1.47">Also, the royal officials have come to congratulate our lord King <name type="person">David</name>, saying, 'May your God make <name type="person">Solomon's</name> name more famous than yours and his throne greater than yours!' And the king bowed in worship on his bed</verse>
@@ -250,7 +260,7 @@
         <title type="sub">Solomon's Daily Provisions</title>
         
         <verse osisID="1Kgs.4.20">The people of <name type="geographic">Judah</name> and <name type="geographic">Israel</name> were as numerous as the sand on the seashore; they ate, they drank and they were happy.</verse>
-        <verse osisID="1Kgs.4.21">And <name type="person">Solomon</name> ruled over all the kingdoms from the <name type="geographic">Euphrates River</name> to the land of the <name type="group">Philistines</name>, as far as the border of <name type="geographic">Egypt</name>. These countries brought tribute and were <name type="person">Solomon's</name> subjects all his life.</verse>
+        <verse osisID="1Kgs.4.21">And <name type="person">Solomon</name> ruled over all the kingdoms from the <name type="geographic">Euphrates River</name> to the land of the <name type="person">Philistines</name>, as far as the border of <name type="geographic">Egypt</name>. These countries brought tribute and were <name type="person">Solomon's</name> subjects all his life.</verse>
         
         <verse osisID="1Kgs.4.22"><name type="person">Solomon's</name> daily provisions were thirty cors of the finest flour and sixty cors of meal,</verse>
         <verse osisID="1Kgs.4.23">ten head of stall-fed cattle, twenty of pasture-fed cattle and a hundred sheep and goats, as well as deer, gazelles, roebucks and choice fowl.</verse>
@@ -275,7 +285,7 @@
         <title type="chapter">Chapter 5</title>
         <title type="sub">Solomon's Kingdom and Daily Provisions</title>
         
-        <verse osisID="1Kgs.5.1"><name type="person">Solomon</name> ruled over all the kingdoms from the <name type="geographic">Euphrates River</name> to the land of the <name type="group">Philistines</name>, as far as the border of <name type="geographic">Egypt</name>. These countries brought tribute and served <name type="person">Solomon</name> all the days of his life.</verse>
+        <verse osisID="1Kgs.5.1"><name type="person">Solomon</name> ruled over all the kingdoms from the <name type="geographic">Euphrates River</name> to the land of the <name type="person">Philistines</name>, as far as the border of <name type="geographic">Egypt</name>. These countries brought tribute and served <name type="person">Solomon</name> all the days of his life.</verse>
         <verse osisID="1Kgs.5.2"><name type="person">Solomon's</name> daily provisions were thirty cors of the finest flour and sixty cors of meal,</verse>
         <verse osisID="1Kgs.5.3">ten head of stall-fed cattle, twenty of pasture-fed cattle and a hundred sheep and goats, as well as deer, gazelles, roebucks and choice fowl.</verse>
         <verse osisID="1Kgs.5.4">For he ruled over all the kingdoms west of the <name type="geographic">Euphrates River</name>, from <name type="geographic">Tiphsah</name> to <name type="geographic">Gaza</name>, and had peace on all sides.</verse>
@@ -301,7 +311,7 @@
         <verse osisID="1Kgs.5.17">"You know that because of the wars waged against my father <name type="person">David</name> from all sides, he could not build a temple for the Name of <divineName>Yahweh</divineName> his God until <divineName>Yahweh</divineName> put his enemies under the soles of his feet.</verse>
         <verse osisID="1Kgs.5.18">But now <divineName>Yahweh</divineName> my God has given me rest on every side, and there is no adversary or disaster.</verse>
         <verse osisID="1Kgs.5.19">I intend, therefore, to build a temple for the Name of <divineName>Yahweh</divineName> my God, as <divineName>Yahweh</divineName> told my father <name type="person">David</name>, when he said, 'Your son whom I will put on the throne in your place will build the temple for my Name.'</verse>
-        <verse osisID="1Kgs.5.20">"So give orders that cedars of <name type="geographic">Lebanon</name> be cut for me. My men will work with yours, and I will pay you for your men whatever wages you set. You know that we have no one so skilled in felling timber as the <name type="group">Sidonians</name>."</verse>
+        <verse osisID="1Kgs.5.20">"So give orders that cedars of <name type="geographic">Lebanon</name> be cut for me. My men will work with yours, and I will pay you for your men whatever wages you set. You know that we have no one so skilled in felling timber as the <name type="person">Sidonians</name>."</verse>
         
         <verse osisID="1Kgs.5.21">When <name type="person">Hiram</name> heard <name type="person">Solomon's</name> message, he was greatly pleased and said, "Praise be to <divineName>Yahweh</divineName> today, for he has given <name type="person">David</name> a wise son to rule over this great nation."</verse>
         <verse osisID="1Kgs.5.22">So <name type="person">Hiram</name> sent word to <name type="person">Solomon</name>: "I have received the message you sent me and will do all you want in providing the cedar and juniper logs.</verse>
@@ -322,7 +332,7 @@
         <title type="chapter">Chapter 6</title>
         <title type="sub">Solomon Builds the Temple</title>
         
-        <verse osisID="1Kgs.6.1">In the four hundred and eightieth year after the Israelites came out of <name type="geographic">Egypt</name>, in the fourth year of <name type="person">Solomon's</name> reign over Israel, in the month of <name type="other">Ziv</name>, the second month, he began to build the temple of <divineName>Yahweh</divineName>.</verse>
+        <verse osisID="1Kgs.6.1">In the four hundred and eightieth year after the Israelites came out of <name type="geographic">Egypt</name>, in the fourth year of <name type="person">Solomon's</name> reign over Israel, in the month of <name type="person">Ziv</name>, the second month, he began to build the temple of <divineName>Yahweh</divineName>.</verse>
         
         <verse osisID="1Kgs.6.2">The temple that King <name type="person">Solomon</name> built for <divineName>Yahweh</divineName> was sixty cubits long, twenty cubits wide and thirty cubits high.</verse>
         <verse osisID="1Kgs.6.3">The portico at the front of the main hall of the temple extended the width of the temple, that is twenty cubits, and projected ten cubits from the front of the temple.</verse>
@@ -371,22 +381,22 @@
         
         <verse osisID="1Kgs.6.36">And he built the inner courtyard of three courses of dressed stone and one course of trimmed cedar beams.</verse>
         
-        <verse osisID="1Kgs.6.37">The foundation of the temple of <divineName>Yahweh</divineName> was laid in the fourth year, in the month of <name type="other">Ziv</name>.</verse>
-        <verse osisID="1Kgs.6.38">In the eleventh year in the month of <name type="other">Bul</name>, the eighth month, the temple was finished in all its details according to its specifications. He had spent seven years building it.</verse>
+        <verse osisID="1Kgs.6.37">The foundation of the temple of <divineName>Yahweh</divineName> was laid in the fourth year, in the month of <name type="person">Ziv</name>.</verse>
+        <verse osisID="1Kgs.6.38">In the eleventh year in the month of <name type="person">Bul</name>, the eighth month, the temple was finished in all its details according to its specifications. He had spent seven years building it.</verse>
       </chapter>
       <chapter osisID="1Kgs.7">
         <title type="chapter">Chapter 7</title>
         <title type="sub">Solomon Builds His Palace</title>
         
         <verse osisID="1Kgs.7.1">It took <name type="person">Solomon</name> thirteen years, however, to complete the construction of his palace.</verse>
-        <verse osisID="1Kgs.7.2">He built the <name type="place">Palace of the Forest of Lebanon</name> a hundred cubits long, fifty cubits wide and thirty cubits high, with four rows of cedar columns supporting trimmed cedar beams.</verse>
+        <verse osisID="1Kgs.7.2">He built the <name type="geographic">Palace of the Forest of Lebanon</name> a hundred cubits long, fifty cubits wide and thirty cubits high, with four rows of cedar columns supporting trimmed cedar beams.</verse>
         <verse osisID="1Kgs.7.3">It was roofed with cedar above the beams that rested on the columns—forty-five beams, fifteen to a row.</verse>
         <verse osisID="1Kgs.7.4">Its windows were placed high in sets of three, facing each other.</verse>
         <verse osisID="1Kgs.7.5">All the doorways had rectangular frames; they were in the front part in sets of three, facing each other.</verse>
         
         <verse osisID="1Kgs.7.6">He made a colonnade fifty cubits long and thirty cubits wide. In front of it was a portico, and in front of that were pillars and an overhanging roof.</verse>
         
-        <verse osisID="1Kgs.7.7">He built the throne hall, the <name type="place">Hall of Justice</name>, where he was to judge, and he covered it with cedar from floor to ceiling.</verse>
+        <verse osisID="1Kgs.7.7">He built the throne hall, the <name type="geographic">Hall of Justice</name>, where he was to judge, and he covered it with cedar from floor to ceiling.</verse>
         <verse osisID="1Kgs.7.8">And the palace in which he was to live, set farther back, was similar in design. <name type="person">Solomon</name> also made a palace like this hall for <name type="person">Pharaoh's daughter</name>, whom he had married.</verse>
         
         <verse osisID="1Kgs.7.9">All these structures, from the outside to the great courtyard and from foundation to eaves, were made of blocks of high-grade stone cut to size and smoothed with a saw on their inner and outer faces.</verse>
@@ -407,7 +417,7 @@
         <verse osisID="1Kgs.7.18">He made pomegranates in two rows encircling each network to decorate the capitals on top of the pillars. He did the same for each capital.</verse>
         <verse osisID="1Kgs.7.19">The capitals on top of the pillars in the portico were in the shape of lilies, four cubits high.</verse>
         <verse osisID="1Kgs.7.20">On the capitals of both pillars, above the bowl-shaped part next to the network, were the two hundred pomegranates in rows all around.</verse>
-        <verse osisID="1Kgs.7.21">He erected the pillars at the portico of the temple. The pillar to the south he named <name type="other">Jakin</name> and the one to the north <name type="other">Boaz</name>.</verse>
+        <verse osisID="1Kgs.7.21">He erected the pillars at the portico of the temple. The pillar to the south he named <name type="person">Jakin</name> and the one to the north <name type="person">Boaz</name>.</verse>
         <verse osisID="1Kgs.7.22">The capitals on top were in the shape of lilies. And so the work on the pillars was completed.</verse>
         
         <title type="sub">The Bronze Sea</title>
@@ -455,10 +465,10 @@
         <title type="sub">The Ark Brought to the Temple</title>
         
         <verse osisID="1Kgs.8.1">Then King <name type="person">Solomon</name> summoned into his presence at <name type="geographic">Jerusalem</name> the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of <divineName>Yahweh's</divineName> covenant from <name type="geographic">Zion</name>, the <name type="geographic">City of David</name>.</verse>
-        <verse osisID="1Kgs.8.2">All the Israelites came together to King <name type="person">Solomon</name> at the time of the festival in the month of <name type="other">Ethanim</name>, the seventh month.</verse>
+        <verse osisID="1Kgs.8.2">All the Israelites came together to King <name type="person">Solomon</name> at the time of the festival in the month of <name type="person">Ethanim</name>, the seventh month.</verse>
         
         <verse osisID="1Kgs.8.3">When all the elders of Israel had arrived, the priests took up the ark,</verse>
-        <verse osisID="1Kgs.8.4">and they brought up the ark of <divineName>Yahweh</divineName> and the tent of meeting and all the sacred furnishings in it. The priests and <name type="group">Levites</name> carried them up,</verse>
+        <verse osisID="1Kgs.8.4">and they brought up the ark of <divineName>Yahweh</divineName> and the tent of meeting and all the sacred furnishings in it. The priests and <name type="person">Levites</name> carried them up,</verse>
         <verse osisID="1Kgs.8.5">and King <name type="person">Solomon</name> and the entire assembly of Israel that had gathered about him were before the ark, sacrificing so many sheep and cattle that they could not be recorded or counted.</verse>
         
         <verse osisID="1Kgs.8.6">The priests then brought the ark of <divineName>Yahweh's</divineName> covenant to its place in the inner sanctuary of the temple, the inner sanctuary, and put it beneath the wings of the cherubim.</verse>
@@ -575,12 +585,12 @@
         <verse osisID="1Kgs.9.14">Now <name type="person">Hiram</name> had sent to the king 120 talents of gold.</verse>
         
         <verse osisID="1Kgs.9.15">Here is the account of the forced labor King <name type="person">Solomon</name> conscripted to build <divineName>Yahweh's</divineName> temple, his own palace, the terraces, the wall of <name type="geographic">Jerusalem</name>, and <name type="geographic">Hazor</name>, <name type="geographic">Megiddo</name> and <name type="geographic">Gezer</name>.</verse>
-        <verse osisID="1Kgs.9.16">(<name type="person">Pharaoh king of Egypt</name> had attacked and captured <name type="geographic">Gezer</name>. He had set it on fire. He killed its <name type="group">Canaanite</name> inhabitants and then gave it as a wedding gift to his daughter, <name type="person">Solomon's</name> wife.)</verse>
+        <verse osisID="1Kgs.9.16">(<name type="person">Pharaoh king of Egypt</name> had attacked and captured <name type="geographic">Gezer</name>. He had set it on fire. He killed its <name type="person">Canaanite</name> inhabitants and then gave it as a wedding gift to his daughter, <name type="person">Solomon's</name> wife.)</verse>
         <verse osisID="1Kgs.9.17">And <name type="person">Solomon</name> rebuilt <name type="geographic">Gezer</name>. He built up <name type="geographic">Lower Beth Horon</name>,</verse>
         <verse osisID="1Kgs.9.18"><name type="geographic">Baalath</name>, and <name type="geographic">Tadmor</name> in the desert, within his land,</verse>
         <verse osisID="1Kgs.9.19">as well as all his store cities and the towns for his chariots and for his horses—whatever he desired to build in <name type="geographic">Jerusalem</name>, in <name type="geographic">Lebanon</name> and throughout all the territory he ruled.</verse>
         
-        <verse osisID="1Kgs.9.20">There were still people left from the <name type="group">Amorites</name>, <name type="group">Hittites</name>, <name type="group">Perizzites</name>, <name type="group">Hivites</name> and <name type="group">Jebusites</name> (these peoples were not Israelites).</verse>
+        <verse osisID="1Kgs.9.20">There were still people left from the <name type="person">Amorites</name>, <name type="person">Hittites</name>, <name type="person">Perizzites</name>, <name type="person">Hivites</name> and <name type="person">Jebusites</name> (these peoples were not Israelites).</verse>
         <verse osisID="1Kgs.9.21"><name type="person">Solomon</name> conscripted the descendants of all these peoples remaining in the land—whom the Israelites could not exterminate—to serve as slave laborers, as they still do today.</verse>
         <verse osisID="1Kgs.9.22">But <name type="person">Solomon</name> did not make slaves of any of the Israelites; they were his fighting men, his government officials, his officers, his captains, and the commanders of his chariots and charioteers.</verse>
         <verse osisID="1Kgs.9.23">They were also the chief officials in charge of <name type="person">Solomon's</name> projects—550 officials supervising those who did the work.</verse>
@@ -621,12 +631,12 @@
         <verse osisID="1Kgs.10.15">not including the revenues from merchants and traders and from all the Arabian kings and the governors of the territories.</verse>
         
         <verse osisID="1Kgs.10.16">King <name type="person">Solomon</name> made two hundred large shields of hammered gold; six hundred shekels of gold went into each shield.</verse>
-        <verse osisID="1Kgs.10.17">He also made three hundred small shields of hammered gold, with three minas of gold in each shield. The king put them in the <name type="place">Palace of the Forest of Lebanon</name>.</verse>
+        <verse osisID="1Kgs.10.17">He also made three hundred small shields of hammered gold, with three minas of gold in each shield. The king put them in the <name type="geographic">Palace of the Forest of Lebanon</name>.</verse>
         
         <verse osisID="1Kgs.10.18">Then the king made a great throne covered with ivory and overlaid with fine gold.</verse>
         <verse osisID="1Kgs.10.19">The throne had six steps, and its back had a rounded top. On both sides of the seat were armrests, with a lion standing beside each of them.</verse>
         <verse osisID="1Kgs.10.20">Twelve lions stood on the six steps, one at either end of each step. Nothing like it had ever been made for any other kingdom.</verse>
-        <verse osisID="1Kgs.10.21">All King <name type="person">Solomon's</name> goblets were gold, and all the household articles in the <name type="place">Palace of the Forest of Lebanon</name> were pure gold. Nothing was made of silver, because silver was considered of little value in <name type="person">Solomon's</name> days.</verse>
+        <verse osisID="1Kgs.10.21">All King <name type="person">Solomon's</name> goblets were gold, and all the household articles in the <name type="geographic">Palace of the Forest of Lebanon</name> were pure gold. Nothing was made of silver, because silver was considered of little value in <name type="person">Solomon's</name> days.</verse>
         <verse osisID="1Kgs.10.22">The king had a fleet of trading ships at sea along with the ships of <name type="person">Hiram</name>. Once every three years it returned, carrying gold, silver and ivory, and apes and baboons.</verse>
         
         <verse osisID="1Kgs.10.23">King <name type="person">Solomon</name> was greater in riches and wisdom than all the other kings of the earth.</verse>
@@ -636,20 +646,20 @@
         <verse osisID="1Kgs.10.26"><name type="person">Solomon</name> accumulated chariots and horses; he had fourteen hundred chariots and twelve thousand horses, which he kept in the chariot cities and also with him in <name type="geographic">Jerusalem</name>.</verse>
         <verse osisID="1Kgs.10.27">The king made silver as common in <name type="geographic">Jerusalem</name> as stones, and cedar as plentiful as sycamore-fig trees in the foothills.</verse>
         <verse osisID="1Kgs.10.28"><name type="person">Solomon's</name> horses were imported from <name type="geographic">Egypt</name> and from <name type="geographic">Kue</name>—the royal merchants purchased them from <name type="geographic">Kue</name> at the current price.</verse>
-        <verse osisID="1Kgs.10.29">They imported a chariot from <name type="geographic">Egypt</name> for six hundred shekels of silver, and a horse for a hundred and fifty. They also exported them to all the kings of the <name type="group">Hittites</name> and of the <name type="group">Arameans</name>.</verse>
+        <verse osisID="1Kgs.10.29">They imported a chariot from <name type="geographic">Egypt</name> for six hundred shekels of silver, and a horse for a hundred and fifty. They also exported them to all the kings of the <name type="person">Hittites</name> and of the <name type="person">Arameans</name>.</verse>
       </chapter>
       <chapter osisID="1Kgs.11">
         <title type="chapter">Chapter 11</title>
         <title type="sub">Solomon's Wives</title>
         
-        <verse osisID="1Kgs.11.1">King <name type="person">Solomon</name>, however, loved many foreign women besides <name type="person">Pharaoh's daughter</name>—<name type="group">Moabites</name>, <name type="group">Ammonites</name>, <name type="group">Edomites</name>, <name type="group">Sidonians</name> and <name type="group">Hittites</name>.</verse>
+        <verse osisID="1Kgs.11.1">King <name type="person">Solomon</name>, however, loved many foreign women besides <name type="person">Pharaoh's daughter</name>—<name type="person">Moabites</name>, <name type="person">Ammonites</name>, <name type="person">Edomites</name>, <name type="person">Sidonians</name> and <name type="person">Hittites</name>.</verse>
         <verse osisID="1Kgs.11.2">They were from nations about which <divineName>Yahweh</divineName> had told the Israelites, "You must not intermarry with them, because they will surely turn your hearts after their gods." Nevertheless, <name type="person">Solomon</name> held fast to them in love.</verse>
         <verse osisID="1Kgs.11.3">He had seven hundred wives of royal birth and three hundred concubines, and his wives led him astray.</verse>
         <verse osisID="1Kgs.11.4">As <name type="person">Solomon</name> grew old, his wives turned his heart after other gods, and his heart was not fully devoted to <divineName>Yahweh</divineName> his God, as the heart of <name type="person">David</name> his father had been.</verse>
-        <verse osisID="1Kgs.11.5">He followed <name type="other">Ashtoreth</name> the goddess of the <name type="group">Sidonians</name>, and <name type="other">Molek</name> the detestable god of the <name type="group">Ammonites</name>.</verse>
+        <verse osisID="1Kgs.11.5">He followed <name type="person">Ashtoreth</name> the goddess of the <name type="person">Sidonians</name>, and <name type="person">Molek</name> the detestable god of the <name type="person">Ammonites</name>.</verse>
         <verse osisID="1Kgs.11.6">So <name type="person">Solomon</name> did evil in the eyes of <divineName>Yahweh</divineName>; he did not follow <divineName>Yahweh</divineName> completely, as <name type="person">David</name> his father had done.</verse>
         
-        <verse osisID="1Kgs.11.7">On a hill east of <name type="geographic">Jerusalem</name>, <name type="person">Solomon</name> built a high place for <name type="other">Chemosh</name> the detestable god of <name type="geographic">Moab</name>, and for <name type="other">Molek</name> the detestable god of the <name type="group">Ammonites</name>.</verse>
+        <verse osisID="1Kgs.11.7">On a hill east of <name type="geographic">Jerusalem</name>, <name type="person">Solomon</name> built a high place for <name type="person">Chemosh</name> the detestable god of <name type="geographic">Moab</name>, and for <name type="person">Molek</name> the detestable god of the <name type="person">Ammonites</name>.</verse>
         <verse osisID="1Kgs.11.8">He did the same for all his foreign wives, who burned incense and offered sacrifices to their gods.</verse>
         
         <title type="sub">The Lord Raises Up Adversaries</title>
@@ -663,7 +673,7 @@
         <verse osisID="1Kgs.11.14">Then <divineName>Yahweh</divineName> raised up against <name type="person">Solomon</name> an adversary, <name type="person">Hadad the Edomite</name>, from the royal line of <name type="geographic">Edom</name>.</verse>
         <verse osisID="1Kgs.11.15">Earlier when <name type="person">David</name> was fighting with <name type="geographic">Edom</name>, <name type="person">Joab the commander of the army</name>, who had gone up to bury the dead, had struck down all the men in <name type="geographic">Edom</name>.</verse>
         <verse osisID="1Kgs.11.16"><name type="person">Joab</name> and all the Israelites stayed there for six months, until they had destroyed all the men in <name type="geographic">Edom</name>.</verse>
-        <verse osisID="1Kgs.11.17">But <name type="person">Hadad</name>, still only a boy, fled to <name type="geographic">Egypt</name> with some <name type="group">Edomite</name> officials who had served his father.</verse>
+        <verse osisID="1Kgs.11.17">But <name type="person">Hadad</name>, still only a boy, fled to <name type="geographic">Egypt</name> with some <name type="person">Edomite</name> officials who had served his father.</verse>
         <verse osisID="1Kgs.11.18">They set out from <name type="geographic">Midian</name> and went to <name type="geographic">Paran</name>. Then taking people from <name type="geographic">Paran</name> with them, they went to <name type="geographic">Egypt</name>, to <name type="person">Pharaoh king of Egypt</name>, who gave <name type="person">Hadad</name> a house and land and provided him with food.</verse>
         <verse osisID="1Kgs.11.19"><name type="person">Pharaoh</name> was so pleased with <name type="person">Hadad</name> that he gave him a sister of his own wife, <name type="person">Queen Tahpenes</name>, in marriage.</verse>
         <verse osisID="1Kgs.11.20">The sister of <name type="person">Tahpenes</name> bore him a son named <name type="person">Genubath</name>, whom <name type="person">Tahpenes</name> brought up in the royal palace. There <name type="person">Genubath</name> lived with <name type="person">Pharaoh's</name> own children.</verse>
@@ -677,7 +687,7 @@
         
         <title type="sub">Jeroboam Rebels Against Solomon</title>
         
-        <verse osisID="1Kgs.11.26">Also, <name type="person">Jeroboam son of Nebat</name> rebelled against the king. He was one of <name type="person">Solomon's</name> officials, an <name type="group">Ephraimite</name> from <name type="geographic">Zeredah</name>, and his mother was a widow named <name type="person">Zeruah</name>.</verse>
+        <verse osisID="1Kgs.11.26">Also, <name type="person">Jeroboam son of Nebat</name> rebelled against the king. He was one of <name type="person">Solomon's</name> officials, an <name type="person">Ephraimite</name> from <name type="geographic">Zeredah</name>, and his mother was a widow named <name type="person">Zeruah</name>.</verse>
         
         <verse osisID="1Kgs.11.27">Here is the account of how he rebelled against the king: <name type="person">Solomon</name> had built the terraces and had filled in the gap in the wall of the city of <name type="person">David</name> his father.</verse>
         <verse osisID="1Kgs.11.28">Now <name type="person">Jeroboam</name> was a man of standing, and when <name type="person">Solomon</name> saw how well the young man did his work, he put him in charge of the whole labor force of the tribes of <name type="person">Joseph</name>.</verse>
@@ -686,7 +696,7 @@
         <verse osisID="1Kgs.11.30">and <name type="person">Ahijah</name> took hold of the new cloak he was wearing and tore it into twelve pieces.</verse>
         <verse osisID="1Kgs.11.31">Then he said to <name type="person">Jeroboam</name>, "Take ten pieces for yourself, for this is what <divineName>Yahweh</divineName>, the God of Israel, says: 'See, I am going to tear the kingdom out of <name type="person">Solomon's</name> hand and give you ten tribes.</verse>
         <verse osisID="1Kgs.11.32">But for the sake of my servant <name type="person">David</name> and the city of <name type="geographic">Jerusalem</name>, which I have chosen out of all the tribes of Israel, he will have one tribe.</verse>
-        <verse osisID="1Kgs.11.33">I will do this because they have forsaken me and worshiped <name type="other">Ashtoreth</name> the goddess of the <name type="group">Sidonians</name>, <name type="other">Chemosh</name> the god of the <name type="group">Moabites</name>, and <name type="other">Molek</name> the god of the <name type="group">Ammonites</name>, and have not walked in obedience to me, nor done what is right in my eyes, nor kept my decrees and laws as <name type="person">David</name>, <name type="person">Solomon's</name> father, did.</verse>
+        <verse osisID="1Kgs.11.33">I will do this because they have forsaken me and worshiped <name type="person">Ashtoreth</name> the goddess of the <name type="person">Sidonians</name>, <name type="person">Chemosh</name> the god of the <name type="person">Moabites</name>, and <name type="person">Molek</name> the god of the <name type="person">Ammonites</name>, and have not walked in obedience to me, nor done what is right in my eyes, nor kept my decrees and laws as <name type="person">David</name>, <name type="person">Solomon's</name> father, did.</verse>
         
         <verse osisID="1Kgs.11.34">"'But I will not take the whole kingdom out of <name type="person">Solomon's</name> hand; I have made him ruler all the days of his life for the sake of <name type="person">David</name> my servant, whom I chose and who obeyed my commands and decrees.</verse>
         <verse osisID="1Kgs.11.35">I will take the kingdom from his son's hands and give you ten tribes.</verse>
@@ -760,7 +770,7 @@
         <verse osisID="1Kgs.12.29">One he set up in <name type="geographic">Bethel</name>, and the other in <name type="geographic">Dan</name>.</verse>
         <verse osisID="1Kgs.12.30">And this thing became a sin; the people came to worship the one at <name type="geographic">Bethel</name> and went as far as <name type="geographic">Dan</name> to worship the other.</verse>
         
-        <verse osisID="1Kgs.12.31"><name type="person">Jeroboam</name> built shrines on high places and appointed priests from all sorts of people, even though they were not <name type="group">Levites</name>.</verse>
+        <verse osisID="1Kgs.12.31"><name type="person">Jeroboam</name> built shrines on high places and appointed priests from all sorts of people, even though they were not <name type="person">Levites</name>.</verse>
         <verse osisID="1Kgs.12.32">He instituted a festival on the fifteenth day of the eighth month, like the festival held in <name type="geographic">Judah</name>, and offered sacrifices on the altar. This he did in <name type="geographic">Bethel</name>, sacrificing to the calves he had made. And at <name type="geographic">Bethel</name> he also installed priests at the high places he had made.</verse>
         <verse osisID="1Kgs.12.33">On the fifteenth day of the eighth month, a month of his own choosing, he offered sacrifices on the altar he had built at <name type="geographic">Bethel</name>. So he instituted the festival for the Israelites and went up to the altar to make offerings.</verse>
       </chapter>
@@ -841,7 +851,7 @@
         <verse osisID="1Kgs.14.13">All Israel will mourn for him and bury him. He is the only one belonging to <name type="person">Jeroboam</name> who will be buried, because he is the only one in the house of <name type="person">Jeroboam</name> in whom <divineName>Yahweh</divineName>, the God of Israel, has found anything good.</verse>
         
         <verse osisID="1Kgs.14.14"><divineName>Yahweh</divineName> will raise up for himself a king over Israel who will cut off the family of <name type="person">Jeroboam</name>. Even now this is beginning to happen.</verse>
-        <verse osisID="1Kgs.14.15">And <divineName>Yahweh</divineName> will strike Israel, so that it will be like a reed swaying in the water. He will uproot Israel from this good land that he gave to their ancestors and scatter them beyond the <name type="geographic">Euphrates River</name>, because they aroused <divineName>Yahweh's</divineName> anger by making <name type="other">Asherah poles</name>.</verse>
+        <verse osisID="1Kgs.14.15">And <divineName>Yahweh</divineName> will strike Israel, so that it will be like a reed swaying in the water. He will uproot Israel from this good land that he gave to their ancestors and scatter them beyond the <name type="geographic">Euphrates River</name>, because they aroused <divineName>Yahweh's</divineName> anger by making <name type="person">Asherah poles</name>.</verse>
         <verse osisID="1Kgs.14.16">And he will give Israel up because of the sins <name type="person">Jeroboam</name> has committed and has caused Israel to commit."</verse>
         
         <verse osisID="1Kgs.14.17">Then <name type="person">Jeroboam's</name> wife got up and left and went to <name type="geographic">Tirzah</name>. As soon as she stepped over the threshold of the house, the boy died.</verse>
@@ -854,10 +864,10 @@
         
         <title type="sub">Rehoboam King of Judah</title>
         
-        <verse osisID="1Kgs.14.21"><name type="person">Rehoboam son of Solomon</name> was king in <name type="geographic">Judah</name>. He was forty-one years old when he became king, and he reigned seventeen years in <name type="geographic">Jerusalem</name>, the city <divineName>Yahweh</divineName> had chosen out of all the tribes of Israel in which to put his Name. His mother's name was <name type="person">Naamah</name>; she was an <name type="group">Ammonite</name>.</verse>
+        <verse osisID="1Kgs.14.21"><name type="person">Rehoboam son of Solomon</name> was king in <name type="geographic">Judah</name>. He was forty-one years old when he became king, and he reigned seventeen years in <name type="geographic">Jerusalem</name>, the city <divineName>Yahweh</divineName> had chosen out of all the tribes of Israel in which to put his Name. His mother's name was <name type="person">Naamah</name>; she was an <name type="person">Ammonite</name>.</verse>
         
         <verse osisID="1Kgs.14.22"><name type="geographic">Judah</name> did evil in the eyes of <divineName>Yahweh</divineName>. By the sins they committed they stirred up his jealous anger more than those who were before them had done.</verse>
-        <verse osisID="1Kgs.14.23">They also set up for themselves high places, sacred stones and <name type="other">Asherah poles</name> on every high hill and under every spreading tree.</verse>
+        <verse osisID="1Kgs.14.23">They also set up for themselves high places, sacred stones and <name type="person">Asherah poles</name> on every high hill and under every spreading tree.</verse>
         <verse osisID="1Kgs.14.24">There were even male shrine prostitutes in the land; the people engaged in all the detestable practices of the nations <divineName>Yahweh</divineName> had driven out before the Israelites.</verse>
         
         <verse osisID="1Kgs.14.25">In the fifth year of <name type="person">King Rehoboam</name>, <name type="person">Shishak king of Egypt</name> attacked <name type="geographic">Jerusalem</name>.</verse>
@@ -867,7 +877,7 @@
         
         <verse osisID="1Kgs.14.29">As for the other events of <name type="person">Rehoboam's</name> reign, and all he did, are they not written in the book of the annals of the kings of <name type="geographic">Judah</name>?</verse>
         <verse osisID="1Kgs.14.30">There was continual warfare between <name type="person">Rehoboam</name> and <name type="person">Jeroboam</name>.</verse>
-        <verse osisID="1Kgs.14.31">And <name type="person">Rehoboam</name> rested with his ancestors and was buried with them in the <name type="geographic">City of David</name>. His mother's name was <name type="person">Naamah</name>; she was an <name type="group">Ammonite</name>. And <name type="person">Abijah</name> his son succeeded him as king.</verse>
+        <verse osisID="1Kgs.14.31">And <name type="person">Rehoboam</name> rested with his ancestors and was buried with them in the <name type="geographic">City of David</name>. His mother's name was <name type="person">Naamah</name>; she was an <name type="person">Ammonite</name>. And <name type="person">Abijah</name> his son succeeded him as king.</verse>
       </chapter>
       
       <chapter osisID="1Kgs.15">
@@ -892,7 +902,7 @@
         
         <verse osisID="1Kgs.15.11"><name type="person">Asa</name> did what was right in the eyes of <divineName>Yahweh</divineName>, as his forefather <name type="person">David</name> had done.</verse>
         <verse osisID="1Kgs.15.12">He expelled the male shrine prostitutes from the land and got rid of all the idols his ancestors had made.</verse>
-        <verse osisID="1Kgs.15.13">He even deposed his grandmother <name type="person">Maakah</name> from her position as queen mother, because she had made a repulsive image for the worship of <name type="other">Asherah</name>. <name type="person">Asa</name> cut it down and burned it in the <name type="geographic">Kidron Valley</name>.</verse>
+        <verse osisID="1Kgs.15.13">He even deposed his grandmother <name type="person">Maakah</name> from her position as queen mother, because she had made a repulsive image for the worship of <name type="person">Asherah</name>. <name type="person">Asa</name> cut it down and burned it in the <name type="geographic">Kidron Valley</name>.</verse>
         <verse osisID="1Kgs.15.14">Although he did not remove the high places, <name type="person">Asa's</name> heart was fully committed to <divineName>Yahweh</divineName> all his life.</verse>
         <verse osisID="1Kgs.15.15">He brought into the temple of <divineName>Yahweh</divineName> the silver and gold and the articles that he and his father had dedicated.</verse>
         
@@ -914,7 +924,7 @@
         <verse osisID="1Kgs.15.25"><name type="person">Nadab son of Jeroboam</name> became king of Israel in the second year of <name type="person">Asa king of Judah</name>, and he reigned over Israel two years.</verse>
         <verse osisID="1Kgs.15.26">He did evil in the eyes of <divineName>Yahweh</divineName>, following the ways of his father and committing the same sin his father had caused Israel to commit.</verse>
         
-        <verse osisID="1Kgs.15.27"><name type="person">Baasha son of Ahijah</name> from the tribe of <name type="geographic">Issachar</name> plotted against him, and he struck him down at <name type="geographic">Gibbethon</name>, a <name type="group">Philistine</name> town, while <name type="person">Nadab</name> and all Israel were besieging it.</verse>
+        <verse osisID="1Kgs.15.27"><name type="person">Baasha son of Ahijah</name> from the tribe of <name type="geographic">Issachar</name> plotted against him, and he struck him down at <name type="geographic">Gibbethon</name>, a <name type="person">Philistine</name> town, while <name type="person">Nadab</name> and all Israel were besieging it.</verse>
         <verse osisID="1Kgs.15.28"><name type="person">Baasha</name> killed <name type="person">Nadab</name> in the third year of <name type="person">Asa king of Judah</name> and succeeded him as king.</verse>
         
         <verse osisID="1Kgs.15.29">As soon as he began to reign, he killed <name type="person">Jeroboam's</name> whole family. He did not leave <name type="person">Jeroboam</name> anyone that breathed, but destroyed them all, according to the word of <divineName>Yahweh</divineName> given through his servant <name type="person">Ahijah the Shilonite</name>.</verse>
@@ -958,7 +968,7 @@
         
         <title type="sub">Zimri King of Israel</title>
         
-        <verse osisID="1Kgs.16.15">In the twenty-seventh year of <name type="person">Asa king of Judah</name>, <name type="person">Zimri</name> reigned in <name type="geographic">Tirzah</name> seven days. The army was encamped near <name type="geographic">Gibbethon</name>, a <name type="group">Philistine</name> town.</verse>
+        <verse osisID="1Kgs.16.15">In the twenty-seventh year of <name type="person">Asa king of Judah</name>, <name type="person">Zimri</name> reigned in <name type="geographic">Tirzah</name> seven days. The army was encamped near <name type="geographic">Gibbethon</name>, a <name type="person">Philistine</name> town.</verse>
         <verse osisID="1Kgs.16.16">When the Israelites in the camp heard that <name type="person">Zimri</name> had plotted against the king and murdered him, they proclaimed <name type="person">Omri</name>, the commander of the army, king over Israel that very day there in the camp.</verse>
         <verse osisID="1Kgs.16.17">Then <name type="person">Omri</name> and all the Israelites with him withdrew from <name type="geographic">Gibbethon</name> and laid siege to <name type="geographic">Tirzah</name>.</verse>
         <verse osisID="1Kgs.16.18">When <name type="person">Zimri</name> saw that the city was taken, he went into the citadel of the royal palace and set the palace on fire around him. So he died,</verse>
@@ -984,9 +994,9 @@
         
         <verse osisID="1Kgs.16.29">In the thirty-eighth year of <name type="person">Asa king of Judah</name>, <name type="person">Ahab son of Omri</name> became king of Israel, and he reigned in <name type="geographic">Samaria</name> over Israel twenty-two years.</verse>
         <verse osisID="1Kgs.16.30"><name type="person">Ahab son of Omri</name> did more evil in the eyes of <divineName>Yahweh</divineName> than any of those before him.</verse>
-        <verse osisID="1Kgs.16.31">He not only considered it trivial to commit the sins of <name type="person">Jeroboam son of Nebat</name>, but he also married <name type="person">Jezebel daughter of Ethbaal king of the Sidonians</name>, and began to serve <name type="other">Baal</name> and worship him.</verse>
-        <verse osisID="1Kgs.16.32">He set up an altar for <name type="other">Baal</name> in the temple of <name type="other">Baal</name> that he built in <name type="geographic">Samaria</name>.</verse>
-        <verse osisID="1Kgs.16.33"><name type="person">Ahab</name> also made an <name type="other">Asherah pole</name> and did more to arouse the anger of <divineName>Yahweh</divineName>, the God of Israel, than did all the kings of Israel before him.</verse>
+        <verse osisID="1Kgs.16.31">He not only considered it trivial to commit the sins of <name type="person">Jeroboam son of Nebat</name>, but he also married <name type="person">Jezebel daughter of Ethbaal king of the Sidonians</name>, and began to serve <name type="person">Baal</name> and worship him.</verse>
+        <verse osisID="1Kgs.16.32">He set up an altar for <name type="person">Baal</name> in the temple of <name type="person">Baal</name> that he built in <name type="geographic">Samaria</name>.</verse>
+        <verse osisID="1Kgs.16.33"><name type="person">Ahab</name> also made an <name type="person">Asherah pole</name> and did more to arouse the anger of <divineName>Yahweh</divineName>, the God of Israel, than did all the kings of Israel before him.</verse>
         
         <verse osisID="1Kgs.16.34">In <name type="person">Ahab's</name> time, <name type="person">Hiel of Bethel</name> rebuilt <name type="geographic">Jericho</name>. He laid its foundations at the cost of his firstborn son <name type="person">Abiram</name>, and he set up its gates at the cost of his youngest son <name type="person">Segub</name>, in accordance with the word of <divineName>Yahweh</divineName> spoken by <name type="person">Joshua son of Nun</name>.</verse>
       </chapter>
@@ -1066,18 +1076,18 @@
         <verse osisID="1Kgs.18.16">So <name type="person">Obadiah</name> went to meet <name type="person">Ahab</name> and told him, and <name type="person">Ahab</name> went to meet <name type="person">Elijah</name>.</verse>
         <verse osisID="1Kgs.18.17">When he saw <name type="person">Elijah</name>, he said to him, "Is that you, you troubler of Israel?"</verse>
         
-        <verse osisID="1Kgs.18.18">"I have not made trouble for Israel," <name type="person">Elijah</name> replied. "But you and your father's family have. You have abandoned <divineName>Yahweh's</divineName> commands and have followed the <name type="other">Baals</name>.</verse>
-        <verse osisID="1Kgs.18.19">Now summon the people from all over Israel to meet me on <name type="geographic">Mount Carmel</name>. And bring the four hundred and fifty prophets of <name type="other">Baal</name> and the four hundred prophets of <name type="other">Asherah</name>, who eat at <name type="person">Jezebel's</name> table."</verse>
+        <verse osisID="1Kgs.18.18">"I have not made trouble for Israel," <name type="person">Elijah</name> replied. "But you and your father's family have. You have abandoned <divineName>Yahweh's</divineName> commands and have followed the <name type="person">Baals</name>.</verse>
+        <verse osisID="1Kgs.18.19">Now summon the people from all over Israel to meet me on <name type="geographic">Mount Carmel</name>. And bring the four hundred and fifty prophets of <name type="person">Baal</name> and the four hundred prophets of <name type="person">Asherah</name>, who eat at <name type="person">Jezebel's</name> table."</verse>
         
         <verse osisID="1Kgs.18.20">So <name type="person">Ahab</name> sent word throughout all Israel and assembled the prophets on <name type="geographic">Mount Carmel</name>.</verse>
-        <verse osisID="1Kgs.18.21"><name type="person">Elijah</name> went before the people and said, "How long will you waver between two opinions? If <divineName>Yahweh</divineName> is God, follow him; but if <name type="other">Baal</name> is God, follow him." But the people said nothing.</verse>
+        <verse osisID="1Kgs.18.21"><name type="person">Elijah</name> went before the people and said, "How long will you waver between two opinions? If <divineName>Yahweh</divineName> is God, follow him; but if <name type="person">Baal</name> is God, follow him." But the people said nothing.</verse>
         
-        <verse osisID="1Kgs.18.22">Then <name type="person">Elijah</name> said to them, "I am the only one of <divineName>Yahweh's</divineName> prophets left, but <name type="other">Baal</name> has four hundred and fifty prophets.</verse>
-        <verse osisID="1Kgs.18.23">Get two bulls for us. Let <name type="other">Baal's</name> prophets choose one for themselves, and let them cut it into pieces and put it on the wood but not set fire to it. I will prepare the other bull and put it on the wood but not set fire to it.</verse>
+        <verse osisID="1Kgs.18.22">Then <name type="person">Elijah</name> said to them, "I am the only one of <divineName>Yahweh's</divineName> prophets left, but <name type="person">Baal</name> has four hundred and fifty prophets.</verse>
+        <verse osisID="1Kgs.18.23">Get two bulls for us. Let <name type="person">Baal's</name> prophets choose one for themselves, and let them cut it into pieces and put it on the wood but not set fire to it. I will prepare the other bull and put it on the wood but not set fire to it.</verse>
         <verse osisID="1Kgs.18.24">Then you call on the name of your god, and I will call on the name of <divineName>Yahweh</divineName>. The god who answers by fire—he is God." Then all the people said, "What you say is good."</verse>
         
-        <verse osisID="1Kgs.18.25"><name type="person">Elijah</name> said to the prophets of <name type="other">Baal</name>, "Choose one of the bulls and prepare it first, since there are so many of you. Call on the name of your god, but do not light the fire."</verse>
-        <verse osisID="1Kgs.18.26">So they took the bull given them and prepared it. Then they called on the name of <name type="other">Baal</name> from morning till noon. "<name type="other">Baal</name>, answer us!" they shouted. But there was no response; no one answered. And they danced around the altar they had made.</verse>
+        <verse osisID="1Kgs.18.25"><name type="person">Elijah</name> said to the prophets of <name type="person">Baal</name>, "Choose one of the bulls and prepare it first, since there are so many of you. Call on the name of your god, but do not light the fire."</verse>
+        <verse osisID="1Kgs.18.26">So they took the bull given them and prepared it. Then they called on the name of <name type="person">Baal</name> from morning till noon. "<name type="person">Baal</name>, answer us!" they shouted. But there was no response; no one answered. And they danced around the altar they had made.</verse>
         
         <verse osisID="1Kgs.18.27">At noon <name type="person">Elijah</name> began to taunt them. "Shout louder!" he said. "Surely he is a god! Perhaps he is deep in thought, or busy, or traveling. Maybe he is sleeping and must be awakened."</verse>
         <verse osisID="1Kgs.18.28">So they shouted louder and slashed themselves with swords and spears, as was their custom, until their blood flowed.</verse>
@@ -1098,7 +1108,7 @@
         
         <verse osisID="1Kgs.18.39">When all the people saw this, they fell prostrate and cried, "<divineName>Yahweh</divineName>—he is God! <divineName>Yahweh</divineName>—he is God!"</verse>
         
-        <verse osisID="1Kgs.18.40">Then <name type="person">Elijah</name> commanded them, "Seize the prophets of <name type="other">Baal</name>. Don't let anyone get away!" They seized them, and <name type="person">Elijah</name> had them brought down to the <name type="geographic">Kishon Valley</name> and slaughtered there.</verse>
+        <verse osisID="1Kgs.18.40">Then <name type="person">Elijah</name> commanded them, "Seize the prophets of <name type="person">Baal</name>. Don't let anyone get away!" They seized them, and <name type="person">Elijah</name> had them brought down to the <name type="geographic">Kishon Valley</name> and slaughtered there.</verse>
         
         <title type="sub">Elijah Prays for Rain</title>
         
@@ -1141,7 +1151,7 @@
         <verse osisID="1Kgs.19.15"><divineName>Yahweh</divineName> said to him, "Go back the way you came, and go to the <name type="geographic">Desert of Damascus</name>. When you get there, anoint <name type="person">Hazael</name> king over <name type="geographic">Aram</name>.</verse>
         <verse osisID="1Kgs.19.16">Also, anoint <name type="person">Jehu son of Nimshi</name> king over Israel, and anoint <name type="person">Elisha son of Shaphat</name> from <name type="geographic">Abel Meholah</name> to succeed you as prophet.</verse>
         <verse osisID="1Kgs.19.17"><name type="person">Jehu</name> will put to death any who escape the sword of <name type="person">Hazael</name>, and <name type="person">Elisha</name> will put to death any who escape the sword of <name type="person">Jehu</name>.</verse>
-        <verse osisID="1Kgs.19.18">Yet I reserve seven thousand in Israel—all whose knees have not bowed down to <name type="other">Baal</name> and whose mouths have not kissed him."</verse>
+        <verse osisID="1Kgs.19.18">Yet I reserve seven thousand in Israel—all whose knees have not bowed down to <name type="person">Baal</name> and whose mouths have not kissed him."</verse>
         
         <title type="sub">The Call of Elisha</title>
         
@@ -1188,8 +1198,8 @@
         <verse osisID="1Kgs.20.18">He said, "If they have come out for peace, take them alive; if they have come out for war, take them alive."</verse>
         
         <verse osisID="1Kgs.20.19">The junior officers under the provincial commanders marched out of the city with the army behind them</verse>
-        <verse osisID="1Kgs.20.20">and each one struck down his opponent. At that, the <name type="group">Arameans</name> fled, with the Israelites in pursuit. But <name type="person">Ben-Hadad king of Aram</name> escaped on horseback with some of his horsemen.</verse>
-        <verse osisID="1Kgs.20.21">The king of Israel advanced and overpowered the horses and chariots and inflicted heavy losses on the <name type="group">Arameans</name>.</verse>
+        <verse osisID="1Kgs.20.20">and each one struck down his opponent. At that, the <name type="person">Arameans</name> fled, with the Israelites in pursuit. But <name type="person">Ben-Hadad king of Aram</name> escaped on horseback with some of his horsemen.</verse>
+        <verse osisID="1Kgs.20.21">The king of Israel advanced and overpowered the horses and chariots and inflicted heavy losses on the <name type="person">Arameans</name>.</verse>
         
         <verse osisID="1Kgs.20.22">Afterward, the prophet came to the king of Israel and said, "Strengthen your position and see what must be done, because next spring the king of <name type="geographic">Aram</name> will attack you again."</verse>
         
@@ -1199,12 +1209,12 @@
         <verse osisID="1Kgs.20.24">Do this: Remove all the kings from their commands and replace them with other officers.</verse>
         <verse osisID="1Kgs.20.25">You must also raise an army like the one you lost—horse for horse and chariot for chariot—so we can fight Israel on the plains. Then surely we will be stronger than they." He agreed with them and acted accordingly.</verse>
         
-        <verse osisID="1Kgs.20.26">The next spring <name type="person">Ben-Hadad</name> mustered the <name type="group">Arameans</name> and went up to <name type="geographic">Aphek</name> to fight against Israel.</verse>
-        <verse osisID="1Kgs.20.27">When the Israelites were also mustered and given provisions, they marched out to meet them. The Israelites camped opposite them like two small flocks of goats, while the <name type="group">Arameans</name> covered the countryside.</verse>
+        <verse osisID="1Kgs.20.26">The next spring <name type="person">Ben-Hadad</name> mustered the <name type="person">Arameans</name> and went up to <name type="geographic">Aphek</name> to fight against Israel.</verse>
+        <verse osisID="1Kgs.20.27">When the Israelites were also mustered and given provisions, they marched out to meet them. The Israelites camped opposite them like two small flocks of goats, while the <name type="person">Arameans</name> covered the countryside.</verse>
         
-        <verse osisID="1Kgs.20.28">The man of God came up and told the king of Israel, "This is what <divineName>Yahweh</divineName> says: 'Because the <name type="group">Arameans</name> think <divineName>Yahweh</divineName> is a god of the hills and not a god of the valleys, I will deliver this vast army into your hands, and you will know that I am <divineName>Yahweh</divineName>.'"</verse>
+        <verse osisID="1Kgs.20.28">The man of God came up and told the king of Israel, "This is what <divineName>Yahweh</divineName> says: 'Because the <name type="person">Arameans</name> think <divineName>Yahweh</divineName> is a god of the hills and not a god of the valleys, I will deliver this vast army into your hands, and you will know that I am <divineName>Yahweh</divineName>.'"</verse>
         
-        <verse osisID="1Kgs.20.29">For seven days they camped opposite each other, and on the seventh day the battle was joined. The Israelites inflicted a hundred thousand casualties on the <name type="group">Aramean</name> foot soldiers in one day.</verse>
+        <verse osisID="1Kgs.20.29">For seven days they camped opposite each other, and on the seventh day the battle was joined. The Israelites inflicted a hundred thousand casualties on the <name type="person">Aramean</name> foot soldiers in one day.</verse>
         <verse osisID="1Kgs.20.30">The rest of them escaped to the city of <name type="geographic">Aphek</name>, where the wall collapsed on twenty-seven thousand of them. And <name type="person">Ben-Hadad</name> fled to the city and hid in an inner room.</verse>
         
         <verse osisID="1Kgs.20.31">His officials said to him, "Look, we have heard that the kings of Israel are merciful. Let us go to the king of Israel with sackcloth around our waists and ropes around our heads. Perhaps he will spare your life."</verse>
@@ -1273,7 +1283,7 @@
         <verse osisID="1Kgs.21.24">"Dogs will eat those belonging to <name type="person">Ahab</name> who die in the city, and the birds will feed on those who die in the country."</verse>
         
         <verse osisID="1Kgs.21.25">(There was never anyone like <name type="person">Ahab</name>, who sold himself to do evil in the eyes of <divineName>Yahweh</divineName>, urged on by <name type="person">Jezebel</name> his wife.</verse>
-        <verse osisID="1Kgs.21.26">He behaved in the vilest manner by going after idols, like the <name type="group">Amorites</name> <divineName>Yahweh</divineName> drove out before the Israelites.)</verse>
+        <verse osisID="1Kgs.21.26">He behaved in the vilest manner by going after idols, like the <name type="person">Amorites</name> <divineName>Yahweh</divineName> drove out before the Israelites.)</verse>
         
         <verse osisID="1Kgs.21.27">When <name type="person">Ahab</name> heard these words, he tore his clothes, put on sackcloth and fasted. He lay in sackcloth and went around meekly.</verse>
         
@@ -1301,7 +1311,7 @@
         <verse osisID="1Kgs.22.9">So the king of Israel called one of his officials and said, "Bring <name type="person">Micaiah son of Imlah</name> at once."</verse>
         
         <verse osisID="1Kgs.22.10">Dressed in their royal robes, the king of Israel and <name type="person">Jehoshaphat king of Judah</name> were sitting on their thrones at the threshing floor by the entrance of the gate of <name type="geographic">Samaria</name>, with all the prophets prophesying before them.</verse>
-        <verse osisID="1Kgs.22.11">Now <name type="person">Zedekiah son of Kenaanah</name> had made iron horns and he declared, "This is what <divineName>Yahweh</divineName> says: 'With these you will gore the <name type="group">Arameans</name> until they are destroyed.'"</verse>
+        <verse osisID="1Kgs.22.11">Now <name type="person">Zedekiah son of Kenaanah</name> had made iron horns and he declared, "This is what <divineName>Yahweh</divineName> says: 'With these you will gore the <name type="person">Arameans</name> until they are destroyed.'"</verse>
         
         <verse osisID="1Kgs.22.12">All the other prophets were prophesying the same thing. "Attack <name type="geographic">Ramoth Gilead</name> and be victorious," they said, "for <divineName>Yahweh</divineName> will give it into the king's hand."</verse>
         
@@ -1344,7 +1354,7 @@
         <verse osisID="1Kgs.22.33">the chariot commanders saw that he was not the king of Israel and stopped pursuing him.</verse>
         
         <verse osisID="1Kgs.22.34">But someone drew his bow at random and hit the king of Israel between the sections of his armor. The king told his chariot driver, "Wheel around and get me out of the fighting. I've been wounded."</verse>
-        <verse osisID="1Kgs.22.35">All day long the battle raged, and the king was propped up in his chariot facing the <name type="group">Arameans</name>. The blood from his wound ran onto the floor of the chariot, and that evening he died.</verse>
+        <verse osisID="1Kgs.22.35">All day long the battle raged, and the king was propped up in his chariot facing the <name type="person">Arameans</name>. The blood from his wound ran onto the floor of the chariot, and that evening he died.</verse>
         <verse osisID="1Kgs.22.36">As the sun was setting, a cry spread through the army: "Every man to his town. Every man to his land!"</verse>
         
         <verse osisID="1Kgs.22.37">So the king died and was brought to <name type="geographic">Samaria</name>, and they buried him there.</verse>
@@ -1373,7 +1383,7 @@
         
         <verse osisID="1Kgs.22.51"><name type="person">Ahaziah son of Ahab</name> became king of Israel in <name type="geographic">Samaria</name> in the seventeenth year of <name type="person">Jehoshaphat king of Judah</name>, and he reigned over Israel two years.</verse>
         <verse osisID="1Kgs.22.52">He did evil in the eyes of <divineName>Yahweh</divineName>, because he followed the ways of his father and mother and of <name type="person">Jeroboam son of Nebat</name>, who caused Israel to sin.</verse>
-        <verse osisID="1Kgs.22.53">He served and worshiped <name type="other">Baal</name> and aroused the anger of <divineName>Yahweh</divineName>, the God of Israel, just as his father had done.</verse>
+        <verse osisID="1Kgs.22.53">He served and worshiped <name type="person">Baal</name> and aroused the anger of <divineName>Yahweh</divineName>, the God of Israel, just as his father had done.</verse>
       </chapter>
     </div>
   </osisText>

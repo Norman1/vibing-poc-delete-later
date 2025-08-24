@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <type type="OSIS">Bible</type>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
         <rights type="x-copyright">Public Domain</rights>
-        <scope>1Sam</scope>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -20,7 +21,7 @@
         <p>First Samuel records Israel's transition from the period of judges to the kingdom under their first king, Saul. The book tells the stories of Samuel the prophet, Saul's rise and tragic fall, and young David's anointing and early victories. It shows how God chose David, a man after his own heart, to replace the disobedient King Saul.</p>
       </div>
       
-      <chapter osisID="1Sam.1" sID="1Sam.1"/>
+      <chapter osisID="1Sam.1" sID="1Sam.1" />
       <title type="sub">Hannah's Prayer for a Son</title>
       <verse osisID="1Sam.1.1">There was a certain man from Ramathaim, a Zuphite from the hill country of Ephraim, whose name was Elkanah son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.</verse>
       <verse osisID="1Sam.1.2">He had two wives; one was called Hannah and the other Peninnah. Peninnah had children, but Hannah had none.</verse>
@@ -50,9 +51,9 @@
       <verse osisID="1Sam.1.26">and she said to him, "Pardon me, my lord. As surely as you live, I am the woman who stood here beside you praying to Yahweh.</verse>
       <verse osisID="1Sam.1.27">I prayed for this child, and Yahweh has granted me what I asked of him.</verse>
       <verse osisID="1Sam.1.28">So now I give him to Yahweh. For his whole life he will be given over to Yahweh." And he worshiped Yahweh there.</verse>
-      <chapter eID="1Sam.1"/>
+      <chapter eID="1Sam.1" />
 
-      <chapter osisID="1Sam.2" sID="1Sam.2"/>
+      <chapter osisID="1Sam.2" sID="1Sam.2" />
       <title type="sub">Hannah's Prayer of Praise</title>
       <verse osisID="1Sam.2.1">Then Hannah prayed and said: "My heart rejoices in Yahweh; in Yahweh my horn is lifted high. My mouth boasts over my enemies, for I delight in your deliverance.</verse>
       <verse osisID="1Sam.2.2">There is no one set apart like Yahweh; there is no one besides you; there is no Rock like our God.</verse>
@@ -94,9 +95,9 @@
       <verse osisID="1Sam.2.34">And what happens to your two sons, Hophni and Phinehas, will be a sign to you—they will both die on the same day.</verse>
       <verse osisID="1Sam.2.35">I will raise up for myself a faithful priest, who will do according to what is in my heart and mind. I will firmly establish his priestly house, and they will minister before the one who had oil poured on him always.</verse>
       <verse osisID="1Sam.2.36">Then everyone left in your family line will come and bow down before him for a piece of silver and a loaf of bread and plead, "Appoint me to some priestly office so I can have food to eat."'"</verse>
-      <chapter eID="1Sam.2"/>
+      <chapter eID="1Sam.2" />
 
-      <chapter osisID="1Sam.3" sID="1Sam.3"/>
+      <chapter osisID="1Sam.3" sID="1Sam.3" />
       <title type="sub">God Calls Samuel</title>
       <verse osisID="1Sam.3.1">The boy Samuel ministered before Yahweh under Eli. In those days the word of Yahweh was rare; there were not many visions.</verse>
       <verse osisID="1Sam.3.2">One night Eli, whose eyes were becoming so weak that he could barely see, was lying down in his usual place.</verse>
@@ -119,9 +120,9 @@
       <verse osisID="1Sam.3.19">Yahweh was with Samuel as he grew up, and he let none of Samuel's words fall to the ground.</verse>
       <verse osisID="1Sam.3.20">And all Israel from Dan to Beersheba recognized that Samuel was attested as a prophet of Yahweh.</verse>
       <verse osisID="1Sam.3.21">Yahweh continued to appear at Shiloh, and there he revealed himself to Samuel through his word.</verse>
-      <chapter eID="1Sam.3"/>
+      <chapter eID="1Sam.3" />
 
-      <chapter osisID="1Sam.4" sID="1Sam.4"/>
+      <chapter osisID="1Sam.4" sID="1Sam.4" />
       <title type="sub">The Ark Captured by the Philistines</title>
       <verse osisID="1Sam.4.1">And Samuel's word came to all Israel. Now the Israelites went out to fight against the Philistines. The Israelites camped at Ebenezer, and the Philistines at Aphek.</verse>
       <verse osisID="1Sam.4.2">The Philistines deployed their forces to meet Israel, and as the battle spread, Israel was defeated by the Philistines, who killed about four thousand of them on the battlefield.</verse>
@@ -147,9 +148,9 @@
       <verse osisID="1Sam.4.20">As she was dying, the women attending her said, "Don't despair; you have given birth to a son." But she did not respond or pay any attention.</verse>
       <verse osisID="1Sam.4.21"><note type="study" n="2">The name Ichabod means "no glory" or "the glory has departed."</note>She named the boy Ichabod, saying, "The glory has departed from Israel"—because of the capture of the ark of God and the deaths of her father-in-law and her husband.</verse>
       <verse osisID="1Sam.4.22">She said, "The glory has departed from Israel, for the ark of God has been captured."</verse>
-      <chapter eID="1Sam.4"/>
+      <chapter eID="1Sam.4" />
 
-      <chapter osisID="1Sam.5" sID="1Sam.5"/>
+      <chapter osisID="1Sam.5" sID="1Sam.5" />
       <title type="sub">The Ark in Ashdod and Ekron</title>
       <verse osisID="1Sam.5.1">After the Philistines had captured the ark of God, they took it from Ebenezer to Ashdod.</verse>
       <verse osisID="1Sam.5.2">Then they carried the ark into Dagon's temple and set it beside Dagon.</verse>
@@ -163,9 +164,9 @@
       <verse osisID="1Sam.5.10">So they sent the ark of God to Ekron. As the ark of God was entering Ekron, the people of Ekron cried out, "They have brought the ark of the god of Israel around to us to kill us and our people."</verse>
       <verse osisID="1Sam.5.11">So they called together all the rulers of the Philistines and said, "Send the ark of the god of Israel away; let it go back to its own place, or it will kill us and our people." For death had filled the city with panic; God's hand was very heavy on it.</verse>
       <verse osisID="1Sam.5.12">Those who did not die were afflicted with tumors, and the outcry of the city went up to heaven.</verse>
-      <chapter eID="1Sam.5"/>
+      <chapter eID="1Sam.5" />
 
-      <chapter osisID="1Sam.6" sID="1Sam.6"/>
+      <chapter osisID="1Sam.6" sID="1Sam.6" />
       <title type="sub">The Ark Returned to Israel</title>
       <verse osisID="1Sam.6.1">When the ark of Yahweh had been in Philistine territory seven months,</verse>
       <verse osisID="1Sam.6.2">the Philistines called for the priests and the diviners and said, "What shall we do with the ark of Yahweh? Tell us how we should send it back to its place."</verse>
@@ -188,9 +189,9 @@
       <verse osisID="1Sam.6.19">But God struck down some of the inhabitants of Beth Shemesh, putting seventy of them to death because they looked into the ark of Yahweh. The people mourned because of the heavy blow Yahweh had dealt them.</verse>
       <verse osisID="1Sam.6.20">And the people of Beth Shemesh asked, "Who can stand in the presence of Yahweh, this God set apart? To whom will the ark go up from here?"</verse>
       <verse osisID="1Sam.6.21">Then they sent messengers to the people of Kiriath Jearim, saying, "The Philistines have returned the ark of Yahweh. Come down and take it up to your town."</verse>
-      <chapter eID="1Sam.6"/>
+      <chapter eID="1Sam.6" />
 
-      <chapter osisID="1Sam.7" sID="1Sam.7"/>
+      <chapter osisID="1Sam.7" sID="1Sam.7" />
       <title type="sub">Samuel Subdues the Philistines at Mizpah</title>
       <verse osisID="1Sam.7.1">So the men of Kiriath Jearim came and took up the ark of Yahweh. They brought it to Abinadab's house on the hill and consecrated Eleazar his son to guard the ark of Yahweh.</verse>
       <verse osisID="1Sam.7.2">The ark remained at Kiriath Jearim a long time—twenty years in all.</verse>
@@ -211,9 +212,9 @@
       <verse osisID="1Sam.7.15">Samuel continued as Israel's leader all the days of his life.</verse>
       <verse osisID="1Sam.7.16">From year to year he went on a circuit from Bethel to Gilgal to Mizpah, judging Israel in all those places.</verse>
       <verse osisID="1Sam.7.17">But he always went back to Ramah, where his home was, and there he also held court for Israel. And he built an altar there to Yahweh.</verse>
-      <chapter eID="1Sam.7"/>
+      <chapter eID="1Sam.7" />
 
-      <chapter osisID="1Sam.8" sID="1Sam.8"/>
+      <chapter osisID="1Sam.8" sID="1Sam.8" />
       <title type="sub">Israel Asks for a King</title>
       <verse osisID="1Sam.8.1">When Samuel grew old, he appointed his sons as Israel's leaders.</verse>
       <verse osisID="1Sam.8.2">The name of his firstborn was Joel and the name of his second was Abijah, and they served at Beersheba.</verse>
@@ -237,9 +238,9 @@
       <verse osisID="1Sam.8.20">Then we will be like all the other nations, with a king to lead us and to go out before us and fight our battles."</verse>
       <verse osisID="1Sam.8.21">When Samuel heard all that the people said, he repeated it before Yahweh.</verse>
       <verse osisID="1Sam.8.22">Yahweh answered, "Listen to them and give them a king." Then Samuel said to the Israelites, "Everyone go back to your own town."</verse>
-      <chapter eID="1Sam.8"/>
+      <chapter eID="1Sam.8" />
 
-      <chapter osisID="1Sam.9" sID="1Sam.9"/>
+      <chapter osisID="1Sam.9" sID="1Sam.9" />
       <title type="sub">Samuel Anoints Saul</title>
       <verse osisID="1Sam.9.1">There was a Benjamite, a man of standing, whose name was Kish son of Abiel, the son of Zeror, the son of Bekorath, the son of Aphiah of Benjamin.</verse>
       <verse osisID="1Sam.9.2">Kish had a son named Saul, as handsome a young man as could be found anywhere in Israel, and he was a head taller than anyone else.</verse>
@@ -268,9 +269,9 @@
       <verse osisID="1Sam.9.25">After they came down from the high place to the town, Samuel talked with Saul on the roof of his house.</verse>
       <verse osisID="1Sam.9.26">They rose about daybreak, and Samuel called to Saul on the roof, "Get ready, and I will send you on your way." When Saul got ready, he and Samuel went outside together.</verse>
       <verse osisID="1Sam.9.27">As they were going down to the edge of the town, Samuel said to Saul, "Tell the servant to go on ahead of us"—and the servant did so—"but you stay here for a while, so that I may give you a message from God."</verse>
-      <chapter eID="1Sam.9"/>
+      <chapter eID="1Sam.9" />
 
-      <chapter osisID="1Sam.10" sID="1Sam.10"/>
+      <chapter osisID="1Sam.10" sID="1Sam.10" />
       <verse osisID="1Sam.10.1">Then Samuel took a flask of olive oil and poured it on Saul's head and kissed him, saying, "Has not Yahweh had oil poured on you ruler over his inheritance?</verse>
       <verse osisID="1Sam.10.2">When you leave me today, you will meet two men near Rachel's tomb, at Zelzah on the border of Benjamin. They will say to you, 'The donkeys you set out to look for have been found. And now your father has stopped thinking about them and is worried about you. He is asking, "What shall I do about my son?"'</verse>
       <verse osisID="1Sam.10.3">Then you will go on from there until you reach the great tree of Tabor. Three men going up to worship God at Bethel will meet you there. One will be carrying three young goats, another three loaves of bread, and another a skin of wine.</verse>
@@ -300,9 +301,9 @@
       <verse osisID="1Sam.10.25">Samuel explained to the people the rights and duties of kingship. He wrote them down on a scroll and deposited it before Yahweh. Then Samuel dismissed the people to go to their own homes.</verse>
       <verse osisID="1Sam.10.26">Saul also went to his home in Gibeah, accompanied by valiant men whose hearts God had touched.</verse>
       <verse osisID="1Sam.10.27">But some scoundrels said, "How can this fellow save us?" They despised him and brought him no gifts. But Saul kept silent.</verse>
-      <chapter eID="1Sam.10"/>
+      <chapter eID="1Sam.10" />
 
-      <chapter osisID="1Sam.11" sID="1Sam.11"/>
+      <chapter osisID="1Sam.11" sID="1Sam.11" />
       <title type="sub">Saul Rescues the City of Jabesh</title>
       <verse osisID="1Sam.11.1">Nahash the Ammonite went up and besieged Jabesh Gilead. And all the men of Jabesh said to him, "Make a treaty with us, and we will be subject to you."</verse>
       <verse osisID="1Sam.11.2">But Nahash the Ammonite replied, "I will make a treaty with you only on the condition that I gouge out the right eye of every one of you and so bring disgrace on all Israel."</verse>
@@ -321,9 +322,9 @@
       <verse osisID="1Sam.11.13">But Saul said, "No one will be put to death today, for this day Yahweh has rescued Israel."</verse>
       <verse osisID="1Sam.11.14">Then Samuel said to the people, "Come, let us go to Gilgal and there renew the kingship."</verse>
       <verse osisID="1Sam.11.15">So all the people went to Gilgal and made Saul king in the presence of Yahweh. There they sacrificed fellowship offerings before Yahweh, and Saul and all the Israelites held a great celebration.</verse>
-      <chapter eID="1Sam.11"/>
+      <chapter eID="1Sam.11" />
 
-      <chapter osisID="1Sam.12" sID="1Sam.12"/>
+      <chapter osisID="1Sam.12" sID="1Sam.12" />
       <title type="sub">Samuel's Farewell Speech</title>
       <verse osisID="1Sam.12.1">Samuel said to all Israel, "I have listened to everything you said to me and have set a king over you.</verse>
       <verse osisID="1Sam.12.2">Now you have a king as your leader. As for me, I am old and gray, and my sons are here with you. I have been your leader from my youth until this day.</verse>
@@ -350,9 +351,9 @@
       <verse osisID="1Sam.12.23">As for me, far be it from me that I should wrong Yahweh by failing to pray for you. And I will teach you the way that is good and right.</verse>
       <verse osisID="1Sam.12.24">But be sure to fear Yahweh and serve him faithfully with all your heart; consider what great things he has done for you.</verse>
       <verse osisID="1Sam.12.25">Yet if you persist in doing evil, both you and your king will perish."</verse>
-      <chapter eID="1Sam.12"/>
+      <chapter eID="1Sam.12" />
 
-      <chapter osisID="1Sam.13" sID="1Sam.13"/>
+      <chapter osisID="1Sam.13" sID="1Sam.13" />
       <title type="sub">Samuel Rebukes Saul</title>
       <verse osisID="1Sam.13.1">Saul was thirty years old when he became king, and he reigned over Israel forty-two years.</verse>
       <verse osisID="1Sam.13.2">Saul chose three thousand men from Israel; two thousand were with him at Mikmash and in the hill country of Bethel, and a thousand were with Jonathan at Gibeah in Benjamin. The rest of the men he sent back to their homes.</verse>
@@ -377,9 +378,9 @@
       <verse osisID="1Sam.13.21">The price was two-thirds of a shekel for sharpening plow points and mattocks, and a third of a shekel for sharpening forks and axes and for repointing goads.</verse>
       <verse osisID="1Sam.13.22">So on the day of the battle not a soldier with Saul and Jonathan had a sword or spear in his hand; only Saul and his son Jonathan had them.</verse>
       <verse osisID="1Sam.13.23">Now a detachment of Philistines had gone out to the pass at Mikmash.</verse>
-      <chapter eID="1Sam.13"/>
+      <chapter eID="1Sam.13" />
 
-      <chapter osisID="1Sam.14" sID="1Sam.14"/>
+      <chapter osisID="1Sam.14" sID="1Sam.14" />
       <title type="sub">Jonathan Attacks the Philistines</title>
       <verse osisID="1Sam.14.1">One day Jonathan son of Saul said to his young armor-bearer, "Come, let's go over to the Philistine outpost on the other side." But he did not tell his father.</verse>
       <verse osisID="1Sam.14.2">Saul was staying on the outskirts of Gibeah under a pomegranate tree in Migron. With him were about six hundred men,</verse>
@@ -437,9 +438,9 @@
       <verse osisID="1Sam.14.50">His wife's name was Ahinoam daughter of Ahimaaz. The name of the commander of Saul's army was Abner son of Ner, and Ner was Saul's uncle.</verse>
       <verse osisID="1Sam.14.51">Saul's father Kish and Abner's father Ner were sons of Abiel.</verse>
       <verse osisID="1Sam.14.52">All the days of Saul there was bitter war with the Philistines, and whenever Saul saw a mighty or brave man, he took him into his service.</verse>
-      <chapter eID="1Sam.14"/>
+      <chapter eID="1Sam.14" />
 
-      <chapter osisID="1Sam.15" sID="1Sam.15"/>
+      <chapter osisID="1Sam.15" sID="1Sam.15" />
       <title type="sub">God Rejects Saul as King</title>
       <verse osisID="1Sam.15.1">Samuel said to Saul, "I am the one Yahweh sent to anoint you king over his people Israel; so listen now to the message from Yahweh.</verse>
       <verse osisID="1Sam.15.2">This is what Yahweh Almighty says: 'I will punish the Amalekites for what they did to Israel when they waylaid them as they came up from Egypt.</verse>
@@ -476,9 +477,9 @@
       <verse osisID="1Sam.15.33">But Samuel said, "As your sword has made women childless, so will your mother be childless among women." And Samuel put Agag to death before Yahweh at Gilgal.</verse>
       <verse osisID="1Sam.15.34">Then Samuel left for Ramah, but Saul went up to his home in Gibeah of Saul.</verse>
       <verse osisID="1Sam.15.35">Until the day Samuel died, he did not go to see Saul again, though Samuel mourned for him. And Yahweh regretted that he had made Saul king over Israel.</verse>
-      <chapter eID="1Sam.15"/>
+      <chapter eID="1Sam.15" />
 
-      <chapter osisID="1Sam.16" sID="1Sam.16"/>
+      <chapter osisID="1Sam.16" sID="1Sam.16" />
       <title type="sub">Samuel Anoints David</title>
       <verse osisID="1Sam.16.1">Yahweh said to Samuel, "How long will you mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and be on your way; I am sending you to Jesse of Bethlehem. I have chosen one of his sons to be king."</verse>
       <verse osisID="1Sam.16.2">But Samuel said, "How can I go? If Saul hears about it, he will kill me." Yahweh said, "Take a heifer with you and say, 'I have come to sacrifice to Yahweh.'</verse>
@@ -505,9 +506,9 @@
       <verse osisID="1Sam.16.21">David came to Saul and entered his service. Saul liked him very much, and David became one of his armor-bearers.</verse>
       <verse osisID="1Sam.16.22">Then Saul sent word to Jesse, saying, "Allow David to remain in my service, because I am pleased with him."</verse>
       <verse osisID="1Sam.16.23">Whenever the spirit from God came on Saul, David would take up his lyre and play. Then relief would come to Saul; he would feel better, and the evil spirit would leave him.</verse>
-      <chapter eID="1Sam.16"/>
+      <chapter eID="1Sam.16" />
 
-      <chapter osisID="1Sam.17" sID="1Sam.17"/>
+      <chapter osisID="1Sam.17" sID="1Sam.17" />
       <title type="sub">David and Goliath</title>
       <verse osisID="1Sam.17.1">Now the Philistines gathered their forces for war and assembled at Sokoh in Judah. They pitched camp at Ephes Dammim, between Sokoh and Azekah.</verse>
       <verse osisID="1Sam.17.2">Saul and the Israelites assembled and camped in the Valley of Elah and drew up their battle line to meet the Philistines.</verse>
@@ -567,9 +568,9 @@
       <verse osisID="1Sam.17.56">The king said, "Find out whose son this young man is."</verse>
       <verse osisID="1Sam.17.57">As soon as David returned from killing the Philistine, Abner took him and brought him before Saul, with David still holding the Philistine's head.</verse>
       <verse osisID="1Sam.17.58">"Whose son are you, young man?" Saul asked him. David said, "I am the son of your servant Jesse of Bethlehem."</verse>
-      <chapter eID="1Sam.17"/>
+      <chapter eID="1Sam.17" />
 
-      <chapter osisID="1Sam.18" sID="1Sam.18"/>
+      <chapter osisID="1Sam.18" sID="1Sam.18" />
       <title type="sub">Saul's Growing Fear of David</title>
       <verse osisID="1Sam.18.1">After David had finished talking with Saul, Jonathan became one in spirit with David, and he loved him as himself.</verse>
       <verse osisID="1Sam.18.2">From that day Saul kept David with him and did not let him return home to his family.</verse>
@@ -601,9 +602,9 @@
       <verse osisID="1Sam.18.28">When Saul realized that Yahweh was with David and that his daughter Michal loved David,</verse>
       <verse osisID="1Sam.18.29">Saul became still more afraid of him, and he remained his enemy the rest of his days.</verse>
       <verse osisID="1Sam.18.30">The Philistine commanders continued to go out to battle, and as often as they did, David met with more success than the rest of Saul's officers, and his name became well known.</verse>
-      <chapter eID="1Sam.18"/>
+      <chapter eID="1Sam.18" />
 
-      <chapter osisID="1Sam.19" sID="1Sam.19"/>
+      <chapter osisID="1Sam.19" sID="1Sam.19" />
       <title type="sub">Saul Tries to Kill David</title>
       <verse osisID="1Sam.19.1">Saul told his son Jonathan and all the attendants to kill David. But Jonathan had taken a great liking to David</verse>
       <verse osisID="1Sam.19.2">and warned him, "My father Saul is looking for a chance to kill you. Be on your guard tomorrow morning; go into hiding and stay there.</verse>
@@ -629,9 +630,9 @@
       <verse osisID="1Sam.19.22">Finally, he himself left for Ramah and went to the great cistern at Seku. And he asked, "Where are Samuel and David?" "Over in Naioth at Ramah," they said.</verse>
       <verse osisID="1Sam.19.23">So Saul went to Naioth at Ramah. But the Spirit of God came even on him, and he walked along prophesying until he came to Naioth.</verse>
       <verse osisID="1Sam.19.24">He stripped off his garments, and he too prophesied in Samuel's presence. He lay naked all that day and all that night. This is why people say, "Is Saul also among the prophets?"</verse>
-      <chapter eID="1Sam.19"/>
+      <chapter eID="1Sam.19" />
 
-      <chapter osisID="1Sam.20" sID="1Sam.20"/>
+      <chapter osisID="1Sam.20" sID="1Sam.20" />
       <title type="sub">David and Jonathan's Covenant</title>
       <verse osisID="1Sam.20.1">Then David fled from Naioth at Ramah and went to Jonathan and asked, "What have I done? What is my crime? How have I wronged your father, that he is trying to kill me?"</verse>
       <verse osisID="1Sam.20.2">"Never!" Jonathan replied. "You are not going to die! Look, my father doesn't do anything, great or small, without letting me know. Why would he hide this from me? It isn't so!"</verse>
@@ -675,7 +676,7 @@
       <verse osisID="1Sam.20.40">Then Jonathan gave his weapons to the boy and said, "Go, carry them back to town."</verse>
       <verse osisID="1Sam.20.41">After the boy had gone, David got up from the south side of the stone and bowed down before Jonathan three times, with his face to the ground. Then they kissed each other and wept together—but David wept the most.</verse>
       <verse osisID="1Sam.20.42">Jonathan said to David, "Go in peace, for we have sworn friendship with each other in the name of Yahweh, saying, 'Yahweh is witness between you and me, and between your descendants and my descendants forever.'" Then David left, and Jonathan went back to the town.</verse>
-      <chapter eID="1Sam.20"/>
+      <chapter eID="1Sam.20" />
     </div>
   </osisText>
 </osis>

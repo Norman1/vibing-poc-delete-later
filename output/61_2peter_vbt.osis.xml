@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace 
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace        http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="2Pet" canonical="true">
@@ -18,7 +19,7 @@
         <p>In his final letter, Peter warns against false teachers who were infiltrating the church and leading believers astray with destructive heresies. The apostle emphasizes the importance of spiritual growth and reminds readers that God's apparent delay in judgment is actually his patience, giving more people time to come to salvation. Second Peter concludes with a vivid description of the day of the Lord when Christ will return to judge the world and create new heavens and a new earth.</p>
       </div>
       
-      <chapter osisID="2Pet.1" sID="2Pet.1"/>
+      <chapter osisID="2Pet.1" sID="2Pet.1" />
       <title type="main">Growing in Faith and Character</title>
       
       <verse osisID="2Pet.1.1">From Simon Peter, servant and apostle of Jesus Christ. To those who have received faith equal to ours through the doing what's right by our God and Savior Jesus Christ.</verse>
@@ -69,9 +70,9 @@
       
       <verse osisID="2Pet.1.21">For prophecy never came by human will, but people spoke from God as they were carried along by the Spirit set apart for God.</verse>
       
-      <chapter eID="2Pet.1"/>
+      <chapter eID="2Pet.1" />
       
-      <chapter osisID="2Pet.2" sID="2Pet.2"/>
+      <chapter osisID="2Pet.2" sID="2Pet.2" />
       <title type="main">Warning Against False Teachers</title>
       
       <verse osisID="2Pet.2.1">But there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them, bringing swift destruction upon themselves.</verse>
@@ -94,11 +95,9 @@
       
       <verse osisID="2Pet.2.9">then the Lord knows how to rescue godly people from trials and to keep people not in right standing with God under punishment for the day of judgment,</verse>
       
-      <verse osisID="2Pet.2.10">especially those who indulge in corrupting desires of the flesh and despise authority.</verse>
+      <verse osisID="2Pet.2.10">especially those who indulge in corrupting desires of the flesh and despise authority. Bold and arrogant, they don't tremble when they speak against glorious ones,</verse>
       
       <title type="sub">Description of False Teachers</title>
-      
-      Bold and arrogant, they don't tremble when they speak against glorious ones,</verse>
       
       <verse osisID="2Pet.2.11">whereas angels, though greater in strength and power, don't bring a slanderous judgment against them before the Lord.</verse>
       
@@ -124,9 +123,9 @@
       
       <verse osisID="2Pet.2.22">What happened to them proves the truth of this proverb: "A dog returns to its own vomit," and, "A washed pig returns to wallowing in the mud."</verse>
       
-      <chapter eID="2Pet.2"/>
+      <chapter eID="2Pet.2" />
       
-      <chapter osisID="2Pet.3" sID="2Pet.3"/>
+      <chapter osisID="2Pet.3" sID="2Pet.3" />
       <title type="main">The Day of the Lord</title>
       
       <verse osisID="2Pet.3.1">Dear friends, this is now my second letter to you. In both of them, I stir up your sincere minds by way of reminder</verse>
@@ -171,7 +170,7 @@
       
       <verse osisID="2Pet.3.18">But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen.</verse>
       
-      <chapter eID="2Pet.3"/>
+      <chapter eID="2Pet.3" />
     </div>
   </osisText>
 </osis>

@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     
@@ -19,7 +20,7 @@
         <p>Paul wrote this letter to provide his young protégé Timothy with guidance for leading the church in Ephesus. The apostle addresses practical issues of church leadership, including qualifications for pastors and deacons, proper worship procedures, and how to handle false teachers. First Timothy emphasizes the importance of sound doctrine, godly character in leaders, and maintaining good order in the church while caring for all members of the congregation.</p>
       </div>
 
-      <chapter osisID="1Tim.1" sID="1Tim.1"/>
+      <chapter osisID="1Tim.1" sID="1Tim.1" />
       
       <title type="main">Paul's Instructions to Timothy</title>
       
@@ -71,9 +72,9 @@
       
       <verse osisID="1Tim.1.20">Among them are Hymenaeus and Alexander, whom I have handed over to Satan to be taught not to insult God.</verse>
       
-      <chapter eID="1Tim.1"/>
+      <chapter eID="1Tim.1" />
 
-      <chapter osisID="1Tim.2" sID="1Tim.2"/>
+      <chapter osisID="1Tim.2" sID="1Tim.2" />
       
       <title type="main">Instructions on Worship</title>
 
@@ -109,9 +110,9 @@
       
       <verse osisID="1Tim.2.15">But women will be saved through childbearing—if they continue in faith, love and holiness with propriety.</verse>
       
-      <chapter eID="1Tim.2"/>
+      <chapter eID="1Tim.2" />
 
-      <chapter osisID="1Tim.3" sID="1Tim.3"/>
+      <chapter osisID="1Tim.3" sID="1Tim.3" />
       
       <title type="main">Qualifications for Overseers and Deacons</title>
 
@@ -151,9 +152,9 @@
       
       <verse osisID="1Tim.3.16">Beyond all question, the mystery from which true godliness springs is great: He appeared in the flesh, was vindicated by the Spirit, was seen by angels, was preached among the nations, was believed on in the world, was taken up in glory.</verse>
       
-      <chapter eID="1Tim.3"/>
+      <chapter eID="1Tim.3" />
 
-      <chapter osisID="1Tim.4" sID="1Tim.4"/>
+      <chapter osisID="1Tim.4" sID="1Tim.4" />
       
       <title type="main">The Spirit's Warning About the Later Times</title>
 
@@ -191,9 +192,9 @@
       
       <verse osisID="1Tim.4.16">Watch your life and doctrine closely. Persevere in them, because if you do, you will save both yourself and your hearers.</verse>
       
-      <chapter eID="1Tim.4"/>
+      <chapter eID="1Tim.4" />
 
-      <chapter osisID="1Tim.5" sID="1Tim.5"/>
+      <chapter osisID="1Tim.5" sID="1Tim.5" />
       
       <title type="main">Widows, Elders and Slaves</title>
 
@@ -251,9 +252,9 @@
       
       <verse osisID="1Tim.5.25">In the same way, good deeds are obvious, and even those that are not obvious cannot remain hidden forever.</verse>
       
-      <chapter eID="1Tim.5"/>
+      <chapter eID="1Tim.5" />
 
-      <chapter osisID="1Tim.6" sID="1Tim.6"/>
+      <chapter osisID="1Tim.6" sID="1Tim.6" />
       
       <title type="main">Final Charges</title>
 
@@ -307,7 +308,7 @@
       
       <verse osisID="1Tim.6.21">which some have professed and in so doing have departed from the faith. Grace be with you all.</verse>
       
-      <chapter eID="1Tim.6"/>
+      <chapter eID="1Tim.6" />
     </div>
   </osisText>
 </osis>

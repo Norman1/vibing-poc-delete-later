@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="Ezek" canonical="true">
       <title type="main">Ezekiel</title>
       
-      <chapter osisID="Ezek.1" sID="Ezek.1"/>
+      <chapter osisID="Ezek.1" sID="Ezek.1" />
       <title type="main">Ezekiel's Vision of God's Throne Chariot</title>
       
       <verse osisID="Ezek.1.1">In the thirtieth year, in the fourth month, on the fifth day of the month, while I was among the exiles by the Kebar River, the heavens opened and I saw visions of God.</verse>
@@ -80,9 +81,9 @@
       
       <verse osisID="Ezek.1.28">Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of Yahweh. When I saw it, I fell facedown, and I heard the voice of one speaking.</verse>
       
-      <chapter eID="Ezek.1"/>
+      <chapter eID="Ezek.1" />
       
-      <chapter osisID="Ezek.2" sID="Ezek.2"/>
+      <chapter osisID="Ezek.2" sID="Ezek.2" />
       <title type="main">Ezekiel's Call to Be a Prophet</title>
       
       <verse osisID="Ezek.2.1">He said to me, "Son of man<note type="translation">Hebrew ben adam, literally "son of Adam" or "human being"</note>, stand up on your feet and I will speak to you."</verse>
@@ -105,9 +106,9 @@
       
       <verse osisID="Ezek.2.10">which he unrolled before me. On both sides of it were written words of lament and mourning and terrible sorrow<note type="translation">Hebrew hi, expressing grief and disaster</note>.</verse>
       
-      <chapter eID="Ezek.2"/>
+      <chapter eID="Ezek.2" />
       
-      <chapter osisID="Ezek.3" sID="Ezek.3"/>
+      <chapter osisID="Ezek.3" sID="Ezek.3" />
       <title type="main">Ezekiel Eats the Scroll</title>
       
       <verse osisID="Ezek.3.1">And he said to me, "Son of man, eat what is before you, eat this scroll; then go and speak to the people of Israel."</verse>
@@ -170,9 +171,9 @@
       
       <verse osisID="Ezek.3.27">But when I speak to you, I will open your mouth and you shall say to them, 'This is what the Sovereign Yahweh says.' Whoever will listen let them listen, and whoever will refuse let them refuse; for they are a rebellious people.</verse>
       
-      <chapter eID="Ezek.3"/>
+      <chapter eID="Ezek.3" />
       
-      <chapter osisID="Ezek.4" sID="Ezek.4"/>
+      <chapter osisID="Ezek.4" sID="Ezek.4" />
       <title type="main">The Siege of Jerusalem Portrayed</title>
       
       <verse osisID="Ezek.4.1">"Now, son of man, take a clay tablet, put it in front of you and draw the city of Jerusalem on it.</verse>
@@ -211,9 +212,9 @@
       
       <verse osisID="Ezek.4.17">for food and water will be scarce. They will be appalled at the sight of each other and will waste away because of their sin.</verse>
       
-      <chapter eID="Ezek.4"/>
+      <chapter eID="Ezek.4" />
       
-      <chapter osisID="Ezek.5" sID="Ezek.5"/>
+      <chapter osisID="Ezek.5" sID="Ezek.5" />
       <title type="main">God's Razor of Judgment</title>
       
       <verse osisID="Ezek.5.1">"Now, son of man, take a sharp sword and use it as a barber's razor to shave your head and your beard. Then take a set of scales and divide up the hair.</verse>
@@ -250,9 +251,9 @@
       
       <verse osisID="Ezek.5.17">I will send famine and wild beasts against you, and they will leave you childless. Plague and bloodshed will sweep through you, and I will bring the sword against you. I, Yahweh, have spoken."</verse>
       
-      <chapter eID="Ezek.5"/>
+      <chapter eID="Ezek.5" />
       
-      <chapter osisID="Ezek.6" sID="Ezek.6"/>
+      <chapter osisID="Ezek.6" sID="Ezek.6" />
       <title type="main">Judgment Against the Mountains of Israel</title>
       
       <verse osisID="Ezek.6.1">The word of Yahweh came to me:</verse>
@@ -285,9 +286,9 @@
       
       <verse osisID="Ezek.6.14">And I will stretch out my hand against them and make the land a desolate waste from the desert to Diblah<note type="translation">Hebrew Diblah, possibly a location in the far north, though some manuscripts read "Riblah"</note>—wherever they live. Then they will know that I am Yahweh.'"</verse>
       
-      <chapter eID="Ezek.6"/>
+      <chapter eID="Ezek.6" />
       
-      <chapter osisID="Ezek.7" sID="Ezek.7"/>
+      <chapter osisID="Ezek.7" sID="Ezek.7" />
       <title type="main">The End Has Come</title>
       
       <verse osisID="Ezek.7.1">The word of Yahweh came to me:</verse>
@@ -344,9 +345,9 @@
       
       <verse osisID="Ezek.7.27">The king will mourn, the prince will be clothed with despair, and the hands of the people of the land will tremble. I will deal with them according to their conduct, and by their own standards I will judge them. "'Then they will know that I am Yahweh.'"</verse>
       
-      <chapter eID="Ezek.7"/>
+      <chapter eID="Ezek.7" />
       
-      <chapter osisID="Ezek.8" sID="Ezek.8"/>
+      <chapter osisID="Ezek.8" sID="Ezek.8" />
       <title type="main">Idolatry in the Temple</title>
       
       <verse osisID="Ezek.8.1">In the sixth year, in the sixth month on the fifth day, while I was sitting in my house and the elders of Judah were sitting before me, the hand of the Sovereign Yahweh came on me there.</verse>
@@ -387,9 +388,9 @@
       
       <verse osisID="Ezek.8.18">Therefore I will deal with them in anger; I will not look on them with pity or spare them. Although they shout in my ears, I will not listen to them."</verse>
       
-      <chapter eID="Ezek.8"/>
+      <chapter eID="Ezek.8" />
       
-      <chapter osisID="Ezek.9" sID="Ezek.9"/>
+      <chapter osisID="Ezek.9" sID="Ezek.9" />
       <title type="main">The Slaughter of the Idolaters</title>
       
       <verse osisID="Ezek.9.1">Then I heard him call out in a loud voice, "Bring near those who are appointed to execute judgment on the city, each with a weapon in his hand."</verse>
@@ -414,9 +415,9 @@
       
       <verse osisID="Ezek.9.11">Then the man in linen with the writing kit at his side brought back word, saying, "I have done as you commanded."</verse>
       
-      <chapter eID="Ezek.9"/>
+      <chapter eID="Ezek.9" />
       
-      <chapter osisID="Ezek.10" sID="Ezek.10"/>
+      <chapter osisID="Ezek.10" sID="Ezek.10" />
       <title type="main">God's Glory Departs from the Temple</title>
       
       <verse osisID="Ezek.10.1">I looked, and I saw the likeness of a throne of lapis lazuli above the expanse that was over the heads of the cherubim.</verse>
@@ -467,9 +468,9 @@
       
       <verse osisID="Ezek.10.22">Their faces had the same appearance as those I had seen by the Kebar River. Each one went straight ahead.</verse>
       
-      <chapter eID="Ezek.10"/>
+      <chapter eID="Ezek.10" />
       
-      <chapter osisID="Ezek.11" sID="Ezek.11"/>
+      <chapter osisID="Ezek.11" sID="Ezek.11" />
       <title type="main">Judgment on Jerusalem's Leaders</title>
       
       <verse osisID="Ezek.11.1">Then the Spirit lifted me up and brought me to the gate of the house of Yahweh that faces east. There at the entrance to the gate were twenty-five men, and I saw among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people.</verse>
@@ -526,9 +527,9 @@
       
       <verse osisID="Ezek.11.25">and I told the exiles everything Yahweh had shown me.</verse>
       
-      <chapter eID="Ezek.11"/>
+      <chapter eID="Ezek.11" />
       
-      <chapter osisID="Ezek.12" sID="Ezek.12"/>
+      <chapter osisID="Ezek.12" sID="Ezek.12" />
       <title type="main">The Exile Symbolized</title>
       
       <verse osisID="Ezek.12.1">The word of Yahweh came to me:</verse>
@@ -591,9 +592,9 @@
       
       <verse osisID="Ezek.12.28">"Therefore say to them, 'This is what the Sovereign Yahweh says: None of my words will be delayed any longer; whatever I say will be fulfilled, declares the Sovereign Yahweh.'"</verse>
       
-      <chapter eID="Ezek.12"/>
+      <chapter eID="Ezek.12" />
       
-      <chapter osisID="Ezek.13" sID="Ezek.13"/>
+      <chapter osisID="Ezek.13" sID="Ezek.13" />
       <title type="main">False Prophets Condemned</title>
       
       <verse osisID="Ezek.13.1">The word of Yahweh came to me:</verse>
@@ -644,9 +645,9 @@
       
       <verse osisID="Ezek.13.23">therefore you will no longer see false visions or practice divination. I will save my people from your hands. And then you will know that I am Yahweh.'"</verse>
       
-      <chapter eID="Ezek.13"/>
+      <chapter eID="Ezek.13" />
       
-      <chapter osisID="Ezek.14" sID="Ezek.14"/>
+      <chapter osisID="Ezek.14" sID="Ezek.14" />
       <title type="main">Idolaters Condemned</title>
       
       <verse osisID="Ezek.14.1">Some of the elders of Israel came to me and sat down in front of me.</verse>
@@ -697,9 +698,9 @@
       
       <verse osisID="Ezek.14.23">You will be consoled when you see their conduct and their actions, for you will know that I have done nothing in it without cause, declares the Sovereign Yahweh."</verse>
       
-      <chapter eID="Ezek.14"/>
+      <chapter eID="Ezek.14" />
       
-      <chapter osisID="Ezek.15" sID="Ezek.15"/>
+      <chapter osisID="Ezek.15" sID="Ezek.15" />
       <title type="main">Jerusalem as a Useless Vine</title>
       
       <verse osisID="Ezek.15.1">The word of Yahweh came to me:</verse>
@@ -718,9 +719,9 @@
       
       <verse osisID="Ezek.15.8">I will make the land desolate because they have been unfaithful, declares the Sovereign Yahweh."</verse>
       
-      <chapter eID="Ezek.15"/>
+      <chapter eID="Ezek.15" />
       
-      <chapter osisID="Ezek.16" sID="Ezek.16"/>
+      <chapter osisID="Ezek.16" sID="Ezek.16" />
       <title type="main">Jerusalem's Unfaithfulness</title>
       
       <verse osisID="Ezek.16.1">The word of Yahweh came to me:</verse>
@@ -849,9 +850,9 @@
       
       <verse osisID="Ezek.16.63">Then, when I make things right for you for all you have done, you will remember and be ashamed and never again open your mouth because of your humiliation, declares the Sovereign Yahweh.'"</verse>
       
-      <chapter eID="Ezek.16"/>
+      <chapter eID="Ezek.16" />
       
-      <chapter osisID="Ezek.17" sID="Ezek.17"/>
+      <chapter osisID="Ezek.17" sID="Ezek.17" />
       <title type="main">Two Eagles and a Vine</title>
       
       <verse osisID="Ezek.17.1">The word of Yahweh came to me:</verse>
@@ -902,9 +903,9 @@
       
       <verse osisID="Ezek.17.24">All the trees of the forest will know that I, Yahweh, bring down the tall tree and make the low tree grow tall. I dry up the green tree and make the dry tree flourish. "'I, Yahweh, have spoken, and I will do it.'"</verse>
       
-      <chapter eID="Ezek.17"/>
+      <chapter eID="Ezek.17" />
       
-      <chapter osisID="Ezek.18" sID="Ezek.18"/>
+      <chapter osisID="Ezek.18" sID="Ezek.18" />
       <title type="main">The One Who Sins Will Die</title>
       
       <verse osisID="Ezek.18.1">The word of Yahweh came to me:</verse>
@@ -971,9 +972,9 @@
       
       <verse osisID="Ezek.18.32">For I take no pleasure in the death of anyone, declares the Sovereign Yahweh. Change your minds and live!</verse>
       
-      <chapter eID="Ezek.18"/>
+      <chapter eID="Ezek.18" />
       
-      <chapter osisID="Ezek.25" sID="Ezek.25"/>
+      <chapter osisID="Ezek.25" sID="Ezek.25" />
       <title type="main">A Prophecy Against Ammon</title>
       
       <verse osisID="Ezek.25.1">The word of Yahweh came to me:</verse>
@@ -1016,9 +1017,9 @@
       
       <verse osisID="Ezek.25.17">I will carry out great vengeance on them and punish them in my wrath. Then they will know that I am Yahweh, when I take vengeance on them.'"</verse>
       
-      <chapter eID="Ezek.25"/>
+      <chapter eID="Ezek.25" />
       
-      <chapter osisID="Ezek.33" sID="Ezek.33"/>
+      <chapter osisID="Ezek.33" sID="Ezek.33" />
       <title type="main">Renewal of Ezekiel's Call as Watchman</title>
       
       <verse osisID="Ezek.33.1">The word of Yahweh came to me:</verse>
@@ -1061,9 +1062,9 @@
       
       <verse osisID="Ezek.33.20">Yet you Israelites say, 'The way of the Lord is not just.' But I will judge each of you according to your own ways."</verse>
       
-      <chapter eID="Ezek.33"/>
+      <chapter eID="Ezek.33" />
       
-      <chapter osisID="Ezek.37" sID="Ezek.37"/>
+      <chapter osisID="Ezek.37" sID="Ezek.37" />
       <title type="main">The Valley of Dry Bones</title>
       
       <verse osisID="Ezek.37.1">The hand of Yahweh was on me, and he brought me out by the Spirit of Yahweh and set me in the middle of a valley; it was full of bones.</verse>
@@ -1124,9 +1125,9 @@
       
       <verse osisID="Ezek.37.28">Then the nations will know that I, Yahweh, make Israel set apart for God, when my sanctuary is among them forever.'"</verse>
       
-      <chapter eID="Ezek.37"/>
+      <chapter eID="Ezek.37" />
       
-      <chapter osisID="Ezek.40" sID="Ezek.40"/>
+      <chapter osisID="Ezek.40" sID="Ezek.40" />
       <title type="main">The New Temple Area</title>
       
       <verse osisID="Ezek.40.1">In the twenty-fifth year of our exile, at the beginning of the year, on the tenth of the month, in the fourteenth year after the fall of the city—on that very day the hand of Yahweh was on me and he took me there.</verse>
@@ -1163,9 +1164,9 @@
       
       <verse osisID="Ezek.40.16">The alcoves and the projecting walls inside the gateway were surmounted by narrow parapet openings all around, as was the portico; the openings all around faced inward. The faces of the projecting walls were decorated with palm trees.</verse>
       
-      <chapter eID="Ezek.40"/>
+      <chapter eID="Ezek.40" />
       
-      <chapter osisID="Ezek.43" sID="Ezek.43"/>
+      <chapter osisID="Ezek.43" sID="Ezek.43" />
       <title type="main">God's Glory Returns to the Temple</title>
       
       <verse osisID="Ezek.43.1">Then the man brought me to the gate facing east,</verse>
@@ -1224,9 +1225,9 @@
       
       <verse osisID="Ezek.43.27">At the end of these days, from the eighth day on, the priests are to present your burnt offerings and fellowship offerings on the altar. Then I will accept you, declares the Sovereign Yahweh."</verse>
       
-      <chapter eID="Ezek.43"/>
+      <chapter eID="Ezek.43" />
       
-      <chapter osisID="Ezek.47" sID="Ezek.47"/>
+      <chapter osisID="Ezek.47" sID="Ezek.47" />
       <title type="main">The River From the Temple</title>
       
       <verse osisID="Ezek.47.1">The man brought me back to the entrance to the temple, and I saw water coming out from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar.</verse>
@@ -1253,9 +1254,9 @@
       
       <verse osisID="Ezek.47.12">Fruit trees of all kinds will grow on both banks of the river. Their leaves will not wither, nor will their fruit fail. Every month they will bear fruit, because the water from the sanctuary flows to them. Their fruit will serve for food and their leaves for healing."</verse>
       
-      <chapter eID="Ezek.47"/>
+      <chapter eID="Ezek.47" />
       
-      <chapter osisID="Ezek.48" sID="Ezek.48"/>
+      <chapter osisID="Ezek.48" sID="Ezek.48" />
       <title type="main">The Division of the Land</title>
       
       <verse osisID="Ezek.48.1">"These are the tribes, listed by name: At the northern frontier, Dan will have one portion; it will follow the Hethlon road to Lebo Hamath; Hazar Enan and the northern border of Damascus next to Hamath will be part of its border from the east side to the west side.</verse>
@@ -1310,7 +1311,7 @@
       
       <verse osisID="Ezek.48.35">"The distance all around will be 18,000 cubits. "And the name of the city from that time on will be: yahweh shammah<note type="translation">Hebrew meaning "Yahweh is there"</note>."</verse>
       
-      <chapter eID="Ezek.48"/>
+      <chapter eID="Ezek.48" />
       
     </div>
   </osisText>

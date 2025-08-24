@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace 
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace        http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="Jas" canonical="true">
@@ -18,7 +19,7 @@
         <p>James, the brother of Jesus and leader of the Jerusalem church, wrote this practical letter emphasizing that genuine faith must be demonstrated through good works and righteous living. Addressing issues like favoritism, controlling the tongue, and caring for the poor, James shows how Christian faith should impact every area of daily life. The letter is known for its direct, no-nonsense approach to Christian maturity and its insistence that "faith without works is dead."</p>
       </div>
       
-      <chapter osisID="Jas.1" sID="Jas.1"/>
+      <chapter osisID="Jas.1" sID="Jas.1" />
       <title type="main">Greeting</title>
       <verse osisID="Jas.1.1">James, a servant of God and of the Lord Jesus Christ, to the twelve tribes scattered among the nations: Greetings.</verse>
       
@@ -61,9 +62,9 @@
       <title type="sub">Pure Religion</title>
       <verse osisID="Jas.1.26">If anyone thinks he is religious and does not bridle his tongue but deceives his heart, this person's religion is worthless.</verse>
       <verse osisID="Jas.1.27">Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world.</verse>
-      <chapter eID="Jas.1"/>
+      <chapter eID="Jas.1" />
       
-      <chapter osisID="Jas.2" sID="Jas.2"/>
+      <chapter osisID="Jas.2" sID="Jas.2" />
       <title type="main">The Wrong of Favoritism</title>
       <verse osisID="Jas.2.1">My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, the Lord of glory.</verse>
       <verse osisID="Jas.2.2">For if a man wearing a gold ring and fine clothing comes into your assembly, and a poor man in shabby clothing also comes in,</verse>
@@ -95,9 +96,9 @@
       <verse osisID="Jas.2.24">You see that a person is declared to be in right standing with God by works and not by faith alone.</verse>
       <verse osisID="Jas.2.25">And in the same way was not also Rahab the prostitute declared to be in right standing with God by works when she received the messengers and sent them out by another way?</verse>
       <verse osisID="Jas.2.26">For as the body apart from the spirit is dead, so also faith apart from works is dead.</verse>
-      <chapter eID="Jas.2"/>
+      <chapter eID="Jas.2" />
       
-      <chapter osisID="Jas.3" sID="Jas.3"/>
+      <chapter osisID="Jas.3" sID="Jas.3" />
       <title type="main">Controlling the Tongue</title>
       <verse osisID="Jas.3.1">Not many of you should become teachers, my brothers, for you know that we who teach will be judged with greater strictness.</verse>
       <verse osisID="Jas.3.2">For we all stumble in many ways. And if anyone does not stumble in what he says, he is a perfect man, able also to bridle his whole body.</verse>
@@ -121,9 +122,9 @@
       <verse osisID="Jas.3.16">For where jealousy and selfish ambition exist, there will be disorder and every vile practice.</verse>
       <verse osisID="Jas.3.17">But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere.</verse>
       <verse osisID="Jas.3.18">And a harvest of doing what's right is sown in peace by those who make peace.</verse>
-      <chapter eID="Jas.3"/>
+      <chapter eID="Jas.3" />
       
-      <chapter osisID="Jas.4" sID="Jas.4"/>
+      <chapter osisID="Jas.4" sID="Jas.4" />
       <title type="main">Warning Against Worldliness</title>
       <verse osisID="Jas.4.1">What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?</verse>
       <verse osisID="Jas.4.2">You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask.</verse>
@@ -148,9 +149,9 @@
       <verse osisID="Jas.4.15">Instead you ought to say, "If the Lord wills, we will live and do this or that."</verse>
       <verse osisID="Jas.4.16">As it is, you boast in your arrogance. All such boasting is evil.</verse>
       <verse osisID="Jas.4.17">So whoever knows the right thing to do and fails to do it, for him it is wrongdoing.</verse>
-      <chapter eID="Jas.4"/>
+      <chapter eID="Jas.4" />
       
-      <chapter osisID="Jas.5" sID="Jas.5"/>
+      <chapter osisID="Jas.5" sID="Jas.5" />
       <title type="main">Warning to Rich Oppressors</title>
       <verse osisID="Jas.5.1">Come now, you rich, weep and howl for the miseries that are coming upon you.</verse>
       <verse osisID="Jas.5.2">Your riches have rotted and your garments are moth-eaten.</verse>
@@ -178,7 +179,7 @@
       <title type="sub">Bringing Back the Wanderer</title>
       <verse osisID="Jas.5.19">My brothers, if anyone among you wanders from the truth and someone brings him back,</verse>
       <verse osisID="Jas.5.20">let him know that whoever brings back a wrongdoer from his wandering will save his soul from death and will cover a multitude of wrongdoings.</verse>
-      <chapter eID="Jas.5"/>
+      <chapter eID="Jas.5" />
     </div>
   </osisText>
 </osis>

@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     
@@ -20,7 +21,7 @@
         <p>Acts records the remarkable growth of the early Christian church from a small group of Jewish believers in Jerusalem to a worldwide movement spanning the Roman Empire. Written by Luke as a sequel to his Gospel, this historical account shows how the Holy Spirit empowered the apostles to spread the good news about Jesus despite intense persecution and opposition. The book traces the expansion of the gospel from Jerusalem to Judea, Samaria, and ultimately to Rome, demonstrating God's plan to include all nations in his salvation. Acts emphasizes the crucial role of the apostle Paul in bringing the message to non-Jewish peoples and establishing churches throughout the Mediterranean world.</p>
       </div>
       
-      <chapter osisID="Acts.1" sID="Acts.1"/>
+      <chapter osisID="Acts.1" sID="Acts.1" />
       <title type="main">Jesus Ascends to Heaven</title>
       <verse osisID="Acts.1.1">My first account, Theophilus, covered everything that Jesus began to do and teach</verse>
       <verse osisID="Acts.1.2">from the beginning until the day he was taken up to heaven, after giving instructions through the Set Apart Spirit to the apostles he had chosen.</verse>
@@ -52,9 +53,9 @@
       <verse osisID="Acts.1.24">They prayed, "Lord, you know everyone's heart. Show us which of these two you have chosen</verse>
       <verse osisID="Acts.1.25">to take the place in this ministry and apostleship from which Judas turned away to go to his own place."</verse>
       <verse osisID="Acts.1.26">Then they cast lots for them, and the lot fell on Matthias. So he was added to the eleven apostles.</verse>
-      <chapter eID="Acts.1"/>
+      <chapter eID="Acts.1" />
 
-      <chapter osisID="Acts.2" sID="Acts.2"/>
+      <chapter osisID="Acts.2" sID="Acts.2" />
       <title type="main">The Set Apart Spirit Comes at Pentecost</title>
       <verse osisID="Acts.2.1">When the day of Pentecost came, they were all together in one place.</verse>
       <verse osisID="Acts.2.2">Suddenly a sound like the rushing of a violent wind came from heaven and filled the whole house where they were sitting.</verse>
@@ -107,9 +108,9 @@
       <verse osisID="Acts.2.45">They sold property and possessions to give to anyone who had need.</verse>
       <verse osisID="Acts.2.46">Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,</verse>
       <verse osisID="Acts.2.47">praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.</verse>
-      <chapter eID="Acts.2"/>
+      <chapter eID="Acts.2" />
 
-      <chapter osisID="Acts.3" sID="Acts.3"/>
+      <chapter osisID="Acts.3" sID="Acts.3" />
       <title type="main">Peter Heals a Crippled Beggar</title>
       <verse osisID="Acts.3.1">One day Peter and John were going up to the temple at the time of prayer—at 3 PM.</verse>
       <verse osisID="Acts.3.2">Now a man who was lame from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those going into the temple courts.</verse>
@@ -139,9 +140,9 @@
       <verse osisID="Acts.3.24">Indeed, beginning with Samuel, all the prophets who have spoken have foretold these days.</verse>
       <verse osisID="Acts.3.25">And you are heirs of the prophets and of the covenant God made with your fathers. He said to Abraham, 'Through your offspring all peoples on earth will be blessed.'</verse>
       <verse osisID="Acts.3.26">When God raised up his servant, he sent him first to you to bless you by turning each of you from your wicked ways."</verse>
-      <chapter eID="Acts.3"/>
+      <chapter eID="Acts.3" />
 
-      <chapter osisID="Acts.4" sID="Acts.4"/>
+      <chapter osisID="Acts.4" sID="Acts.4" />
       <title type="main">Peter and John Before the Sanhedrin</title>
       <verse osisID="Acts.4.1">The priests and the captain of the temple guard and the Sadducees came up to Peter and John while they were speaking to the people.</verse>
       <verse osisID="Acts.4.2">They were greatly disturbed because the apostles were teaching the people, proclaiming in Jesus the resurrection of the dead.</verse>
@@ -184,9 +185,9 @@
       <verse osisID="Acts.4.35">and put it at the apostles' feet, and it was distributed to anyone who had need.</verse>
       <verse osisID="Acts.4.36">Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means "son of encouragement"),</verse>
       <verse osisID="Acts.4.37">sold a field he owned and brought the money and put it at the apostles' feet.</verse>
-      <chapter eID="Acts.4"/>
+      <chapter eID="Acts.4" />
 
-      <chapter osisID="Acts.5" sID="Acts.5"/>
+      <chapter osisID="Acts.5" sID="Acts.5" />
       <title type="main">Ananias and Sapphira</title>
       <verse osisID="Acts.5.1">Now a man named Ananias, together with his wife Sapphira, also sold a piece of property.</verse>
       <verse osisID="Acts.5.2">With his wife's full knowledge, he kept back part of the money for himself, but brought the rest and put it at the apostles' feet.</verse>
@@ -234,9 +235,9 @@
       <verse osisID="Acts.5.40">His speech persuaded them. They called the apostles in and had them flogged. Then they ordered them not to speak in the name of Jesus, and let them go.</verse>
       <verse osisID="Acts.5.41">The apostles left the Sanhedrin, rejoicing because they had been counted worthy of suffering disgrace for the Name.</verse>
       <verse osisID="Acts.5.42">Day after day, in the temple courts and from house to house, they never stopped teaching and proclaiming the good news that Jesus is the Messiah.</verse>
-      <chapter eID="Acts.5"/>
+      <chapter eID="Acts.5" />
 
-      <chapter osisID="Acts.6" sID="Acts.6"/>
+      <chapter osisID="Acts.6" sID="Acts.6" />
       <title type="main">The Choosing of the Seven</title>
       <verse osisID="Acts.6.1">In those days when the number of disciples was increasing, the Hellenistic Jews among them complained against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.</verse>
       <verse osisID="Acts.6.2">So the Twelve gathered all the disciples together and said, "It would not be right for us to neglect the ministry of the word of God in order to wait on tables.</verse>
@@ -255,9 +256,9 @@
       <verse osisID="Acts.6.13">They produced false witnesses, who testified, "This fellow never stops speaking against this set apart place and against the law.</verse>
       <verse osisID="Acts.6.14">For we have heard him say that this Jesus of Nazareth will destroy this place and change the customs Moses handed down to us."</verse>
       <verse osisID="Acts.6.15">All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel.</verse>
-      <chapter eID="Acts.6"/>
+      <chapter eID="Acts.6" />
 
-      <chapter osisID="Acts.7" sID="Acts.7"/>
+      <chapter osisID="Acts.7" sID="Acts.7" />
       <title type="main">Stephen's Speech to the Sanhedrin</title>
       <verse osisID="Acts.7.1">Then the high priest asked Stephen, "Are these charges true?"</verse>
       <verse osisID="Acts.7.2">To this he replied: "Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Harran.</verse>
@@ -321,9 +322,9 @@
       <verse osisID="Acts.7.58">dragged him out of the city and began to stone him. Meanwhile, the witnesses laid their coats at the feet of a young man named Saul.</verse>
       <verse osisID="Acts.7.59">While they were stoning him, Stephen prayed, "Lord Jesus, receive my spirit."</verse>
       <verse osisID="Acts.7.60">Then he fell on his knees and cried out, "Lord, do not hold this sin against them." When he had said this, he fell asleep.</verse>
-      <chapter eID="Acts.7"/>
+      <chapter eID="Acts.7" />
 
-      <chapter osisID="Acts.8" sID="Acts.8"/>
+      <chapter osisID="Acts.8" sID="Acts.8" />
       <verse osisID="Acts.8.1">And Saul approved of their killing him. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.</verse>
       <verse osisID="Acts.8.2">Godly men buried Stephen and mourned deeply for him.</verse>
       <verse osisID="Acts.8.3">But Saul began to destroy the church. Going from house to house, he dragged off both men and women and put them in prison.</verse>
@@ -364,13 +365,13 @@
       <verse osisID="Acts.8.34">The eunuch asked Philip, "Tell me, please, who is the prophet talking about, himself or someone else?"</verse>
       <verse osisID="Acts.8.35">Then Philip began with that very passage of Scripture and told him the good news about Jesus.</verse>
       <verse osisID="Acts.8.36">As they traveled along the road, they came to some water and the eunuch said, "Look, here is water. What can stand in the way of my being immersed?"</verse>
-      <verse osisID="Acts.8.37"></verse>
+      <verse osisID="Acts.8.37" />
       <verse osisID="Acts.8.38">And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip immersed him.</verse>
       <verse osisID="Acts.8.39">When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing.</verse>
       <verse osisID="Acts.8.40">Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.</verse>
-      <chapter eID="Acts.8"/>
+      <chapter eID="Acts.8" />
 
-      <chapter osisID="Acts.9" sID="Acts.9"/>
+      <chapter osisID="Acts.9" sID="Acts.9" />
       <title type="main">Saul's Conversion</title>
       <verse osisID="Acts.9.1">Meanwhile, Saul was still breathing out murderous threats against the Lord's disciples. He went to the high priest</verse>
       <verse osisID="Acts.9.2">and asked him for letters to the synagogues in Damascus, so that if he found any there who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem.</verse>
@@ -417,9 +418,9 @@
       <verse osisID="Acts.9.41">He took her by the hand and helped her to her feet. Then he called for the believers, especially the widows, and presented her to them alive.</verse>
       <verse osisID="Acts.9.42">This became known all over Joppa, and many people believed in the Lord.</verse>
       <verse osisID="Acts.9.43">Peter stayed in Joppa for some time with a tanner named Simon.</verse>
-      <chapter eID="Acts.9"/>
+      <chapter eID="Acts.9" />
 
-      <chapter osisID="Acts.10" sID="Acts.10"/>
+      <chapter osisID="Acts.10" sID="Acts.10" />
       <title type="main">Cornelius Calls for Peter</title>
       <verse osisID="Acts.10.1">At Caesarea there was a man named Cornelius, a centurion in what was known as the Italian Regiment.</verse>
       <verse osisID="Acts.10.2">He and all his family were devout and God-fearing; he gave generously to those in need and prayed to God regularly.</verse>
@@ -473,9 +474,9 @@
       <verse osisID="Acts.10.46">For they heard them speaking in tongues and praising God. Then Peter said,</verse>
       <verse osisID="Acts.10.47">"Surely no one can stand in the way of their being immersed with water. They have received the Set Apart Spirit just as we have."</verse>
       <verse osisID="Acts.10.48">So he ordered that they be immersed in the name of Jesus Christ. Then they asked Peter to stay with them for a few days.</verse>
-      <chapter eID="Acts.10"/>
+      <chapter eID="Acts.10" />
 
-      <chapter osisID="Acts.11" sID="Acts.11"/>
+      <chapter osisID="Acts.11" sID="Acts.11" />
       <title type="main">Peter Explains His Actions</title>
       <verse osisID="Acts.11.1">The apostles and the believers throughout Judea heard that the Gentiles also had received the word of God.</verse>
       <verse osisID="Acts.11.2">So when Peter went up to Jerusalem, the circumcised believers criticized him</verse>
@@ -509,9 +510,9 @@
       <verse osisID="Acts.11.28">One of them, named Agabus, stood up and through the Spirit predicted that a severe famine would spread over the entire Roman world. (This happened during the reign of Claudius.)</verse>
       <verse osisID="Acts.11.29">The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea.</verse>
       <verse osisID="Acts.11.30">This they did, sending their gift to the elders by Barnabas and Saul.</verse>
-      <chapter eID="Acts.11"/>
+      <chapter eID="Acts.11" />
 
-      <chapter osisID="Acts.12" sID="Acts.12"/>
+      <chapter osisID="Acts.12" sID="Acts.12" />
       <title type="main">Peter's Miraculous Escape From Prison</title>
       <verse osisID="Acts.12.1">It was about this time that King Herod arrested some who belonged to the church, intending to persecute them.</verse>
       <verse osisID="Acts.12.2">He had James, the brother of John, put to death with the sword.</verse>
@@ -540,9 +541,9 @@
       <verse osisID="Acts.12.23">Immediately, because Herod did not give praise to God, an angel of the Lord struck him down, and he was eaten by worms and died.</verse>
       <verse osisID="Acts.12.24">But the word of God continued to spread and flourish.</verse>
       <verse osisID="Acts.12.25">When Barnabas and Saul had finished their mission, they returned from Jerusalem, taking with them John, also called Mark.</verse>
-      <chapter eID="Acts.12"/>
+      <chapter eID="Acts.12" />
 
-      <chapter osisID="Acts.13" sID="Acts.13"/>
+      <chapter osisID="Acts.13" sID="Acts.13" />
       <title type="main">Barnabas and Saul Commissioned</title>
       <verse osisID="Acts.13.1">Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch), and Saul.</verse>
       <verse osisID="Acts.13.2">While they were worshiping the Lord and fasting, the Set Apart Spirit said, "Set apart for me Barnabas and Saul for the work to which I have called them."</verse>
@@ -600,9 +601,9 @@
       <verse osisID="Acts.13.50">But the Jewish leaders incited the God-fearing women of high standing and the leading men of the city. They stirred up persecution against Paul and Barnabas, and expelled them from their region.</verse>
       <verse osisID="Acts.13.51">So they shook the dust off their feet as a warning to them and went to Iconium.</verse>
       <verse osisID="Acts.13.52">And the disciples were filled with joy and with the Set Apart Spirit.</verse>
-      <chapter eID="Acts.13"/>
+      <chapter eID="Acts.13" />
 
-      <chapter osisID="Acts.14" sID="Acts.14"/>
+      <chapter osisID="Acts.14" sID="Acts.14" />
       <title type="main">In Iconium</title>
       <verse osisID="Acts.14.1">At Iconium Paul and Barnabas went as usual into the Jewish synagogue. There they spoke so effectively that a great number of Jews and Greeks believed.</verse>
       <verse osisID="Acts.14.2">But the Jews who refused to believe stirred up the other Gentiles and poisoned their minds against the brothers.</verse>
@@ -636,9 +637,9 @@
       <verse osisID="Acts.14.26">From Attalia they sailed back to Antioch, where they had been committed to the grace of God for the work they had now completed.</verse>
       <verse osisID="Acts.14.27">On arriving there, they gathered the church together and reported all that God had done through them and how he had opened a door of faith to the Gentiles.</verse>
       <verse osisID="Acts.14.28">And they stayed there a long time with the disciples.</verse>
-      <chapter eID="Acts.14"/>
+      <chapter eID="Acts.14" />
 
-      <chapter osisID="Acts.15" sID="Acts.15"/>
+      <chapter osisID="Acts.15" sID="Acts.15" />
       <title type="main">The Council at Jerusalem</title>
       <verse osisID="Acts.15.1">Certain people came down from Judea to Antioch and were teaching the believers: "Unless you are circumcised, according to the custom taught by Moses, you cannot be saved."</verse>
       <verse osisID="Acts.15.2">This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question.</verse>
@@ -675,7 +676,7 @@
       <verse osisID="Acts.15.31">The people read it and were glad for its encouraging message.</verse>
       <verse osisID="Acts.15.32">Judas and Silas, who themselves were prophets, said much to encourage and strengthen the believers.</verse>
       <verse osisID="Acts.15.33">After spending some time there, they were sent off by the believers with the blessing of peace to return to those who had sent them.</verse>
-      <verse osisID="Acts.15.34"></verse>
+      <verse osisID="Acts.15.34" />
       <verse osisID="Acts.15.35">But Paul and Barnabas remained in Antioch, where they and many others taught and preached the word of the Lord.</verse>
 
       <title type="sub">Disagreement Between Paul and Barnabas</title>
@@ -685,9 +686,9 @@
       <verse osisID="Acts.15.39">They had such a sharp disagreement that they parted company. Barnabas took Mark and sailed for Cyprus,</verse>
       <verse osisID="Acts.15.40">but Paul chose Silas and left, commended by the believers to the grace of the Lord.</verse>
       <verse osisID="Acts.15.41">He went through Syria and Cilicia, strengthening the churches.</verse>
-      <chapter eID="Acts.15"/>
+      <chapter eID="Acts.15" />
 
-      <chapter osisID="Acts.16" sID="Acts.16"/>
+      <chapter osisID="Acts.16" sID="Acts.16" />
       <title type="main">Timothy Joins Paul and Silas</title>
       <verse osisID="Acts.16.1">Paul came to Derbe and then to Lystra, where a disciple named Timothy lived, whose mother was Jewish and a believer but whose father was a Greek.</verse>
       <verse osisID="Acts.16.2">The believers at Lystra and Iconium spoke well of him.</verse>
@@ -735,9 +736,9 @@
       <verse osisID="Acts.16.38">The officers reported this to the magistrates, and when they heard that Paul and Silas were Roman citizens, they were alarmed.</verse>
       <verse osisID="Acts.16.39">They came to appease them and escorted them from the prison, requesting them to leave the city.</verse>
       <verse osisID="Acts.16.40">After Paul and Silas came out of the prison, they went to Lydia's house, where they met with the believers and encouraged them. Then they left.</verse>
-      <chapter eID="Acts.16"/>
+      <chapter eID="Acts.16" />
 
-      <chapter osisID="Acts.17" sID="Acts.17"/>
+      <chapter osisID="Acts.17" sID="Acts.17" />
       <title type="main">In Thessalonica</title>
       <verse osisID="Acts.17.1">When Paul and his companions had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.</verse>
       <verse osisID="Acts.17.2">As was his custom, Paul went into the synagogue, and on three Sabbath days he reasoned with them from the Scriptures,</verse>
@@ -777,9 +778,9 @@
       <verse osisID="Acts.17.32">When they heard about the resurrection of the dead, some of them sneered, but others said, "We want to hear you again on this subject."</verse>
       <verse osisID="Acts.17.33">At that, Paul left the Council.</verse>
       <verse osisID="Acts.17.34">Some of the people became followers of Paul and believed. Among them was Dionysius, a member of the Areopagus, also a woman named Damaris, and a number of others.</verse>
-      <chapter eID="Acts.17"/>
+      <chapter eID="Acts.17" />
 
-      <chapter osisID="Acts.18" sID="Acts.18"/>
+      <chapter osisID="Acts.18" sID="Acts.18" />
       <title type="main">In Corinth</title>
       <verse osisID="Acts.18.1">After this, Paul left Athens and went to Corinth.</verse>
       <verse osisID="Acts.18.2">There he met a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla, because Claudius had ordered all Jews to leave Rome. Paul went to see them,</verse>
@@ -811,9 +812,9 @@
       <verse osisID="Acts.18.26">He began to speak boldly in the synagogue. When Priscilla and Aquila heard him, they invited him to their home and explained to him the way of God more adequately.</verse>
       <verse osisID="Acts.18.27">When Apollos wanted to go to Achaia, the brothers and sisters encouraged him and wrote to the disciples there to welcome him. When he arrived, he was a great help to those who by grace had believed.</verse>
       <verse osisID="Acts.18.28">For he vigorously refuted his Jewish opponents in public debate, proving from the Scriptures that Jesus was the Messiah.</verse>
-      <chapter eID="Acts.18"/>
+      <chapter eID="Acts.18" />
 
-      <chapter osisID="Acts.19" sID="Acts.19"/>
+      <chapter osisID="Acts.19" sID="Acts.19" />
       <title type="main">Paul in Ephesus</title>
       <verse osisID="Acts.19.1">While Apollos was at Corinth, Paul took the road through the interior and arrived at Ephesus. There he found some disciples</verse>
       <verse osisID="Acts.19.2">and asked them, "Did you receive the Set Apart Spirit when you believed?" They answered, "No, we have not even heard that there is a Set Apart Spirit."</verse>
@@ -858,9 +859,9 @@
       <verse osisID="Acts.19.39">If there is anything further you want to bring up, it must be settled in a legal assembly.</verse>
       <verse osisID="Acts.19.40">As it is, we are in danger of being charged with rioting because of what happened today. In that case we would not be able to account for this commotion, since there is no reason for it."</verse>
       <verse osisID="Acts.19.41">After he had said this, he dismissed the assembly.</verse>
-      <chapter eID="Acts.19"/>
+      <chapter eID="Acts.19" />
 
-      <chapter osisID="Acts.20" sID="Acts.20"/>
+      <chapter osisID="Acts.20" sID="Acts.20" />
       <title type="main">Through Macedonia and Greece</title>
       <verse osisID="Acts.20.1">When the uproar had ended, Paul sent for the disciples and, after encouraging them, said goodbye and set out for Macedonia.</verse>
       <verse osisID="Acts.20.2">He traveled through that area, speaking many words of encouragement to the people, and finally arrived in Greece,</verse>
@@ -904,9 +905,9 @@
       <verse osisID="Acts.20.36">When Paul had finished speaking, he knelt down with all of them and prayed.</verse>
       <verse osisID="Acts.20.37">They all wept as they embraced him and kissed him.</verse>
       <verse osisID="Acts.20.38">What grieved them most was his statement that they would never see his face again. Then they accompanied him to the ship.</verse>
-      <chapter eID="Acts.20"/>
+      <chapter eID="Acts.20" />
 
-      <chapter osisID="Acts.21" sID="Acts.21"/>
+      <chapter osisID="Acts.21" sID="Acts.21" />
       <title type="main">On to Jerusalem</title>
       <verse osisID="Acts.21.1">After we had torn ourselves away from them, we put out to sea and sailed straight to Cos. The next day we went to Rhodes and from there to Patara.</verse>
       <verse osisID="Acts.21.2">We found a ship crossing over to Phoenicia, went on board and set sail.</verse>
@@ -952,9 +953,9 @@
       <verse osisID="Acts.21.38">"Aren't you the Egyptian who started a revolt and led four thousand terrorists out into the wilderness some time ago?"</verse>
       <verse osisID="Acts.21.39">Paul answered, "I am a Jew, from Tarsus in Cilicia, a citizen of no ordinary city. Please let me speak to the people."</verse>
       <verse osisID="Acts.21.40">After receiving the commander's permission, Paul stood on the steps and motioned to the crowd. When they were all silent, he addressed them in Aramaic:</verse>
-      <chapter eID="Acts.21"/>
+      <chapter eID="Acts.21" />
 
-      <chapter osisID="Acts.22" sID="Acts.22"/>
+      <chapter osisID="Acts.22" sID="Acts.22" />
       <title type="main">Paul Speaks to the Crowd</title>
       <verse osisID="Acts.22.1">"Brothers and fathers, listen now to my defense."</verse>
       <verse osisID="Acts.22.2">When they heard him speak to them in Aramaic, they became very quiet. Then Paul said:</verse>
@@ -988,9 +989,9 @@
       <verse osisID="Acts.22.28">Then the commander said, "I had to pay a lot of money for my citizenship." "But I was born a citizen," Paul replied.</verse>
       <verse osisID="Acts.22.29">Those who were about to interrogate him withdrew immediately. The commander himself was alarmed when he realized that he had put Paul, a Roman citizen, in chains.</verse>
       <verse osisID="Acts.22.30">Since the commander wanted to find out exactly why Paul was being accused by the Jews, he released him and ordered the chief priests and all the members of the Sanhedrin to assemble. Then he brought Paul and had him stand before them.</verse>
-      <chapter eID="Acts.22"/>
+      <chapter eID="Acts.22" />
 
-      <chapter osisID="Acts.23" sID="Acts.23"/>
+      <chapter osisID="Acts.23" sID="Acts.23" />
       <title type="main">Paul Before the Sanhedrin</title>
       <verse osisID="Acts.23.1">Paul looked straight at the Sanhedrin and said, "My brothers, I have fulfilled my duty to God in all good conscience to this day."</verse>
       <verse osisID="Acts.23.2">At this the high priest Ananias ordered those standing near Paul to strike him on the mouth.</verse>
@@ -1031,9 +1032,9 @@
       <verse osisID="Acts.23.33">When the cavalry arrived in Caesarea, they delivered the letter to the governor and handed Paul over to him.</verse>
       <verse osisID="Acts.23.34">The governor read the letter and asked what province he was from. Learning that he was from Cilicia,</verse>
       <verse osisID="Acts.23.35">he said, "I will hear your case when your accusers get here." Then he ordered that Paul be kept under guard in Herod's palace.</verse>
-      <chapter eID="Acts.23"/>
+      <chapter eID="Acts.23" />
 
-      <chapter osisID="Acts.24" sID="Acts.24"/>
+      <chapter osisID="Acts.24" sID="Acts.24" />
       <title type="main">Paul's Trial Before Felix</title>
       <verse osisID="Acts.24.1">Five days later the high priest Ananias went down to Caesarea with some of the elders and a lawyer named Tertullus, and they brought their charges against Paul before the governor.</verse>
       <verse osisID="Acts.24.2">When Paul was called in, Tertullus presented his case before Felix: "We have enjoyed a long period of peace under you, and your foresight has brought about reforms in this nation.</verse>
@@ -1041,7 +1042,7 @@
       <verse osisID="Acts.24.4">But in order not to weary you further, I would request that you be kind enough to hear us briefly.</verse>
       <verse osisID="Acts.24.5">We have found this man to be a troublemaker, stirring up riots among the Jews all over the world. He is a ringleader of the Nazarene sect</verse>
       <verse osisID="Acts.24.6">and even tried to desecrate the temple; so we seized him.</verse>
-      <verse osisID="Acts.24.7"></verse>
+      <verse osisID="Acts.24.7" />
       <verse osisID="Acts.24.8">By examining him yourself you will be able to learn the truth about all these charges we are bringing against him."</verse>
       <verse osisID="Acts.24.9">The other Jews joined in the accusation, asserting that these things were true.</verse>
       <verse osisID="Acts.24.10">When the governor motioned for him to speak, Paul replied: "I know that for a number of years you have been a judge over this nation; so I gladly make my defense.</verse>
@@ -1062,9 +1063,9 @@
       <verse osisID="Acts.24.25">As Paul talked about doing what's right, self-control and the judgment to come, Felix was afraid and said, "That's enough for now! You may leave. When I find it convenient, I will send for you."</verse>
       <verse osisID="Acts.24.26">At the same time he was hoping that Paul would offer him a bribe, so he sent for him frequently and talked with him.</verse>
       <verse osisID="Acts.24.27">After two years had passed, Felix was succeeded by Porcius Festus, but because Felix wanted to grant a favor to the Jews, he left Paul in prison.</verse>
-      <chapter eID="Acts.24"/>
+      <chapter eID="Acts.24" />
 
-      <chapter osisID="Acts.25" sID="Acts.25"/>
+      <chapter osisID="Acts.25" sID="Acts.25" />
       <title type="main">Paul's Trial Before Festus</title>
       <verse osisID="Acts.25.1">Three days after arriving in the province, Festus went up from Caesarea to Jerusalem,</verse>
       <verse osisID="Acts.25.2">where the chief priests and the Jewish leaders appeared before him and presented the charges against Paul.</verse>
@@ -1097,9 +1098,9 @@
       <verse osisID="Acts.25.25">I found he had done nothing deserving of death, but because he made his appeal to the Emperor I decided to send him to Rome.</verse>
       <verse osisID="Acts.25.26">But I have nothing definite to write to His Majesty about him. Therefore I have brought him before all of you, and especially before you, King Agrippa, so that as a result of this investigation I may have something to write.</verse>
       <verse osisID="Acts.25.27">For I think it is unreasonable to send a prisoner on to Rome without specifying the charges against him."</verse>
-      <chapter eID="Acts.25"/>
+      <chapter eID="Acts.25" />
 
-      <chapter osisID="Acts.26" sID="Acts.26"/>
+      <chapter osisID="Acts.26" sID="Acts.26" />
       <title type="main">Paul's Defense Before Agrippa</title>
       <verse osisID="Acts.26.1">Then Agrippa said to Paul, "You have permission to speak for yourself." So Paul motioned with his hand and began his defense:</verse>
       <verse osisID="Acts.26.2">"King Agrippa, I consider myself fortunate to stand before you today as I make my defense against all the accusations of the Jews,</verse>
@@ -1133,9 +1134,9 @@
       <verse osisID="Acts.26.30">The king rose, and with him the governor and Bernice and those sitting with them.</verse>
       <verse osisID="Acts.26.31">After they left the room, they began saying to one another, "This man is not doing anything that deserves death or imprisonment."</verse>
       <verse osisID="Acts.26.32">Agrippa said to Festus, "This man could have been set free if he had not appealed to Caesar."</verse>
-      <chapter eID="Acts.26"/>
+      <chapter eID="Acts.26" />
 
-      <chapter osisID="Acts.27" sID="Acts.27"/>
+      <chapter osisID="Acts.27" sID="Acts.27" />
       <title type="main">Paul Sails for Rome</title>
       <verse osisID="Acts.27.1">When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment.</verse>
       <verse osisID="Acts.27.2">We boarded a ship from Adramyttium about to sail for ports along the coast of the province of Asia, and we put out to sea. Aristarchus, a Macedonian from Thessalonica, was with us.</verse>
@@ -1185,9 +1186,9 @@
       <verse osisID="Acts.27.42">The soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping.</verse>
       <verse osisID="Acts.27.43">But the centurion wanted to spare Paul's life and kept them from carrying out their plan. He ordered those who could swim to jump overboard first and get to land.</verse>
       <verse osisID="Acts.27.44">The rest were to get there on planks or on other pieces of the ship. In this way everyone reached land safely.</verse>
-      <chapter eID="Acts.27"/>
+      <chapter eID="Acts.27" />
 
-      <chapter osisID="Acts.28" sID="Acts.28"/>
+      <chapter osisID="Acts.28" sID="Acts.28" />
       <title type="main">Paul Ashore on Malta</title>
       <verse osisID="Acts.28.1">Once safely on shore, we found out that the island was called Malta.</verse>
       <verse osisID="Acts.28.2">The islanders showed us unusual kindness. They built a fire and welcomed us all because it was raining and cold.</verse>
@@ -1221,40 +1222,11 @@
       <verse osisID="Acts.28.26">'Go to this people and say, "You will be ever hearing but never understanding; you will be ever seeing but never perceiving."</verse>
       <verse osisID="Acts.28.27">For this people's heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts and turn, and I would heal them.'</verse>
       <verse osisID="Acts.28.28">Therefore I want you to know that God's salvation has been sent to the Gentiles, and they will listen!"</verse>
-      <verse osisID="Acts.28.29"></verse>
+      <verse osisID="Acts.28.29" />
       <verse osisID="Acts.28.30">For two whole years Paul stayed there in his own rented house and welcomed all who came to see him.</verse>
       <verse osisID="Acts.28.31">He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance!</verse>
-      <chapter eID="Acts.28"/>
+      <chapter eID="Acts.28" />
 
-    </div>
-  </osisText>
-</osis>
-      
-      Chapter 13: Barnabas and Saul Commissioned (13:1-3), First Missionary Journey begins in Cyprus (13:4-12), Paul preaches in Pisidian Antioch (13:13-52)
-      Chapter 14: Ministry in Iconium (14:1-7), Lystra and Derbe (14:8-20), Return journey and appointing elders (14:21-28)
-      Chapter 15: Jerusalem Council on Gentile inclusion (15:1-21), Letter to Gentile believers (15:22-35), Paul and Barnabas part ways (15:36-41)
-      Chapter 16: Timothy joins Paul (16:1-5), Vision of Macedonian man (16:6-10), Lydia's conversion in Philippi (16:11-15), Paul and Silas imprisoned (16:16-40)
-      Chapter 17: Thessalonica and Berea (17:1-15), Paul in Athens and Areopagus speech (17:16-34)
-      Chapter 18: Ministry in Corinth (18:1-17), Return to Antioch via Ephesus (18:18-23), Apollos in Ephesus (18:24-28)
-      Chapter 19: Paul's ministry in Ephesus (19:1-22), Riot of the silversmiths (19:23-41)
-      Chapter 20: Journey through Macedonia and Greece (20:1-6), Eutychus raised from dead (20:7-12), Paul's farewell to Ephesian elders (20:13-38)
-      Chapter 21: Journey to Jerusalem (21:1-16), Meeting with James (21:17-26), Paul's arrest in temple (21:27-40)
-      Chapter 22: Paul's defense to the Jerusalem crowd (22:1-21), Roman citizenship revealed (22:22-30)
-      Chapter 23: Before the Sanhedrin (23:1-10), Plot against Paul's life (23:11-22), Transfer to Caesarea (23:23-35)
-      Chapter 24: Trial before Felix (24:1-23), Paul and Felix (24:24-27)
-      Chapter 25: Before Festus (25:1-12), Paul appeals to Caesar, Agrippa visits (25:13-27)
-      Chapter 26: Paul's defense before Agrippa (26:1-23), Agrippa's response (26:24-32)
-      Chapter 27: Journey to Rome begins (27:1-12), Storm and shipwreck (27:13-44)
-      Chapter 28: Malta ministry (28:1-10), Arrival in Rome (28:11-16), Meeting with Jewish leaders (28:17-31)
-      
-      Each chapter follows Plain Meaning Bible translation principles:
-      - Functional equivalence prioritizing meaning
-      - Replace traditional terms (baptize→immerse, repent→change mind, holy→set apart)
-      - Modern time references (third hour→9 AM)
-      - Natural English word order
-      - Minimal linguistic notes only
-      - Proper OSIS XML structure with titles and verse tags -->
-      
     </div>
   </osisText>
 </osis>

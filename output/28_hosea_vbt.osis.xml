@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace 
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace        http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="Hos" canonical="true">
       <title type="main">Hosea</title>
       
-      <chapter osisID="Hos.1" sID="Hos.1"/>
+      <chapter osisID="Hos.1" sID="Hos.1" />
       <title type="main">Hosea's family as a symbol</title>
       
       <verse osisID="Hos.1.1">The word of Yahweh that came to Hosea son of Beeri during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and during the reign of Jeroboam son of Joash, king of Israel.</verse>
@@ -38,9 +39,9 @@
       
       <verse osisID="Hos.1.9">Yahweh said, "Name him Lo-Ammi<note type="translation">Lo-Ammi means "not my people"</note>, because you are not my people, and I am not your God<note type="translation">Literally "I am not 'I am' to you"</note>."</verse>
       
-      <chapter eID="Hos.1"/>
+      <chapter eID="Hos.1" />
       
-      <chapter osisID="Hos.2" sID="Hos.2"/>
+      <chapter osisID="Hos.2" sID="Hos.2" />
       <title type="main">Restoration of Israel</title>
       
       <verse osisID="Hos.2.1">The people of Israel will be like the sand of the sea, which cannot be measured or counted. In the place where it was said to them, "You are not my people," it will be said to them, "You are children of the living God."<note type="translation">KJV verse numbering: 1:10</note></verse>
@@ -97,9 +98,9 @@
       
       <verse osisID="Hos.2.25">I will plant her for myself in the land; I will show my love to the one I called 'Not my loved one.' I will say to those called 'Not my people,' 'You are my people'; and they will say, 'You are my God.'"<note type="translation">KJV: 2:23</note></verse>
       
-      <chapter eID="Hos.2"/>
+      <chapter eID="Hos.2" />
       
-      <chapter osisID="Hos.3" sID="Hos.3"/>
+      <chapter osisID="Hos.3" sID="Hos.3" />
       <title type="main">Hosea's reconciliation with his wife</title>
       
       <verse osisID="Hos.3.1">Yahweh said to me, "Go again, love a woman who is loved by another and is an adulteress, just as Yahweh loves the people of Israel, though they turn to other gods and love raisin cakes."<note type="translation">Raisin cakes were used in pagan worship</note></verse>
@@ -112,9 +113,9 @@
       
       <verse osisID="Hos.3.5">Afterward the people of Israel will return and seek Yahweh their God and David their king. They will come trembling to Yahweh and to his blessings in the last days.</verse>
       
-      <chapter eID="Hos.3"/>
+      <chapter eID="Hos.3" />
       
-      <chapter osisID="Hos.4" sID="Hos.4"/>
+      <chapter osisID="Hos.4" sID="Hos.4" />
       <title type="main">The charge against Israel</title>
       
       <verse osisID="Hos.4.1">Hear the word of Yahweh, you people of Israel, because Yahweh has a charge to bring against you who live in the land: "There is no faithfulness, no love, no knowledge of God in the land.</verse>
@@ -157,9 +158,9 @@
       
       <verse osisID="Hos.4.19">A whirlwind will sweep them away, and their sacrifices will bring them shame.</verse>
       
-      <chapter eID="Hos.4"/>
+      <chapter eID="Hos.4" />
       
-      <chapter osisID="Hos.5" sID="Hos.5"/>
+      <chapter osisID="Hos.5" sID="Hos.5" />
       <title type="main">Judgment announced on Israel and Judah</title>
       
       <verse osisID="Hos.5.1">Hear this, you priests! Pay attention, house of Israel! Listen, royal family! This judgment is for you: You have been a trap at Mizpah, a net spread on Tabor.</verse>
@@ -194,9 +195,9 @@
       
       <verse osisID="Hos.5.15">Then I will return to my lair until they have borne their guilt and seek my face—in their misery they will earnestly seek me."</verse>
       
-      <chapter eID="Hos.5"/>
+      <chapter eID="Hos.5" />
       
-      <chapter osisID="Hos.6" sID="Hos.6"/>
+      <chapter osisID="Hos.6" sID="Hos.6" />
       <title type="main">Israel unrepentant</title>
       
       <verse osisID="Hos.6.1">"Come, let us return to Yahweh. He has torn us to pieces but he will heal us; he has injured us but he will bind up our wounds.</verse>
@@ -223,9 +224,9 @@
       
       <verse osisID="Hos.6.11">Also for you, Judah, a harvest is appointed. Whenever I would restore the fortunes of my people,</verse>
       
-      <chapter eID="Hos.6"/>
+      <chapter eID="Hos.6" />
       
-      <chapter osisID="Hos.7" sID="Hos.7"/>
+      <chapter osisID="Hos.7" sID="Hos.7" />
       <title type="main">Israel's sin prevents healing</title>
       
       <verse osisID="Hos.7.1">whenever I would heal Israel, the sins of Ephraim are exposed and the crimes of Samaria revealed. They practice deceit, thieves break into houses, bandits rob in the streets;</verse>
@@ -264,9 +265,9 @@
       
       <verse osisID="Hos.7.16">They do not turn to the Most High; they are like a faulty bow. Their leaders will fall by the sword because of their insolent words. For this they will be ridiculed in Egypt.</verse>
       
-      <chapter eID="Hos.7"/>
+      <chapter eID="Hos.7" />
       
-      <chapter osisID="Hos.8" sID="Hos.8"/>
+      <chapter osisID="Hos.8" sID="Hos.8" />
       <title type="main">Israel to reap the whirlwind</title>
       
       <verse osisID="Hos.8.1">Put the trumpet to your lips! An eagle is over the house of Yahweh because the people have broken my covenant and rebelled against my law.</verse>
@@ -297,9 +298,9 @@
       
       <verse osisID="Hos.8.14">Israel has forgotten their Maker and built palaces; Judah has fortified many towns. But I will send fire on their cities that will consume their fortresses.</verse>
       
-      <chapter eID="Hos.8"/>
+      <chapter eID="Hos.8" />
       
-      <chapter osisID="Hos.9" sID="Hos.9"/>
+      <chapter osisID="Hos.9" sID="Hos.9" />
       <title type="main">Punishment for Israel</title>
       
       <verse osisID="Hos.9.1">Do not rejoice, Israel; do not be jubilant like the other nations. For you have been unfaithful to your God; you love the wages of a prostitute at every threshing floor.</verse>
@@ -338,9 +339,9 @@
       
       <verse osisID="Hos.9.17">My God will reject them because they have not obeyed him; they will be wanderers among the nations.</verse>
       
-      <chapter eID="Hos.9"/>
+      <chapter eID="Hos.9" />
       
-      <chapter osisID="Hos.10" sID="Hos.10"/>
+      <chapter osisID="Hos.10" sID="Hos.10" />
       <title type="main">Israel's unfaithfulness and coming judgment</title>
       
       <verse osisID="Hos.10.1">Israel was a spreading vine; he brought forth fruit for himself. As his fruit increased, he built more altars; as his land prospered, he adorned his sacred stones.</verse>
@@ -375,9 +376,9 @@
       
       <verse osisID="Hos.10.15">So will it happen to you, Bethel, because your wickedness is great. When that day dawns, the king of Israel will be completely destroyed.</verse>
       
-      <chapter eID="Hos.10"/>
+      <chapter eID="Hos.10" />
       
-      <chapter osisID="Hos.11" sID="Hos.11"/>
+      <chapter osisID="Hos.11" sID="Hos.11" />
       <title type="main">God's love for Israel</title>
       
       <verse osisID="Hos.11.1">When Israel was a child, I loved him, and out of Egypt I called my son.</verse>
@@ -408,9 +409,9 @@
       
       <verse osisID="Hos.11.12">Ephraim has surrounded me with lies, Israel with deceit. And Judah is unruly against God, even against the faithful Set Apart One.<note type="translation">KJV verse numbering: 12:1 begins here</note></verse>
       
-      <chapter eID="Hos.11"/>
+      <chapter eID="Hos.11" />
       
-      <chapter osisID="Hos.12" sID="Hos.12"/>
+      <chapter osisID="Hos.12" sID="Hos.12" />
       <title type="main">Israel's rebellion despite God's care</title>
       
       <verse osisID="Hos.12.1">Ephraim feeds on the wind; he pursues the east wind all day and multiplies lies and violence. He makes a treaty with Assyria and sends olive oil to Egypt.<note type="translation">KJV verse numbering: 12:2</note></verse>
@@ -441,9 +442,9 @@
       
       <verse osisID="Hos.12.14">But Ephraim has aroused his bitter anger; his Lord will leave on him the guilt of his bloodshed and will repay him for his contempt.<note type="translation">KJV: 12:15</note></verse>
       
-      <chapter eID="Hos.12"/>
+      <chapter eID="Hos.12" />
       
-      <chapter osisID="Hos.13" sID="Hos.13"/>
+      <chapter osisID="Hos.13" sID="Hos.13" />
       <title type="main">The Lord's anger against Israel</title>
       
       <verse osisID="Hos.13.1">When Ephraim spoke, people trembled; he was exalted in Israel. But he became guilty of Baal worship and died.</verse>
@@ -478,9 +479,9 @@
       
       <verse osisID="Hos.13.16">The people of Samaria must bear their guilt, because they have rebelled against their God. They will fall by the sword; their little ones will be dashed to the ground, their pregnant women ripped open."<note type="translation">KJV verse numbering: 14:1</note></verse>
       
-      <chapter eID="Hos.13"/>
+      <chapter eID="Hos.13" />
       
-      <chapter osisID="Hos.14" sID="Hos.14"/>
+      <chapter osisID="Hos.14" sID="Hos.14" />
       <title type="main">Repentance to bring blessing</title>
       
       <verse osisID="Hos.14.1">Return, Israel, to Yahweh your God. Your sins have been your downfall!<note type="translation">KJV: 14:2</note></verse>
@@ -505,7 +506,7 @@
       
       <verse osisID="Hos.14.9">Who is wise? Let them realize these things. Who is discerning? Let them understand. The ways of Yahweh are right; those who do what's right walk in them, but the rebellious stumble in them.<note type="translation">KJV: 14:10</note></verse>
       
-      <chapter eID="Hos.14"/>
+      <chapter eID="Hos.14" />
       
     </div>
   </osisText>

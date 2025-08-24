@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="Eccl" canonical="true">
       <title type="main">Ecclesiastes</title>
       
-      <chapter osisID="Eccl.1" sID="Eccl.1"/>
+      <chapter osisID="Eccl.1" sID="Eccl.1" />
       <title type="main">The Teacher's Search for Meaning</title>
       
       <verse osisID="Eccl.1.1">The words of the Teacher, the son of David, king in Jerusalem.</verse>
@@ -56,9 +57,9 @@
       
       <verse osisID="Eccl.1.18">For with much wisdom comes much sorrow; the more knowledge, the more grief.</verse>
       
-      <chapter eID="Eccl.1"/>
+      <chapter eID="Eccl.1" />
       
-      <chapter osisID="Eccl.2" sID="Eccl.2"/>
+      <chapter osisID="Eccl.2" sID="Eccl.2" />
       <title type="main">The Pursuit of Pleasure and Wisdom</title>
       
       <verse osisID="Eccl.2.1">I said to myself, "Come now, I will test you with pleasure to find out what is good." But that also proved to be meaningless.</verse>
@@ -117,9 +118,9 @@
       
       <verse osisID="Eccl.2.26">To the person who pleases him, God gives wisdom, knowledge and happiness, but to the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind.</verse>
       
-      <chapter eID="Eccl.2"/>
+      <chapter eID="Eccl.2" />
       
-      <chapter osisID="Eccl.3" sID="Eccl.3"/>
+      <chapter osisID="Eccl.3" sID="Eccl.3" />
       <title type="main">A Time for Everything</title>
       
       <verse osisID="Eccl.3.1">There is a time for everything, and a season for every activity under the heavens:</verse>
@@ -168,9 +169,9 @@
       
       <verse osisID="Eccl.3.22">So I saw that there is nothing better for a person than to enjoy their work, because that is their lot. For who can bring them to see what will happen after them?</verse>
       
-      <chapter eID="Eccl.3"/>
+      <chapter eID="Eccl.3" />
       
-      <chapter osisID="Eccl.4" sID="Eccl.4"/>
+      <chapter osisID="Eccl.4" sID="Eccl.4" />
       <title type="main">Oppression, Toil and Friendlessness</title>
       
       <verse osisID="Eccl.4.1">Again I looked and saw all the oppression that was taking place under the sun: I saw the tears of the oppressed— and they have no comforter; power was on the side of their oppressors— and they have no comforter.</verse>
@@ -207,9 +208,9 @@
       
       <verse osisID="Eccl.4.16">There was no end to all the people who were before them. But those who came later were not pleased with the successor. This too is meaningless, a chasing after the wind.</verse>
       
-      <chapter eID="Eccl.4"/>
+      <chapter eID="Eccl.4" />
       
-      <chapter osisID="Eccl.5" sID="Eccl.5"/>
+      <chapter osisID="Eccl.5" sID="Eccl.5" />
       <title type="main">Reverence in Worship</title>
       
       <verse osisID="Eccl.5.1">Guard your steps when you go to the house of God. Go near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong.</verse>
@@ -254,9 +255,9 @@
       
       <verse osisID="Eccl.5.20">They seldom reflect on the days of their life, because God keeps them occupied with gladness of heart.</verse>
       
-      <chapter eID="Eccl.5"/>
+      <chapter eID="Eccl.5" />
       
-      <chapter osisID="Eccl.6" sID="Eccl.6"/>
+      <chapter osisID="Eccl.6" sID="Eccl.6" />
       <title type="main">The Futility of Wealth</title>
       
       <verse osisID="Eccl.6.1">I have seen another evil under the sun, and it weighs heavily on mankind:</verse>
@@ -283,9 +284,9 @@
       
       <verse osisID="Eccl.6.12">For who knows what is good for a person in life, during the few and meaningless days they pass through like a shadow? Who can tell them what will happen under the sun after they are gone?</verse>
       
-      <chapter eID="Eccl.6"/>
+      <chapter eID="Eccl.6" />
       
-      <chapter osisID="Eccl.7" sID="Eccl.7"/>
+      <chapter osisID="Eccl.7" sID="Eccl.7" />
       <title type="main">Wisdom</title>
       
       <verse osisID="Eccl.7.1">A good name is better than fine perfume, and the day of death better than the day of birth.</verse>
@@ -346,9 +347,9 @@
       
       <verse osisID="Eccl.7.29">This only have I found: God created mankind upright, but they have gone in search of many schemes."</verse>
       
-      <chapter eID="Eccl.7"/>
+      <chapter eID="Eccl.7" />
       
-      <chapter osisID="Eccl.8" sID="Eccl.8"/>
+      <chapter osisID="Eccl.8" sID="Eccl.8" />
       <title type="main">Obedience to the King and God</title>
       
       <verse osisID="Eccl.8.1">Who is like the wise? Who knows the explanation of things? A person's wisdom brightens their face and changes its hard appearance.</verse>
@@ -385,9 +386,9 @@
       
       <verse osisID="Eccl.8.17">then I saw all that God has done. No one can comprehend what goes on under the sun. Despite all their efforts to search it out, no one can discover its meaning. Even if the wise claim they know, they cannot really comprehend it.</verse>
       
-      <chapter eID="Eccl.8"/>
+      <chapter eID="Eccl.8" />
       
-      <chapter osisID="Eccl.9" sID="Eccl.9"/>
+      <chapter osisID="Eccl.9" sID="Eccl.9" />
       <title type="main">A Common Destiny for All</title>
       
       <verse osisID="Eccl.9.1">So I reflected on all this and concluded that those who do what's right and the wise and what they do are in God's hands, but no one knows whether love or hate awaits them.</verse>
@@ -428,9 +429,9 @@
       
       <verse osisID="Eccl.9.18">Wisdom is better than weapons of war, but one sinner destroys much good.</verse>
       
-      <chapter eID="Eccl.9"/>
+      <chapter eID="Eccl.9" />
       
-      <chapter osisID="Eccl.10" sID="Eccl.10"/>
+      <chapter osisID="Eccl.10" sID="Eccl.10" />
       <title type="main">As Dead Flies Give Perfume a Bad Smell</title>
       
       <verse osisID="Eccl.10.1">As dead flies give perfume a bad smell, so a little folly outweighs wisdom and honor.</verse>
@@ -473,9 +474,9 @@
       
       <verse osisID="Eccl.10.20">Do not revile the king even in your thoughts, or curse the rich in your bedroom, because a bird in the sky may carry your words, and a bird on the wing may report what you say.</verse>
       
-      <chapter eID="Eccl.10"/>
+      <chapter eID="Eccl.10" />
       
-      <chapter osisID="Eccl.11" sID="Eccl.11"/>
+      <chapter osisID="Eccl.11" sID="Eccl.11" />
       <title type="main">Invest in Many Ventures</title>
       
       <verse osisID="Eccl.11.1">Ship your grain across the sea; after many days you may receive a return.</verse>
@@ -500,9 +501,9 @@
       
       <verse osisID="Eccl.11.10">So then, banish anxiety from your heart and cast off the troubles of your body, for youth and vigor are meaningless.</verse>
       
-      <chapter eID="Eccl.11"/>
+      <chapter eID="Eccl.11" />
       
-      <chapter osisID="Eccl.12" sID="Eccl.12"/>
+      <chapter osisID="Eccl.12" sID="Eccl.12" />
       <title type="main">Remember Your Creator</title>
       
       <verse osisID="Eccl.12.1">Remember your Creator in the days of your youth, before the days of trouble come and the years approach when you will say, "I find no pleasure in them"—</verse>
@@ -535,7 +536,7 @@
       
       <verse osisID="Eccl.12.14">For God will bring every deed into judgment, including every hidden thing, whether it is good or evil.</verse>
       
-      <chapter eID="Eccl.12"/>
+      <chapter eID="Eccl.12" />
     </div>
   </osisText>
 </osis>

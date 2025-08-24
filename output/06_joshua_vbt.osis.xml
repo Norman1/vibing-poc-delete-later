@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <type type="OSIS">Bible</type>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
         <rights type="x-copyright">Public Domain</rights>
-        <scope>Josh</scope>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -20,7 +21,7 @@
         <p>Joshua tells the story of Israel's conquest of the Promised Land under Joshua's leadership after Moses' death. The book records the crossing of the Jordan River, the fall of Jericho, major military campaigns, and the division of the land among the twelve tribes. It demonstrates God's faithfulness in fulfilling his promises to Abraham, Isaac, and Jacob.</p>
       </div>
       
-      <chapter osisID="Josh.1" sID="Josh.1"/>
+      <chapter osisID="Josh.1" sID="Josh.1" />
       <title type="sub">Joshua Installed as Leader</title>
       <verse osisID="Josh.1.1">After the death of Moses the servant of Yahweh, Yahweh said to Joshua son of Nun, Moses' aide:</verse>
       <verse osisID="Josh.1.2">"Moses my servant is dead. Now then, you and all these people, get ready to cross the Jordan River into the land I am about to give to them—to the Israelites.</verse>
@@ -40,9 +41,9 @@
       <verse osisID="Josh.1.16">Then they answered Joshua, "Whatever you have commanded us we will do, and wherever you send us we will go.</verse>
       <verse osisID="Josh.1.17">Just as we fully obeyed Moses, so we will obey you. Only may Yahweh your God be with you as he was with Moses.</verse>
       <verse osisID="Josh.1.18">Whoever rebels against your word and does not obey it, whatever you may command them, will be put to death. Only be strong and courageous!"</verse>
-      <chapter eID="Josh.1"/>
+      <chapter eID="Josh.1" />
       
-      <chapter osisID="Josh.2" sID="Josh.2"/>
+      <chapter osisID="Josh.2" sID="Josh.2" />
       <title type="sub">Rahab and the Spies</title>
       <verse osisID="Josh.2.1">Then Joshua son of Nun secretly sent two spies from Shittim. "Go, look over the land," he said, "especially Jericho." So they went and entered the house of a prostitute named Rahab and stayed there.</verse>
       <verse osisID="Josh.2.2">The king of Jericho was told, "Look, some of the Israelites have come here tonight to spy out the land."</verse>
@@ -68,9 +69,9 @@
       <verse osisID="Josh.2.22">When they left, they went into the hills and stayed there three days, until the pursuers had searched all along the road and returned without finding them.</verse>
       <verse osisID="Josh.2.23">Then the two men started back. They went down out of the hills, forded the river and came to Joshua son of Nun and told him everything that had happened to them.</verse>
       <verse osisID="Josh.2.24">They said to Joshua, "Yahweh has surely given the whole land into our hands; all the people are melting in fear because of us."</verse>
-      <chapter eID="Josh.2"/>
+      <chapter eID="Josh.2" />
       
-      <chapter osisID="Josh.3" sID="Josh.3"/>
+      <chapter osisID="Josh.3" sID="Josh.3" />
       <title type="sub">Crossing the Jordan</title>
       <verse osisID="Josh.3.1">Early in the morning Joshua and all the Israelites set out from Shittim and went to the Jordan, where they camped before crossing over.</verse>
       <verse osisID="Josh.3.2">After three days the officers went throughout the camp,</verse>
@@ -89,9 +90,9 @@
       <verse osisID="Josh.3.15">Now the Jordan is at flood stage all during harvest. Yet as soon as the priests who carried the ark reached the Jordan and their feet touched the water's edge,</verse>
       <verse osisID="Josh.3.16">the water from upstream stopped flowing. It piled up in a heap a great distance away, at a town called Adam in the vicinity of Zarethan, while the water flowing down to the Sea of the Arabah (that is, the Dead Sea) was completely cut off. So the people crossed over opposite Jericho.</verse>
       <verse osisID="Josh.3.17">The priests who carried the ark of the covenant of Yahweh stopped in the middle of the Jordan and stood on dry ground, while all Israel passed by until the whole nation had completed the crossing on dry ground.</verse>
-      <chapter eID="Josh.3"/>
+      <chapter eID="Josh.3" />
       
-      <chapter osisID="Josh.4" sID="Josh.4"/>
+      <chapter osisID="Josh.4" sID="Josh.4" />
       <title type="sub">Memorial Stones Set Up</title>
       <verse osisID="Josh.4.1">When the whole nation had finished crossing the Jordan, Yahweh said to Joshua,</verse>
       <verse osisID="Josh.4.2">"Choose twelve men from among the people, one from each tribe,</verse>
@@ -117,9 +118,9 @@
       <verse osisID="Josh.4.22">tell them, 'Israel crossed the Jordan on dry ground.'</verse>
       <verse osisID="Josh.4.23">For Yahweh your God dried up the Jordan before you until you had crossed over. Yahweh your God did to the Jordan what he had done to the Red Sea when he dried it up before us until we had crossed over.</verse>
       <verse osisID="Josh.4.24">He did this so that all the peoples of the earth might know that the hand of Yahweh is powerful and so that you might always fear Yahweh your God."</verse>
-      <chapter eID="Josh.4"/>
+      <chapter eID="Josh.4" />
       
-      <chapter osisID="Josh.5" sID="Josh.5"/>
+      <chapter osisID="Josh.5" sID="Josh.5" />
       <title type="sub">Circumcision and Passover at Gilgal</title>
       <verse osisID="Josh.5.1">Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how Yahweh had dried up the Jordan before the Israelites until they had crossed over, their hearts melted in fear and they no longer had the courage to face the Israelites.</verse>
       <verse osisID="Josh.5.2">At that time Yahweh said to Joshua, "Make flint knives and circumcise the Israelites again."</verse>
@@ -138,9 +139,9 @@
       <verse osisID="Josh.5.13">Now when Joshua was near Jericho, he looked up and saw a man standing in front of him with a drawn sword in his hand. Joshua went up to him and asked, "Are you for us or for our enemies?"</verse>
       <verse osisID="Josh.5.14">"Neither," he replied, "but as commander of the army of Yahweh I have now come." Then Joshua fell facedown to the ground in reverence, and asked him, "What message does my Lord have for his servant?"</verse>
       <verse osisID="Josh.5.15">The commander of Yahweh's army replied, "Take off your sandals, for the place where you are standing is set apart." And Joshua did so.</verse>
-      <chapter eID="Josh.5"/>
+      <chapter eID="Josh.5" />
       
-      <chapter osisID="Josh.6" sID="Josh.6"/>
+      <chapter osisID="Josh.6" sID="Josh.6" />
       <verse osisID="Josh.6.1">Now the gates of Jericho were securely barred because of the Israelites. No one went out and no one came in.</verse>
       <verse osisID="Josh.6.2">Then Yahweh said to Joshua, "See, I have delivered Jericho into your hands, along with its king and its fighting men.</verse>
       <verse osisID="Josh.6.3">March around the city once with all the armed men. Do this for six days.</verse>
@@ -168,9 +169,9 @@
       <verse osisID="Josh.6.25">But Joshua spared Rahab the prostitute, with her family and all who belonged to her, because she hid the men Joshua had sent as spies to Jericho—and she lives among the Israelites to this day.</verse>
       <verse osisID="Josh.6.26">At that time Joshua pronounced this solemn oath: "Cursed before Yahweh is anyone who undertakes to rebuild this city, Jericho: At the cost of his firstborn son he will lay its foundations; at the cost of his youngest he will set up its gates."</verse>
       <verse osisID="Josh.6.27">So Yahweh was with Joshua, and his fame spread throughout the land.</verse>
-      <chapter eID="Josh.6"/>
+      <chapter eID="Josh.6" />
       
-      <chapter osisID="Josh.7" sID="Josh.7"/>
+      <chapter osisID="Josh.7" sID="Josh.7" />
       <title type="sub">Achan's Wrongdoing</title>
       <verse osisID="Josh.7.1">But the Israelites were unfaithful in regard to the devoted things; Achan son of Karmi, the son of Zimri, the son of Zerah, of the tribe of Judah, took some of them. So Yahweh's anger burned against Israel.</verse>
       <verse osisID="Josh.7.2">Now Joshua sent men from Jericho to Ai, which is near Beth Aven to the east of Bethel, and told them, "Go up and spy out the region." So the men went up and spied out Ai.</verse>
@@ -198,9 +199,9 @@
       <verse osisID="Josh.7.24">Then Joshua, together with all Israel, took Achan son of Zerah, the silver, the robe, the gold bar, his sons and daughters, his cattle, donkeys and sheep, his tent and all that he had, to the Valley of Achor.</verse>
       <verse osisID="Josh.7.25">Joshua said, "Why have you brought this trouble on us? Yahweh will bring trouble on you today." Then all Israel stoned him, and after they had stoned the rest, they burned them.</verse>
       <verse osisID="Josh.7.26">Over Achan they heaped up a large pile of rocks, which remains to this day. Then Yahweh turned from his fierce anger. Therefore that place has been called the Valley of Achor ever since.</verse>
-      <chapter eID="Josh.7"/>
+      <chapter eID="Josh.7" />
       
-      <chapter osisID="Josh.8" sID="Josh.8"/>
+      <chapter osisID="Josh.8" sID="Josh.8" />
       <title type="sub">Ai Destroyed</title>
       <verse osisID="Josh.8.1">Then Yahweh said to Joshua, "Do not be afraid; do not be discouraged. Take the whole army with you, and go up and attack Ai. For I have delivered into your hands the king of Ai, his people, his city and his land.</verse>
       <verse osisID="Josh.8.2">You shall do to Ai and its king as you did to Jericho and its king, except that you may carry off their plunder and livestock for yourselves. Set an ambush behind the city."</verse>
@@ -239,9 +240,9 @@
       <verse osisID="Josh.8.33">All the Israelites, with their elders, officials and judges, were standing on both sides of the ark of the covenant of Yahweh, facing the Levitical priests who carried it. Both the foreigners living among them and the native-born were there. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of Yahweh had formerly commanded when he gave instructions to bless the people of Israel.</verse>
       <verse osisID="Josh.8.34">Afterward, Joshua read all the words of the law—the blessings and the curses—just as it is written in the Book of the Law.</verse>
       <verse osisID="Josh.8.35">There was not a word of all that Moses commanded that Joshua did not read to the whole assembly of Israel, including the women and children, and the foreigners who lived among them.</verse>
-      <chapter eID="Josh.8"/>
+      <chapter eID="Josh.8" />
       
-      <chapter osisID="Josh.9" sID="Josh.9"/>
+      <chapter osisID="Josh.9" sID="Josh.9" />
       <title type="sub">The Gibeonite Deception</title>
       <verse osisID="Josh.9.1">Now when all the kings west of the Jordan heard about these things—the kings in the hill country, in the western foothills, and along the entire coast of the Mediterranean Sea as far as Lebanon (the kings of the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites)—</verse>
       <verse osisID="Josh.9.2">they came together to wage war against Joshua and Israel.</verse>
@@ -270,9 +271,9 @@
       <verse osisID="Josh.9.25">We are now in your hands. Do to us whatever seems good and right to you."</verse>
       <verse osisID="Josh.9.26">So Joshua saved them from the Israelites, and they did not kill them.</verse>
       <verse osisID="Josh.9.27">That day he made the Gibeonites woodcutters and water carriers for the assembly, to provide for the needs of the altar of Yahweh at the place Yahweh would choose. And that is what they are to this day.</verse>
-      <chapter eID="Josh.9"/>
+      <chapter eID="Josh.9" />
       
-      <chapter osisID="Josh.10" sID="Josh.10"/>
+      <chapter osisID="Josh.10" sID="Josh.10" />
       <title type="sub">The Sun Stands Still</title>
       <verse osisID="Josh.10.1">Now Adoni-Zedek king of Jerusalem heard that Joshua had taken Ai and totally destroyed it, doing to Ai and its king as he had done to Jericho and its king, and that the people of Gibeon had made a treaty of peace with Israel and had become their allies.</verse>
       <verse osisID="Josh.10.2">He and his people were very much alarmed at this, because Gibeon was an important city, like one of the royal cities; it was larger than Ai, and all its men were good fighters.</verse>
@@ -321,9 +322,9 @@
       <verse osisID="Josh.10.41">Joshua subdued them from Kadesh Barnea to Gaza and from the whole region of Goshen to Gibeon.</verse>
       <verse osisID="Josh.10.42">All these kings and their lands Joshua conquered in one campaign, because Yahweh, the God of Israel, fought for Israel.</verse>
       <verse osisID="Josh.10.43">Then Joshua returned with all Israel to the camp at Gilgal.</verse>
-      <chapter eID="Josh.10"/>
+      <chapter eID="Josh.10" />
       
-      <chapter osisID="Josh.11" sID="Josh.11"/>
+      <chapter osisID="Josh.11" sID="Josh.11" />
       <title type="sub">Northern Kings Defeated</title>
       <verse osisID="Josh.11.1">When Jabin king of Hazor heard of this, he sent word to Jobab king of Madon, to the kings of Shimron and Akshaph,</verse>
       <verse osisID="Josh.11.2">and to the northern kings who were in the mountains, in the Arabah south of Kinnereth, in the western foothills and in Naphoth Dor on the west;</verse>
@@ -350,9 +351,9 @@
       <verse osisID="Josh.11.21">At that time Joshua went and destroyed the Anakites from the hill country: from Hebron, Debir and Anab, from all the hill country of Judah, and from all the hill country of Israel. Joshua totally destroyed them and their towns.</verse>
       <verse osisID="Josh.11.22">No Anakites were left in Israelite territory; only in Gaza, Gath and Ashdod did any survive.</verse>
       <verse osisID="Josh.11.23">So Joshua took the entire land, just as Yahweh had directed Moses, and he gave it as an inheritance to Israel according to their tribal divisions. Then the land had rest from war.</verse>
-      <chapter eID="Josh.11"/>
+      <chapter eID="Josh.11" />
       
-      <chapter osisID="Josh.12" sID="Josh.12"/>
+      <chapter osisID="Josh.12" sID="Josh.12" />
       <title type="sub">List of Defeated Kings</title>
       <verse osisID="Josh.12.1">These are the kings of the land whom the Israelites had defeated and whose territory they took over east of the Jordan, from the Arnon Gorge to Mount Hermon, including all the eastern side of the Arabah:</verse>
       <verse osisID="Josh.12.2">Sihon king of the Amorites, who reigned in Heshbon. He ruled from Aroer on the rim of the Arnon Gorge—from the middle of the gorge—to the Jabbok River, which is the border of the Ammonites. This included half of Gilead.</verse>
@@ -378,9 +379,9 @@
       <verse osisID="Josh.12.22">the king of Kedesh one the king of Jokneam in Carmel one</verse>
       <verse osisID="Josh.12.23">the king of Dor (in Naphoth Dor) one the king of Goyim in Gilgal one</verse>
       <verse osisID="Josh.12.24">the king of Tirzah one thirty-one kings in all.</verse>
-      <chapter eID="Josh.12"/>
+      <chapter eID="Josh.12" />
       
-      <chapter osisID="Josh.13" sID="Josh.13"/>
+      <chapter osisID="Josh.13" sID="Josh.13" />
       <title type="sub">Land Still to Be Taken</title>
       <verse osisID="Josh.13.1">When Joshua had grown old, Yahweh said to him, "You are now very old, and there are still very large areas of land to be taken over.</verse>
       <verse osisID="Josh.13.2">This is the land that remains: all the regions of the Philistines and Geshurites,</verse>
@@ -417,9 +418,9 @@
       <verse osisID="Josh.13.31">half of Gilead, and Ashtaroth and Edrei (the royal cities of Og in Bashan). This was for the descendants of Makir son of Manasseh—for half of the sons of Makir, according to their clans.</verse>
       <verse osisID="Josh.13.32">This is the inheritance Moses had given when he was in the plains of Moab across the Jordan east of Jericho.</verse>
       <verse osisID="Josh.13.33">But to the tribe of Levi, Moses had given no inheritance; Yahweh, the God of Israel, is their inheritance, as he promised them.</verse>
-      <chapter eID="Josh.13"/>
+      <chapter eID="Josh.13" />
       
-      <chapter osisID="Josh.14" sID="Josh.14"/>
+      <chapter osisID="Josh.14" sID="Josh.14" />
       <title type="sub">Division of the Land West of the Jordan</title>
       <verse osisID="Josh.14.1">Now these are the areas the Israelites received as an inheritance in the land of Canaan, which Eleazar the priest, Joshua son of Nun and the heads of the tribal clans of Israel allotted to them.</verse>
       <verse osisID="Josh.14.2">Their inheritances were assigned by lot to the nine and a half tribes, as Yahweh had commanded through Moses.</verse>
@@ -438,9 +439,9 @@
       <verse osisID="Josh.14.13">Then Joshua blessed Caleb son of Jephunneh and gave him Hebron as his inheritance.</verse>
       <verse osisID="Josh.14.14">So Hebron has belonged to Caleb son of Jephunneh the Kenizzite ever since, because he followed Yahweh, the God of Israel, wholeheartedly.</verse>
       <verse osisID="Josh.14.15">(Hebron used to be called Kiriath Arba after Arba, who was the greatest man among the Anakites.) Then the land had rest from war.</verse>
-      <chapter eID="Josh.14"/>
+      <chapter eID="Josh.14" />
       
-      <chapter osisID="Josh.15" sID="Josh.15"/>
+      <chapter osisID="Josh.15" sID="Josh.15" />
       <title type="sub">Allotment for Judah</title>
       <verse osisID="Josh.15.1">The allotment for the tribe of Judah, according to its clans, extended down to the territory of Edom, to the Desert of Zin in the extreme south.</verse>
       <verse osisID="Josh.15.2">Their southern boundary started from the bay at the southern end of the Dead Sea,</verse>
@@ -505,9 +506,9 @@
       <verse osisID="Josh.15.61">In the wilderness: Beth Arabah, Middin, Sekakah,</verse>
       <verse osisID="Josh.15.62">Nibshan, the City of Salt and En Gedi—six towns and their villages.</verse>
       <verse osisID="Josh.15.63">Judah could not dislodge the Jebusites, who were living in Jerusalem; to this day the Jebusites live there with the people of Judah.</verse>
-      <chapter eID="Josh.15"/>
+      <chapter eID="Josh.15" />
       
-      <chapter osisID="Josh.16" sID="Josh.16"/>
+      <chapter osisID="Josh.16" sID="Josh.16" />
       <title type="main">Territory of Ephraim and Western Manasseh</title>
       <verse osisID="Josh.16.1">The allotment for the sons of Joseph went from the Jordan River near Jericho, to the waters of Jericho on the east, into the wilderness that goes up from Jericho through the hill country to Bethel.</verse>
       <verse osisID="Josh.16.2">Then it went out from Bethel to Luz, and passed along to the border of the Archites to Ataroth.</verse>
@@ -519,9 +520,9 @@
       <verse osisID="Josh.16.8">From Tappuah the border went westward to the Kanah Brook; and it ended at the sea. This was the inheritance of the tribe of the sons of Ephraim by their families.</verse>
       <verse osisID="Josh.16.9">The separate cities for the sons of Ephraim were among the inheritance of the sons of Manasseh, all the cities with their villages.</verse>
       <verse osisID="Josh.16.10">And they did not drive out the Canaanites who lived in Gezer; but the Canaanites live among the Ephraimites to this day and have become forced laborers.</verse>
-      <chapter eID="Josh.16"/>
+      <chapter eID="Josh.16" />
       
-      <chapter osisID="Josh.17" sID="Josh.17"/>
+      <chapter osisID="Josh.17" sID="Josh.17" />
       <title type="main">Territory of Eastern Manasseh</title>
       <verse osisID="Josh.17.1">There was also an allotment for the tribe of Manasseh, for he was the firstborn of Joseph: To Makir the firstborn of Manasseh, the father of Gilead, because he was a man of war, therefore he was given Gilead and Bashan.</verse>
       <verse osisID="Josh.17.2">And there was an allotment for the rest of the sons of Manasseh by their families: for the sons of Abiezer, the sons of Helek, the sons of Asriel, the sons of Shechem, the sons of Hepher, and the sons of Shemida; these were the male descendants of Manasseh the son of Joseph by their families.</verse>
@@ -541,9 +542,9 @@
       <verse osisID="Josh.17.16">But the children of Joseph said, "The mountain country is not enough for us; and all the Canaanites who live in the land of the valley have chariots of iron, both those who are of Beth Shean and its towns and those who are of the Valley of Jezreel."</verse>
       <verse osisID="Josh.17.17">And Joshua spoke to the house of Joseph—to Ephraim and Manasseh—saying, "You are a great people and have great power; you shall not have only one lot,</verse>
       <verse osisID="Josh.17.18">but the mountain country shall be yours. Although it is wooded, you shall cut it down, and its farthest extent shall be yours; for you shall drive out the Canaanites, though they have iron chariots and are strong."</verse>
-      <chapter eID="Josh.17"/>
+      <chapter eID="Josh.17" />
       
-      <chapter osisID="Josh.18" sID="Josh.18"/>
+      <chapter osisID="Josh.18" sID="Josh.18" />
       <title type="main">Division of the Remaining Land</title>
       <verse osisID="Josh.18.1">Now the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of meeting there. And the land was subdued before them.</verse>
       <verse osisID="Josh.18.2">But there remained among the children of Israel seven tribes which had not yet received their inheritance.</verse>
@@ -575,9 +576,9 @@
       <verse osisID="Josh.18.26">Mizpah, Chephirah, Mozah,</verse>
       <verse osisID="Josh.18.27">Rekem, Irpeel, Taralah,</verse>
       <verse osisID="Josh.18.28">Zelah, Eleph, Jebus (which is Jerusalem), Gibeath, and Kirjath: fourteen cities with their villages. This was the inheritance of the children of Benjamin according to their families.</verse>
-      <chapter eID="Josh.18"/>
+      <chapter eID="Josh.18" />
       
-      <chapter osisID="Josh.19" sID="Josh.19"/>
+      <chapter osisID="Josh.19" sID="Josh.19" />
       <title type="main">Allotments for the Remaining Tribes</title>
       <title type="sub">Simeon</title>
       <verse osisID="Josh.19.1">The second lot came out for Simeon, for the tribe of the children of Simeon according to their families. And their inheritance was within the inheritance of the children of Judah.</verse>
@@ -643,9 +644,9 @@
       <verse osisID="Josh.19.49">When they had made an end of dividing the land as an inheritance according to their borders, the children of Israel gave an inheritance among them to Joshua the son of Nun.</verse>
       <verse osisID="Josh.19.50">According to the word of Yahweh they gave him the city which he asked for, Timnath Serah in the mountains of Ephraim; and he built the city and dwelt in it.</verse>
       <verse osisID="Josh.19.51">These were the inheritances which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel divided as an inheritance by lot in Shiloh before Yahweh, at the door of the tabernacle of meeting. So they made an end of dividing the country.</verse>
-      <chapter eID="Josh.19"/>
+      <chapter eID="Josh.19" />
       
-      <chapter osisID="Josh.20" sID="Josh.20"/>
+      <chapter osisID="Josh.20" sID="Josh.20" />
       <title type="main">Cities of Refuge</title>
       <verse osisID="Josh.20.1">Yahweh also spoke to Joshua, saying,</verse>
       <verse osisID="Josh.20.2">"Speak to the children of Israel, saying: 'Appoint for yourselves cities of refuge, of which I spoke to you through Moses,</verse>
@@ -656,9 +657,9 @@
       <verse osisID="Josh.20.7">So they appointed Kedesh in Galilee, in the mountains of Naphtali, Shechem in the mountains of Ephraim, and Kirjath Arba (which is Hebron) in the mountains of Judah.</verse>
       <verse osisID="Josh.20.8">And on the other side of the Jordan, by Jericho eastward, they assigned Bezer in the wilderness on the plain, from the tribe of Reuben, Ramoth in Gilead, from the tribe of Gad, and Golan in Bashan, from the tribe of Manasseh.</verse>
       <verse osisID="Josh.20.9">These were the cities appointed for all the children of Israel and for the stranger who dwelt among them, that whoever killed a person accidentally might flee there, and not die by the hand of the avenger of blood until he stood before the congregation.</verse>
-      <chapter eID="Josh.20"/>
+      <chapter eID="Josh.20" />
       
-      <chapter osisID="Josh.21" sID="Josh.21"/>
+      <chapter osisID="Josh.21" sID="Josh.21" />
       <title type="main">Cities Given to the Levites</title>
       <verse osisID="Josh.21.1">Then the heads of the fathers' houses of the Levites came near to Eleazar the priest, to Joshua the son of Nun, and to the heads of the fathers' houses of the tribes of the children of Israel.</verse>
       <verse osisID="Josh.21.2">And they spoke to them at Shiloh in the land of Canaan, saying, "Yahweh commanded through Moses to give us cities to dwell in, with their common-lands for our livestock."</verse>
@@ -705,9 +706,9 @@
       <verse osisID="Josh.21.43">So Yahweh gave to Israel all the land of which He had sworn to give to their fathers, and they took possession of it and dwelt in it.</verse>
       <verse osisID="Josh.21.44">Yahweh gave them rest all around, according to all that He had sworn to their fathers. And not a man of all their enemies stood against them; Yahweh delivered all their enemies into their hand.</verse>
       <verse osisID="Josh.21.45">Not a word failed of any good thing which Yahweh had spoken to the house of Israel. All came to pass.</verse>
-      <chapter eID="Josh.21"/>
+      <chapter eID="Josh.21" />
       
-      <chapter osisID="Josh.22" sID="Josh.22"/>
+      <chapter osisID="Josh.22" sID="Josh.22" />
       <title type="main">Eastern Tribes Return Home</title>
       <verse osisID="Josh.22.1">Then Joshua called the Reubenites, the Gadites, and half the tribe of Manasseh,</verse>
       <verse osisID="Josh.22.2">and said to them: "You have kept all that Moses the servant of Yahweh commanded you, and have obeyed my voice in all that I commanded you.</verse>
@@ -745,9 +746,9 @@
       <verse osisID="Josh.22.32">And Phinehas the son of Eleazar the priest, and the rulers, returned from the children of Reuben and the children of Gad, from the land of Gilead to the land of Canaan, to the children of Israel, and brought back word to them.</verse>
       <verse osisID="Josh.22.33">So the thing pleased the children of Israel, and the children of Israel blessed God; they spoke no more of going against them in battle, to destroy the land where the children of Reuben and Gad dwelt.</verse>
       <verse osisID="Josh.22.34">The children of Reuben and the children of Gad called the altar, Witness, "For it is a witness between us that Yahweh is God."</verse>
-      <chapter eID="Josh.22"/>
+      <chapter eID="Josh.22" />
       
-      <chapter osisID="Josh.23" sID="Josh.23"/>
+      <chapter osisID="Josh.23" sID="Josh.23" />
       <title type="main">Joshua's Farewell Address</title>
       <verse osisID="Josh.23.1">Now it came to pass, a long time after Yahweh had given rest to Israel from all their enemies round about, that Joshua was old, advanced in age.</verse>
       <verse osisID="Josh.23.2">And Joshua called for all Israel, for their elders, for their heads, for their judges, and for their officers, and said to them: "I am old, advanced in age.</verse>
@@ -765,9 +766,9 @@
       <verse osisID="Josh.23.14">Behold, this day I am going the way of all the earth. And you know in all your hearts and in all your souls that not one thing has failed of all the good things which Yahweh your God spoke concerning you. All have come to pass for you; not one word of them has failed.</verse>
       <verse osisID="Josh.23.15">Therefore it shall come to pass, that as all the good things have come upon you which Yahweh your God promised you, so Yahweh will bring upon you all harmful things, until He has destroyed you from this good land which Yahweh your God has given you.</verse>
       <verse osisID="Josh.23.16">When you have transgressed the covenant of Yahweh your God, which He commanded you, and have gone and served other gods, and bowed down to them, then the anger of Yahweh will burn against you, and you shall perish quickly from the good land which He has given you."</verse>
-      <chapter eID="Josh.23"/>
+      <chapter eID="Josh.23" />
       
-      <chapter osisID="Josh.24" sID="Josh.24"/>
+      <chapter osisID="Josh.24" sID="Josh.24" />
       <title type="sub">The Covenant Renewed at Shechem</title>
       <verse osisID="Josh.24.1">Then Joshua assembled all the tribes of Israel at Shechem. He summoned the elders, leaders, judges and officials of Israel, and they presented themselves before God.</verse>
       <verse osisID="Josh.24.2">Joshua said to all the people, "This is what Yahweh, the God of Israel, says: 'Long ago your ancestors, including Terah the father of Abraham and Nahor, lived beyond the Euphrates River and worshiped other gods.</verse>
@@ -804,7 +805,7 @@
       <verse osisID="Josh.24.31">Israel served Yahweh throughout the lifetime of Joshua and of the elders who outlived him and who had experienced everything Yahweh had done for Israel.</verse>
       <verse osisID="Josh.24.32">And Joseph's bones, which the Israelites had brought up from Egypt, were buried at Shechem in the tract of land that Jacob bought for a hundred pieces of silver from the sons of Hamor, the father of Shechem. This became the inheritance of Joseph's descendants.</verse>
       <verse osisID="Josh.24.33">And Eleazar son of Aaron died and was buried at Gibeah, which had been allotted to his son Phinehas in the hill country of Ephraim.</verse>
-      <chapter eID="Josh.24"/>
+      <chapter eID="Josh.24" />
     </div>
   </osisText>
 </osis>

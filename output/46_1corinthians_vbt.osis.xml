@@ -1,14 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
-        <rights>Public Domain</rights>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -18,7 +19,7 @@
         <p>Paul wrote this letter to address serious problems that had developed in the Corinthian church, including divisions, sexual immorality, lawsuits among believers, and confusion about spiritual gifts. The apostle provides practical solutions to these issues while teaching important principles about Christian unity, proper conduct, marriage, and the proper use of spiritual gifts. First Corinthians contains Paul's famous teaching on love as the highest spiritual virtue and his detailed explanation of the resurrection of the dead.</p>
       </div>
       
-      <chapter osisID="1Cor.1" sID="1Cor.1"/>
+      <chapter osisID="1Cor.1" sID="1Cor.1" />
       <title type="main">Paul's Greeting</title>
       <verse osisID="1Cor.1.1">Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,</verse>
       <verse osisID="1Cor.1.2">To the church of God in Corinth, to those who are set apart for God in Christ Jesus and called to be his people set apart for God, together with all those everywhere who call on the name of our Lord Jesus Christ—their Lord and ours:</verse>
@@ -57,9 +58,9 @@
       <verse osisID="1Cor.1.29">so that no one may boast before him.</verse>
       <verse osisID="1Cor.1.30">It is because of him that you are in Christ Jesus, who has become for us wisdom from God—that is, our being in right standing with God, being made set apart for God and buying back.</verse>
       <verse osisID="1Cor.1.31">Therefore, as it is written: "Let the one who boasts boast in the Lord."</verse>
-      <chapter eID="1Cor.1"/>
+      <chapter eID="1Cor.1" />
 
-      <chapter osisID="1Cor.2" sID="1Cor.2"/>
+      <chapter osisID="1Cor.2" sID="1Cor.2" />
       <title type="main">God's Wisdom Revealed by the Spirit</title>
       <verse osisID="1Cor.2.1">And so it was with me, brothers and sisters. When I came to you, I did not come with eloquence or human wisdom as I proclaimed to you the testimony about God.</verse>
       <verse osisID="1Cor.2.2">For I resolved to know nothing while I was with you except Jesus Christ and him crucified.</verse>
@@ -79,9 +80,9 @@
       <verse osisID="1Cor.2.14">The person without the Spirit does not accept the things that come from the Spirit of God but considers them foolishness, and cannot understand them because they are discerned only through the Spirit.</verse>
       <verse osisID="1Cor.2.15">The person with the Spirit makes judgments about all things, but such a person is not subject to merely human judgments,</verse>
       <verse osisID="1Cor.2.16">for, "Who has known the mind of the Lord so as to instruct him?" But we have the mind of Christ.</verse>
-      <chapter eID="1Cor.2"/>
+      <chapter eID="1Cor.2" />
 
-      <chapter osisID="1Cor.3" sID="1Cor.3"/>
+      <chapter osisID="1Cor.3" sID="1Cor.3" />
       <title type="main">The Church and Its Leaders</title>
       <verse osisID="1Cor.3.1">Brothers and sisters, I could not address you as people who live by the Spirit but as people who are still worldly—mere infants in Christ.</verse>
       <verse osisID="1Cor.3.2">I gave you milk, not solid food, for you were not yet ready for it. Indeed, you are still not ready.</verse>
@@ -106,9 +107,9 @@
       <verse osisID="1Cor.3.21">So then, no more boasting about human leaders! All things are yours,</verse>
       <verse osisID="1Cor.3.22">whether Paul or Apollos or Cephas or the world or life or death or the present or the future—all are yours,</verse>
       <verse osisID="1Cor.3.23">and you are of Christ, and Christ is of God.</verse>
-      <chapter eID="1Cor.3"/>
+      <chapter eID="1Cor.3" />
 
-      <chapter osisID="1Cor.4" sID="1Cor.4"/>
+      <chapter osisID="1Cor.4" sID="1Cor.4" />
       <title type="main">The Nature of Apostolic Ministry</title>
       <verse osisID="1Cor.4.1">This, then, is how you ought to regard us: as servants of Christ and as those entrusted with the mysteries God has revealed.</verse>
       <verse osisID="1Cor.4.2">Now it is required that those who have been given a trust must prove faithful.</verse>
@@ -133,9 +134,9 @@
       <verse osisID="1Cor.4.19">But I will come to you very soon, if the Lord is willing, and then I will find out not only how these arrogant people are talking, but what power they have.</verse>
       <verse osisID="1Cor.4.20">For the kingdom of God is not a matter of talk but of power.</verse>
       <verse osisID="1Cor.4.21">What do you prefer? Shall I come to you with a rod of discipline, or shall I come in love and with a gentle spirit?</verse>
-      <chapter eID="1Cor.4"/>
+      <chapter eID="1Cor.4" />
 
-      <chapter osisID="1Cor.5" sID="1Cor.5"/>
+      <chapter osisID="1Cor.5" sID="1Cor.5" />
       <title type="main">Dealing with Sin in the Church</title>
       <verse osisID="1Cor.5.1">It is actually reported that there is sexual immorality among you, and of a kind that even pagans do not tolerate: A man is sleeping with his father's wife.</verse>
       <verse osisID="1Cor.5.2">And you are proud! Shouldn't you rather have gone into mourning and have put out of your fellowship the man who has been doing this?</verse>
@@ -150,9 +151,9 @@
       <verse osisID="1Cor.5.11">But now I am writing to you that you must not associate with anyone who claims to be a brother or sister but is sexually immoral or greedy, an idolater or slanderer, a drunkard or swindler. Do not even eat with such people.</verse>
       <verse osisID="1Cor.5.12">What business is it of mine to judge those outside the church? Are you not to judge those inside?</verse>
       <verse osisID="1Cor.5.13">God will judge those outside. "Expel the wicked person from among you."</verse>
-      <chapter eID="1Cor.5"/>
+      <chapter eID="1Cor.5" />
 
-      <chapter osisID="1Cor.6" sID="1Cor.6"/>
+      <chapter osisID="1Cor.6" sID="1Cor.6" />
       <title type="main">Lawsuits Among Believers</title>
       <verse osisID="1Cor.6.1">If any of you has a dispute with another, do you dare to take it before the ungodly for judgment instead of before the Lord's people?</verse>
       <verse osisID="1Cor.6.2">Or do you not know that the Lord's people will judge the world? And if you are to judge the world, are you not competent to judge trivial cases?</verse>
@@ -176,9 +177,9 @@
       <verse osisID="1Cor.6.18">Flee from sexual immorality. All other sins a person commits are outside the body, but whoever sins sexually, sins against their own body.</verse>
       <verse osisID="1Cor.6.19">Do you not know that your bodies are temples of the Set Apart Spirit, who is in you, whom you have received from God? You are not your own;</verse>
       <verse osisID="1Cor.6.20">you were bought at a price. Therefore honor God with your bodies.</verse>
-      <chapter eID="1Cor.6"/>
+      <chapter eID="1Cor.6" />
 
-      <chapter osisID="1Cor.7" sID="1Cor.7"/>
+      <chapter osisID="1Cor.7" sID="1Cor.7" />
       <title type="main">Concerning Marriage</title>
       <verse osisID="1Cor.7.1">Now for the matters you wrote about: "It is good for a man not to have sexual relations with a woman."</verse>
       <verse osisID="1Cor.7.2">But since sexual immorality is occurring, each man should have sexual relations with his own wife, and each woman with her own husband.</verse>
@@ -224,9 +225,9 @@
       <verse osisID="1Cor.7.38">So then, he who marries the virgin does right, but he who does not marry her does better.</verse>
       <verse osisID="1Cor.7.39">A woman is bound to her husband as long as he lives. But if her husband dies, she is free to marry anyone she wishes, but he must belong to the Lord.</verse>
       <verse osisID="1Cor.7.40">In my judgment, she is happier if she stays as she is—and I think that I too have the Spirit of God.</verse>
-      <chapter eID="1Cor.7"/>
+      <chapter eID="1Cor.7" />
 
-      <chapter osisID="1Cor.8" sID="1Cor.8"/>
+      <chapter osisID="1Cor.8" sID="1Cor.8" />
       <title type="main">Concerning Food Sacrificed to Idols</title>
       <verse osisID="1Cor.8.1">Now about food sacrificed to idols: We know that "We all possess knowledge." But knowledge puffs up while love builds up.</verse>
       <verse osisID="1Cor.8.2">Those who think they know something do not yet know as they ought to know.</verse>
@@ -241,9 +242,9 @@
       <verse osisID="1Cor.8.11">So this weak brother or sister, for whom Christ died, is destroyed by your knowledge.</verse>
       <verse osisID="1Cor.8.12">When you sin against them in this way and wound their weak conscience, you sin against Christ.</verse>
       <verse osisID="1Cor.8.13">Therefore, if what I eat causes my brother or sister to fall into sin, I will never eat meat again, so that I will not cause them to fall.</verse>
-      <chapter eID="1Cor.8"/>
+      <chapter eID="1Cor.8" />
 
-      <chapter osisID="1Cor.9" sID="1Cor.9"/>
+      <chapter osisID="1Cor.9" sID="1Cor.9" />
       <title type="main">Paul's Rights as an Apostle</title>
       <verse osisID="1Cor.9.1">Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are not you my workmanship in the Lord?</verse>
       <verse osisID="1Cor.9.2">Even though I may not be an apostle to others, surely I am to you! For you are the seal of my apostleship in the Lord.</verse>
@@ -274,9 +275,9 @@
       <verse osisID="1Cor.9.25">Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.</verse>
       <verse osisID="1Cor.9.26">Therefore I do not run like someone running aimlessly; I do not fight like a boxer beating the air.</verse>
       <verse osisID="1Cor.9.27">No, I strike a blow to my body and make it my slave so that after I have preached to others, I myself will not be disqualified for the prize.</verse>
-      <chapter eID="1Cor.9"/>
+      <chapter eID="1Cor.9" />
 
-      <chapter osisID="1Cor.10" sID="1Cor.10"/>
+      <chapter osisID="1Cor.10" sID="1Cor.10" />
       <title type="main">Warnings From Israel's History</title>
       <verse osisID="1Cor.10.1">For I do not want you to be ignorant of the fact, brothers and sisters, that our ancestors were all under the cloud and that they all passed through the sea.</verse>
       <verse osisID="1Cor.10.2">They were all baptized into Moses in the cloud and in the sea.</verse>
@@ -315,9 +316,9 @@
       <verse osisID="1Cor.10.31">So whether you eat or drink or whatever you do, do it all for the glory of God.</verse>
       <verse osisID="1Cor.10.32">Do not cause anyone to stumble, whether Jews, Greeks or the church of God—</verse>
       <verse osisID="1Cor.10.33">even as I try to please everyone in every way. For I am not seeking my own good but the good of many, so that they may be saved.</verse>
-      <chapter eID="1Cor.10"/>
+      <chapter eID="1Cor.10" />
 
-      <chapter osisID="1Cor.11" sID="1Cor.11"/>
+      <chapter osisID="1Cor.11" sID="1Cor.11" />
       <verse osisID="1Cor.11.1">Follow my example, as I follow the example of Christ.</verse>
 
       <title type="main">On Covering the Head in Worship</title>
@@ -356,9 +357,9 @@
       <verse osisID="1Cor.11.32">Nevertheless, when we are judged in this way by the Lord, we are being disciplined so that we will not be finally condemned with the world.</verse>
       <verse osisID="1Cor.11.33">So then, my brothers and sisters, when you gather to eat, you should all wait for each other.</verse>
       <verse osisID="1Cor.11.34">Anyone who is hungry should eat something at home, so that when you meet together it may not result in judgment. And when I come I will give further directions.</verse>
-      <chapter eID="1Cor.11"/>
+      <chapter eID="1Cor.11" />
 
-      <chapter osisID="1Cor.12" sID="1Cor.12"/>
+      <chapter osisID="1Cor.12" sID="1Cor.12" />
       <title type="main">Concerning Spiritual Gifts</title>
       <verse osisID="1Cor.12.1">Now about the gifts of the Spirit, brothers and sisters, I do not want you to be uninformed.</verse>
       <verse osisID="1Cor.12.2">You know that when you were pagans, somehow or other you were influenced and led astray to mute idols.</verse>
@@ -393,9 +394,9 @@
       <verse osisID="1Cor.12.29">Are all apostles? Are all prophets? Are all teachers? Do all work miracles?</verse>
       <verse osisID="1Cor.12.30">Do all have gifts of healing? Do all speak in tongues? Do all interpret?</verse>
       <verse osisID="1Cor.12.31">Now eagerly desire the greater gifts. And yet I will show you the most excellent way.</verse>
-      <chapter eID="1Cor.12"/>
+      <chapter eID="1Cor.12" />
 
-      <chapter osisID="1Cor.13" sID="1Cor.13"/>
+      <chapter osisID="1Cor.13" sID="1Cor.13" />
       <title type="main">Love Is the Most Excellent Way</title>
       <verse osisID="1Cor.13.1">If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal.</verse>
       <verse osisID="1Cor.13.2">If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing.</verse>
@@ -410,9 +411,9 @@
       <verse osisID="1Cor.13.11">When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me.</verse>
       <verse osisID="1Cor.13.12">For now we see only a reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known.</verse>
       <verse osisID="1Cor.13.13">And now these three remain: faith, hope and love. But the greatest of these is love.</verse>
-      <chapter eID="1Cor.13"/>
+      <chapter eID="1Cor.13" />
 
-      <chapter osisID="1Cor.14" sID="1Cor.14"/>
+      <chapter osisID="1Cor.14" sID="1Cor.14" />
       <title type="main">Intelligibility in Worship</title>
       <verse osisID="1Cor.14.1">Follow the way of love and eagerly desire gifts of the Spirit, especially prophecy.</verse>
       <verse osisID="1Cor.14.2">For anyone who speaks in a tongue does not speak to people but to God. Indeed, no one understands them; they utter mysteries by the Spirit.</verse>
@@ -456,9 +457,9 @@
       <verse osisID="1Cor.14.38">But if anyone ignores this, they will themselves be ignored.</verse>
       <verse osisID="1Cor.14.39">Therefore, my brothers and sisters, be eager to prophesy, and do not forbid speaking in tongues.</verse>
       <verse osisID="1Cor.14.40">But everything should be done in a fitting and orderly way.</verse>
-      <chapter eID="1Cor.14"/>
+      <chapter eID="1Cor.14" />
 
-      <chapter osisID="1Cor.15" sID="1Cor.15"/>
+      <chapter osisID="1Cor.15" sID="1Cor.15" />
       <title type="main">The Resurrection of Christ</title>
       <verse osisID="1Cor.15.1">Now, brothers and sisters, I want to remind you of the good news I preached to you, which you received and on which you have taken your stand.</verse>
       <verse osisID="1Cor.15.2">By this good news you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain.</verse>
@@ -522,9 +523,9 @@
       <verse osisID="1Cor.15.56">The sting of death is sin, and the power of sin is the law.</verse>
       <verse osisID="1Cor.15.57">But thanks be to God! He gives us the victory through our Lord Jesus Christ.</verse>
       <verse osisID="1Cor.15.58">Therefore, my dear brothers and sisters, stand firm. Let nothing move you. Always give yourselves fully to the work of the Lord, because you know that your labor in the Lord is not in vain.</verse>
-      <chapter eID="1Cor.15"/>
+      <chapter eID="1Cor.15" />
 
-      <chapter osisID="1Cor.16" sID="1Cor.16"/>
+      <chapter osisID="1Cor.16" sID="1Cor.16" />
       <title type="main">The Collection for the Lord's People</title>
       <verse osisID="1Cor.16.1">Now about the collection for the Lord's people: Do what I told the Galatian churches to do.</verse>
       <verse osisID="1Cor.16.2">On the first day of every week, each one of you should set aside a sum of money in keeping with your income, saving it up, so that when I come no collections will have to be made.</verse>
@@ -556,7 +557,7 @@
       <verse osisID="1Cor.16.22">If anyone does not love the Lord, let that person be cursed! Come, Lord!</verse>
       <verse osisID="1Cor.16.23">The grace of the Lord Jesus be with you.</verse>
       <verse osisID="1Cor.16.24">My love to all of you in Christ Jesus. Amen.</verse>
-      <chapter eID="1Cor.16"/>
+      <chapter eID="1Cor.16" />
       
     </div>
   </osisText>

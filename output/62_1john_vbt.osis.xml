@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="1John" canonical="true">
@@ -32,14 +33,14 @@
         <div type="section">
           <title type="main">Walking in the Light</title>
           
-          <chapter osisID="1John.1" sID="1John.1.5"/>
+          <chapter osisID="1John.1" sID="1John.1.5" />
           <verse osisID="1John.1.5">This is the message we heard from him and announce to you: God is light, and there is no darkness in him at all.</verse>
           <verse osisID="1John.1.6">If we say we have partnership with him and yet walk in the darkness, we lie and do not live according to the truth.</verse>
           <verse osisID="1John.1.7">But if we walk in the light as he is in the light, we have partnership with one another, and the blood of Jesus his Son cleanses us from all wrongdoing. <note type="translation">The Greek word <foreign>hamartia</foreign> means "missing the mark" or wrongdoing.</note></verse>
           <verse osisID="1John.1.8">If we say we have no wrongdoing, we deceive ourselves and the truth is not in us.</verse>
           <verse osisID="1John.1.9">If we confess our wrongdoing, he is faithful and does what's right to forgive us our wrongdoing and cleanse us from all failure to do what's right.</verse>
           <verse osisID="1John.1.10">If we say we have not done wrong, we make him a liar and his word is not in us.</verse>
-          <chapter eID="1John.1"/>
+          <chapter eID="1John.1" />
         </div>
       </div>
       
@@ -58,39 +59,39 @@
         <div type="section">
           <title type="main">The New Command to Love</title>
           
-          <chapter osisID="1John.2" sID="1John.2.7"/>
+          <chapter osisID="1John.2" sID="1John.2.7" />
           <verse osisID="1John.2.7">Dear friends, I am not writing you a new command, but an old command that you had from the beginning. The old command is the word you heard.</verse>
           <verse osisID="1John.2.8">Yet I am writing you a new command, which is true in him and in you, because the darkness is passing away and the true light is already shining.</verse>
           <verse osisID="1John.2.9">The one who says he is in the light and yet hates his brother is in the darkness until now.</verse>
           <verse osisID="1John.2.10">The one who loves his brother remains in the light, and there is no cause for stumbling in him.</verse>
           <verse osisID="1John.2.11">But the one who hates his brother is in the darkness and walks in the darkness, and does not know where he is going because the darkness has blinded his eyes.</verse>
-          <chapter eID="1John.2"/>
+          <chapter eID="1John.2" />
         </div>
         
         <div type="section">
           <title type="main">God's People at Different Stages</title>
           
-          <chapter osisID="1John.2" sID="1John.2.12"/>
+          <chapter osisID="1John.2" sID="1John.2.12" />
           <verse osisID="1John.2.12">I am writing to you, little children, because your wrongdoing has been forgiven because of his name.</verse>
           <verse osisID="1John.2.13">I am writing to you, fathers, because you have known him who is from the beginning. I am writing to you, young men, because you have overcome the evil one.</verse>
           <verse osisID="1John.2.14">I have written to you, children, because you have known the Father. I have written to you, fathers, because you have known him who is from the beginning. I have written to you, young men, because you are strong, and the word of God remains in you, and you have overcome the evil one.</verse>
-          <chapter eID="1John.2"/>
+          <chapter eID="1John.2" />
         </div>
         
         <div type="section">
           <title type="main">Do Not Love the World</title>
           
-          <chapter osisID="1John.2" sID="1John.2.15"/>
+          <chapter osisID="1John.2" sID="1John.2.15" />
           <verse osisID="1John.2.15">Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him.</verse>
           <verse osisID="1John.2.16">For everything in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not from the Father but is from the world.</verse>
           <verse osisID="1John.2.17">The world and its lust are passing away, but the one who does God's will remains forever.</verse>
-          <chapter eID="1John.2"/>
+          <chapter eID="1John.2" />
         </div>
         
         <div type="section">
           <title type="main">Warning About Antichrists</title>
           
-          <chapter osisID="1John.2" sID="1John.2.18"/>
+          <chapter osisID="1John.2" sID="1John.2.18" />
           <verse osisID="1John.2.18">Children, it is the last hour. Just as you heard that antichrist is coming, even now many antichrists have appeared. This is how we know it is the last hour.</verse>
           <verse osisID="1John.2.19">They went out from us, but they did not belong to us; for if they had belonged to us, they would have remained with us. But they went out so that it might be made clear that none of them belongs to us.</verse>
           <verse osisID="1John.2.20">But you have an anointing from the Set Apart One, and you all have knowledge. <note type="translation">The Greek word <foreign>hagios</foreign> means "set apart" or holy.</note></verse>
@@ -103,7 +104,7 @@
           <verse osisID="1John.2.27">As for you, the anointing that you received from him remains in you, and you do not need anyone to teach you. Instead, his anointing teaches you about all things and is true and not a lie. Just as it has taught you, remain in him.</verse>
           <verse osisID="1John.2.28">And now, little children, remain in him, so that when he appears we may have confidence and not be put to shame by him at his coming.</verse>
           <verse osisID="1John.2.29">If you know that he does what's right, you also know that everyone who does what's right has been born from him.</verse>
-          <chapter eID="1John.2"/>
+          <chapter eID="1John.2" />
         </div>
       </div>
       
@@ -119,7 +120,7 @@
         <div type="section">
           <title type="main">Children of God Do What's Right</title>
           
-          <chapter osisID="1John.3" sID="1John.3.4"/>
+          <chapter osisID="1John.3" sID="1John.3.4" />
           <verse osisID="1John.3.4">Everyone who does wrongdoing also breaks God's law, and wrongdoing is breaking God's law. <note type="translation">The Greek word <foreign>anomia</foreign> means lawlessness or breaking God's law.</note></verse>
           <verse osisID="1John.3.5">You know that he appeared to take away wrongdoing, and there is no wrongdoing in him.</verse>
           <verse osisID="1John.3.6">No one who remains in him keeps on doing wrong. No one who keeps doing wrong has seen him or known him.</verse>
@@ -127,13 +128,13 @@
           <verse osisID="1John.3.8">The one who keeps doing wrong is from the devil, because the devil has been doing wrong from the beginning. The Son of God appeared for this: to destroy the devil's works.</verse>
           <verse osisID="1John.3.9">No one born from God keeps on doing wrong, because his seed remains in him, and he cannot keep doing wrong because he has been born from God.</verse>
           <verse osisID="1John.3.10">By this God's children and the devil's children are revealed: everyone not doing what's right is not from God, and so is the one not loving his brother.</verse>
-          <chapter eID="1John.3"/>
+          <chapter eID="1John.3" />
         </div>
         
         <div type="section">
           <title type="main">Love One Another</title>
           
-          <chapter osisID="1John.3" sID="1John.3.11"/>
+          <chapter osisID="1John.3" sID="1John.3.11" />
           <verse osisID="1John.3.11">For this is the message you heard from the beginning: that we should love one another.</verse>
           <verse osisID="1John.3.12">We should not be like Cain, who was from the evil one and murdered his brother. And why did he murder him? Because his works were evil, but his brother's were doing what's right.</verse>
           <verse osisID="1John.3.13">Do not be surprised, brothers, if the world hates you.</verse>
@@ -142,20 +143,20 @@
           <verse osisID="1John.3.16">By this we have known love: that he laid down his life for us. We also ought to lay down our lives for the brothers.</verse>
           <verse osisID="1John.3.17">If someone has material possessions and sees his brother in need but closes his heart against him, how does God's love remain in him?</verse>
           <verse osisID="1John.3.18">Little children, let us not love in word or talk, but in deed and in truth.</verse>
-          <chapter eID="1John.3"/>
+          <chapter eID="1John.3" />
         </div>
         
         <div type="section">
           <title type="main">God Is Greater Than Our Hearts</title>
           
-          <chapter osisID="1John.3" sID="1John.3.19"/>
+          <chapter osisID="1John.3" sID="1John.3.19" />
           <verse osisID="1John.3.19">By this we will know that we are from the truth and will convince our hearts before him</verse>
           <verse osisID="1John.3.20">whenever our hearts condemn us; for God is greater than our hearts, and he knows everything.</verse>
           <verse osisID="1John.3.21">Dear friends, if our hearts do not condemn us, we have confidence toward God,</verse>
           <verse osisID="1John.3.22">and whatever we ask we receive from him, because we keep his commands and do what is pleasing in his sight.</verse>
           <verse osisID="1John.3.23">And this is his command: that we believe in the name of his Son Jesus Christ and love one another, just as he commanded us.</verse>
           <verse osisID="1John.3.24">The one who keeps his commands remains in him, and he in him. And by this we know that he remains in us: by the Spirit he gave us.</verse>
-          <chapter eID="1John.3"/>
+          <chapter eID="1John.3" />
         </div>
       </div>
       
@@ -174,7 +175,7 @@
         <div type="section">
           <title type="main">God Is Love</title>
           
-          <chapter osisID="1John.4" sID="1John.4.7"/>
+          <chapter osisID="1John.4" sID="1John.4.7" />
           <verse osisID="1John.4.7">Dear friends, let us love one another, because love is from God, and everyone who loves has been born from God and knows God.</verse>
           <verse osisID="1John.4.8">The one who does not love does not know God, because God is love.</verse>
           <verse osisID="1John.4.9">God's love was revealed among us in this way: God sent his one and only Son into the world so that we might live through him.</verse>
@@ -190,7 +191,7 @@
           <verse osisID="1John.4.19">We love because he first loved us.</verse>
           <verse osisID="1John.4.20">If someone says, "I love God," and hates his brother, he is a liar; for the one who does not love his brother whom he has seen cannot love God whom he has not seen.</verse>
           <verse osisID="1John.4.21">And this command we have from him: that the one who loves God should also love his brother.</verse>
-          <chapter eID="1John.4"/>
+          <chapter eID="1John.4" />
         </div>
       </div>
       
@@ -208,7 +209,7 @@
         <div type="section">
           <title type="main">The Testimony About the Son</title>
           
-          <chapter osisID="1John.5" sID="1John.5.6"/>
+          <chapter osisID="1John.5" sID="1John.5.6" />
           <verse osisID="1John.5.6">This is the one who came by water and blood—Jesus Christ; not by the water only but by the water and the blood. And the Spirit is the one who testifies, because the Spirit is the truth.</verse>
           <verse osisID="1John.5.7">For there are three that testify:</verse>
           <verse osisID="1John.5.8">the Spirit and the water and the blood; and these three agree.</verse>
@@ -216,13 +217,13 @@
           <verse osisID="1John.5.10">The one who believes in the Son of God has the testimony in himself. The one who does not believe God has made him a liar, because he has not believed in the testimony that God has testified about his Son.</verse>
           <verse osisID="1John.5.11">And this is the testimony: that God gave us eternal life, and this life is in his Son.</verse>
           <verse osisID="1John.5.12">The one who has the Son has life; the one who does not have the Son of God does not have life.</verse>
-          <chapter eID="1John.5"/>
+          <chapter eID="1John.5" />
         </div>
         
         <div type="section">
           <title type="main">That You May Know</title>
           
-          <chapter osisID="1John.5" sID="1John.5.13"/>
+          <chapter osisID="1John.5" sID="1John.5.13" />
           <verse osisID="1John.5.13">I write these things to you who believe in the name of the Son of God, so that you may know that you have eternal life.</verse>
           <verse osisID="1John.5.14">And this is the confidence we have toward him: that if we ask anything according to his will, he hears us.</verse>
           <verse osisID="1John.5.15">And if we know that he hears us in whatever we ask, we know that we have the requests that we have asked from him.</verse>
@@ -232,7 +233,7 @@
           <verse osisID="1John.5.19">We know that we are from God, and the whole world lies in the power of the evil one.</verse>
           <verse osisID="1John.5.20">And we know that the Son of God has come and has given us understanding so that we know the true one. And we are in the true one, in his Son Jesus Christ. This one is the true God and eternal life.</verse>
           <verse osisID="1John.5.21">Little children, keep yourselves from idols.</verse>
-          <chapter eID="1John.5"/>
+          <chapter eID="1John.5" />
         </div>
       </div>
     </div>

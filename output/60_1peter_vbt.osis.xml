@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace 
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace        http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="1Pet" canonical="true">
@@ -18,7 +19,7 @@
         <p>Peter wrote this letter to encourage Christians who were suffering persecution throughout the Roman Empire, reminding them of their living hope in Christ and their identity as God's chosen people. The apostle teaches believers how to respond to suffering with faith, hope, and good conduct that honors God even in difficult circumstances. First Peter emphasizes that suffering for doing right is better than suffering for doing wrong, and that present trials are temporary compared to eternal glory.</p>
       </div>
       
-      <chapter osisID="1Pet.1" sID="1Pet.1"/>
+      <chapter osisID="1Pet.1" sID="1Pet.1" />
       <title type="main">Hope and Living as God's Set Apart People</title>
       
       <verse osisID="1Pet.1.1">Peter, an apostle of Jesus Christ, to those who are chosen temporary residents scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,</verse> 
@@ -55,9 +56,9 @@
       <verse osisID="1Pet.1.23">since you have been born again, not from perishable seed but imperishable, through the living and enduring word of God.</verse> 
       <verse osisID="1Pet.1.24">For "All flesh is like grass, and all its glory like the flower of grass. The grass withers, and the flower falls off,</verse> 
       <verse osisID="1Pet.1.25">but the word of the Lord endures forever." This is the word that was preached as good news to you.</verse>
-      <chapter eID="1Pet.1"/>
+      <chapter eID="1Pet.1" />
       
-      <chapter osisID="1Pet.2" sID="1Pet.2"/>
+      <chapter osisID="1Pet.2" sID="1Pet.2" />
       <title type="main">Living as God's Chosen People</title>
       
       <verse osisID="1Pet.2.1">Therefore, putting away all malice and all deceit and hypocrisy and envy and all slander,</verse> 
@@ -94,9 +95,9 @@
       <verse osisID="1Pet.2.23">When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly.</verse> 
       <verse osisID="1Pet.2.24">He himself bore our sins in his body on the tree, that we might die to sin and live to doing what is right. By his wounds you have been healed.</verse> 
       <verse osisID="1Pet.2.25">For you were straying like sheep, but have now returned to the Shepherd and Overseer of your souls.</verse>
-      <chapter eID="1Pet.2"/>
+      <chapter eID="1Pet.2" />
       
-      <chapter osisID="1Pet.3" sID="1Pet.3"/>
+      <chapter osisID="1Pet.3" sID="1Pet.3" />
       <title type="main">Living as Husbands and Wives</title>
       
       <verse osisID="1Pet.3.1">Likewise, wives, be subject to your own husbands, so that even if some do not obey the word, they may be won without a word by the conduct of their wives,</verse> 
@@ -127,9 +128,9 @@
       <verse osisID="1Pet.3.20">because they formerly did not obey, when God's patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water.</verse> 
       <verse osisID="1Pet.3.21">Baptism, which corresponds to this, now saves you, not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ,</verse> 
       <verse osisID="1Pet.3.22">who has gone into heaven and is at the right hand of God, with angels, authorities, and powers having been subjected to him.</verse>
-      <chapter eID="1Pet.3"/>
+      <chapter eID="1Pet.3" />
       
-      <chapter osisID="1Pet.4" sID="1Pet.4"/>
+      <chapter osisID="1Pet.4" sID="1Pet.4" />
       <title type="main">Living for God</title>
       
       <verse osisID="1Pet.4.1">Since therefore Christ suffered in the flesh, arm yourselves with the same way of thinking, for whoever has suffered in the flesh has ceased from sin,</verse> 
@@ -155,9 +156,9 @@
       <verse osisID="1Pet.4.17">For it is time for judgment to begin at the household of God; and if it begins with us, what will be the outcome for those who do not obey the gospel of God?</verse> 
       <verse osisID="1Pet.4.18">And "If those in right standing with God are scarcely saved, what will become of the ungodly and the sinner?"</verse> 
       <verse osisID="1Pet.4.19">Therefore let those who suffer according to God's will entrust their souls to a faithful Creator while doing good.</verse>
-      <chapter eID="1Pet.4"/>
+      <chapter eID="1Pet.4" />
       
-      <chapter osisID="1Pet.5" sID="1Pet.5"/>
+      <chapter osisID="1Pet.5" sID="1Pet.5" />
       <title type="main">Instructions for Church Leaders and Members</title>
       
       <verse osisID="1Pet.5.1">So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed:</verse> 
@@ -178,7 +179,7 @@
       <verse osisID="1Pet.5.12">By Silvanus, a faithful brother as I regard him, I have written briefly to you, exhorting and declaring that this is the true grace of God. Stand firm in it.</verse> 
       <verse osisID="1Pet.5.13">She who is at Babylon, who is likewise chosen, sends you greetings, and so does Mark, my son.</verse> 
       <verse osisID="1Pet.5.14">Greet one another with the kiss of love. Peace to all of you who are in Christ.</verse>
-      <chapter eID="1Pet.5"/>
+      <chapter eID="1Pet.5" />
     </div>
   </osisText>
 </osis>

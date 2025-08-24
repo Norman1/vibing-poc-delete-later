@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
@@ -7,9 +7,13 @@
         <p>Plain Meaning Bible - Nehemiah</p>
       </revisionDesc>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
-        <rights>Public Domain</rights>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -18,7 +22,7 @@
       <div type="introduction">
         <p>Nehemiah tells the story of rebuilding Jerusalem's walls after the Babylonian exile. Despite opposition from enemies and discouragement from within, Nehemiah led the people to complete this crucial task in just 52 days. The book shows how God uses dedicated leaders who combine prayer, planning, and perseverance to accomplish his purposes and restore his people.</p>
       </div>
-      <chapter osisID="Neh.1" sID="Neh.1"/>
+      <chapter osisID="Neh.1" sID="Neh.1" />
       <verse osisID="Neh.1.1">The words of Nehemiah son of Hacaliah: In the month of Kislev in the twentieth year, while I was in the citadel of Susa,</verse>
       <verse osisID="Neh.1.2">Hanani, one of my brothers, came from Judah with some other men, and I questioned them about the Jewish remnant that had survived the exile, and also about Jerusalem.</verse>
       <verse osisID="Neh.1.3">They said to me, "Those who survived the exile and are back in the province are in great trouble and disgrace. The wall of Jerusalem is broken down, and its gates have been burned with fire."</verse>
@@ -30,8 +34,8 @@
       <verse osisID="Neh.1.9">but if you return to me and obey my commands, then even if your exiled people are at the farthest horizon, I will gather them from there and bring them to the place I have chosen as a dwelling for my Name.'</verse>
       <verse osisID="Neh.1.10">They are your servants and your people, whom you bought back by your great strength and your mighty hand.</verse>
       <verse osisID="Neh.1.11">Lord, let your ear be attentive to the prayer of this your servant and to the prayer of your servants who delight in revering your name. Give your servant success today by granting him favor in the presence of this man." I was cupbearer to the king.</verse>
-      <chapter eID="Neh.1"/>
-      <chapter osisID="Neh.2" sID="Neh.2"/>
+      <chapter eID="Neh.1" />
+      <chapter osisID="Neh.2" sID="Neh.2" />
       <verse osisID="Neh.2.1">In the month of Nisan in the twentieth year of King Artaxerxes, when wine was brought for him, I took the wine and gave it to the king. I had not been sad in his presence before,</verse>
       <verse osisID="Neh.2.2">so the king asked me, "Why does your face look so sad when you are not ill? This can be nothing but sadness of heart." I was very much afraid,</verse>
       <verse osisID="Neh.2.3">but I said to the king, "May the king live forever! Why should my face not look sad when the city where my ancestors are buried lies in ruins, and its gates have been destroyed by fire?"</verse>
@@ -52,8 +56,8 @@
       <verse osisID="Neh.2.18">I also told them about the gracious hand of my God on me and what the king had said to me. They replied, "Let us start rebuilding." So they began this good work.</verse>
       <verse osisID="Neh.2.19">But when Sanballat the Horonite, Tobiah the Ammonite official and Geshem the Arab heard about it, they mocked and ridiculed us. "What is this you are doing?" they asked. "Are you rebelling against the king?"</verse>
       <verse osisID="Neh.2.20">I answered them by saying, "The God of heaven will give us success. We his servants will start rebuilding, but as for you, you have no share in Jerusalem or any claim or historic right to it."</verse>
-      <chapter eID="Neh.2"/>
-      <chapter osisID="Neh.3" sID="Neh.3"/>
+      <chapter eID="Neh.2" />
+      <chapter osisID="Neh.3" sID="Neh.3" />
       <verse osisID="Neh.3.1">Eliashib the high priest and his fellow priests went to work and rebuilt the Sheep Gate. They dedicated it and set its doors in place, building as far as the Tower of the Hundred, which they dedicated, and as far as the Tower of Hananel.</verse>
       <verse osisID="Neh.3.2">The men of Jericho built the adjoining section, and Zakkur son of Imri built next to them.</verse>
       <verse osisID="Neh.3.3">The Fish Gate was rebuilt by the sons of Hassenaah. They laid its beams and put its doors and bolts and bars in place.</verse>
@@ -86,8 +90,8 @@
       <verse osisID="Neh.3.30">Next to him, Hananiah son of Shelemiah, and Hanun, the sixth son of Zalaph, repaired another section. Next to them, Meshullam son of Berekiah made repairs opposite his living quarters.</verse>
       <verse osisID="Neh.3.31">Next to him, Malkijah, one of the goldsmiths, made repairs as far as the house of the temple servants and the merchants, opposite the Inspection Gate, and as far as the room above the corner;</verse>
       <verse osisID="Neh.3.32">and between the room above the corner and the Sheep Gate the goldsmiths and merchants made repairs.</verse>
-      <chapter eID="Neh.3"/>
-      <chapter osisID="Neh.4" sID="Neh.4"/>
+      <chapter eID="Neh.3" />
+      <chapter osisID="Neh.4" sID="Neh.4" />
       <verse osisID="Neh.4.1">When Sanballat heard that we were rebuilding the wall, he became angry and was greatly incensed. He ridiculed the Jews,</verse>
       <verse osisID="Neh.4.2">and in the presence of his associates and the army of Samaria, he said, "What are those feeble Jews doing? Will they restore their wall? Will they offer sacrifices? Will they finish in a day? Can they bring the stones back to life from those heaps of rubble—burned as they are?"</verse>
       <verse osisID="Neh.4.3">Tobiah the Ammonite, who was at his side, said, "What they are building—even a fox climbing up on it would break down their wall of stones!"</verse>
@@ -111,8 +115,8 @@
       <verse osisID="Neh.4.21">So we continued the work with half the men holding spears, from the first light of dawn till the stars came out.</verse>
       <verse osisID="Neh.4.22">At that time I also said to the people, "Have every man and his helper stay inside Jerusalem at night, so they can serve us as guards by night and as workers by day."</verse>
       <verse osisID="Neh.4.23">Neither I nor my brothers nor my men nor the guards with me took off our clothes; each had his weapon, even when he went for water.</verse>
-      <chapter eID="Neh.4"/>
-      <chapter osisID="Neh.5" sID="Neh.5"/>
+      <chapter eID="Neh.4" />
+      <chapter osisID="Neh.5" sID="Neh.5" />
       <verse osisID="Neh.5.1">Now the men and their wives raised a great outcry against their fellow Jews.</verse>
       <verse osisID="Neh.5.2">Some were saying, "We and our sons and daughters are numerous; in order for us to eat and stay alive, we must get grain."</verse>
       <verse osisID="Neh.5.3">Others were saying, "We are mortgaging our fields, our vineyards and our homes to get grain during the famine."</verse>
@@ -132,8 +136,8 @@
       <verse osisID="Neh.5.17">Furthermore, a hundred and fifty Jews and officials ate at my table, as well as those who came to us from the surrounding nations.</verse>
       <verse osisID="Neh.5.18">Each day one ox, six choice sheep and some poultry were prepared for me, and every ten days an abundant supply of wine of all kinds. In spite of all this, I never demanded the food allotted to the governor, because the demands were heavy on these people.</verse>
       <verse osisID="Neh.5.19">Remember me with favor, my God, for all I have done for these people.</verse>
-      <chapter eID="Neh.5"/>
-      <chapter osisID="Neh.6" sID="Neh.6"/>
+      <chapter eID="Neh.5" />
+      <chapter osisID="Neh.6" sID="Neh.6" />
       <verse osisID="Neh.6.1">When word came to Sanballat, Tobiah, Geshem the Arab and the rest of our enemies that I had rebuilt the wall and not a gap was left in it—though up to that time I had not set the doors in the gates—</verse>
       <verse osisID="Neh.6.2">Sanballat and Geshem sent me this message: "Come, let us meet together in one of the villages on the plain of Ono." But they were scheming to harm me;</verse>
       <verse osisID="Neh.6.3">so I sent messengers to them with this reply: "I am carrying on a great project and cannot go down. Why should the work stop while I leave it and go down to you?"</verse>
@@ -153,8 +157,8 @@
       <verse osisID="Neh.6.17">Also, in those days the nobles of Judah were sending many letters to Tobiah, and replies from Tobiah kept coming to them.</verse>
       <verse osisID="Neh.6.18">For many in Judah were under oath to him, since he was son-in-law to Shekaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berekiah.</verse>
       <verse osisID="Neh.6.19">Moreover, they kept reporting to me his good deeds and then telling him what I said. And Tobiah sent letters to intimidate me.</verse>
-      <chapter eID="Neh.6"/>
-      <chapter osisID="Neh.7" sID="Neh.7"/>
+      <chapter eID="Neh.6" />
+      <chapter osisID="Neh.7" sID="Neh.7" />
       <verse osisID="Neh.7.1">After the wall had been rebuilt and I had set the doors in place, the gatekeepers, the musicians and the Levites were appointed.</verse>
       <verse osisID="Neh.7.2">I put in charge of Jerusalem my brother Hanani, along with Hananiah the commander of the citadel, because he was a man of integrity and feared God more than most people do.</verse>
       <verse osisID="Neh.7.3">I said to them, "The gates of Jerusalem are not to be opened until the sun is hot. While the gatekeepers are still on duty, have them shut the doors and bar them. Also appoint residents of Jerusalem as guards, some at their posts and some near their own houses."</verse>
@@ -228,8 +232,8 @@
       <verse osisID="Neh.7.71">Some of the heads of the families gave to the treasury for the work 20,000 darics of gold and 2,200 minas of silver.</verse>
       <verse osisID="Neh.7.72">The total given by the rest of the people was 20,000 darics of gold, 2,000 minas of silver and 67 garments for priests.</verse>
       <verse osisID="Neh.7.73">The priests, the Levites, the gatekeepers, the musicians and the temple servants, along with certain of the people and the rest of the Israelites, settled in their own towns. When the seventh month came and the Israelites had settled in their towns,</verse>
-      <chapter eID="Neh.7"/>
-      <chapter osisID="Neh.8" sID="Neh.8"/>
+      <chapter eID="Neh.7" />
+      <chapter osisID="Neh.8" sID="Neh.8" />
       <verse osisID="Neh.8.1">all the people came together as one in the square before the Water Gate. They told Ezra the teacher of the Law to bring out the Book of the Law of Moses, which <divineName>Yahweh</divineName> had commanded for Israel.</verse>
       <verse osisID="Neh.8.2">So on the first day of the seventh month Ezra the priest brought the Law before the assembly, which was made up of men and women and all who were able to understand.</verse>
       <verse osisID="Neh.8.3">He read it aloud from daybreak till noon as he faced the square before the Water Gate in the presence of the men, women and others who could understand. And all the people listened attentively to the Book of the Law.</verse>
@@ -248,8 +252,8 @@
       <verse osisID="Neh.8.16">So the people went out and brought back branches and built themselves temporary shelters on their own roofs, in their courtyards, in the courts of the house of God and in the square by the Water Gate and the one by the Gate of Ephraim.</verse>
       <verse osisID="Neh.8.17">The whole company that had returned from exile built temporary shelters and lived in them. From the days of Joshua son of Nun until that day, the Israelites had not celebrated it like this. And their joy was very great.</verse>
       <verse osisID="Neh.8.18">Day after day, from the first day to the last, Ezra read from the Book of the Law of God. They celebrated the festival for seven days, and on the eighth day, in accordance with the regulation, there was an assembly.</verse>
-      <chapter eID="Neh.8"/>
-      <chapter osisID="Neh.9" sID="Neh.9"/>
+      <chapter eID="Neh.8" />
+      <chapter osisID="Neh.9" sID="Neh.9" />
       <verse osisID="Neh.9.1">On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth and putting dust on their heads.</verse>
       <verse osisID="Neh.9.2">Those of Israelite descent had separated themselves from all foreigners. They stood in their places and confessed their sins and the sins of their ancestors.</verse>
       <verse osisID="Neh.9.3">They stood where they were and read from the Book of the Law of <divineName>Yahweh</divineName> their God for a quarter of the day, and spent another quarter in confession and in worshiping <divineName>Yahweh</divineName> their God.</verse>
@@ -288,8 +292,8 @@
       <verse osisID="Neh.9.36">But see, we are slaves today, slaves in the land you gave our ancestors so they could eat its fruit and the other good things it produces.</verse>
       <verse osisID="Neh.9.37">Because of our sins, its abundant harvest goes to the kings you have placed over us. They rule over our bodies and our cattle as they please. We are in great distress.</verse>
       <verse osisID="Neh.9.38">In view of all this, we are making a binding agreement, putting it in writing, and our leaders, our Levites and our priests are affixing their seals to it."</verse>
-      <chapter eID="Neh.9"/>
-      <chapter osisID="Neh.10" sID="Neh.10"/>
+      <chapter eID="Neh.9" />
+      <chapter osisID="Neh.10" sID="Neh.10" />
       <verse osisID="Neh.10.1">Those who sealed it were: Nehemiah the governor, the son of Hacaliah. Zedekiah,</verse>
       <verse osisID="Neh.10.2">Seraiah, Azariah, Jeremiah,</verse>
       <verse osisID="Neh.10.3">Pashhur, Amariah, Malkijah,</verse>
@@ -329,8 +333,8 @@
       <verse osisID="Neh.10.37">Moreover, we will bring to the storerooms of the house of our God, to the priests, the first of our ground meal, of our grain offerings, of the fruit of all our trees and of our new wine and olive oil. And we will bring a tithe of our crops to the Levites, for it is the Levites who collect the tithes in all the towns where we work.</verse>
       <verse osisID="Neh.10.38">A priest descended from Aaron is to accompany the Levites when they receive the tithes, and the Levites are to bring a tenth of the tithes up to the house of our God, to the storerooms of the treasury.</verse>
       <verse osisID="Neh.10.39">The people of Israel, including the Levites, are to bring their contributions of grain, new wine and olive oil to the storerooms, where the articles for the sanctuary and for the ministering priests, the gatekeepers and the musicians are also kept. We will not neglect the house of our God.</verse>
-      <chapter eID="Neh.10"/>
-      <chapter osisID="Neh.11" sID="Neh.11"/>
+      <chapter eID="Neh.10" />
+      <chapter osisID="Neh.11" sID="Neh.11" />
       <verse osisID="Neh.11.1">Now the leaders of the people settled in Jerusalem. The rest of the people cast lots to bring one of every ten of them to live in Jerusalem, the city set apart for God, while the remaining nine were to stay in their own towns.</verse>
       <verse osisID="Neh.11.2">The people commended all who volunteered to live in Jerusalem.</verse>
       <verse osisID="Neh.11.3">These are the provincial leaders who settled in Jerusalem (now some Israelites, priests, Levites, temple servants and descendants of Solomon's servants lived in the towns of Judah, each on their property in the various towns,</verse>
@@ -367,8 +371,8 @@
       <verse osisID="Neh.11.34">in Hadid, Zeboim, Neballat,</verse>
       <verse osisID="Neh.11.35">in Lod and Ono, and in Ge Harashim.</verse>
       <verse osisID="Neh.11.36">Some of the divisions of the Levites of Judah settled in Benjamin.</verse>
-      <chapter eID="Neh.11"/>
-      <chapter osisID="Neh.12" sID="Neh.12"/>
+      <chapter eID="Neh.11" />
+      <chapter osisID="Neh.12" sID="Neh.12" />
       <verse osisID="Neh.12.1">These were the priests and Levites who returned with Zerubbabel son of Shealtiel and with Joshua: Seraiah, Jeremiah, Ezra,</verse>
       <verse osisID="Neh.12.2">Amariah, Malluk, Hattush,</verse>
       <verse osisID="Neh.12.3">Shekaniah, Rehum, Meremoth,</verse>
@@ -416,8 +420,8 @@
       <verse osisID="Neh.12.45">They performed the service of their God and the service of purification, as did also the musicians and gatekeepers, according to the commands of David and his son Solomon.</verse>
       <verse osisID="Neh.12.46">For long ago, in the days of David and Asaph, there had been directors for the musicians and for the songs of praise and thanksgiving to God.</verse>
       <verse osisID="Neh.12.47">So in the days of Zerubbabel and of Nehemiah, all Israel contributed the daily portions for the musicians and the gatekeepers. They also set aside the portion for the other Levites, and the Levites set aside the portion for the descendants of Aaron.</verse>
-      <chapter eID="Neh.12"/>
-      <chapter osisID="Neh.13" sID="Neh.13"/>
+      <chapter eID="Neh.12" />
+      <chapter osisID="Neh.13" sID="Neh.13" />
       <verse osisID="Neh.13.1">On that day the Book of Moses was read aloud in the hearing of the people and there it was found written that no Ammonite or Moabite should ever be admitted into the assembly of God,</verse>
       <verse osisID="Neh.13.2">because they had not met the Israelites with food and water but had hired Balaam to call a curse down on them. (Our God, however, turned the curse into a blessing.)</verse>
       <verse osisID="Neh.13.3">When the people heard this law, they excluded from Israel all who were of foreign descent.</verse>
@@ -449,7 +453,7 @@
       <verse osisID="Neh.13.29">Remember them, my God, because they defiled the priestly office and the covenant of the priesthood and of the Levites.</verse>
       <verse osisID="Neh.13.30">So I purified the priests and the Levites of everything foreign, and assigned them duties, each to his own task.</verse>
       <verse osisID="Neh.13.31">I also made provision for contributions of wood at designated times, and for the firstfruits. Remember me with favor, my God.</verse>
-      <chapter eID="Neh.13"/>
+      <chapter eID="Neh.13" />
     </div>
   </osisText>
 </osis>

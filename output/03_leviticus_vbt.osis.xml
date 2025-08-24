@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <type type="OSIS">Bible</type>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
         <rights type="x-copyright">Public Domain</rights>
-        <scope>Lev</scope>
-        <refSystem>Bible</refSystem>
-      </work>
-      <work osisWork="bible">
-        <title>Bible</title>
-        <type type="OSIS">Bible</type>
-        <identifier type="OSIS">Bible</identifier>
-        <scope>Bible</scope>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -29,7 +23,7 @@
       
       <title type="main">Laws for Worship and Daily Life</title>
       
-      <chapter osisID="Lev.1" sID="Lev.1"/>
+      <chapter osisID="Lev.1" sID="Lev.1" />
       <title type="sub">Burnt Offerings</title>
       <verse osisID="Lev.1.1">Yahweh called to Moses and spoke to him from the tent of meeting. He said,</verse>
       <verse osisID="Lev.1.2">"Speak to the Israelites and say to them: 'When anyone among you brings an offering to Yahweh, bring as your offering an animal from either the herd or the flock.</verse>
@@ -48,9 +42,9 @@
       <verse osisID="Lev.1.15">The priest shall bring it to the altar, wring off the head and burn it on the altar; its blood shall be drained out on the side of the altar.</verse>
       <verse osisID="Lev.1.16">He is to remove the crop and the feathers and throw them down east of the altar where the ashes are.</verse>
       <verse osisID="Lev.1.17">He shall tear it open by the wings, not dividing it completely, and then the priest shall burn it on the wood that is burning on the altar. It is a burnt offering, a food offering, an aroma pleasing to Yahweh."</verse>
-      <chapter eID="Lev.1"/>
+      <chapter eID="Lev.1" />
       
-      <chapter osisID="Lev.2" sID="Lev.2"/>
+      <chapter osisID="Lev.2" sID="Lev.2" />
       <title type="sub">Grain Offerings</title>
       <verse osisID="Lev.2.1">"When anyone brings a grain offering to Yahweh, their offering is to be of the finest flour. They are to pour olive oil on it, put incense on it</verse>
       <verse osisID="Lev.2.2">and take it to Aaron's sons the priests. The priest shall take a handful of the flour and oil, together with all the incense, and burn this as a memorial portion on the altar, a food offering, an aroma pleasing to Yahweh.</verse>
@@ -68,9 +62,9 @@
       <verse osisID="Lev.2.14">If you bring a grain offering of firstfruits to Yahweh, offer crushed heads of new grain roasted in the fire.</verse>
       <verse osisID="Lev.2.15">Put oil and incense on it; it is a grain offering.</verse>
       <verse osisID="Lev.2.16">The priest shall burn the memorial portion of the crushed grain and the oil, together with all the incense, as a food offering presented to Yahweh."</verse>
-      <chapter eID="Lev.2"/>
+      <chapter eID="Lev.2" />
       
-      <chapter osisID="Lev.3" sID="Lev.3"/>
+      <chapter osisID="Lev.3" sID="Lev.3" />
       <title type="sub">Fellowship Offerings</title>
       <verse osisID="Lev.3.1">"If your offering is a fellowship offering, and you offer an animal from the herd, whether male or female, you are to present before Yahweh an animal without defect.</verse>
       <verse osisID="Lev.3.2">You are to lay your hand on the head of your offering and slaughter it at the entrance to the tent of meeting. Then Aaron's sons the priests shall splash the blood against the sides of the altar.</verse>
@@ -89,11 +83,11 @@
       <verse osisID="Lev.3.15">both kidneys with the fat on them near the loins, and the long lobe of the liver, which you will remove with the kidneys.</verse>
       <verse osisID="Lev.3.16">The priest shall burn them on the altar as a food offering, a pleasing aroma. All the fat is Yahweh's.</verse>
       <verse osisID="Lev.3.17">This is a lasting ordinance for the generations to come, wherever you live: You must not eat any fat or any blood."</verse>
-      <chapter eID="Lev.3"/>
+      <chapter eID="Lev.3" />
       
       <title type="main">Offerings for Wrongdoing</title>
       
-      <chapter osisID="Lev.4" sID="Lev.4"/>
+      <chapter osisID="Lev.4" sID="Lev.4" />
       <title type="sub">Offerings for Unintentional Wrongdoing</title>
       <verse osisID="Lev.4.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.4.2">"Say to the Israelites: 'When anyone does wrong unintentionally and does what is forbidden in any of Yahweh's commands—</verse>
@@ -130,9 +124,9 @@
       <verse osisID="Lev.4.33">They are to lay their hand on its head and slaughter it for an offering for wrongdoing at the place where the burnt offering is slaughtered.</verse>
       <verse osisID="Lev.4.34">Then the priest shall take some of the blood of the offering for wrongdoing with his finger and put it on the horns of the altar of burnt offering and pour out the rest of the blood at the base of the altar.</verse>
       <verse osisID="Lev.4.35">They shall remove all the fat, just as the fat is removed from the lamb of the fellowship offering, and the priest shall burn it on the altar on top of the food offerings presented to Yahweh. In this way the priest will make things right for them for the wrongdoing they have committed, and they will be forgiven."</verse>
-      <chapter eID="Lev.4"/>
+      <chapter eID="Lev.4" />
       
-      <chapter osisID="Lev.5" sID="Lev.5"/>
+      <chapter osisID="Lev.5" sID="Lev.5" />
       <title type="sub">Guilt Offerings and Restitution</title>
       <verse osisID="Lev.5.1">"If anyone is called to testify about something they have seen or learned but do not speak up, they will be held responsible for their wrongdoing.</verse>
       <verse osisID="Lev.5.2">If anyone becomes unclean because they touch an unclean thing—whether the carcass of an unclean animal, or of unclean livestock or of unclean creatures that move along the ground—and they are unaware that they have become unclean, but then they come to realize their guilt,</verse>
@@ -153,9 +147,9 @@
       <verse osisID="Lev.5.17">If anyone does wrong and does what is forbidden in any of Yahweh's commands, even though they do not know it, they are guilty and will be held responsible.</verse>
       <verse osisID="Lev.5.18">They are to bring to the priest as a guilt offering a ram from the flock, one without defect and of the proper value. In this way the priest will make things right for them for the wrong they have committed unintentionally, and they will be forgiven.</verse>
       <verse osisID="Lev.5.19">It is a guilt offering; they have been guilty of wrongdoing against Yahweh."</verse>
-      <chapter eID="Lev.5"/>
+      <chapter eID="Lev.5" />
       
-      <chapter osisID="Lev.6" sID="Lev.6"/>
+      <chapter osisID="Lev.6" sID="Lev.6" />
       <verse osisID="Lev.6.1">Yahweh said to Moses:</verse>
       <verse osisID="Lev.6.2">"If anyone does wrong and is unfaithful to Yahweh by deceiving a neighbor about something entrusted to them or left in their care or about something stolen, or if they cheat their neighbor,</verse>
       <verse osisID="Lev.6.3">or if they find lost property and lie about it, or if they swear falsely about any such matter that people may do and wrongdoing in it—</verse>
@@ -188,9 +182,9 @@
       <verse osisID="Lev.6.28">The clay pot the meat is cooked in must be broken; but if it is cooked in a bronze pot, the pot is to be scoured and rinsed with water.</verse>
       <verse osisID="Lev.6.29">Any male in a priest's family may eat it; it is most set apart.</verse>
       <verse osisID="Lev.6.30">But any offering for wrongdoing whose blood is brought into the tent of meeting to make things right in the sanctuary must not be eaten; it must be burned with fire."</verse>
-      <chapter eID="Lev.6"/>
+      <chapter eID="Lev.6" />
       
-      <chapter osisID="Lev.7" sID="Lev.7"/>
+      <chapter osisID="Lev.7" sID="Lev.7" />
       <verse osisID="Lev.7.1">"These are the regulations for the guilt offering, which is most set apart:</verse>
       <verse osisID="Lev.7.2">The guilt offering is to be slaughtered in the place where the burnt offering is slaughtered, and its blood is to be splashed against the sides of the altar.</verse>
       <verse osisID="Lev.7.3">All its fat shall be offered: the fat tail and the fat that covers the internal organs,</verse>
@@ -229,11 +223,11 @@
       <verse osisID="Lev.7.36">On the day they were anointed, Yahweh commanded that the Israelites give this to them as their perpetual share for the generations to come.</verse>
       <verse osisID="Lev.7.37">These, then, are the regulations for the burnt offering, the grain offering, the offering for wrongdoing, the guilt offering, the ordination offering and the fellowship offering,</verse>
       <verse osisID="Lev.7.38">which Yahweh gave Moses at Mount Sinai in the Desert of Sinai on the day he commanded the Israelites to bring their offerings to Yahweh.</verse>
-      <chapter eID="Lev.7"/>
+      <chapter eID="Lev.7" />
       
       <title type="main">The Priesthood Established</title>
       
-      <chapter osisID="Lev.8" sID="Lev.8"/>
+      <chapter osisID="Lev.8" sID="Lev.8" />
       <title type="sub">Consecrating Aaron and His Sons</title>
       <verse osisID="Lev.8.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.8.2">"Bring Aaron and his sons, their garments, the oil for pouring, the bull for the offering for wrongdoing, the two rams and the basket containing bread made without yeast,</verse>
@@ -271,9 +265,9 @@
       <verse osisID="Lev.8.34">What has been done today was commanded by Yahweh to make things right for you.</verse>
       <verse osisID="Lev.8.35">You must stay at the entrance to the tent of meeting day and night for seven days and do what Yahweh requires, so you will not die; for that is what I have been commanded."</verse>
       <verse osisID="Lev.8.36">So Aaron and his sons did everything Yahweh commanded through Moses.</verse>
-      <chapter eID="Lev.8"/>
+      <chapter eID="Lev.8" />
       
-      <chapter osisID="Lev.9" sID="Lev.9"/>
+      <chapter osisID="Lev.9" sID="Lev.9" />
       <title type="sub">The Priests Begin Their Ministry</title>
       <verse osisID="Lev.9.1">On the eighth day Moses summoned Aaron and his sons and the elders of Israel.</verse>
       <verse osisID="Lev.9.2">He said to Aaron, "Take a bull calf for your offering for wrongdoing and a ram for your burnt offering, both without defect, and present them before Yahweh.</verse>
@@ -299,9 +293,9 @@
       <verse osisID="Lev.9.22">Then Aaron lifted his hands toward the people and blessed them. And having sacrificed the offering for wrongdoing, the burnt offering and the fellowship offering, he stepped down.</verse>
       <verse osisID="Lev.9.23">Moses and Aaron then went into the tent of meeting. When they came out, they blessed the people; and the glory of Yahweh appeared to all the people.</verse>
       <verse osisID="Lev.9.24">Fire came out from the presence of Yahweh and consumed the burnt offering and the fat portions on the altar. And when all the people saw it, they shouted for joy and fell facedown.</verse>
-      <chapter eID="Lev.9"/>
+      <chapter eID="Lev.9" />
       
-      <chapter osisID="Lev.10" sID="Lev.10"/>
+      <chapter osisID="Lev.10" sID="Lev.10" />
       <title type="sub">Nadab and Abihu's Unauthorized Fire</title>
       <verse osisID="Lev.10.1">Aaron's sons Nadab and Abihu took their censers, put fire in them and added incense; and they offered unauthorized fire before Yahweh, contrary to his command.</verse>
       <verse osisID="Lev.10.2">So fire came out from the presence of Yahweh and consumed them, and they died before Yahweh.</verse>
@@ -323,11 +317,11 @@
       <verse osisID="Lev.10.18">Since its blood was not taken into the sanctuary, you should have eaten the goat in the sanctuary area, as I commanded."</verse>
       <verse osisID="Lev.10.19">Aaron replied to Moses, "Today they sacrificed their offering for wrongdoing and their burnt offering before Yahweh, but such things as this have happened to me. Would Yahweh have been pleased if I had eaten the offering for wrongdoing today?"</verse>
       <verse osisID="Lev.10.20">When Moses heard this, he was satisfied.</verse>
-      <chapter eID="Lev.10"/>
+      <chapter eID="Lev.10" />
       
       <title type="main">Laws for Clean and Unclean</title>
       
-      <chapter osisID="Lev.11" sID="Lev.11"/>
+      <chapter osisID="Lev.11" sID="Lev.11" />
       <title type="sub">Clean and Unclean Food</title>
       <verse osisID="Lev.11.1">Yahweh said to Moses and Aaron,</verse>
       <verse osisID="Lev.11.2">"Say to the Israelites: 'Of all the animals that live on land, these are the ones you may eat:</verse>
@@ -376,9 +370,9 @@
       <verse osisID="Lev.11.45">I am Yahweh, who brought you up out of Egypt to be your God; therefore be set apart, because I am set apart.</verse>
       <verse osisID="Lev.11.46">These are the regulations concerning animals, birds, every living thing that moves about in the water and every creature that moves along the ground.</verse>
       <verse osisID="Lev.11.47">You must distinguish between the unclean and the clean, between living creatures that may be eaten and those that may not be eaten.'"</verse>
-      <chapter eID="Lev.11"/>
+      <chapter eID="Lev.11" />
       
-      <chapter osisID="Lev.12" sID="Lev.12"/>
+      <chapter osisID="Lev.12" sID="Lev.12" />
       <title type="sub">Purification After Childbirth</title>
       <verse osisID="Lev.12.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.12.2">"Say to the Israelites: 'A woman who becomes pregnant and gives birth to a son will be ceremonially unclean for seven days, just as she is unclean during her monthly period.</verse>
@@ -388,9 +382,9 @@
       <verse osisID="Lev.12.6">When the days of her purification for a son or daughter are over, she is to bring to the priest at the entrance to the tent of meeting a year-old lamb for a burnt offering and a young pigeon or a dove for an offering for wrongdoing.</verse>
       <verse osisID="Lev.12.7">He shall offer them before Yahweh to make things right for her, and then she will be ceremonially clean from her flow of blood. These are the regulations for the woman who gives birth to a boy or a girl.</verse>
       <verse osisID="Lev.12.8">But if she cannot afford a lamb, she is to bring two doves or two young pigeons, one for a burnt offering and the other for an offering for wrongdoing. In this way the priest will make things right for her, and she will be clean.'"</verse>
-      <chapter eID="Lev.12"/>
+      <chapter eID="Lev.12" />
       
-      <chapter osisID="Lev.13" sID="Lev.13"/>
+      <chapter osisID="Lev.13" sID="Lev.13" />
       <title type="sub">Regulations About Defiling Skin Diseases</title>
       <verse osisID="Lev.13.1">Yahweh said to Moses and Aaron,</verse>
       <verse osisID="Lev.13.2">"When anyone has a swelling or a rash or a shiny spot on their skin that may be a defiling skin disease, they must be brought to Aaron the priest or to one of his sons who is a priest.</verse>
@@ -451,9 +445,9 @@
       <verse osisID="Lev.13.57">But if it reappears in the fabric, in the woven or knitted material, or in the leather article, it is a spreading mold; whatever has the mold must be burned.</verse>
       <verse osisID="Lev.13.58">Any fabric, woven or knitted material, or any leather article that has been washed and is rid of the mold, must be washed again. Then it will be clean."</verse>
       <verse osisID="Lev.13.59">These are the regulations concerning defiling molds in woolen or linen clothing, woven or knitted material, or any leather article, for pronouncing them clean or unclean.</verse>
-      <chapter eID="Lev.13"/>
+      <chapter eID="Lev.13" />
       
-      <chapter osisID="Lev.14" sID="Lev.14"/>
+      <chapter osisID="Lev.14" sID="Lev.14" />
       <title type="sub">Cleansing From Defiling Skin Diseases</title>
       <verse osisID="Lev.14.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.14.2">"These are the regulations for any diseased person at the time of their ceremonial cleansing, when they are brought to the priest:</verse>
@@ -514,9 +508,9 @@
       <verse osisID="Lev.14.55">for defiling molds in fabric or in a house,</verse>
       <verse osisID="Lev.14.56">and for a swelling, a rash or a shiny spot,</verse>
       <verse osisID="Lev.14.57">to determine when something is clean or unclean. These are the regulations for defiling skin diseases and defiling molds.</verse>
-      <chapter eID="Lev.14"/>
+      <chapter eID="Lev.14" />
       
-      <chapter osisID="Lev.15" sID="Lev.15"/>
+      <chapter osisID="Lev.15" sID="Lev.15" />
       <title type="sub">Discharges Causing Uncleanness</title>
       <verse osisID="Lev.15.1">Yahweh said to Moses and Aaron,</verse>
       <verse osisID="Lev.15.2">"Speak to the Israelites and say to them: 'When any man has an unusual bodily discharge, such a discharge is unclean.</verse>
@@ -551,11 +545,11 @@
       <verse osisID="Lev.15.31">You must keep the Israelites separate from things that make them unclean, so they will not die in their uncleanness for defiling my dwelling place, which is among them."</verse>
       <verse osisID="Lev.15.32">These are the regulations for a man with a discharge, for anyone made unclean by an emission of semen,</verse>
       <verse osisID="Lev.15.33">for a woman in her monthly period, for a man or a woman with a discharge, and for a man who has sexual relations with a woman who is ceremonially unclean.</verse>
-      <chapter eID="Lev.15"/>
+      <chapter eID="Lev.15" />
       
       <title type="main">The Day of Atonement and Sacred Occasions</title>
       
-      <chapter osisID="Lev.16" sID="Lev.16"/>
+      <chapter osisID="Lev.16" sID="Lev.16" />
       <title type="sub">The Day of Atonement</title>
       <verse osisID="Lev.16.1">Yahweh spoke to Moses after the death of the two sons of Aaron who died when they approached Yahweh.</verse>
       <verse osisID="Lev.16.2">Yahweh said to Moses: "Tell your brother Aaron that he is not to come whenever he chooses into the Most sanctuary behind the curtain in front of the atonement cover on the ark, or else he will die. For I will appear in the cloud over the atonement cover.</verse>
@@ -591,11 +585,11 @@
       <verse osisID="Lev.16.32">The priest who is anointed and ordained to succeed his father as high priest is to make things right. He is to put on the sacred linen garments</verse>
       <verse osisID="Lev.16.33">and make things right for the Most sanctuary, for the tent of meeting and the altar, and for the priests and all the members of the community.</verse>
       <verse osisID="Lev.16.34">This is to be a lasting ordinance for you: Atonement is to be made once a year for all the wrongdoings of the Israelites." And it was done, as Yahweh commanded Moses.</verse>
-      <chapter eID="Lev.16"/>
+      <chapter eID="Lev.16" />
       
       <title type="main">Laws for Holy Living</title>
       
-      <chapter osisID="Lev.17" sID="Lev.17"/>
+      <chapter osisID="Lev.17" sID="Lev.17" />
       <title type="sub">Eating Blood Forbidden</title>
       <verse osisID="Lev.17.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.17.2">"Speak to Aaron and his sons and to all the Israelites and say to them: 'This is what Yahweh has commanded:</verse>
@@ -613,9 +607,9 @@
       <verse osisID="Lev.17.14">because the life of every creature is its blood. That is why I have said to the Israelites, "You must not eat the blood of any creature, because the life of every creature is its blood; anyone who eats it must be cut off."</verse>
       <verse osisID="Lev.17.15">Anyone, whether native-born or foreigner, who eats anything found dead or torn by wild animals must wash their clothes and bathe with water, and they will be ceremonially unclean till evening; then they will be clean.</verse>
       <verse osisID="Lev.17.16">But if they do not wash their clothes and bathe themselves, they will be held responsible for their wrongdoing.'"</verse>
-      <chapter eID="Lev.17"/>
+      <chapter eID="Lev.17" />
       
-      <chapter osisID="Lev.18" sID="Lev.18"/>
+      <chapter osisID="Lev.18" sID="Lev.18" />
       <title type="sub">Unlawful Sexual Relations</title>
       <verse osisID="Lev.18.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.18.2">"Speak to the Israelites and say to them: 'I am Yahweh your God.</verse>
@@ -647,11 +641,11 @@
       <verse osisID="Lev.18.28">And if you defile the land, it will vomit you out as it vomited out the nations that were before you.</verse>
       <verse osisID="Lev.18.29">Everyone who does any of these detestable things—such persons must be cut off from their people.</verse>
       <verse osisID="Lev.18.30">Keep my requirements and do not follow any of the detestable customs that were practiced before you came and do not defile yourselves with them. I am Yahweh your God.'"</verse>
-      <chapter eID="Lev.18"/>
+      <chapter eID="Lev.18" />
       
       <title type="main">Laws for Living as God's People</title>
       
-      <chapter osisID="Lev.19" sID="Lev.19"/>
+      <chapter osisID="Lev.19" sID="Lev.19" />
       <title type="sub">Various Laws</title>
       <verse osisID="Lev.19.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.19.2">"Speak to the entire assembly of Israelites and say to them: 'Be set apart because I, Yahweh your God, am set apart.</verse>
@@ -690,9 +684,9 @@
       <verse osisID="Lev.19.35">Do not use dishonest standards when measuring length, weight or quantity.</verse>
       <verse osisID="Lev.19.36">Use accurate scales and accurate weights, an accurate ephah and an accurate hin. I am Yahweh your God, who brought you out of Egypt.</verse>
       <verse osisID="Lev.19.37">Keep all my decrees and all my laws and follow them. I am Yahweh.'"</verse>
-      <chapter eID="Lev.19"/>
+      <chapter eID="Lev.19" />
       
-      <chapter osisID="Lev.20" sID="Lev.20"/>
+      <chapter osisID="Lev.20" sID="Lev.20" />
       <title type="sub">Punishments for Wrongdoing</title>
       <verse osisID="Lev.20.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.20.2">"Say to the Israelites: 'Any Israelite or any foreigner residing in Israel who sacrifices any of his children to Molek is to be put to death. The members of the community are to stone him.</verse>
@@ -721,11 +715,11 @@
       <verse osisID="Lev.20.25">You must therefore make a distinction between clean and unclean animals and between unclean and clean birds. Do not defile yourselves by any animal or bird or anything that moves along the ground—those that I have set apart as unclean for you.</verse>
       <verse osisID="Lev.20.26">You are to be set apart to me because I, Yahweh, am set apart, and I have set you apart from the nations to be my own.</verse>
       <verse osisID="Lev.20.27">A man or woman who is a medium or spiritist among you must be put to death. You are to stone them; their blood will be on their own heads.'"</verse>
-      <chapter eID="Lev.20"/>
+      <chapter eID="Lev.20" />
       
       <title type="main">Laws for Priests and Festivals</title>
       
-      <chapter osisID="Lev.21" sID="Lev.21"/>
+      <chapter osisID="Lev.21" sID="Lev.21" />
       <title type="sub">Rules for Priests</title>
       <verse osisID="Lev.21.1">Yahweh said to Moses, "Speak to the priests, the sons of Aaron, and say to them: 'A priest must not make himself ceremonially unclean for any of his people who die,</verse>
       <verse osisID="Lev.21.2">except for a close relative, such as his mother or father, his son or daughter, his brother,</verse>
@@ -751,9 +745,9 @@
       <verse osisID="Lev.21.22">He may eat the most set apart food of his God, as well as the set apart food;</verse>
       <verse osisID="Lev.21.23">yet because of his defect, he must not go near the curtain or approach the altar, and so desecrate my sanctuary. I am Yahweh, who makes them set apart.'"</verse>
       <verse osisID="Lev.21.24">So Moses told this to Aaron and his sons and to all the Israelites.</verse>
-      <chapter eID="Lev.21"/>
+      <chapter eID="Lev.21" />
       
-      <chapter osisID="Lev.22" sID="Lev.22"/>
+      <chapter osisID="Lev.22" sID="Lev.22" />
       <title type="sub">Unacceptable Sacrifices</title>
       <verse osisID="Lev.22.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.22.2">"Tell Aaron and his sons to treat with respect the sacred offerings the Israelites consecrate to me, so they will not profane my set apart name. I am Yahweh.</verse>
@@ -788,9 +782,9 @@
       <verse osisID="Lev.22.31">Keep my commands and follow them. I am Yahweh.</verse>
       <verse osisID="Lev.22.32">Do not profane my set apart name, for I must be acknowledged as set apart by the Israelites. I am Yahweh, who makes you set apart</verse>
       <verse osisID="Lev.22.33">and who brought you out of Egypt to be your God. I am Yahweh.'"</verse>
-      <chapter eID="Lev.22"/>
+      <chapter eID="Lev.22" />
       
-      <chapter osisID="Lev.23" sID="Lev.23"/>
+      <chapter osisID="Lev.23" sID="Lev.23" />
       <title type="sub">The Appointed Festivals</title>
       <verse osisID="Lev.23.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.23.2">"Speak to the Israelites and say to them: 'These are my appointed festivals, the appointed festivals of Yahweh, which you are to proclaim as sacred assemblies.</verse>
@@ -836,9 +830,9 @@
       <verse osisID="Lev.23.42">Live in temporary shelters for seven days: All native-born Israelites are to live in such shelters</verse>
       <verse osisID="Lev.23.43">so your descendants will know that I had the Israelites live in temporary shelters when I brought them out of Egypt. I am Yahweh your God.'"</verse>
       <verse osisID="Lev.23.44">So Moses announced to the Israelites the appointed festivals of Yahweh.</verse>
-      <chapter eID="Lev.23"/>
+      <chapter eID="Lev.23" />
       
-      <chapter osisID="Lev.24" sID="Lev.24"/>
+      <chapter osisID="Lev.24" sID="Lev.24" />
       <title type="sub">Oil and Bread Set Before Yahweh</title>
       <verse osisID="Lev.24.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.24.2">"Command the Israelites to bring you clear oil of pressed olives for the light so that the lamps may be kept burning continually.</verse>
@@ -863,11 +857,11 @@
       <verse osisID="Lev.24.21">Whoever kills an animal must make restitution, but whoever kills a human being is to be put to death.</verse>
       <verse osisID="Lev.24.22">You are to have the same law for the foreigner and the native-born. I am Yahweh your God.'"</verse>
       <verse osisID="Lev.24.23">Then Moses spoke to the Israelites, and they took the blasphemer outside the camp and stoned him. The Israelites did as Yahweh commanded Moses.</verse>
-      <chapter eID="Lev.24"/>
+      <chapter eID="Lev.24" />
       
       <title type="main">Laws for the Land and Community</title>
       
-      <chapter osisID="Lev.25" sID="Lev.25"/>
+      <chapter osisID="Lev.25" sID="Lev.25" />
       <title type="sub">The Sabbath Year</title>
       <verse osisID="Lev.25.1">Yahweh said to Moses at Mount Sinai,</verse>
       <verse osisID="Lev.25.2">"Speak to the Israelites and say to them: 'When you enter the land I am going to give you, the land itself must observe a sabbath to Yahweh.</verse>
@@ -924,9 +918,9 @@
       <verse osisID="Lev.25.53">They are to be treated as workers hired from year to year; you must see to it that those to whom they owe service do not rule over them ruthlessly.</verse>
       <verse osisID="Lev.25.54">Even if someone is not redeemed in any of these ways, they and their children are to be released in the Year of Jubilee,</verse>
       <verse osisID="Lev.25.55">for the Israelites belong to me as servants. They are my servants, whom I brought out of Egypt. I am Yahweh your God.'"</verse>
-      <chapter eID="Lev.25"/>
+      <chapter eID="Lev.25" />
       
-      <chapter osisID="Lev.26" sID="Lev.26"/>
+      <chapter osisID="Lev.26" sID="Lev.26" />
       <title type="sub">Rewards for Obedience and Punishments for Disobedience</title>
       <verse osisID="Lev.26.1">"Do not make idols or set up an image or a sacred stone for yourselves, and do not place a carved stone in your land to bow down before it. I am Yahweh your God.</verse>
       <verse osisID="Lev.26.2">Observe my Sabbaths and have reverence for my sanctuary. I am Yahweh.</verse>
@@ -974,9 +968,9 @@
       <verse osisID="Lev.26.44">Yet in spite of this, when they are in the land of their enemies, I will not reject them or abhor them so as to destroy them completely, breaking my covenant with them. I am Yahweh their God.</verse>
       <verse osisID="Lev.26.45">But for their sake I will remember the covenant with their ancestors whom I brought out of Egypt in the sight of the nations to be their God. I am Yahweh.'"</verse>
       <verse osisID="Lev.26.46">These are the decrees, the laws and the regulations that Yahweh established at Mount Sinai between himself and the Israelites through Moses.</verse>
-      <chapter eID="Lev.26"/>
+      <chapter eID="Lev.26" />
       
-      <chapter osisID="Lev.27" sID="Lev.27"/>
+      <chapter osisID="Lev.27" sID="Lev.27" />
       <title type="sub">Redeeming What Is Yahweh's</title>
       <verse osisID="Lev.27.1">Yahweh said to Moses,</verse>
       <verse osisID="Lev.27.2">"Speak to the Israelites and say to them: 'If anyone makes a special vow to dedicate a person to Yahweh by giving the equivalent value,</verse>
@@ -1012,7 +1006,7 @@
       <verse osisID="Lev.27.32">Every tithe of the herd and flock—every tenth animal that passes under the shepherd's rod—will be set apart to Yahweh.</verse>
       <verse osisID="Lev.27.33">No one may pick out the good from the bad or make any substitution. If anyone does make a substitution, both the animal and its substitute become set apart and cannot be redeemed.'"</verse>
       <verse osisID="Lev.27.34">These are the commands Yahweh gave Moses at Mount Sinai for the Israelites.</verse>
-      <chapter eID="Lev.27"/>
+      <chapter eID="Lev.27" />
     </div>
   </osisText>
 </osis>

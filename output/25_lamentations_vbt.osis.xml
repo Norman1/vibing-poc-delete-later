@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="Lam" canonical="true">
       <title type="main">Lamentations</title>
       
-      <chapter osisID="Lam.1" sID="Lam.1"/>
+      <chapter osisID="Lam.1" sID="Lam.1" />
       <title type="main">Jerusalem's Desolation and Suffering</title>
       
       <verse osisID="Lam.1.1">How lonely sits the city that was full of people! She who was great among the nations has become like a widow. The princess among the provinces has become a forced laborer.</verse>
@@ -62,9 +63,9 @@
       
       <verse osisID="Lam.1.22">"Let all their wickedness come before you, and deal with them as you have dealt with me because of all my transgressions. For my groans are many, and my heart is sick."</verse>
       
-      <chapter eID="Lam.1"/>
+      <chapter eID="Lam.1" />
       
-      <chapter osisID="Lam.2" sID="Lam.2"/>
+      <chapter osisID="Lam.2" sID="Lam.2" />
       <title type="main">God's Anger and Punishment</title>
       
       <verse osisID="Lam.2.1">How the Lord has covered the daughter of Zion with a cloud in his anger! He has thrown down from heaven to earth the beauty of Israel. He has not remembered his footstool in the day of his anger.</verse>
@@ -111,9 +112,9 @@
       
       <verse osisID="Lam.2.22">"You summoned as to a festival day my terrors on every side, and on the day of Yahweh's anger no one escaped or survived. Those whom I held and raised, my enemy destroyed."</verse>
       
-      <chapter eID="Lam.2"/>
+      <chapter eID="Lam.2" />
       
-      <chapter osisID="Lam.3" sID="Lam.3"/>
+      <chapter osisID="Lam.3" sID="Lam.3" />
       <title type="main">The Prophet's Anguish and Hope</title>
       
       <verse osisID="Lam.3.1">I am the man who has seen affliction under the rod of God's wrath.</verse>
@@ -248,9 +249,9 @@
       
       <verse osisID="Lam.3.66">You will pursue them in anger and destroy them from under your heavens, Yahweh.</verse>
       
-      <chapter eID="Lam.3"/>
+      <chapter eID="Lam.3" />
       
-      <chapter osisID="Lam.4" sID="Lam.4"/>
+      <chapter osisID="Lam.4" sID="Lam.4" />
       <title type="main">The Siege and Its Horrors</title>
       
       <verse osisID="Lam.4.1">How the gold has lost its luster, how the fine gold is changed! The sacred stones are poured out at the head of every street.</verse>
@@ -297,9 +298,9 @@
       
       <verse osisID="Lam.4.22">The punishment of your sin, daughter of Zion, is accomplished; he will keep you in exile no longer. But your sin, daughter of Edom, he will punish; he will uncover your sins.</verse>
       
-      <chapter eID="Lam.4"/>
+      <chapter eID="Lam.4" />
       
-      <chapter osisID="Lam.5" sID="Lam.5"/>
+      <chapter osisID="Lam.5" sID="Lam.5" />
       <title type="main">A Prayer for Restoration</title>
       
       <verse osisID="Lam.5.1">Remember, Yahweh, what has befallen us; look, and see our disgrace!</verse>
@@ -346,7 +347,7 @@
       
       <verse osisID="Lam.5.22">unless you have utterly rejected us and are exceedingly angry with us.</verse>
       
-      <chapter eID="Lam.5"/>
+      <chapter eID="Lam.5" />
     </div>
   </osisText>
 </osis>

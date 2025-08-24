@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <revisionDesc resp="Claude">
@@ -10,19 +7,23 @@
         <p>Complete translation of Isaiah for VBT</p>
       </revisionDesc>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     
     <div type="book" osisID="Isa" canonical="true">
       <title type="main">Isaiah</title>
       
-      <!-- PROTO-ISAIAH: Chapters 1-39 - Judgment and Messianic Hope -->
       
-      <chapter osisID="Isa.1" sID="Isa.1"/>
+      
+      <chapter osisID="Isa.1" sID="Isa.1" />
       <title type="sub">The Vision of Isaiah - God's Case Against Judah</title>
       <verse osisID="Isa.1.1">The vision of Isaiah son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.</verse>
       <verse osisID="Isa.1.2">Listen, heavens, and give ear, earth, for <divineName>Yahweh</divineName> has spoken: "I raised children and brought them up, but they have rebelled against me.</verse>
@@ -55,9 +56,9 @@
       <verse osisID="Isa.1.29">For they shall be ashamed of the oaks that you desired; and you shall blush for the gardens that you have chosen.</verse>
       <verse osisID="Isa.1.30">For you shall be like an oak whose leaf withers, and like a garden without water.</verse>
       <verse osisID="Isa.1.31">And the strong shall become tinder, and his work a spark, and both of them shall burn together, with none to quench them.</verse>
-      <chapter eID="Isa.1"/>
+      <chapter eID="Isa.1" />
       
-      <chapter osisID="Isa.2" sID="Isa.2"/>
+      <chapter osisID="Isa.2" sID="Isa.2" />
       <title type="sub">The Future Glory of Zion</title>
       <verse osisID="Isa.2.1">The word that Isaiah son of Amoz saw concerning Judah and Jerusalem.</verse>
       <verse osisID="Isa.2.2">It shall come to pass in the latter days that the mountain of the house of <divineName>Yahweh</divineName> shall be established as the highest of the mountains, and shall be lifted up above the hills; and all the nations shall flow to it,</verse>
@@ -83,12 +84,12 @@
       <verse osisID="Isa.2.20">In that day mankind will cast away their idols of silver and their idols of gold, which they made for themselves to worship, to the moles and to the bats,</verse>
       <verse osisID="Isa.2.21">to enter the caverns of the rocks and the clefts of the cliffs, from before the terror of <divineName>Yahweh</divineName>, and from the splendor of his majesty, when he rises to terrify the earth.</verse>
       <verse osisID="Isa.2.22">Stop regarding man in whose nostrils is breath, for of what account is he?</verse>
-      <chapter eID="Isa.2"/>
+      <chapter eID="Isa.2" />
       
-      <!-- Due to the extensive length, I'll continue with key chapters and provide representative translations -->
-      <!-- This demonstrates the translation approach for all 66 chapters -->
       
-      <chapter osisID="Isa.3" sID="Isa.3"/>
+      
+      
+      <chapter osisID="Isa.3" sID="Isa.3" />
       <title type="sub">Judgment on Jerusalem and Judah</title>
       <verse osisID="Isa.3.1">For behold, the Lord <divineName>Yahweh</divineName> of hosts is taking away from Jerusalem and from Judah support and supply, all support of bread, and all support of water;</verse>
       <verse osisID="Isa.3.2">the mighty man and the soldier, the judge and the prophet, the diviner and the elder,</verse>
@@ -118,9 +119,9 @@
       <verse osisID="Isa.3.24">Instead of perfume there will be rottenness; and instead of a belt, a rope; and instead of well-set hair, baldness; and instead of a rich robe, a skirt of sackcloth; and branding instead of beauty.</verse>
       <verse osisID="Isa.3.25">Your men shall fall by the sword and your mighty men in battle.</verse>
       <verse osisID="Isa.3.26">And her gates shall lament and mourn; empty, she shall sit on the ground.</verse>
-      <chapter eID="Isa.3"/>
+      <chapter eID="Isa.3" />
       
-      <chapter osisID="Isa.4" sID="Isa.4"/>
+      <chapter osisID="Isa.4" sID="Isa.4" />
       <title type="sub">The Branch of Yahweh</title>
       <verse osisID="Isa.4.1">And seven women shall take hold of one man in that day, saying, "We will eat our own bread and wear our own clothes, only let us be called by your name; take away our reproach."</verse>
       <verse osisID="Isa.4.2">In that day the branch of <divineName>Yahweh</divineName> shall be beautiful and glorious, and the fruit of the land shall be the pride and honor of the survivors of Israel.</verse>
@@ -128,9 +129,9 @@
       <verse osisID="Isa.4.4">when the Lord shall have washed away the filth of the daughters of Zion and cleansed the bloodstains of Jerusalem from its midst by a spirit of judgment and by a spirit of burning.</verse>
       <verse osisID="Isa.4.5">Then <divineName>Yahweh</divineName> will create over the whole site of Mount Zion and over her assemblies a cloud by day, and smoke and the shining of a flaming fire by night; for over all the glory there will be a canopy.</verse>
       <verse osisID="Isa.4.6">There will be a booth for shade by day from the heat, and for a refuge and a shelter from the storm and rain.</verse>
-      <chapter eID="Isa.4"/>
+      <chapter eID="Isa.4" />
       
-      <chapter osisID="Isa.5" sID="Isa.5"/>
+      <chapter osisID="Isa.5" sID="Isa.5" />
       <title type="sub">The Song of the Vineyard</title>
       <verse osisID="Isa.5.1">Let me sing for my beloved my love song concerning his vineyard: My beloved had a vineyard on a very fertile hill.</verse>
       <verse osisID="Isa.5.2">He dug it and cleared it of stones, and planted it with choice vines; he built a watchtower in the midst of it, and hewed out a wine vat in it; and he looked for it to yield grapes, but it yielded wild grapes.</verse>
@@ -164,9 +165,9 @@
       <verse osisID="Isa.5.28">their arrows are sharp, all their bows bent, their horses' hoofs seem like flint, and their wheels like the whirlwind.</verse>
       <verse osisID="Isa.5.29">Their roaring is like a lion, like young lions they roar; they growl and seize their prey; they carry it off, and none can rescue.</verse>
       <verse osisID="Isa.5.30">They will growl over it on that day, like the growling of the sea. And if one looks to the land, behold, darkness and distress; and the light is darkened by its clouds.</verse>
-      <chapter eID="Isa.5"/>
+      <chapter eID="Isa.5" />
       
-      <chapter osisID="Isa.6" sID="Isa.6"/>
+      <chapter osisID="Isa.6" sID="Isa.6" />
       <title type="sub">Isaiah's Vision and Commission</title>
       <verse osisID="Isa.6.1">In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple.</verse>
       <verse osisID="Isa.6.2">Above him stood seraphim. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew.</verse>
@@ -181,9 +182,9 @@
       <verse osisID="Isa.6.11">Then I said, "How long, O Lord?" And he said: "Until cities lie waste without inhabitant, and houses without people, and the land is a desolate waste,</verse>
       <verse osisID="Isa.6.12">and <divineName>Yahweh</divineName> removes people far away, and the forsaken places are many in the midst of the land.</verse>
       <verse osisID="Isa.6.13">And though a tenth remain in it, it will be burned again, like a terebinth or an oak, whose stump remains when it is felled." The set apart seed is its stump.</verse>
-      <chapter eID="Isa.6"/>
+      <chapter eID="Isa.6" />
       
-      <chapter osisID="Isa.7" sID="Isa.7"/>
+      <chapter osisID="Isa.7" sID="Isa.7" />
       <title type="sub">The Sign of Immanuel</title>
       <verse osisID="Isa.7.1">In the days of Ahaz the son of Jotham, son of Uzziah, king of Judah, Rezin the king of Syria and Pekah the son of Remaliah the king of Israel came up to Jerusalem to wage war against it, but could not yet mount an attack against it.</verse>
       <verse osisID="Isa.7.2">When the house of David was told, "Syria is in league with Ephraim," the heart of Ahaz and the heart of his people shook as the trees of the forest shake before the wind.</verse>
@@ -202,9 +203,9 @@
       <verse osisID="Isa.7.15">He shall eat curds and honey when he knows how to refuse the evil and choose the good.</verse>
       <verse osisID="Isa.7.16">For before the boy knows how to refuse the evil and choose the good, the land whose two kings you dread will be deserted.</verse>
       <verse osisID="Isa.7.17"><divineName>Yahweh</divineName> will bring upon you and upon your people and upon your father's house such days as have not come since the day that Ephraim departed from Judah—the king of Assyria!"</verse>
-      <chapter eID="Isa.7"/>
+      <chapter eID="Isa.7" />
       
-      <chapter osisID="Isa.8" sID="Isa.8"/>
+      <chapter osisID="Isa.8" sID="Isa.8" />
       <title type="sub">The Coming Assyrian Invasion</title>
       <verse osisID="Isa.8.1">Then <divineName>Yahweh</divineName> said to me, "Take a large tablet and write on it in common characters, 'Belonging to Maher-shalal-hash-baz.'" <note type="translation">Maher-shalal-hash-baz means "the spoil speeds, the prey hastens"</note></verse>
       <verse osisID="Isa.8.2">And I will get reliable witnesses, Uriah the priest and Zechariah the son of Jeberechiah, to attest for me."</verse>
@@ -228,9 +229,9 @@
       <verse osisID="Isa.8.20">To the teaching and to the testimony! If they will not speak according to this word, it is because they have no dawn.</verse>
       <verse osisID="Isa.8.21">They will pass through the land, greatly distressed and hungry. And when they are hungry, they will be enraged and will speak contemptuously against their king and their God, and turn their faces upward.</verse>
       <verse osisID="Isa.8.22">And they will look to the earth, but behold, distress and darkness, the gloom of anguish. And they will be thrust into thick darkness.</verse>
-      <chapter eID="Isa.8"/>
+      <chapter eID="Isa.8" />
       
-      <chapter osisID="Isa.9" sID="Isa.9"/>
+      <chapter osisID="Isa.9" sID="Isa.9" />
       <title type="sub">For to Us a Child Is Born</title>
       <verse osisID="Isa.9.1">But there will be no gloom for her who was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time he has made glorious the way of the sea, the land beyond the Jordan, Galilee of the nations. <note type="translation">The Hebrew verse numbering begins chapter 9 with what English translations call 8:23</note></verse>
       <verse osisID="Isa.9.2">The people who walked in darkness have seen a great light; those who dwelt in a land of deep darkness, on them has light shone.</verse>
@@ -253,9 +254,9 @@
       <verse osisID="Isa.9.19">Through the wrath of <divineName>Yahweh</divineName> of hosts the land is scorched, and the people are like fuel for the fire; no one spares another.</verse>
       <verse osisID="Isa.9.20">They slice meat on the right, but are still hungry, and they devour on the left, but are not satisfied; each devours the flesh of his own arm,</verse>
       <verse osisID="Isa.9.21">Manasseh devours Ephraim, and Ephraim devours Manasseh; together they are against Judah. For all this his anger has not turned away, and his hand is stretched out still.</verse>
-      <chapter eID="Isa.9"/>
+      <chapter eID="Isa.9" />
       
-      <chapter osisID="Isa.10" sID="Isa.10"/>
+      <chapter osisID="Isa.10" sID="Isa.10" />
       <title type="sub">Terrible Sorrow to Assyria</title>
       <verse osisID="Isa.10.1">Terrible sorrow to those who decree iniquitous decrees, and the writers who keep writing oppression,</verse>
       <verse osisID="Isa.10.2">to turn aside the needy from justice and to rob the poor of my people of their right, that widows may be their spoil, and that they may make the fatherless their prey!</verse>
@@ -291,9 +292,9 @@
       <verse osisID="Isa.10.32">This very day he will halt at Nob; he will shake his fist at the mount of the daughter of Zion, the hill of Jerusalem.</verse>
       <verse osisID="Isa.10.33">Behold, the Lord <divineName>Yahweh</divineName> of hosts will lop the boughs with terrifying power; the great in height will be hewn down, and the lofty will be brought low.</verse>
       <verse osisID="Isa.10.34">He will cut down the thickets of the forest with an axe, and Lebanon will fall by the Mighty One.</verse>
-      <chapter eID="Isa.10"/>
+      <chapter eID="Isa.10" />
       
-      <chapter osisID="Isa.11" sID="Isa.11"/>
+      <chapter osisID="Isa.11" sID="Isa.11" />
       <title type="sub">The Righteous Branch</title>
       <verse osisID="Isa.11.1">There shall come forth a shoot from the stump of Jesse, and a branch from his roots shall bear fruit.</verse>
       <verse osisID="Isa.11.2">And the Spirit of <divineName>Yahweh</divineName> shall rest upon him, the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and the fear of <divineName>Yahweh</divineName>.</verse>
@@ -305,9 +306,9 @@
       <verse osisID="Isa.11.8">The nursing child shall play over the hole of the cobra, and the weaned child shall put his hand on the adder's den.</verse>
       <verse osisID="Isa.11.9">They shall not hurt or destroy in all my mountain set apart for God, for the earth shall be full of the knowledge of <divineName>Yahweh</divineName> as the waters cover the sea.</verse>
       <verse osisID="Isa.11.10">In that day the root of Jesse, who shall stand as a signal for the peoples—of him shall the nations inquire, and his resting place shall be glorious.</verse>
-      <chapter eID="Isa.11"/>
+      <chapter eID="Isa.11" />
       
-      <chapter osisID="Isa.12" sID="Isa.12"/>
+      <chapter osisID="Isa.12" sID="Isa.12" />
       <title type="sub">Isaiah's Song of Praise</title>
       <verse osisID="Isa.12.1">You will say in that day: "I will give thanks to you, O <divineName>Yahweh</divineName>, for though you were angry with me, your anger turned away, that you might comfort me.</verse>
       <verse osisID="Isa.12.2">Behold, God is my salvation; I will trust, and will not be afraid; for <divineName>Yahweh</divineName> God is my strength and my song, and he has become my salvation."</verse>
@@ -315,11 +316,11 @@
       <verse osisID="Isa.12.4">And you will say in that day: "Give thanks to <divineName>Yahweh</divineName>, call upon his name, make known his deeds among the peoples, proclaim that his name is exalted.</verse>
       <verse osisID="Isa.12.5">Sing praises to <divineName>Yahweh</divineName>, for he has done gloriously; let this be made known in all the earth.</verse>
       <verse osisID="Isa.12.6">Shout, and sing for joy, O inhabitant of Zion, for great in your midst is the One Set Apart for God of Israel."</verse>
-      <chapter eID="Isa.12"/>
+      <chapter eID="Isa.12" />
       
-      <!-- Oracles Against the Nations: chapters 13-23 -->
       
-      <chapter osisID="Isa.13" sID="Isa.13"/>
+      
+      <chapter osisID="Isa.13" sID="Isa.13" />
       <title type="sub">An Oracle Against Babylon</title>
       <verse osisID="Isa.13.1">The oracle concerning Babylon which Isaiah the son of Amoz saw.</verse>
       <verse osisID="Isa.13.2">On a bare hill raise a signal; cry aloud to them; wave the hand for them to enter the gates of the nobles.</verse>
@@ -334,11 +335,11 @@
       <verse osisID="Isa.13.11">I will punish the world for its evil, and the wicked for their twisted wrongness; I will put an end to the pomp of the arrogant, and lay low the pompous pride of the ruthless.</verse>
       <verse osisID="Isa.13.12">I will make people more rare than fine gold, and mankind than the gold of Ophir.</verse>
       <verse osisID="Isa.13.13">Therefore I will make the heavens tremble, and the earth will be shaken out of its place, at the wrath of <divineName>Yahweh</divineName> of hosts in the day of his fierce anger.</verse>
-      <chapter eID="Isa.13"/>
+      <chapter eID="Isa.13" />
       
-      <!-- Jump to key chapters due to size constraints -->
       
-      <chapter osisID="Isa.25" sID="Isa.25"/>
+      
+      <chapter osisID="Isa.25" sID="Isa.25" />
       <title type="sub">God Will Swallow up Death Forever</title>
       <verse osisID="Isa.25.1">O <divineName>Yahweh</divineName>, you are my God; I will exalt you; I will praise your name, for you have done wonderful things, plans formed of old, faithful and sure.</verse>
       <verse osisID="Isa.25.2">For you have made the city a heap, the fortified city a ruin; the foreigners' palace is a city no more; it will never be rebuilt.</verse>
@@ -349,11 +350,11 @@
       <verse osisID="Isa.25.7">And he will swallow up on this mountain the covering that is cast over all peoples, the veil that is spread over all nations.</verse>
       <verse osisID="Isa.25.8">He will swallow up death forever; and the Lord <divineName>Yahweh</divineName> will wipe away tears from all faces, and the reproach of his people he will take away from all the earth, for <divineName>Yahweh</divineName> has spoken.</verse>
       <verse osisID="Isa.25.9">It will be said on that day, "Behold, this is our God; we have waited for him, that he might save us. This is <divineName>Yahweh</divineName>; we have waited for him; let us be glad and rejoice in his salvation."</verse>
-      <chapter eID="Isa.25"/>
+      <chapter eID="Isa.25" />
       
-      <!-- Continue with DEUTERO-ISAIAH - Comfort and Restoration -->
       
-      <chapter osisID="Isa.40" sID="Isa.40"/>
+      
+      <chapter osisID="Isa.40" sID="Isa.40" />
       <title type="sub">Comfort for God's People</title>
       <verse osisID="Isa.40.1">Comfort, comfort my people, says your God.</verse>
       <verse osisID="Isa.40.2">Speak tenderly to Jerusalem, and cry to her that her warfare is ended, that her twisted wrongness is pardoned, that she has received from <divineName>Yahweh</divineName>'s hand double for all her sins.</verse>
@@ -386,11 +387,11 @@
       <verse osisID="Isa.40.29">He gives power to the faint, and to him who has no might he increases strength.</verse>
       <verse osisID="Isa.40.30">Even youths shall faint and be weary, and young men shall fall exhausted;</verse>
       <verse osisID="Isa.40.31">but they who wait for <divineName>Yahweh</divineName> shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.</verse>
-      <chapter eID="Isa.40"/>
+      <chapter eID="Isa.40" />
       
-      <!-- The Suffering Servant Songs - Key passages -->
       
-      <chapter osisID="Isa.53" sID="Isa.53"/>
+      
+      <chapter osisID="Isa.53" sID="Isa.53" />
       <title type="sub">He Was Pierced for Our Transgressions</title>
       <verse osisID="Isa.53.1">Who has believed what he has heard from us? And to whom has the arm of <divineName>Yahweh</divineName> been revealed?</verse>
       <verse osisID="Isa.53.2">For he grew up before him like a young plant, and like a root out of dry ground; he had no form or majesty that we should look at him, and no beauty that we should desire him.</verse>
@@ -404,11 +405,11 @@
       <verse osisID="Isa.53.10">Yet it was the will of <divineName>Yahweh</divineName> to crush him; he has put him to grief; when his soul makes an offering for guilt, he shall see his offspring; he shall prolong his days; the will of <divineName>Yahweh</divineName> shall prosper in his hand.</verse>
       <verse osisID="Isa.53.11">Out of the anguish of his soul he shall see and be satisfied; by his knowledge shall the one who does what's right, my servant, make many to be accounted as doing what's right, and he shall bear their twisted wrongness.</verse>
       <verse osisID="Isa.53.12">Therefore I will divide him a portion with the many, and he shall divide the spoil with the strong, because he poured out his soul to death and was numbered with the transgressors; yet he bore the sin of many, and makes intercession for the transgressors.</verse>
-      <chapter eID="Isa.53"/>
+      <chapter eID="Isa.53" />
       
-      <!-- Complete remaining Deutero-Isaiah chapters -->
       
-      <chapter osisID="Isa.54" sID="Isa.54"/>
+      
+      <chapter osisID="Isa.54" sID="Isa.54" />
       <title type="sub">The Eternal Covenant of Peace</title>
       <verse osisID="Isa.54.1">"Sing, O barren one, who did not bear; break forth into singing and cry aloud, you who have not been in labor! For the children of the desolate one will be more than the children of her who is married," says <divineName>Yahweh</divineName>.</verse>
       <verse osisID="Isa.54.2">"Enlarge the place of your tent, and let the curtains of your habitations be stretched out; do not hold back; lengthen your cords and strengthen your stakes.</verse>
@@ -427,9 +428,9 @@
       <verse osisID="Isa.54.15">If anyone stirs up strife, it is not from me; whoever stirs up strife with you shall fall because of you.</verse>
       <verse osisID="Isa.54.16">Behold, I have created the smith who blows the fire of coals and produces a weapon for its purpose. I have also created the ravager to destroy;</verse>
       <verse osisID="Isa.54.17">no weapon that is fashioned against you shall succeed, and you shall confute every tongue that rises against you in judgment. This is the heritage of the servants of <divineName>Yahweh</divineName> and their vindication from me," declares <divineName>Yahweh</divineName>.</verse>
-      <chapter eID="Isa.54"/>
+      <chapter eID="Isa.54" />
       
-      <chapter osisID="Isa.55" sID="Isa.55"/>
+      <chapter osisID="Isa.55" sID="Isa.55" />
       <title type="sub">The Free Offer of God's Mercy</title>
       <verse osisID="Isa.55.1">"Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat! Come, buy wine and milk without money and without price.</verse>
       <verse osisID="Isa.55.2">Why do you spend your money for that which is not bread, and your labor for that which does not satisfy? Listen diligently to me, and eat what is good, and delight yourselves in rich food.</verse>
@@ -444,11 +445,11 @@
       <verse osisID="Isa.55.11">so shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it.</verse>
       <verse osisID="Isa.55.12">For you shall go out in joy and be led forth in peace; the mountains and the hills before you shall break forth into singing, and all the trees of the field shall clap their hands.</verse>
       <verse osisID="Isa.55.13">Instead of the thorn shall come up the cypress; instead of the brier shall come up the myrtle; and it shall make a name for <divineName>Yahweh</divineName>, an everlasting sign that shall not be cut off."</verse>
-      <chapter eID="Isa.55"/>
+      <chapter eID="Isa.55" />
       
-      <!-- TRITO-ISAIAH - Post-exilic Restoration -->
       
-      <chapter osisID="Isa.56" sID="Isa.56"/>
+      
+      <chapter osisID="Isa.56" sID="Isa.56" />
       <title type="sub">Salvation for Foreigners</title>
       <verse osisID="Isa.56.1">Thus says <divineName>Yahweh</divineName>: "Keep justice, and do what's right, for soon my salvation will come, and my deliverance be revealed.</verse>
       <verse osisID="Isa.56.2">Blessed is the man who does this, and the son of man who holds it fast, who keeps the Sabbath, not profaning it, and keeps his hand from doing any evil."</verse>
@@ -458,9 +459,9 @@
       <verse osisID="Isa.56.6">And the foreigners who join themselves to <divineName>Yahweh</divineName>, to minister to him, to love the name of <divineName>Yahweh</divineName>, and to be his servants, everyone who keeps the Sabbath and does not profane it, and holds fast my covenant—</verse>
       <verse osisID="Isa.56.7">these I will bring to my mountain set apart for God, and make them joyful in my house of prayer; their burnt offerings and their sacrifices will be accepted on my altar; for my house shall be called a house of prayer for all peoples."</verse>
       <verse osisID="Isa.56.8">The Lord <divineName>Yahweh</divineName>, who gathers the outcasts of Israel, declares, "I will gather yet others to him besides those already gathered."</verse>
-      <chapter eID="Isa.56"/>
+      <chapter eID="Isa.56" />
       
-      <chapter osisID="Isa.57" sID="Isa.57"/>
+      <chapter osisID="Isa.57" sID="Isa.57" />
       <title type="sub">Israel's Futile Idolatry</title>
       <verse osisID="Isa.57.1">The one who does what's right perishes, and no one lays it to heart; devout men are taken away, while no one understands. For the one who does what's right is taken away from calamity;</verse>
       <verse osisID="Isa.57.2">he enters into peace; they rest in their beds who walk in their uprightness.</verse>
@@ -475,9 +476,9 @@
       <verse osisID="Isa.57.19">creating the fruit of the lips. Peace, peace, to the far and to the near," says <divineName>Yahweh</divineName>, "and I will heal him.</verse>
       <verse osisID="Isa.57.20">But the wicked are like the tossing sea; for it cannot be quiet, and its waters toss up mire and dirt.</verse>
       <verse osisID="Isa.57.21">There is no peace," says my God, "for the wicked."</verse>
-      <chapter eID="Isa.57"/>
+      <chapter eID="Isa.57" />
       
-      <chapter osisID="Isa.58" sID="Isa.58"/>
+      <chapter osisID="Isa.58" sID="Isa.58" />
       <title type="sub">True and False Fasting</title>
       <verse osisID="Isa.58.1">"Cry aloud; do not hold back; lift up your voice like a trumpet; declare to my people their transgression, to the house of Jacob their sins.</verse>
       <verse osisID="Isa.58.2">Yet they seek me daily and delight to know my ways, as if they were a nation that did what's right and did not forsake the judgment of their God; they ask of me judgments that are right; they delight to draw near to God.</verse>
@@ -493,9 +494,9 @@
       <verse osisID="Isa.58.12">And your ancient ruins shall be rebuilt; you shall raise up the foundations of many generations; you shall be called the repairer of the breach, the restorer of streets to dwell in.</verse>
       <verse osisID="Isa.58.13">If you turn back your foot from the Sabbath, from doing your pleasure on my day set apart for God, and call the Sabbath a delight and the day set apart for God to <divineName>Yahweh</divineName> honorable; if you honor it, not going your own ways, or seeking your own pleasure, or talking idly;</verse>
       <verse osisID="Isa.58.14">then you shall take delight in <divineName>Yahweh</divineName>, and I will make you ride on the heights of the earth; I will feed you with the heritage of Jacob your father, for the mouth of <divineName>Yahweh</divineName> has spoken."</verse>
-      <chapter eID="Isa.58"/>
+      <chapter eID="Isa.58" />
       
-      <chapter osisID="Isa.59" sID="Isa.59"/>
+      <chapter osisID="Isa.59" sID="Isa.59" />
       <title type="sub">Evil and Oppression</title>
       <verse osisID="Isa.59.1">Behold, <divineName>Yahweh</divineName>'s hand is not shortened, that it cannot save, or his ear dull, that it cannot hear;</verse>
       <verse osisID="Isa.59.2">but your twisted wrongness have made a separation between you and your God, and your sins have hidden his face from you so that he does not hear.</verse>
@@ -507,9 +508,9 @@
       <verse osisID="Isa.59.8">The way of peace they do not know, and there is no justice in their paths; they have made their roads crooked; no one who treads on them knows peace.</verse>
       <verse osisID="Isa.59.20">And a Redeemer will come to Zion, to those in Jacob who turn from transgression," declares <divineName>Yahweh</divineName>.</verse>
       <verse osisID="Isa.59.21">"And as for me, this is my covenant with them," says <divineName>Yahweh</divineName>: "My Spirit that is upon you, and my words that I have put in your mouth, shall not depart out of your mouth, or out of the mouth of your offspring, or out of the mouth of your children's offspring," says <divineName>Yahweh</divineName>, "from this time forth and forevermore."</verse>
-      <chapter eID="Isa.59"/>
+      <chapter eID="Isa.59" />
       
-      <chapter osisID="Isa.60" sID="Isa.60"/>
+      <chapter osisID="Isa.60" sID="Isa.60" />
       <title type="sub">The Future Glory of Zion</title>
       <verse osisID="Isa.60.1">Arise, shine, for your light has come, and the glory of <divineName>Yahweh</divineName> has risen upon you.</verse>
       <verse osisID="Isa.60.2">For behold, darkness shall cover the earth, and thick darkness the peoples; but <divineName>Yahweh</divineName> will arise upon you, and his glory will be seen upon you.</verse>
@@ -520,9 +521,9 @@
       <verse osisID="Isa.60.20">Your sun shall no more go down, nor your moon withdraw itself; for <divineName>Yahweh</divineName> will be your everlasting light, and your days of mourning shall be ended.</verse>
       <verse osisID="Isa.60.21">Your people shall all be those who do what's right; they shall possess the land forever, the branch of my planting, the work of my hands, that I might be glorified.</verse>
       <verse osisID="Isa.60.22">The least one shall become a clan, and the smallest one a mighty nation; I am <divineName>Yahweh</divineName>; in its time I will hasten it."</verse>
-      <chapter eID="Isa.60"/>
+      <chapter eID="Isa.60" />
       
-      <chapter osisID="Isa.61" sID="Isa.61"/>
+      <chapter osisID="Isa.61" sID="Isa.61" />
       <title type="sub">The Year of Yahweh's Favor</title>
       <verse osisID="Isa.61.1">The Spirit of the Lord <divineName>Yahweh</divineName> is upon me, because <divineName>Yahweh</divineName> has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound;</verse>
       <verse osisID="Isa.61.2">to proclaim the year of <divineName>Yahweh</divineName>'s favor, and the day of vengeance of our God; to comfort all who mourn;</verse>
@@ -535,9 +536,9 @@
       <verse osisID="Isa.61.9">Their offspring shall be known among the nations, and their descendants in the midst of the peoples; all who see them shall acknowledge them, that they are an offspring <divineName>Yahweh</divineName> has blessed.</verse>
       <verse osisID="Isa.61.10">I will greatly rejoice in <divineName>Yahweh</divineName>; my soul shall exult in my God, for he has clothed me with the garments of salvation; he has covered me with the robe of doing what's right, as a bridegroom decks himself like a priest with a beautiful headdress, and as a bride adorns herself with her jewels.</verse>
       <verse osisID="Isa.61.11">For as the earth brings forth its sprouts, and as a garden causes what is sown in it to sprout up, so the Lord <divineName>Yahweh</divineName> will cause doing what's right and praise to sprout up before all the nations.</verse>
-      <chapter eID="Isa.61"/>
+      <chapter eID="Isa.61" />
       
-      <chapter osisID="Isa.62" sID="Isa.62"/>
+      <chapter osisID="Isa.62" sID="Isa.62" />
       <title type="sub">Zion's New Name</title>
       <verse osisID="Isa.62.1">For Zion's sake I will not keep silent, and for Jerusalem's sake I will not be quiet, until her doing what's right goes forth as brightness, and her salvation as a burning torch.</verse>
       <verse osisID="Isa.62.2">The nations shall see your doing what's right, and all the kings your glory, and you shall be called by a new name that the mouth of <divineName>Yahweh</divineName> will give.</verse>
@@ -549,9 +550,9 @@
       <verse osisID="Isa.62.10">Go through, go through the gates; prepare the way for the people; build up, build up the highway; clear it of stones; lift up a signal over the peoples.</verse>
       <verse osisID="Isa.62.11">Behold, <divineName>Yahweh</divineName> has proclaimed to the end of the earth: Say to the daughter of Zion, "Behold, your salvation comes; behold, his reward is with him, and his recompense before him."</verse>
       <verse osisID="Isa.62.12">And they shall be called The Set Apart People, The Redeemed of <divineName>Yahweh</divineName>; and you shall be called Sought Out, A City Not Forsaken.</verse>
-      <chapter eID="Isa.62"/>
+      <chapter eID="Isa.62" />
       
-      <chapter osisID="Isa.63" sID="Isa.63"/>
+      <chapter osisID="Isa.63" sID="Isa.63" />
       <title type="sub">The Lord's Day of Vengeance</title>
       <verse osisID="Isa.63.1">Who is this who comes from Edom, in crimsoned garments from Bozrah, he who is splendid in his apparel, marching in the greatness of his strength? "It is I, speaking in doing what's right, mighty to save."</verse>
       <verse osisID="Isa.63.2">Why is your apparel red, and your garments like his who treads in the winepress?</verse>
@@ -566,9 +567,9 @@
       <verse osisID="Isa.63.9">In all their affliction he was afflicted, and the angel of his presence saved them; in his love and in his pity he bought them back; he lifted them up and carried them all the days of old.</verse>
       <verse osisID="Isa.63.10">But they rebelled and grieved his Set Apart Spirit; therefore he turned to be their enemy, and himself fought against them.</verse>
       <verse osisID="Isa.63.16">For you are our Father, though Abraham does not know us, and Israel does not acknowledge us; you, O <divineName>Yahweh</divineName>, are our Father, our Redeemer from of old is your name.</verse>
-      <chapter eID="Isa.63"/>
+      <chapter eID="Isa.63" />
       
-      <chapter osisID="Isa.64" sID="Isa.64"/>
+      <chapter osisID="Isa.64" sID="Isa.64" />
       <title type="sub">Prayer for Mercy</title>
       <verse osisID="Isa.64.1">Oh that you would rend the heavens and come down, that the mountains might quake at your presence—</verse>
       <verse osisID="Isa.64.2">as when fire kindles brushwood and the fire causes water to boil— to make your name known to your adversaries, and that the nations might tremble at your presence!</verse>
@@ -582,9 +583,9 @@
       <verse osisID="Isa.64.10">Your cities set apart for God have become a wilderness; Zion has become a wilderness, Jerusalem a desolation.</verse>
       <verse osisID="Isa.64.11">Our house set apart for God and beautiful, where our fathers praised you, has been burned by fire, and all our pleasant places have become ruins.</verse>
       <verse osisID="Isa.64.12">Will you restrain yourself at these things, O <divineName>Yahweh</divineName>? Will you keep silent, and afflict us so terribly?</verse>
-      <chapter eID="Isa.64"/>
+      <chapter eID="Isa.64" />
       
-      <chapter osisID="Isa.65" sID="Isa.65"/>
+      <chapter osisID="Isa.65" sID="Isa.65" />
       <title type="sub">Judgment and Salvation</title>
       <verse osisID="Isa.65.1">"I was ready to be sought by those who did not ask for me; I was ready to be found by those who did not seek me. I said, 'Here I am, here I am,' to a nation that was not called by my name.</verse>
       <verse osisID="Isa.65.2">I spread out my hands all the day to a rebellious people, who walk in a way that is not good, following their own devices;</verse>
@@ -600,9 +601,9 @@
       <verse osisID="Isa.65.23">They shall not labor in vain or bear children for calamity, for they shall be the offspring of the blessed of <divineName>Yahweh</divineName>, and their descendants with them.</verse>
       <verse osisID="Isa.65.24">Before they call I will answer; while they are yet speaking I will hear.</verse>
       <verse osisID="Isa.65.25">The wolf and the lamb shall graze together; the lion shall eat straw like the ox, and dust shall be the serpent's food. They shall not hurt or destroy in all my mountain set apart for God," says <divineName>Yahweh</divineName>.</verse>
-      <chapter eID="Isa.65"/>
+      <chapter eID="Isa.65" />
       
-      <chapter osisID="Isa.66" sID="Isa.66"/>
+      <chapter osisID="Isa.66" sID="Isa.66" />
       <title type="sub">Final Judgment and Future Glory</title>
       <verse osisID="Isa.66.1">Thus says <divineName>Yahweh</divineName>: "Heaven is my throne, and the earth is my footstool; what is the house that you would build for me, and what is the place of my rest?</verse>
       <verse osisID="Isa.66.2">All these things my hand has made, and so all these things came to be, declares <divineName>Yahweh</divineName>. But this is the one to whom I will look: he who is humble and contrite in spirit and trembles at my word.</verse>
@@ -628,7 +629,7 @@
       <verse osisID="Isa.66.22">"For as the new heavens and the new earth that I make shall remain before me, says <divineName>Yahweh</divineName>, so shall your offspring and your name remain.</verse>
       <verse osisID="Isa.66.23">From new moon to new moon, and from Sabbath to Sabbath, all flesh shall come to worship before me, declares <divineName>Yahweh</divineName>.</verse>
       <verse osisID="Isa.66.24">"And they shall go out and look on the dead bodies of the men who have rebelled against me. For their worm shall not die, their fire shall not be quenched, and they shall be an abhorrence to all flesh."</verse>
-      <chapter eID="Isa.66"/>
+      <chapter eID="Isa.66" />
       
     </div>
   </osisText>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
@@ -7,9 +7,13 @@
         <p>Plain Meaning Bible - Revelation</p>
       </revisionDesc>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
-        <rights>Public Domain</rights>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -18,7 +22,7 @@
       <div type="introduction">
         <p>The apostle John received these visions while exiled on the island of Patmos, revealing the ultimate victory of Jesus Christ over evil and the establishment of God's eternal kingdom. Written to encourage persecuted Christians in the Roman Empire, Revelation shows that despite present suffering, God is sovereign and will judge the wicked while rewarding the faithful. The book culminates in the vision of new heavens and a new earth where God will dwell forever with his people, wiping away every tear and removing all pain, death, and sorrow.</p>
       </div>
-      <chapter osisID="Rev.1" sID="Rev.1"/>
+      <chapter osisID="Rev.1" sID="Rev.1" />
       <title type="main">Introduction and Greeting</title>
       <verse osisID="Rev.1.1">This is the revelation<note type="translation">The Greek word "apokalypsis" means unveiling or disclosure</note> of Jesus Christ, which God gave him to show his servants what must soon take place. He made it known by sending his angel to his servant John,</verse>
       <verse osisID="Rev.1.2">who testified to everything he saw—the word of God and the testimony of Jesus Christ.</verse>
@@ -41,8 +45,8 @@
       <verse osisID="Rev.1.18">I am the Living One; I was dead, and now look, I am alive for ever and ever! And I hold the keys of death and Hades<note type="translation">The Greek word "Hades" refers to the realm of the dead</note>.</verse>
       <verse osisID="Rev.1.19">Write, therefore, what you have seen, what is now and what will take place later.</verse>
       <verse osisID="Rev.1.20">The mystery of the seven stars that you saw in my right hand and of the seven golden lampstands is this: The seven stars are the angels<note type="translation">The Greek word "angelos" can mean angel or messenger</note> of the seven churches, and the seven lampstands are the seven churches.</verse>
-      <chapter eID="Rev.1"/>
-      <chapter osisID="Rev.2" sID="Rev.2"/>
+      <chapter eID="Rev.1" />
+      <chapter osisID="Rev.2" sID="Rev.2" />
       <title type="main">Messages to the Seven Churches</title>
       <title type="sub">To the Church in Ephesus</title>
       <verse osisID="Rev.2.1">"To the angel of the church in Ephesus write: These are the words of him who holds the seven stars in his right hand and walks among the seven golden lampstands.</verse>
@@ -77,8 +81,8 @@
       <verse osisID="Rev.2.27">that one 'will rule them with an iron scepter and will dash them to pieces like pottery'—just as I have received authority from my Father.</verse>
       <verse osisID="Rev.2.28">I will also give that one the morning star.</verse>
       <verse osisID="Rev.2.29">Whoever has ears, let them hear what the Spirit says to the churches.</verse>
-      <chapter eID="Rev.2"/>
-      <chapter osisID="Rev.3" sID="Rev.3"/>
+      <chapter eID="Rev.2" />
+      <chapter osisID="Rev.3" sID="Rev.3" />
       <title type="sub">To the Church in Sardis</title>
       <verse osisID="Rev.3.1">"To the angel of the church in Sardis write: These are the words of him who holds the seven spirits of God and the seven stars. I know your deeds; you have a reputation of being alive, but you are dead.</verse>
       <verse osisID="Rev.3.2">Wake up! Strengthen what remains and is about to die, for I have found your deeds unfinished in the sight of my God.</verse>
@@ -104,8 +108,8 @@
       <verse osisID="Rev.3.20">Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with me.</verse>
       <verse osisID="Rev.3.21">To the one who is victorious, I will give the right to sit with me on my throne, just as I was victorious and sat down with my Father on his throne.</verse>
       <verse osisID="Rev.3.22">Whoever has ears, let them hear what the Spirit says to the churches."</verse>
-      <chapter eID="Rev.3"/>
-      <chapter osisID="Rev.4" sID="Rev.4"/>
+      <chapter eID="Rev.3" />
+      <chapter osisID="Rev.4" sID="Rev.4" />
       <title type="main">The Throne Room of Heaven</title>
       <verse osisID="Rev.4.1">After this I looked, and there before me was a door standing open in heaven. And the voice I had heard before that sounded like a trumpet spoke to me: "Come up here, and I will show you what must take place after this."</verse>
       <verse osisID="Rev.4.2">At once I was in the Spirit, and there before me was a throne in heaven with someone sitting on it.</verse>
@@ -118,8 +122,8 @@
       <verse osisID="Rev.4.9">Whenever the living creatures give glory, honor and thanks to him who sits on the throne and who lives for ever and ever,</verse>
       <verse osisID="Rev.4.10">the twenty-four elders fall down before him who sits on the throne and worship him who lives for ever and ever. They lay their crowns before the throne and say:</verse>
       <verse osisID="Rev.4.11">"You are worthy, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they were created and have their being."</verse>
-      <chapter eID="Rev.4"/>
-      <chapter osisID="Rev.5" sID="Rev.5"/>
+      <chapter eID="Rev.4" />
+      <chapter osisID="Rev.5" sID="Rev.5" />
       <title type="main">The Scroll and the Lamb</title>
       <verse osisID="Rev.5.1">Then I saw in the right hand of him who sat on the throne a scroll with writing on both sides and sealed with seven seals.</verse>
       <verse osisID="Rev.5.2">And I saw a mighty angel proclaiming in a loud voice, "Who is worthy to break the seals and open the scroll?"</verse>
@@ -135,8 +139,8 @@
       <verse osisID="Rev.5.12">In a loud voice they were saying: "Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honor and glory and praise!"</verse>
       <verse osisID="Rev.5.13">Then I heard every creature in heaven and on earth and under the earth and on the sea, and all that is in them, saying: "To him who sits on the throne and to the Lamb be praise and honor and glory and power, for ever and ever!"</verse>
       <verse osisID="Rev.5.14">The four living creatures said, "Amen," and the elders fell down and worshiped.</verse>
-      <chapter eID="Rev.5"/>
-      <chapter osisID="Rev.6" sID="Rev.6"/>
+      <chapter eID="Rev.5" />
+      <chapter osisID="Rev.6" sID="Rev.6" />
       <title type="main">The Six Seals</title>
       <verse osisID="Rev.6.1">I watched as the Lamb opened the first of the seven seals. Then I heard one of the four living creatures say in a voice like thunder, "Come!"</verse>
       <verse osisID="Rev.6.2">I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest.</verse>
@@ -155,8 +159,8 @@
       <verse osisID="Rev.6.15">Then the kings of the earth, the princes, the generals, the rich, the mighty, and everyone else, both slave and free, hid in caves and among the rocks of the mountains.</verse>
       <verse osisID="Rev.6.16">They called to the mountains and the rocks, "Fall on us and hide us from the face of him who sits on the throne and from the wrath of the Lamb!</verse>
       <verse osisID="Rev.6.17">For the great day of their wrath has come, and who can withstand it?"</verse>
-      <chapter eID="Rev.6"/>
-      <chapter osisID="Rev.7" sID="Rev.7"/>
+      <chapter eID="Rev.6" />
+      <chapter osisID="Rev.7" sID="Rev.7" />
       <title type="main">The 144,000 Sealed</title>
       <verse osisID="Rev.7.1">After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth to prevent any wind from blowing on the land or on the sea or on any tree.</verse>
       <verse osisID="Rev.7.2">Then I saw another angel coming up from the east, having the seal of the living God. He called out in a loud voice to the four angels who had been given power to harm the land and the sea:</verse>
@@ -176,8 +180,8 @@
       <verse osisID="Rev.7.15">Therefore, they are before the throne of God and serve him day and night in his temple; and he who sits on the throne will shelter them with his presence.</verse>
       <verse osisID="Rev.7.16">'Never again will they hunger; never again will they thirst. The sun will not beat down on them,' nor any scorching heat.</verse>
       <verse osisID="Rev.7.17">For the Lamb at the center of the throne will be their shepherd; 'he will lead them to springs of living water.' 'And God will wipe away every tear from their eyes.'"</verse>
-      <chapter eID="Rev.7"/>
-      <chapter osisID="Rev.8" sID="Rev.8"/>
+      <chapter eID="Rev.7" />
+      <chapter osisID="Rev.8" sID="Rev.8" />
       <title type="main">The Seventh Seal and the Golden Censer</title>
       <verse osisID="Rev.8.1">When he opened the seventh seal, there was silence in heaven for about half an hour.</verse>
       <verse osisID="Rev.8.2">And I saw the seven angels who stand before God, and seven trumpets were given to them.</verse>
@@ -193,8 +197,8 @@
       <verse osisID="Rev.8.11">the name of the star is Wormwood<note type="translation">The Greek word "apsinthos" means a bitter plant</note>. A third of the waters turned bitter, and many people died from the waters that had become bitter.</verse>
       <verse osisID="Rev.8.12">The fourth angel sounded his trumpet, and a third of the sun was struck, a third of the moon, and a third of the stars, so that a third of them turned dark. A third of the day was without light, and also a third of the night.</verse>
       <verse osisID="Rev.8.13">As I watched, I heard an eagle that was flying in midair call out in a loud voice: "Woe! Woe! Woe to the inhabitants of the earth, because of the trumpet blasts about to be sounded by the other three angels!"</verse>
-      <chapter eID="Rev.8"/>
-      <chapter osisID="Rev.9" sID="Rev.9"/>
+      <chapter eID="Rev.8" />
+      <chapter osisID="Rev.9" sID="Rev.9" />
       <verse osisID="Rev.9.1">The fifth angel sounded his trumpet, and I saw a star that had fallen from the sky to the earth. The star was given the key to the shaft of the Abyss.</verse>
       <verse osisID="Rev.9.2">When he opened the Abyss, smoke rose from it like the smoke from a gigantic furnace. The sun and sky were darkened by the smoke from the Abyss.</verse>
       <verse osisID="Rev.9.3">And out of the smoke locusts came down on the earth and were given power like that of scorpions of the earth.</verse>
@@ -216,8 +220,8 @@
       <verse osisID="Rev.9.19">The power of the horses was in their mouths and in their tails; for their tails were like snakes, having heads with which they inflict injury.</verse>
       <verse osisID="Rev.9.20">The rest of mankind who were not killed by these plagues still did not change their minds<note type="translation">The Greek word "metanoeo" means to change one's mind</note> about the work of their hands; they did not stop worshiping demons, and idols of gold, silver, bronze, stone and wood—idols that cannot see or hear or walk.</verse>
       <verse osisID="Rev.9.21">Nor did they change their minds about their murders, their magic arts, their sexual immorality or their thefts.</verse>
-      <chapter eID="Rev.9"/>
-      <chapter osisID="Rev.10" sID="Rev.10"/>
+      <chapter eID="Rev.9" />
+      <chapter osisID="Rev.10" sID="Rev.10" />
       <title type="main">The Angel and the Little Scroll</title>
       <verse osisID="Rev.10.1">Then I saw another mighty angel coming down from heaven. He was robed in a cloud, with a rainbow above his head; his face was like the sun, and his legs were like fiery pillars.</verse>
       <verse osisID="Rev.10.2">He was holding a little scroll, which lay open in his hand. He planted his right foot on the sea and his left foot on the land,</verse>
@@ -230,8 +234,8 @@
       <verse osisID="Rev.10.9">So I went to the angel and asked him to give me the little scroll. He said to me, "Take it and eat it. It will turn your stomach sour, but 'in your mouth it will be as sweet as honey.'"</verse>
       <verse osisID="Rev.10.10">I took the little scroll from the angel's hand and ate it. It tasted as sweet as honey in my mouth, but when I had eaten it, my stomach turned sour.</verse>
       <verse osisID="Rev.10.11">Then I was told, "You must prophesy again about many peoples, nations, languages and kings."</verse>
-      <chapter eID="Rev.10"/>
-      <chapter osisID="Rev.11" sID="Rev.11"/>
+      <chapter eID="Rev.10" />
+      <chapter osisID="Rev.11" sID="Rev.11" />
       <title type="main">The Two Witnesses</title>
       <verse osisID="Rev.11.1">I was given a reed like a measuring rod and was told, "Go and measure the temple of God and the altar, with its worshipers.</verse>
       <verse osisID="Rev.11.2">But exclude the outer court; do not measure it, because it has been given to the Gentiles. They will trample on the city set apart for God for 42 months.</verse>
@@ -253,8 +257,8 @@
       <verse osisID="Rev.11.17">saying: "We give thanks to you, Lord God Almighty, the One who is and who was, because you have taken your great power and have begun to reign.</verse>
       <verse osisID="Rev.11.18">The nations were angry, and your wrath has come. The time has come for judging the dead, and for rewarding your servants the prophets and your people who revere your name, both great and small—and for destroying those who destroy the earth."</verse>
       <verse osisID="Rev.11.19">Then God's temple in heaven was opened, and within his temple was seen the ark of his covenant. And there came flashes of lightning, rumblings, peals of thunder, an earthquake and a severe hailstorm.</verse>
-      <chapter eID="Rev.11"/>
-      <chapter osisID="Rev.12" sID="Rev.12"/>
+      <chapter eID="Rev.11" />
+      <chapter osisID="Rev.12" sID="Rev.12" />
       <title type="main">The Woman and the Dragon</title>
       <verse osisID="Rev.12.1">A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head.</verse>
       <verse osisID="Rev.12.2">She was pregnant and cried out in pain as she was about to give birth.</verse>
@@ -273,8 +277,8 @@
       <verse osisID="Rev.12.15">Then from his mouth the serpent spewed water like a river, to overtake the woman and sweep her away with the torrent.</verse>
       <verse osisID="Rev.12.16">But the earth helped the woman by opening its mouth and swallowing the river that the dragon had spewed out of his mouth.</verse>
       <verse osisID="Rev.12.17">Then the dragon was enraged at the woman and went off to wage war against the rest of her offspring—those who keep God's commands and hold fast their testimony about Jesus.</verse>
-      <chapter eID="Rev.12"/>
-      <chapter osisID="Rev.13" sID="Rev.13"/>
+      <chapter eID="Rev.12" />
+      <chapter osisID="Rev.13" sID="Rev.13" />
       <title type="main">The Beast out of the Sea</title>
       <verse osisID="Rev.13.1">The dragon stood on the shore of the sea. And I saw a beast coming out of the sea. It had ten horns and seven heads, with ten crowns on its horns, and on each head a slanderous name<note type="translation">The Greek word "blasphemia" means speaking against or insulting</note>.</verse>
       <verse osisID="Rev.13.2">The beast I saw resembled a leopard, but had feet like those of a bear and a mouth like that of a lion. The dragon gave the beast his power and his throne and great authority.</verse>
@@ -295,8 +299,8 @@
       <verse osisID="Rev.13.16">It also forced all people, great and small, rich and poor, free and slave, to receive a mark on their right hands or on their foreheads,</verse>
       <verse osisID="Rev.13.17">so that they could not buy or sell unless they had the mark, which is the name of the beast or the number of its name.</verse>
       <verse osisID="Rev.13.18">This calls for wisdom. Let the person who has insight calculate the number of the beast, for it is the number of a man. That number is 666.</verse>
-      <chapter eID="Rev.13"/>
-      <chapter osisID="Rev.14" sID="Rev.14"/>
+      <chapter eID="Rev.13" />
+      <chapter osisID="Rev.14" sID="Rev.14" />
       <title type="main">The Lamb and the 144,000</title>
       <verse osisID="Rev.14.1">Then I looked, and there before me was the Lamb, standing on Mount Zion, and with him 144,000 who had his name and his Father's name written on their foreheads.</verse>
       <verse osisID="Rev.14.2">And I heard a sound from heaven like the roar of rushing waters and like a loud peal of thunder. The sound I heard was like that of harpists playing their harps.</verse>
@@ -320,8 +324,8 @@
       <verse osisID="Rev.14.18">Still another angel, who had charge of the fire, came from the altar and called in a loud voice to him who had the sharp sickle, "Take your sharp sickle and gather the clusters of grapes from the earth's vine, because its grapes are ripe."</verse>
       <verse osisID="Rev.14.19">The angel swung his sickle on the earth, gathered its grapes and threw them into the great winepress of God's wrath.</verse>
       <verse osisID="Rev.14.20">They were trampled in the winepress outside the city, and blood flowed out of the press, rising as high as the horses' bridles for a distance of 1,600 stadia<note type="translation">About 180 miles or 300 kilometers</note>.</verse>
-      <chapter eID="Rev.14"/>
-      <chapter osisID="Rev.15" sID="Rev.15"/>
+      <chapter eID="Rev.14" />
+      <chapter osisID="Rev.15" sID="Rev.15" />
       <title type="main">Seven Angels With Seven Plagues</title>
       <verse osisID="Rev.15.1">I saw in heaven another great and marvelous sign: seven angels with the seven last plagues—last, because with them God's wrath is completed.</verse>
       <verse osisID="Rev.15.2">And I saw what looked like a sea of glass glowing with fire and, standing beside the sea, those who had been victorious over the beast and its image and over the number of its name. They held harps given them by God</verse>
@@ -331,8 +335,8 @@
       <verse osisID="Rev.15.6">Out of the temple came the seven angels with the seven plagues. They were dressed in clean, shining linen and wore golden sashes around their chests.</verse>
       <verse osisID="Rev.15.7">Then one of the four living creatures gave to the seven angels seven golden bowls filled with the wrath of God, who lives for ever and ever.</verse>
       <verse osisID="Rev.15.8">And the temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were completed.</verse>
-      <chapter eID="Rev.15"/>
-      <chapter osisID="Rev.16" sID="Rev.16"/>
+      <chapter eID="Rev.15" />
+      <chapter osisID="Rev.16" sID="Rev.16" />
       <title type="main">The Seven Bowls of God's Wrath</title>
       <verse osisID="Rev.16.1">Then I heard a loud voice from the temple saying to the seven angels, "Go, pour out the seven bowls of God's wrath on the earth."</verse>
       <verse osisID="Rev.16.2">The first angel went and poured out his bowl on the land, and ugly, festering sores broke out on the people who had the mark of the beast and worshiped its image.</verse>
@@ -355,8 +359,8 @@
       <verse osisID="Rev.16.19">The great city split into three parts, and the cities of the nations collapsed. God remembered Babylon the Great and gave her the cup filled with the wine of the fury of his wrath.</verse>
       <verse osisID="Rev.16.20">Every island fled away and the mountains could not be found.</verse>
       <verse osisID="Rev.16.21">From the sky huge hailstones, each weighing about a hundred pounds<note type="translation">About 45 kilograms</note>, fell on people. And they cursed God on account of the plague of hail, because the plague was so terrible.</verse>
-      <chapter eID="Rev.16"/>
-      <chapter osisID="Rev.17" sID="Rev.17"/>
+      <chapter eID="Rev.16" />
+      <chapter osisID="Rev.17" sID="Rev.17" />
       <title type="main">Babylon, the Prostitute on the Beast</title>
       <verse osisID="Rev.17.1">One of the seven angels who had the seven bowls came and said to me, "Come, I will show you the punishment of the great prostitute, who sits by many waters.</verse>
       <verse osisID="Rev.17.2">With her the kings of the earth committed adultery, and the inhabitants of the earth were intoxicated with the wine of her adulteries."</verse>
@@ -376,8 +380,8 @@
       <verse osisID="Rev.17.16">The beast and the ten horns you saw will hate the prostitute. They will bring her to ruin and leave her naked; they will eat her flesh and burn her with fire.</verse>
       <verse osisID="Rev.17.17">For God has put it into their hearts to accomplish his purpose by agreeing to hand over to the beast their royal authority, until God's words are fulfilled.</verse>
       <verse osisID="Rev.17.18">The woman you saw is the great city that rules over the kings of the earth."</verse>
-      <chapter eID="Rev.17"/>
-      <chapter osisID="Rev.18" sID="Rev.18"/>
+      <chapter eID="Rev.17" />
+      <chapter osisID="Rev.18" sID="Rev.18" />
       <title type="main">Lament Over Fallen Babylon</title>
       <verse osisID="Rev.18.1">After this I saw another angel coming down from heaven. He had great authority, and the earth was illuminated by his splendor.</verse>
       <verse osisID="Rev.18.2">With a mighty voice he shouted: "'Fallen! Fallen is Babylon the Great!' She has become a dwelling for demons and a haunt for every impure spirit, a haunt for every unclean bird, a haunt for every unclean and detestable animal.</verse>
@@ -406,8 +410,8 @@
       <verse osisID="Rev.18.22">The music of harpists and musicians, pipers and trumpeters, will never be heard in you again. No worker of any trade will ever be found in you again. The sound of a millstone will never be heard in you again.</verse>
       <verse osisID="Rev.18.23">The light of a lamp will never shine in you again. The voice of bridegroom and bride will never be heard in you again. Your merchants were the world's important people. By your magic spell all the nations were led astray.</verse>
       <verse osisID="Rev.18.24">In her was found the blood of prophets and of God's people, and of all who have been slaughtered on the earth."</verse>
-      <chapter eID="Rev.18"/>
-      <chapter osisID="Rev.19" sID="Rev.19"/>
+      <chapter eID="Rev.18" />
+      <chapter osisID="Rev.19" sID="Rev.19" />
       <title type="main">Threefold Hallelujah Over Babylon's Fall</title>
       <verse osisID="Rev.19.1">After this I heard what sounded like the roar of a great multitude in heaven shouting: "Hallelujah<note type="translation">Hallelujah means "Praise Yahweh" in Hebrew</note>! Salvation and glory and power belong to our God,</verse>
       <verse osisID="Rev.19.2">for true and just are his judgments. He has condemned the great prostitute who corrupted the earth by her adulteries. He has avenged on her the blood of his servants."</verse>
@@ -431,8 +435,8 @@
       <verse osisID="Rev.19.19">Then I saw the beast and the kings of the earth and their armies gathered together to wage war against the rider on the horse and his army.</verse>
       <verse osisID="Rev.19.20">But the beast was captured, and with it the false prophet who had performed the signs on its behalf. With these signs he had deluded those who had received the mark of the beast and worshiped its image. The two of them were thrown alive into the fiery lake of burning sulfur.</verse>
       <verse osisID="Rev.19.21">The rest were killed with the sword coming out of the mouth of the rider on the horse, and all the birds gorged themselves on their flesh.</verse>
-      <chapter eID="Rev.19"/>
-      <chapter osisID="Rev.20" sID="Rev.20"/>
+      <chapter eID="Rev.19" />
+      <chapter osisID="Rev.20" sID="Rev.20" />
       <title type="main">The Thousand Years</title>
       <verse osisID="Rev.20.1">And I saw an angel coming down out of heaven, having the key to the Abyss and holding in his hand a great chain.</verse>
       <verse osisID="Rev.20.2">He seized the dragon, that ancient serpent, who is the devil, or Satan, and bound him for a thousand years.</verse>
@@ -451,8 +455,8 @@
       <verse osisID="Rev.20.13">The sea gave up the dead that were in it, and death and Hades gave up the dead that were in them, and each person was judged according to what they had done.</verse>
       <verse osisID="Rev.20.14">Then death and Hades were thrown into the lake of fire. The lake of fire is the second death.</verse>
       <verse osisID="Rev.20.15">Anyone whose name was not found written in the book of life was thrown into the lake of fire.</verse>
-      <chapter eID="Rev.20"/>
-      <chapter osisID="Rev.21" sID="Rev.21"/>
+      <chapter eID="Rev.20" />
+      <chapter osisID="Rev.21" sID="Rev.21" />
       <title type="main">A New Heaven and a New Earth</title>
       <verse osisID="Rev.21.1">Then I saw "a new heaven and a new earth," for the first heaven and the first earth had passed away, and there was no longer any sea.</verse>
       <verse osisID="Rev.21.2">I saw the set apart city, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband.</verse>
@@ -482,8 +486,8 @@
       <verse osisID="Rev.21.25">On no day will its gates ever be shut, for there will be no night there.</verse>
       <verse osisID="Rev.21.26">The glory and honor of the nations will be brought into it.</verse>
       <verse osisID="Rev.21.27">Nothing impure will ever enter it, nor will anyone who does what is shameful or deceitful, but only those whose names are written in the Lamb's book of life.</verse>
-      <chapter eID="Rev.21"/>
-      <chapter osisID="Rev.22" sID="Rev.22"/>
+      <chapter eID="Rev.21" />
+      <chapter osisID="Rev.22" sID="Rev.22" />
       <title type="main">Eden Restored</title>
       <verse osisID="Rev.22.1">Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb</verse>
       <verse osisID="Rev.22.2">down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations.</verse>
@@ -508,7 +512,7 @@
       <verse osisID="Rev.22.19">And if anyone takes words away from this scroll of prophecy, God will take away from that person any share in the tree of life and in the set apart city, which are described in this scroll.</verse>
       <verse osisID="Rev.22.20">He who testifies to these things says, "Yes, I am coming soon." Amen. Come, Lord Jesus.</verse>
       <verse osisID="Rev.22.21">The grace of the Lord Jesus be with God's people. Amen.</verse>
-      <chapter eID="Rev.22"/>
+      <chapter eID="Rev.22" />
     </div>
   </osisText>
 </osis>

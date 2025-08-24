@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
@@ -7,9 +7,13 @@
         <p>Plain Meaning Bible - Matthew</p>
       </revisionDesc>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
-        <rights>Public Domain</rights>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -18,7 +22,7 @@
       <div type="introduction">
         <p>Matthew presents Jesus as the promised Messiah of Israel, demonstrating through extensive Old Testament quotations how Jesus fulfilled ancient prophecies. Written by the tax collector who became an apostle, this Gospel emphasizes Jesus' role as the long-awaited King of Israel and his teachings about the kingdom of heaven. Matthew shows how Jesus bridges the old covenant with the new, bringing salvation first to the Jewish people and then to all nations.</p>
       </div>
-      <chapter osisID="Matt.1" sID="Matt.1"/>
+      <chapter osisID="Matt.1" sID="Matt.1" />
       <title type="main">The Ancestry of Jesus Christ</title>
       <verse osisID="Matt.1.1">This is the record of the ancestry of Jesus Christ<note type="translation">The Greek word "Christ" means "Anointed One" or "Messiah"</note>, the son of David, the son of Abraham.</verse>
       <verse osisID="Matt.1.2">Abraham was the father of Isaac, Isaac was the father of Jacob, and Jacob was the father of Judah and his brothers.</verse>
@@ -46,8 +50,8 @@
       <verse osisID="Matt.1.23">"Look, the virgin will be pregnant and will give birth to a son, and they will call his name Immanuel," which is translated, "God with us."</verse>
       <verse osisID="Matt.1.24">When Joseph woke up from sleep, he did what the angel of the Lord commanded him and took his wife,</verse>
       <verse osisID="Matt.1.25">but he didn't have sexual relations with her until she gave birth to a son. And he named him Jesus.</verse>
-      <chapter eID="Matt.1"/>
-      <chapter osisID="Matt.2" sID="Matt.2"/>
+      <chapter eID="Matt.1" />
+      <chapter osisID="Matt.2" sID="Matt.2" />
       <title type="main">The Visit of the Wise Men</title>
       <verse osisID="Matt.2.1">After Jesus was born in Bethlehem of Judea in the days of King Herod, look, wise men<note type="translation">The Greek word "magoi" refers to astronomers or astrologers from the East</note> from the east came to Jerusalem,</verse>
       <verse osisID="Matt.2.2">saying, "Where is the one who has been born king of the Jews? For we saw his star in the east and have come to worship him."</verse>
@@ -75,8 +79,8 @@
       <verse osisID="Matt.2.21">So he got up, took the child and his mother, and entered the land of Israel.</verse>
       <verse osisID="Matt.2.22">But when he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there. And being warned in a dream, he withdrew to the region of Galilee.</verse>
       <verse osisID="Matt.2.23">And he went and lived in a city called Nazareth, so that what was spoken through the prophets might be fulfilled, that he would be called a Nazarene.</verse>
-      <chapter eID="Matt.2"/>
-      <chapter osisID="Matt.3" sID="Matt.3"/>
+      <chapter eID="Matt.2" />
+      <chapter osisID="Matt.3" sID="Matt.3" />
       <title type="main">John the Baptist Prepares the Way</title>
       <verse osisID="Matt.3.1">In those days John the Baptist came, preaching in the wilderness of Judea</verse>
       <verse osisID="Matt.3.2">and saying, "Change your minds<note type="translation">The Greek word "metanoeite" means to change one's mind or way of thinking</note>, for the kingdom of heaven has come near."</verse>
@@ -96,8 +100,8 @@
       <verse osisID="Matt.3.15">But Jesus answered him, "Let it be so now, for it is proper for us to fulfill all that is right." Then he consented.</verse>
       <verse osisID="Matt.3.16">When Jesus was baptized, immediately he went up from the water, and look, the heavens were opened, and he saw the Spirit of God descending like a dove and coming on him.</verse>
       <verse osisID="Matt.3.17">And look, a voice from the heavens said, "This is my beloved Son, with whom I am well pleased."</verse>
-      <chapter eID="Matt.3"/>
-      <chapter osisID="Matt.4" sID="Matt.4"/>
+      <chapter eID="Matt.3" />
+      <chapter osisID="Matt.4" sID="Matt.4" />
       <title type="main">The Temptation of Jesus</title>
       <verse osisID="Matt.4.1">Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.</verse>
       <verse osisID="Matt.4.2">And after fasting forty days and forty nights, he was hungry.</verse>
@@ -127,8 +131,8 @@
       <verse osisID="Matt.4.23">And he went throughout all Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every affliction among the people.</verse>
       <verse osisID="Matt.4.24">So his fame spread throughout all Syria, and they brought him all the sick, those afflicted with various diseases and pains, those oppressed by demons, those having seizures, and paralytics, and he healed them.</verse>
       <verse osisID="Matt.4.25">And great crowds followed him from Galilee and the Decapolis<note type="translation">The Decapolis was a group of ten Greek cities</note>, and from Jerusalem and Judea, and from beyond the Jordan.</verse>
-      <chapter eID="Matt.4"/>
-      <chapter osisID="Matt.5" sID="Matt.5"/>
+      <chapter eID="Matt.4" />
+      <chapter osisID="Matt.5" sID="Matt.5" />
       <title type="main">The Sermon on the Mount</title>
       <title type="sub">The Beatitudes</title>
       <verse osisID="Matt.5.1">When he saw the crowds, he went up on the mountain, and after he sat down, his disciples came to him.</verse>
@@ -187,8 +191,8 @@
       <verse osisID="Matt.5.46">If you love those who love you, what reward will you get? Are not even the tax collectors doing that?</verse>
       <verse osisID="Matt.5.47">And if you greet only your own people, what are you doing more than others? Do not even pagans do that?</verse>
       <verse osisID="Matt.5.48">Be perfect, therefore, as your heavenly Father is perfect.</verse>
-      <chapter eID="Matt.5"/>
-      <chapter osisID="Matt.6" sID="Matt.6"/>
+      <chapter eID="Matt.5" />
+      <chapter osisID="Matt.6" sID="Matt.6" />
       <title type="sub">Giving to the Needy</title>
       <verse osisID="Matt.6.1">"Be careful not to practice your acts of doing what's right in front of others to be seen by them. If you do, you will have no reward from your Father in heaven.</verse>
       <verse osisID="Matt.6.2">So when you give to the needy, do not announce it with trumpets, as the hypocrites do in the synagogues and on the streets, to be honored by others. Truly I tell you, they have received their reward in full.</verse>
@@ -228,8 +232,8 @@
       <verse osisID="Matt.6.32">For the pagans run after all these things, and your heavenly Father knows that you need them.</verse>
       <verse osisID="Matt.6.33">But seek first his kingdom and his way of doing what's right, and all these things will be given to you as well.</verse>
       <verse osisID="Matt.6.34">Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.</verse>
-      <chapter eID="Matt.6"/>
-      <chapter osisID="Matt.7" sID="Matt.7"/>
+      <chapter eID="Matt.6" />
+      <chapter osisID="Matt.7" sID="Matt.7" />
       <title type="sub">Judging Others</title>
       <verse osisID="Matt.7.1">"Do not judge, or you too will be judged.</verse>
       <verse osisID="Matt.7.2">For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you.</verse>
@@ -265,8 +269,8 @@
       <verse osisID="Matt.7.27">The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash."</verse>
       <verse osisID="Matt.7.28">When Jesus had finished saying these things, the crowds were amazed at his teaching,</verse>
       <verse osisID="Matt.7.29">because he taught as one who had authority, and not as their teachers of the law.</verse>
-      <chapter eID="Matt.7"/>
-      <chapter osisID="Matt.8" sID="Matt.8"/>
+      <chapter eID="Matt.7" />
+      <chapter osisID="Matt.8" sID="Matt.8" />
       <title type="main">Jesus Demonstrates His Authority</title>
       <title type="sub">Jesus Heals a Man with Leprosy</title>
       <verse osisID="Matt.8.1">When Jesus came down from the mountainside, large crowds followed him.</verse>
@@ -308,8 +312,8 @@
       <verse osisID="Matt.8.32">He said to them, "Go!" So they came out and went into the pigs, and the whole herd rushed down the steep bank into the lake and died in the water.</verse>
       <verse osisID="Matt.8.33">Those tending the pigs ran off, went into the town and reported all this, including what had happened to the demon-possessed men.</verse>
       <verse osisID="Matt.8.34">Then the whole town went out to meet Jesus. And when they saw him, they pleaded with him to leave their region.</verse>
-      <chapter eID="Matt.8"/>
-      <chapter osisID="Matt.9" sID="Matt.9"/>
+      <chapter eID="Matt.8" />
+      <chapter osisID="Matt.9" sID="Matt.9" />
       <title type="sub">Jesus Forgives and Heals a Paralyzed Man</title>
       <verse osisID="Matt.9.1">Jesus stepped into a boat, crossed over and came to his own town.</verse>
       <verse osisID="Matt.9.2">Some men brought to him a paralyzed man, lying on a mat. When Jesus saw their faith, he said to the man, "Take heart, son; your sins are forgiven."</verse>
@@ -354,8 +358,8 @@
       <verse osisID="Matt.9.36">When he saw the crowds, he had compassion on them, because they were harassed and helpless, like sheep without a shepherd.</verse>
       <verse osisID="Matt.9.37">Then he said to his disciples, "The harvest is plentiful but the workers are few.</verse>
       <verse osisID="Matt.9.38">Ask the Lord of the harvest, therefore, to send out workers into his harvest field."</verse>
-      <chapter eID="Matt.9"/>
-      <chapter osisID="Matt.10" sID="Matt.10"/>
+      <chapter eID="Matt.9" />
+      <chapter osisID="Matt.10" sID="Matt.10" />
       <title type="main">Jesus Sends Out the Twelve</title>
       <verse osisID="Matt.10.1">Jesus called his twelve disciples to him and gave them authority to drive out impure spirits and to heal every disease and sickness.</verse>
       <verse osisID="Matt.10.2">These are the names of the twelve apostles: first, Simon (who is called Peter) and his brother Andrew; James son of Zebedee, and his brother John;</verse>
@@ -399,8 +403,8 @@
       <verse osisID="Matt.10.40">"Anyone who welcomes you welcomes me, and anyone who welcomes me welcomes the one who sent me.</verse>
       <verse osisID="Matt.10.41">Whoever welcomes a prophet as a prophet will receive a prophet's reward, and whoever welcomes someone who does what's right<note type="translation">The Greek word "dikaios" means righteous or one who does what's right</note> as such will receive the reward of one who does what's right.</verse>
       <verse osisID="Matt.10.42">And if anyone gives even a cup of cold water to one of these little ones who is my disciple, truly I tell you, that person will certainly not lose their reward."</verse>
-      <chapter eID="Matt.10"/>
-      <chapter osisID="Matt.11" sID="Matt.11"/>
+      <chapter eID="Matt.10" />
+      <chapter osisID="Matt.11" sID="Matt.11" />
       <title type="sub">Jesus and John the Baptist</title>
       <verse osisID="Matt.11.1">After Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in the towns of Galilee.</verse>
       <verse osisID="Matt.11.2">When John, who was in prison, heard about the deeds of the Messiah, he sent his disciples</verse>
@@ -434,8 +438,8 @@
       <verse osisID="Matt.11.28">"Come to me, all you who are weary and burdened, and I will give you rest.</verse>
       <verse osisID="Matt.11.29">Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.</verse>
       <verse osisID="Matt.11.30">For my yoke is easy and my burden is light."</verse>
-      <chapter eID="Matt.11"/>
-      <chapter osisID="Matt.12" sID="Matt.12"/>
+      <chapter eID="Matt.11" />
+      <chapter osisID="Matt.12" sID="Matt.12" />
       <title type="sub">Jesus Is Lord of the Sabbath</title>
       <verse osisID="Matt.12.1">At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick some heads of grain and eat them.</verse>
       <verse osisID="Matt.12.2">When the Pharisees saw this, they said to him, "Look! Your disciples are doing what is unlawful on the Sabbath."</verse>
@@ -491,8 +495,8 @@
       <verse osisID="Matt.12.48">He replied to him, "Who is my mother, and who are my brothers?"</verse>
       <verse osisID="Matt.12.49">Pointing to his disciples, he said, "Here are my mother and my brothers.</verse>
       <verse osisID="Matt.12.50">For whoever does the will of my Father in heaven is my brother and sister and mother."</verse>
-      <chapter eID="Matt.12"/>
-      <chapter osisID="Matt.13" sID="Matt.13"/>
+      <chapter eID="Matt.12" />
+      <chapter osisID="Matt.13" sID="Matt.13" />
       <title type="main">The Parables of the Kingdom</title>
       <title type="sub">The Parable of the Sower</title>
       <verse osisID="Matt.13.1">On that day Jesus went out of the house and sat by the lake.</verse>
@@ -560,8 +564,8 @@
       <verse osisID="Matt.13.56">Aren't all his sisters with us? Where then did this man get all these things?"</verse>
       <verse osisID="Matt.13.57">And they took offense at him. But Jesus said to them, "A prophet is not without honor except in his own town and in his own home."</verse>
       <verse osisID="Matt.13.58">And he did not do many miracles there because of their lack of faith.</verse>
-      <chapter eID="Matt.13"/>
-      <chapter osisID="Matt.14" sID="Matt.14"/>
+      <chapter eID="Matt.13" />
+      <chapter osisID="Matt.14" sID="Matt.14" />
       <title type="main">John the Baptist Beheaded</title>
       <verse osisID="Matt.14.1">At that time Herod the tetrarch heard the reports about Jesus,</verse>
       <verse osisID="Matt.14.2">and he said to his attendants, "This is John the Baptist; he has risen from the dead! That is why miraculous powers are at work in him."</verse>
@@ -601,8 +605,8 @@
       <verse osisID="Matt.14.34">When they had crossed over, they landed at Gennesaret.</verse>
       <verse osisID="Matt.14.35">And when the men of that place recognized Jesus, they sent word to all the surrounding country. People brought all their sick to him</verse>
       <verse osisID="Matt.14.36">and begged him to let the sick just touch the edge of his cloak, and all who touched it were healed.</verse>
-      <chapter eID="Matt.14"/>
-      <chapter osisID="Matt.15" sID="Matt.15"/>
+      <chapter eID="Matt.14" />
+      <chapter osisID="Matt.15" sID="Matt.15" />
       <title type="main">That Which Defiles</title>
       <verse osisID="Matt.15.1">Then some Pharisees and teachers of the law came to Jesus from Jerusalem and asked,</verse>
       <verse osisID="Matt.15.2">"Why do your disciples break the tradition of the elders? They don't wash their hands before they eat!"</verse>
@@ -645,8 +649,8 @@
       <verse osisID="Matt.15.37">They all ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.</verse>
       <verse osisID="Matt.15.38">The number of those who ate was four thousand men, besides women and children.</verse>
       <verse osisID="Matt.15.39">After Jesus had sent the crowd away, he got into the boat and went to the vicinity of Magadan.</verse>
-      <chapter eID="Matt.15"/>
-      <chapter osisID="Matt.16" sID="Matt.16"/>
+      <chapter eID="Matt.15" />
+      <chapter osisID="Matt.16" sID="Matt.16" />
       <title type="main">The Demand for a Sign</title>
       <verse osisID="Matt.16.1">The Pharisees and Sadducees came to Jesus and tested him by asking him to show them a sign from heaven.</verse>
       <verse osisID="Matt.16.2">He replied, "When evening comes, you say, 'It will be fair weather, for the sky is red,'</verse>
@@ -679,8 +683,8 @@
       <verse osisID="Matt.16.26">What good will it be for someone to gain the whole world, yet forfeit their soul? Or what can anyone give in exchange for their soul?</verse>
       <verse osisID="Matt.16.27">For the Son of Man is going to come in his Father's glory with his angels, and then he will reward each person according to what they have done.</verse>
       <verse osisID="Matt.16.28">Truly I tell you, some who are standing here will not taste death before they see the Son of Man coming in his kingdom."</verse>
-      <chapter eID="Matt.16"/>
-      <chapter osisID="Matt.17" sID="Matt.17"/>
+      <chapter eID="Matt.16" />
+      <chapter osisID="Matt.17" sID="Matt.17" />
       <title type="main">The Transfiguration</title>
       <verse osisID="Matt.17.1">After six days Jesus took with him Peter, James and John the brother of James, and led them up a high mountain by themselves.</verse>
       <verse osisID="Matt.17.2">There he was transfigured before them. His face shone like the sun, and his clothes became as white as the light.</verse>
@@ -711,8 +715,8 @@
       <verse osisID="Matt.17.25">"Yes, he does," he replied. When Peter came into the house, Jesus was the first to speak. "What do you think, Simon?" he asked. "From whom do the kings of the earth collect duty and taxes—from their own children or from others?"</verse>
       <verse osisID="Matt.17.26">"From others," Peter answered. "Then the children are exempt," Jesus said to him.</verse>
       <verse osisID="Matt.17.27">"But so that we may not cause offense, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours."</verse>
-      <chapter eID="Matt.17"/>
-      <chapter osisID="Matt.18" sID="Matt.18"/>
+      <chapter eID="Matt.17" />
+      <chapter osisID="Matt.18" sID="Matt.18" />
       <title type="main">The Greatest in the Kingdom of Heaven</title>
       <verse osisID="Matt.18.1">At that time the disciples came to Jesus and asked, "Who, then, is the greatest in the kingdom of heaven?"</verse>
       <verse osisID="Matt.18.2">He called a little child to him, and placed the child among them.</verse>
@@ -752,8 +756,8 @@
       <verse osisID="Matt.18.33">Shouldn't you have had mercy on your fellow servant just as I had on you?'</verse>
       <verse osisID="Matt.18.34">In anger his master handed him over to the jailers to be tortured, until he should pay back all he owed.</verse>
       <verse osisID="Matt.18.35">"This is how my heavenly Father will treat each of you unless you forgive your brother or sister from your heart."</verse>
-      <chapter eID="Matt.18"/>
-      <chapter osisID="Matt.19" sID="Matt.19"/>
+      <chapter eID="Matt.18" />
+      <chapter osisID="Matt.19" sID="Matt.19" />
       <title type="main">Divorce</title>
       <verse osisID="Matt.19.1">When Jesus had finished saying these things, he left Galilee and went into the region of Judea to the other side of the Jordan.</verse>
       <verse osisID="Matt.19.2">Large crowds followed him, and he healed them there.</verse>
@@ -787,8 +791,8 @@
       <verse osisID="Matt.19.28">Jesus said to them, "Truly I tell you, at the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel.</verse>
       <verse osisID="Matt.19.29">And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for my sake will receive a hundred times as much and will inherit eternal life.</verse>
       <verse osisID="Matt.19.30">But many who are first will be last, and many who are last will be first.</verse>
-      <chapter eID="Matt.19"/>
-      <chapter osisID="Matt.20" sID="Matt.20"/>
+      <chapter eID="Matt.19" />
+      <chapter osisID="Matt.20" sID="Matt.20" />
       <title type="main">The Parable of the Workers in the Vineyard</title>
       <verse osisID="Matt.20.1">"For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard.</verse>
       <verse osisID="Matt.20.2">He agreed to pay them a denarius<note type="translation">A denarius was a day's wage for a laborer</note> for the day and sent them into his vineyard.</verse>
@@ -827,8 +831,8 @@
       <verse osisID="Matt.20.32">Jesus stopped and called them. "What do you want me to do for you?" he asked.</verse>
       <verse osisID="Matt.20.33">"Lord," they answered, "we want our sight."</verse>
       <verse osisID="Matt.20.34">Jesus had compassion on them and touched their eyes. Immediately they received their sight and followed him.</verse>
-      <chapter eID="Matt.20"/>
-      <chapter osisID="Matt.21" sID="Matt.21"/>
+      <chapter eID="Matt.20" />
+      <chapter osisID="Matt.21" sID="Matt.21" />
       <title type="main">The Triumphal Entry</title>
       <verse osisID="Matt.21.1">When they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples,</verse>
       <verse osisID="Matt.21.2">saying to them, "Go to the village ahead of you, and immediately you will find a donkey tied there, with her colt by her. Untie them and bring them to me.</verse>
@@ -881,8 +885,8 @@
       <verse osisID="Matt.21.44">Anyone who falls on this stone will be broken to pieces; anyone on whom it falls will be crushed."</verse>
       <verse osisID="Matt.21.45">When the chief priests and the Pharisees heard Jesus' parables, they knew he was talking about them.</verse>
       <verse osisID="Matt.21.46">They looked for a way to arrest him, but they were afraid of the crowd because the people held that he was a prophet.</verse>
-      <chapter eID="Matt.21"/>
-      <chapter osisID="Matt.22" sID="Matt.22"/>
+      <chapter eID="Matt.21" />
+      <chapter osisID="Matt.22" sID="Matt.22" />
       <title type="main">The Parable of the Wedding Banquet</title>
       <verse osisID="Matt.22.1">Jesus spoke to them again in parables, saying:</verse>
       <verse osisID="Matt.22.2">"The kingdom of heaven is like a king who prepared a wedding banquet for his son.</verse>
@@ -934,8 +938,8 @@
       <verse osisID="Matt.22.44">"'The Lord said to my Lord: "Sit at my right hand until I put your enemies under your feet."'</verse>
       <verse osisID="Matt.22.45">If then David calls him 'Lord,' how can he be his son?"</verse>
       <verse osisID="Matt.22.46">No one could say a word in reply, and from that day on no one dared to ask him any more questions.</verse>
-      <chapter eID="Matt.22"/>
-      <chapter osisID="Matt.23" sID="Matt.23"/>
+      <chapter eID="Matt.22" />
+      <chapter osisID="Matt.23" sID="Matt.23" />
       <title type="main">A Warning Against Hypocrisy</title>
       <verse osisID="Matt.23.1">Then Jesus said to the crowds and to his disciples:</verse>
       <verse osisID="Matt.23.2">"The teachers of the law and the Pharisees sit in Moses' seat.</verse>
@@ -977,8 +981,8 @@
       <verse osisID="Matt.23.37">"Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.</verse>
       <verse osisID="Matt.23.38">Look, your house is left to you desolate.</verse>
       <verse osisID="Matt.23.39">For I tell you, you will not see me again until you say, 'Blessed is he who comes in the name of the Lord.'"</verse>
-      <chapter eID="Matt.23"/>
-      <chapter osisID="Matt.24" sID="Matt.24"/>
+      <chapter eID="Matt.23" />
+      <chapter osisID="Matt.24" sID="Matt.24" />
       <title type="main">The Destruction of the Temple and Signs of the End Times</title>
       <verse osisID="Matt.24.1">Jesus left the temple and was walking away when his disciples came up to him to call his attention to its buildings.</verse>
       <verse osisID="Matt.24.2">"Do you see all these things?" he asked. "Truly I tell you, not one stone here will be left on another; every one will be thrown down."</verse>
@@ -1032,8 +1036,8 @@
       <verse osisID="Matt.24.49">and he then begins to beat his fellow servants and to eat and drink with drunkards.</verse>
       <verse osisID="Matt.24.50">The master of that servant will come on a day when he does not expect him and at an hour he is not aware of.</verse>
       <verse osisID="Matt.24.51">He will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.</verse>
-      <chapter eID="Matt.24"/>
-      <chapter osisID="Matt.25" sID="Matt.25"/>
+      <chapter eID="Matt.24" />
+      <chapter osisID="Matt.25" sID="Matt.25" />
       <title type="main">The Parable of the Ten Virgins</title>
       <verse osisID="Matt.25.1">"At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.</verse>
       <verse osisID="Matt.25.2">Five of them were foolish and five were wise.</verse>
@@ -1083,8 +1087,8 @@
       <verse osisID="Matt.25.44">"They also will answer, 'Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?'</verse>
       <verse osisID="Matt.25.45">"He will reply, 'Truly I tell you, whatever you did not do for one of the least of these, you did not do for me.'</verse>
       <verse osisID="Matt.25.46">"Then they will go away to eternal punishment, but those who lived rightly to eternal life."</verse>
-      <chapter eID="Matt.25"/>
-      <chapter osisID="Matt.26" sID="Matt.26"/>
+      <chapter eID="Matt.25" />
+      <chapter osisID="Matt.26" sID="Matt.26" />
       <title type="main">The Plot Against Jesus</title>
       <verse osisID="Matt.26.1">When Jesus had finished saying all these things, he said to his disciples,</verse>
       <verse osisID="Matt.26.2">"As you know, the Passover is two days away—and the Son of Man will be handed over to be crucified."</verse>
@@ -1169,8 +1173,8 @@
       <verse osisID="Matt.26.73">After a little while, those standing there went up to Peter and said, "Surely you are one of them; your accent gives you away."</verse>
       <verse osisID="Matt.26.74">Then he began to call down curses, and he swore to them, "I don't know the man!" Immediately a rooster crowed.</verse>
       <verse osisID="Matt.26.75">Then Peter remembered the word Jesus had spoken: "Before the rooster crows, you will disown me three times." And he went outside and wept bitterly.</verse>
-      <chapter eID="Matt.26"/>
-      <chapter osisID="Matt.27" sID="Matt.27"/>
+      <chapter eID="Matt.26" />
+      <chapter osisID="Matt.27" sID="Matt.27" />
       <title type="main">Judas Hangs Himself</title>
       <verse osisID="Matt.27.1">Early in the morning, all the chief priests and the elders of the people made their plans to have Jesus executed.</verse>
       <verse osisID="Matt.27.2">So they bound him, led him away and handed him over to Pilate the governor.</verse>
@@ -1244,8 +1248,8 @@
       <verse osisID="Matt.27.64">So give the order for the tomb to be made secure until the third day. Otherwise, his disciples may come and steal the body and tell the people that he has been raised from the dead. This last deception will be worse than the first."</verse>
       <verse osisID="Matt.27.65">"Take a guard," Pilate answered. "Go, make the tomb as secure as you know how."</verse>
       <verse osisID="Matt.27.66">So they went and made the tomb secure by putting a seal on the stone and posting the guard.</verse>
-      <chapter eID="Matt.27"/>
-      <chapter osisID="Matt.28" sID="Matt.28"/>
+      <chapter eID="Matt.27" />
+      <chapter osisID="Matt.28" sID="Matt.28" />
       <title type="main">Jesus Has Risen</title>
       <verse osisID="Matt.28.1">After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.</verse>
       <verse osisID="Matt.28.2">There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it.</verse>
@@ -1269,7 +1273,7 @@
       <verse osisID="Matt.28.18">Then Jesus came to them and said, "All authority in heaven and on earth has been given to me.</verse>
       <verse osisID="Matt.28.19">Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,</verse>
       <verse osisID="Matt.28.20">and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age."</verse>
-      <chapter eID="Matt.28"/>
+      <chapter eID="Matt.28" />
     </div>
   </osisText>
 </osis>

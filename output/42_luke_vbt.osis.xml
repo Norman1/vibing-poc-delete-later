@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
@@ -7,9 +7,13 @@
         <p>Plain Meaning Bible - Luke</p>
       </revisionDesc>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
-        <rights>Public Domain</rights>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
       </work>
     </header>
@@ -18,7 +22,7 @@
       <div type="introduction">
         <p>Luke provides the most detailed and historically precise account of Jesus' life, written by a physician who carefully investigated eyewitness reports. This Gospel emphasizes Jesus' compassion for outcasts, women, children, and the poor, showing how God's salvation extends to all people regardless of social status. Luke presents Jesus as the perfect human being who came to seek and save the lost, offering hope and healing to everyone who believes.</p>
       </div>
-      <chapter osisID="Luke.1" sID="Luke.1"/>
+      <chapter osisID="Luke.1" sID="Luke.1" />
       <title type="main">Introduction</title>
       <verse osisID="Luke.1.1">Many have undertaken to draw up an account of the things that have been fulfilled among us,</verse>
       <verse osisID="Luke.1.2">just as they were handed down to us by those who from the first were eyewitnesses and servants of the word.</verse>
@@ -106,8 +110,8 @@
       <verse osisID="Luke.1.78">because of the tender mercy of our God, by which the rising sun will come to us from heaven</verse>
       <verse osisID="Luke.1.79">to shine on those living in darkness and in the shadow of death, to guide our feet into the path of peace."</verse>
       <verse osisID="Luke.1.80">And the child grew and became strong in spirit; and he lived in the wilderness until he appeared publicly to Israel.</verse>
-      <chapter eID="Luke.1"/>
-      <chapter osisID="Luke.2" sID="Luke.2"/>
+      <chapter eID="Luke.1" />
+      <chapter osisID="Luke.2" sID="Luke.2" />
       <title type="main">The Birth of Jesus</title>
       <verse osisID="Luke.2.1">In those days Caesar Augustus issued a decree that a census should be taken of the entire Roman world.</verse>
       <verse osisID="Luke.2.2">(This was the first census that took place while Quirinius was governor of Syria.)</verse>
@@ -164,8 +168,8 @@
       <verse osisID="Luke.2.50">But they did not understand what he was saying to them.</verse>
       <verse osisID="Luke.2.51">Then he went down to Nazareth with them and was obedient to them. But his mother treasured all these things in her heart.</verse>
       <verse osisID="Luke.2.52">And Jesus grew in wisdom and stature, and in favor with God and man.</verse>
-      <chapter eID="Luke.2"/>
-      <chapter osisID="Luke.3" sID="Luke.3"/>
+      <chapter eID="Luke.2" />
+      <chapter osisID="Luke.3" sID="Luke.3" />
       <title type="main">John the Baptist Prepares the Way</title>
       <verse osisID="Luke.3.1">In the fifteenth year of the reign of Tiberius Caesar—when Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Iturea and Traconitis, and Lysanias tetrarch of Abilene—</verse>
       <verse osisID="Luke.3.2">during the high-priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness.</verse>
@@ -209,8 +213,8 @@
       <verse osisID="Luke.3.36">the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,</verse>
       <verse osisID="Luke.3.37">the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Kenan,</verse>
       <verse osisID="Luke.3.38">the son of Enosh, the son of Seth, the son of Adam, the son of God.</verse>
-      <chapter eID="Luke.3"/>
-      <chapter osisID="Luke.4" sID="Luke.4"/>
+      <chapter eID="Luke.3" />
+      <chapter osisID="Luke.4" sID="Luke.4" />
       <title type="main">Jesus Tested in the Wilderness</title>
       <verse osisID="Luke.4.1">Jesus, full of the Holy Spirit, left the Jordan and was led by the Spirit into the wilderness,</verse>
       <verse osisID="Luke.4.2">where for forty days he was tempted by the devil. He ate nothing during those days, and at the end of them he was hungry.</verse>
@@ -260,8 +264,8 @@
       <verse osisID="Luke.4.42">At daybreak, Jesus went out to a solitary place. The people were looking for him and when they came to where he was, they tried to keep him from leaving them.</verse>
       <verse osisID="Luke.4.43">But he said, "I must proclaim the good news of the kingdom of God to the other towns also, because that is why I was sent."</verse>
       <verse osisID="Luke.4.44">And he kept on preaching in the synagogues of Judea.</verse>
-      <chapter eID="Luke.4"/>
-      <chapter osisID="Luke.5" sID="Luke.5"/>
+      <chapter eID="Luke.4" />
+      <chapter osisID="Luke.5" sID="Luke.5" />
       <title type="main">Jesus Calls His First Disciples</title>
       <verse osisID="Luke.5.1">One day as Jesus was standing by the Lake of Gennesaret, the people were crowding around him and listening to the word of God.</verse>
       <verse osisID="Luke.5.2">He saw at the water's edge two boats, left there by the fishermen, who were washing their nets.</verse>
@@ -306,8 +310,8 @@
       <verse osisID="Luke.5.37">And no one pours new wine into old wineskins. Otherwise, the new wine will burst the skins; the wine will run out and the wineskins will be ruined.</verse>
       <verse osisID="Luke.5.38">No, new wine must be poured into new wineskins.</verse>
       <verse osisID="Luke.5.39">And no one after drinking old wine wants the new, for they say, 'The old is better.'"</verse>
-      <chapter eID="Luke.5"/>
-      <chapter osisID="Luke.6" sID="Luke.6"/>
+      <chapter eID="Luke.5" />
+      <chapter osisID="Luke.6" sID="Luke.6" />
       <title type="main">Jesus Is Lord of the Sabbath</title>
       <verse osisID="Luke.6.1">One Sabbath Jesus was going through the grainfields, and his disciples began to pick some heads of grain, rub them in their hands and eat the kernels.</verse>
       <verse osisID="Luke.6.2">Some of the Pharisees asked, "Why are you doing what is unlawful on the Sabbath?"</verse>
@@ -364,8 +368,8 @@
       <verse osisID="Luke.6.47">As for everyone who comes to me and hears my words and puts them into practice, I will show you what they are like.</verse>
       <verse osisID="Luke.6.48">They are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built.</verse>
       <verse osisID="Luke.6.49">But the one who hears my words and does not put them into practice is like a man who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete."</verse>
-      <chapter eID="Luke.6"/>
-      <chapter osisID="Luke.7" sID="Luke.7"/>
+      <chapter eID="Luke.6" />
+      <chapter osisID="Luke.7" sID="Luke.7" />
       <title type="main">Jesus Heals a Centurion's Servant</title>
       <verse osisID="Luke.7.1">When Jesus had finished saying all this to the people, he entered Capernaum.</verse>
       <verse osisID="Luke.7.2">A centurion's servant, who was dear to him, was sick and about to die.</verse>
@@ -421,8 +425,8 @@
       <verse osisID="Luke.7.48">Then Jesus said to her, "Your sins are forgiven."</verse>
       <verse osisID="Luke.7.49">The other guests began to say among themselves, "Who is this who even forgives sins?"</verse>
       <verse osisID="Luke.7.50">Jesus said to the woman, "Your faith has saved you; go in peace."</verse>
-      <chapter eID="Luke.7"/>
-      <chapter osisID="Luke.8" sID="Luke.8"/>
+      <chapter eID="Luke.7" />
+      <chapter osisID="Luke.8" sID="Luke.8" />
       <title type="main">The Parable of the Sower</title>
       <verse osisID="Luke.8.1">After this, Jesus traveled about from one town and village to another, proclaiming the good news of the kingdom of God. The Twelve were with him,</verse>
       <verse osisID="Luke.8.2">and also some women who had been cured of evil spirits and diseases: Mary (called Magdalene) from whom seven demons had come out;</verse>
@@ -485,8 +489,8 @@
       <verse osisID="Luke.8.54">But he took her by the hand and said, "My child, get up!"</verse>
       <verse osisID="Luke.8.55">Her spirit returned, and at once she stood up. Then Jesus told them to give her something to eat.</verse>
       <verse osisID="Luke.8.56">Her parents were astonished, but he ordered them not to tell anyone what had happened.</verse>
-      <chapter eID="Luke.8"/>
-      <chapter osisID="Luke.9" sID="Luke.9"/>
+      <chapter eID="Luke.8" />
+      <chapter osisID="Luke.9" sID="Luke.9" />
       <title type="main">Jesus Sends Out the Twelve</title>
       <verse osisID="Luke.9.1">When Jesus had called the Twelve together, he gave them power and authority to drive out all demons and to cure diseases,</verse>
       <verse osisID="Luke.9.2">and he sent them out to proclaim the kingdom of God and to heal the sick.</verse>
@@ -558,8 +562,8 @@
       <verse osisID="Luke.9.60">Jesus said to him, "Let the dead bury their own dead, but you go and proclaim the kingdom of God."</verse>
       <verse osisID="Luke.9.61">Still another said, "I will follow you, Lord; but first let me go back and say goodbye to my family."</verse>
       <verse osisID="Luke.9.62">Jesus replied, "No one who puts a hand to the plow and looks back is fit for service in the kingdom of God."</verse>
-      <chapter eID="Luke.9"/>
-      <chapter osisID="Luke.10" sID="Luke.10"/>
+      <chapter eID="Luke.9" />
+      <chapter osisID="Luke.10" sID="Luke.10" />
       <title type="main">Jesus Sends Out the Seventy-Two</title>
       <verse osisID="Luke.10.1">After this the Lord appointed seventy-two others and sent them two by two ahead of him to every town and place where he was about to go.</verse>
       <verse osisID="Luke.10.2">He told them, "The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into his harvest field.</verse>
@@ -605,8 +609,8 @@
       <verse osisID="Luke.10.40">But Martha was distracted by all the preparations that had to be made. She came to him and asked, "Lord, don't you care that my sister has left me to do the work by myself? Tell her to help me!"</verse>
       <verse osisID="Luke.10.41">"Martha, Martha," the Lord answered, "you are worried and upset about many things,</verse>
       <verse osisID="Luke.10.42">but few things are needed—or indeed only one. Mary has chosen what is better, and it will not be taken away from her."</verse>
-      <chapter eID="Luke.10"/>
-      <chapter osisID="Luke.11" sID="Luke.11"/>
+      <chapter eID="Luke.10" />
+      <chapter osisID="Luke.11" sID="Luke.11" />
       <title type="main">Jesus' Teaching on Prayer</title>
       <verse osisID="Luke.11.1">One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, "Lord, teach us to pray, just as John taught his disciples."</verse>
       <verse osisID="Luke.11.2">He said to them, "When you pray, say: 'Father, set apart your name as special. May your kingdom come.</verse>
@@ -666,8 +670,8 @@
       <verse osisID="Luke.11.52">Terrible sorrow to you experts in the law, because you have taken away the key to knowledge. You yourselves have not entered, and you have hindered those who were entering."</verse>
       <verse osisID="Luke.11.53">When Jesus went outside, the Pharisees and the teachers of the law began to oppose him fiercely and to besiege him with questions,</verse>
       <verse osisID="Luke.11.54">waiting to catch him in something he might say.</verse>
-      <chapter eID="Luke.11"/>
-      <chapter osisID="Luke.12" sID="Luke.12"/>
+      <chapter eID="Luke.11" />
+      <chapter osisID="Luke.12" sID="Luke.12" />
       <title type="main">Warnings and Encouragements</title>
       <verse osisID="Luke.12.1">Meanwhile, when a crowd of many thousands had gathered, so that they were trampling on one another, Jesus began to speak first to his disciples, saying: "Be on your guard against the yeast of the Pharisees, which is hypocrisy.</verse>
       <verse osisID="Luke.12.2">There is nothing concealed that will not be disclosed, or hidden that will not be made known.</verse>
@@ -733,8 +737,8 @@
       <verse osisID="Luke.12.57">Why don't you judge for yourselves what is right?</verse>
       <verse osisID="Luke.12.58">As you are going with your adversary to the magistrate, try hard to be reconciled on the way, or your adversary may drag you off to the judge, and the judge turn you over to the officer, and the officer throw you into prison.</verse>
       <verse osisID="Luke.12.59">I tell you, you will not get out until you have paid the last penny."</verse>
-      <chapter eID="Luke.12"/>
-      <chapter osisID="Luke.13" sID="Luke.13"/>
+      <chapter eID="Luke.12" />
+      <chapter osisID="Luke.13" sID="Luke.13" />
       <title type="main">Change Your Mind or Perish</title>
       <verse osisID="Luke.13.1">Now there were some present at that time who told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.</verse>
       <verse osisID="Luke.13.2">Jesus answered, "Do you think that these Galileans were worse sinners than all the other Galileans because they suffered this way?</verse>
@@ -775,8 +779,8 @@
       <verse osisID="Luke.13.33">In any case, I must press on today and tomorrow and the next day—for surely no prophet can die outside Jerusalem!</verse>
       <verse osisID="Luke.13.34">Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.</verse>
       <verse osisID="Luke.13.35">Look, your house is left to you desolate. I tell you, you will not see me again until you say, 'Blessed is he who comes in the name of the Lord.'"</verse>
-      <chapter eID="Luke.13"/>
-      <chapter osisID="Luke.14" sID="Luke.14"/>
+      <chapter eID="Luke.13" />
+      <chapter osisID="Luke.14" sID="Luke.14" />
       <title type="main">Jesus at a Pharisee's House</title>
       <verse osisID="Luke.14.1">One Sabbath, when Jesus went to eat in the house of a prominent Pharisee, he was being carefully watched.</verse>
       <verse osisID="Luke.14.2">There in front of him was a man suffering from abnormal swelling of his body.</verse>
@@ -815,8 +819,8 @@
       <verse osisID="Luke.14.33">In the same way, those of you who do not give up everything you have cannot be my disciples.</verse>
       <verse osisID="Luke.14.34">Salt is good, but if it loses its saltiness, how can it be made salty again?</verse>
       <verse osisID="Luke.14.35">It is fit neither for the soil nor for the manure pile; it is thrown out. Whoever has ears to hear, let them hear."</verse>
-      <chapter eID="Luke.14"/>
-      <chapter osisID="Luke.15" sID="Luke.15"/>
+      <chapter eID="Luke.14" />
+      <chapter osisID="Luke.15" sID="Luke.15" />
       <title type="main">The Parable of the Lost Sheep</title>
       <verse osisID="Luke.15.1">Now the tax collectors and sinners were all gathering around to hear Jesus.</verse>
       <verse osisID="Luke.15.2">But the Pharisees and the teachers of the law muttered, "This man welcomes sinners and eats with them."</verse>
@@ -852,9 +856,9 @@
       <verse osisID="Luke.15.30">But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!'</verse>
       <verse osisID="Luke.15.31">'My son,' the father said, 'you are always with me, and everything I have is yours.</verse>
       <verse osisID="Luke.15.32">But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.'"</verse>
-      <chapter eID="Luke.15"/>
+      <chapter eID="Luke.15" />
       
-      <chapter osisID="Luke.16" sID="Luke.16"/>
+      <chapter osisID="Luke.16" sID="Luke.16" />
       <title type="main">The Dishonest Manager</title>
       <verse osisID="Luke.16.1">Jesus also said to his disciples: "There was a rich man whose manager was accused of wasting his possessions.</verse>
       <verse osisID="Luke.16.2">So he called him in and asked him, 'What is this I hear about you? Give an account of your management, because you cannot be manager any longer.'</verse>
@@ -895,9 +899,9 @@
       <verse osisID="Luke.16.29">Abraham replied, 'They have Moses and the Prophets; let them listen to them.'</verse>
       <verse osisID="Luke.16.30">'No, father Abraham,' he said, 'but if someone from the dead goes to them, they will change their minds.'</verse>
       <verse osisID="Luke.16.31">He said to him, 'If they do not listen to Moses and the Prophets, they will not be convinced even if someone rises from the dead.'"</verse>
-      <chapter eID="Luke.16"/>
+      <chapter eID="Luke.16" />
       
-      <chapter osisID="Luke.17" sID="Luke.17"/>
+      <chapter osisID="Luke.17" sID="Luke.17" />
       <title type="main">Sin, Faith, and Duty</title>
       <verse osisID="Luke.17.1">Jesus said to his disciples: "Things that cause people to stumble are bound to come, but terrible sorrow awaits anyone who causes them to come!</verse>
       <verse osisID="Luke.17.2">It would be better for them to be thrown into the sea with a millstone tied around their neck than to cause one of these little ones to stumble.</verse>
@@ -939,9 +943,9 @@
       <verse osisID="Luke.17.34">I tell you, on that night two people will be in one bed; one will be taken and the other left.</verse>
       <verse osisID="Luke.17.35">Two women will be grinding grain together; one will be taken and the other left."</verse>
       <verse osisID="Luke.17.37">"Where, Lord?" they asked. He replied, "Where there is a dead body, there the vultures will gather."</verse>
-      <chapter eID="Luke.17"/>
+      <chapter eID="Luke.17" />
       
-      <chapter osisID="Luke.18" sID="Luke.18"/>
+      <chapter osisID="Luke.18" sID="Luke.18" />
       <title type="main">The Parable of the Persistent Widow</title>
       <verse osisID="Luke.18.1">Then Jesus told his disciples a parable to show them that they should always pray and not give up.</verse>
       <verse osisID="Luke.18.2">He said: "In a certain town there was a judge who neither feared God nor cared what people thought.</verse>
@@ -996,9 +1000,9 @@
       <verse osisID="Luke.18.41">"What do you want me to do for you?" "Lord, I want to see," he replied.</verse>
       <verse osisID="Luke.18.42">Jesus said to him, "Receive your sight; your faith has healed you."</verse>
       <verse osisID="Luke.18.43">Immediately he received his sight and followed Jesus, praising God. When all the people saw it, they also praised God.</verse>
-      <chapter eID="Luke.18"/>
+      <chapter eID="Luke.18" />
       
-      <chapter osisID="Luke.19" sID="Luke.19"/>
+      <chapter osisID="Luke.19" sID="Luke.19" />
       <title type="main">Zacchaeus the Tax Collector</title>
       <verse osisID="Luke.19.1">Jesus entered Jericho and was passing through.</verse>
       <verse osisID="Luke.19.2">A man was there by the name of Zacchaeus; he was a chief tax collector and was wealthy.</verse>
@@ -1055,9 +1059,9 @@
       <verse osisID="Luke.19.46">"It is written," he said to them, "'My house will be a house of prayer'; but you have made it 'a den of robbers.'"</verse>
       <verse osisID="Luke.19.47">Every day he was teaching at the temple. But the chief priests, the teachers of the law and the leaders among the people were trying to kill him.</verse>
       <verse osisID="Luke.19.48">Yet they could not find any way to do it, because all the people hung on his words.</verse>
-      <chapter eID="Luke.19"/>
+      <chapter eID="Luke.19" />
       
-      <chapter osisID="Luke.20" sID="Luke.20"/>
+      <chapter osisID="Luke.20" sID="Luke.20" />
       <title type="main">The Authority of Jesus Questioned</title>
       <verse osisID="Luke.20.1">One day as Jesus was teaching the people in the temple courts and proclaiming the good news, the chief priests and the teachers of the law, together with the elders, came up to him.</verse>
       <verse osisID="Luke.20.2">"Tell us by what authority you are doing these things," they said. "Who gave you this authority?"</verse>
@@ -1117,9 +1121,9 @@
       <verse osisID="Luke.20.45">While all the people were listening, Jesus said to his disciples,</verse>
       <verse osisID="Luke.20.46">"Beware of the teachers of the law. They like to walk around in flowing robes and love to be greeted with respect in the marketplaces and have the most important seats in the synagogues and the places of honor at banquets.</verse>
       <verse osisID="Luke.20.47">They devour widows' houses and for a show make lengthy prayers. These men will be punished most severely."</verse>
-      <chapter eID="Luke.20"/>
+      <chapter eID="Luke.20" />
       
-      <chapter osisID="Luke.21" sID="Luke.21"/>
+      <chapter osisID="Luke.21" sID="Luke.21" />
       <title type="main">The Widow's Offering</title>
       <verse osisID="Luke.21.1">As Jesus looked up, he saw the rich putting their gifts into the temple treasury.</verse>
       <verse osisID="Luke.21.2">He also saw a poor widow put in two very small copper coins.</verse>
@@ -1165,9 +1169,9 @@
       <verse osisID="Luke.21.36">Be always on the watch, and pray that you may be able to escape all that is about to happen, and that you may be able to stand before the Son of Man."</verse>
       <verse osisID="Luke.21.37">Each day Jesus was teaching at the temple, and each evening he went out to spend the night on the hill called the Mount of Olives,</verse>
       <verse osisID="Luke.21.38">and all the people came early in the morning to hear him at the temple.</verse>
-      <chapter eID="Luke.21"/>
+      <chapter eID="Luke.21" />
       
-      <chapter osisID="Luke.22" sID="Luke.22"/>
+      <chapter osisID="Luke.22" sID="Luke.22" />
       <title type="main">Judas Agrees to Betray Jesus</title>
       <verse osisID="Luke.22.1">Now the Festival of Unleavened Bread, called the Passover, was approaching,</verse>
       <verse osisID="Luke.22.2">and the chief priests and the teachers of the law were looking for some way to get rid of Jesus, for they were afraid of the people.</verse>
@@ -1254,9 +1258,9 @@
       <verse osisID="Luke.22.69">But from now on, the Son of Man will be seated at the right hand of the mighty God."</verse>
       <verse osisID="Luke.22.70">They all asked, "Are you then the Son of God?" He replied, "You say that I am."</verse>
       <verse osisID="Luke.22.71">Then they said, "Why do we need any more testimony? We have heard it from his own lips."</verse>
-      <chapter eID="Luke.22"/>
+      <chapter eID="Luke.22" />
       
-      <chapter osisID="Luke.23" sID="Luke.23"/>
+      <chapter osisID="Luke.23" sID="Luke.23" />
       <title type="main">Jesus Before Pilate</title>
       <verse osisID="Luke.23.1">Then the whole assembly rose and led him off to Pilate.</verse>
       <verse osisID="Luke.23.2">And they began to accuse him, saying, "We have found this man subverting our nation. He opposes payment of taxes to Caesar and claims to be Messiah, a king."</verse>
@@ -1319,9 +1323,9 @@
       <verse osisID="Luke.23.54">It was Preparation Day, and the Sabbath was about to begin.</verse>
       <verse osisID="Luke.23.55">The women who had come with Jesus from Galilee followed Joseph and saw the tomb and how his body was laid in it.</verse>
       <verse osisID="Luke.23.56">Then they went home and prepared spices and perfumes. But they rested on the Sabbath in obedience to the commandment.</verse>
-      <chapter eID="Luke.23"/>
+      <chapter eID="Luke.23" />
       
-      <chapter osisID="Luke.24" sID="Luke.24"/>
+      <chapter osisID="Luke.24" sID="Luke.24" />
       <title type="main">Jesus Has Risen</title>
       <verse osisID="Luke.24.1">On the first day of the week, very early in the morning, the women took the spices they had prepared and went to the tomb.</verse>
       <verse osisID="Luke.24.2">They found the stone rolled away from the tomb,</verse>
@@ -1379,7 +1383,7 @@
       <verse osisID="Luke.24.51">While he was blessing them, he left them and was taken up into heaven.</verse>
       <verse osisID="Luke.24.52">Then they worshiped him and returned to Jerusalem with great joy.</verse>
       <verse osisID="Luke.24.53">And they stayed continually at the temple, praising God.</verse>
-      <chapter eID="Luke.24"/>
+      <chapter eID="Luke.24" />
     </div>
   </osisText>
 </osis>

@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     
@@ -19,7 +20,7 @@
         <p>Paul wrote to Titus, who was overseeing the churches on the island of Crete, providing instructions for appointing qualified church leaders and maintaining sound doctrine. The letter addresses the challenge of false teachers and emphasizes the importance of good works as evidence of genuine faith. Titus shows how the gospel should transform believers' behavior in their families, communities, and society.</p>
       </div>
 
-      <chapter osisID="Titus.1" sID="Titus.1"/>
+      <chapter osisID="Titus.1" sID="Titus.1" />
       
       <title type="main">Leadership Requirements for the Church</title>
       
@@ -59,9 +60,9 @@
       
       <verse osisID="Titus.1.16">They claim to know God, but by their actions they deny him. They are detestable, disobedient and unfit for doing anything good.</verse>
       
-      <chapter eID="Titus.1"/>
+      <chapter eID="Titus.1" />
 
-      <chapter osisID="Titus.2" sID="Titus.2"/>
+      <chapter osisID="Titus.2" sID="Titus.2" />
       
       <title type="main">Teaching Sound Doctrine</title>
 
@@ -99,9 +100,9 @@
       
       <verse osisID="Titus.2.15">These, then, are the things you should teach. Encourage and rebuke with all authority. Do not let anyone despise you.</verse>
       
-      <chapter eID="Titus.2"/>
+      <chapter eID="Titus.2" />
 
-      <chapter osisID="Titus.3" sID="Titus.3"/>
+      <chapter osisID="Titus.3" sID="Titus.3" />
       
       <title type="main">Living as God's People</title>
 
@@ -143,7 +144,7 @@
       
       <verse osisID="Titus.3.15">Everyone with me sends you greetings. Greet those who love us in the faith. Grace be with you all.</verse>
       
-      <chapter eID="Titus.3"/>
+      <chapter eID="Titus.3" />
     </div>
   </osisText>
 </osis>

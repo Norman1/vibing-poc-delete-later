@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
-      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
   <osisText osisIDWork="VBT" osisRefWork="Bible" xml:lang="en">
     <header>
       <work osisWork="VBT">
+
         <title>Plain Meaning Bible</title>
+
         <identifier type="OSIS">Bible.VBT</identifier>
+
+        <rights type="x-copyright">Public Domain</rights>
+
         <refSystem>Bible</refSystem>
-        <rights>Public Domain</rights>
       </work>
     </header>
     <div type="book" osisID="Prov" canonical="true">
-      <chapter osisID="Prov.1" sID="Prov.1"/>
+      <chapter osisID="Prov.1" sID="Prov.1" />
       <title type="main">Introduction: The Value of Wisdom</title>
       <verse osisID="Prov.1.1">The proverbs of Solomon, son of David, king of Israel:</verse>
       <verse osisID="Prov.1.2">To know wisdom and instruction, to understand words of insight,</verse>
@@ -52,9 +53,9 @@
       <verse osisID="Prov.1.31">therefore they shall eat the fruit of their way, and have their fill of their own devices.</verse>
       <verse osisID="Prov.1.32">For the simple are killed by their turning away, and the complacency of fools destroys them;</verse>
       <verse osisID="Prov.1.33">but whoever listens to me will dwell secure and will be at ease, without dread of disaster."</verse>
-      <chapter eID="Prov.1"/>
+      <chapter eID="Prov.1" />
       
-      <chapter osisID="Prov.2" sID="Prov.2"/>
+      <chapter osisID="Prov.2" sID="Prov.2" />
       <title type="main">The Value of Wisdom</title>
       <verse osisID="Prov.2.1">My son, if you receive my words and treasure up my commandments with you,</verse>
       <verse osisID="Prov.2.2">making your ear attentive to wisdom and inclining your heart to understanding;</verse>
@@ -78,9 +79,9 @@
       <verse osisID="Prov.2.20">So you will walk in the way of the good and keep to the paths of the in right standing with God.</verse>
       <verse osisID="Prov.2.21">For the upright will inhabit the land, and those with integrity will remain in it,</verse>
       <verse osisID="Prov.2.22">but the wicked will be cut off from the land, and the treacherous will be rooted out of it.</verse>
-      <chapter eID="Prov.2"/>
+      <chapter eID="Prov.2" />
       
-      <chapter osisID="Prov.3" sID="Prov.3"/>
+      <chapter osisID="Prov.3" sID="Prov.3" />
       <title type="main">Trust in Yahweh with All Your Heart</title>
       <verse osisID="Prov.3.1">My son, do not forget my teaching, but let your heart keep my commandments,</verse>
       <verse osisID="Prov.3.2">for length of days and years of life and peace they will add to you.</verse>
@@ -121,9 +122,9 @@
       <verse osisID="Prov.3.33"><divineName>Yahweh</divineName>'s curse is on the house of the wicked, but he blesses the dwelling of the in right standing with God.</verse>
       <verse osisID="Prov.3.34">Toward the scorners he is scornful, but to the humble he gives grace.</verse>
       <verse osisID="Prov.3.35">The wise will inherit honor, but fools get disgrace.</verse>
-      <chapter eID="Prov.3"/>
+      <chapter eID="Prov.3" />
       
-      <chapter osisID="Prov.4" sID="Prov.4"/>
+      <chapter osisID="Prov.4" sID="Prov.4" />
       <title type="main">A Father's Wise Instruction</title>
       <verse osisID="Prov.4.1">Hear, O sons, a father's instruction, and be attentive, that you may gain insight,</verse>
       <verse osisID="Prov.4.2">for I give you good precepts; do not forsake my teaching.</verse>
@@ -156,9 +157,9 @@
       <verse osisID="Prov.4.25">Let your eyes look directly forward, and your gaze be straight before you.</verse>
       <verse osisID="Prov.4.26">Ponder the path of your feet; then all your ways will be sure.</verse>
       <verse osisID="Prov.4.27">Do not swerve to the right or to the left; turn your foot away from evil.</verse>
-      <chapter eID="Prov.4"/>
+      <chapter eID="Prov.4" />
       
-      <chapter osisID="Prov.5" sID="Prov.5"/>
+      <chapter osisID="Prov.5" sID="Prov.5" />
       <title type="main">Warning Against Adultery</title>
       <verse osisID="Prov.5.1">My son, be attentive to my wisdom; incline your ear to my understanding,</verse>
       <verse osisID="Prov.5.2">that you may keep discretion, and your lips may guard knowledge.</verse>
@@ -185,9 +186,9 @@
       <verse osisID="Prov.5.21">For a man's ways are before the eyes of <divineName>Yahweh</divineName>, and he ponders all his paths.</verse>
       <verse osisID="Prov.5.22">The iniquities of the wicked ensnare him, and he is held fast in the cords of his sin.</verse>
       <verse osisID="Prov.5.23">He dies for lack of discipline, and because of his great folly he is led astray.</verse>
-      <chapter eID="Prov.5"/>
+      <chapter eID="Prov.5" />
       
-      <chapter osisID="Prov.6" sID="Prov.6"/>
+      <chapter osisID="Prov.6" sID="Prov.6" />
       <title type="main">Practical Warnings</title>
       <title type="sub">Against Suretyship</title>
       <verse osisID="Prov.6.1">My son, if you have put up security for your neighbor, have given your pledge for a stranger,</verse>
@@ -233,9 +234,9 @@
       <verse osisID="Prov.6.33">He will get wounds and dishonor, and his disgrace will not be wiped away.</verse>
       <verse osisID="Prov.6.34">For jealousy makes a man furious, and he will not spare when he takes revenge.</verse>
       <verse osisID="Prov.6.35">He will accept no compensation; he will refuse though you multiply gifts.</verse>
-      <chapter eID="Prov.6"/>
+      <chapter eID="Prov.6" />
       
-      <chapter osisID="Prov.7" sID="Prov.7"/>
+      <chapter osisID="Prov.7" sID="Prov.7" />
       <title type="main">Warning Against the Adulterous Woman</title>
       <verse osisID="Prov.7.1">My son, keep my words and treasure up my commandments with you;</verse>
       <verse osisID="Prov.7.2">keep my commandments and live; keep my teaching as the apple of your eye;</verse>
@@ -264,9 +265,9 @@
       <verse osisID="Prov.7.25">Let not your heart turn aside to her ways; do not stray into her paths,</verse>
       <verse osisID="Prov.7.26">for many a victim has she laid low, and all her slain are a mighty throng.</verse>
       <verse osisID="Prov.7.27">Her house is the way to Sheol, going down to the chambers of death.</verse>
-      <chapter eID="Prov.7"/>
+      <chapter eID="Prov.7" />
       
-      <chapter osisID="Prov.8" sID="Prov.8"/>
+      <chapter osisID="Prov.8" sID="Prov.8" />
       <title type="main">The Call of Wisdom</title>
       <verse osisID="Prov.8.1">Does not wisdom call? Does not understanding raise her voice?</verse>
       <verse osisID="Prov.8.2">On the heights beside the way, at the crossroads she takes her stand;</verse>
@@ -308,9 +309,9 @@
       <verse osisID="Prov.8.34">Blessed is the one who listens to me, watching daily at my gates, waiting beside my doors.</verse>
       <verse osisID="Prov.8.35">For whoever finds me finds life and obtains favor from <divineName>Yahweh</divineName>,</verse>
       <verse osisID="Prov.8.36">but he who fails to find me injures himself; all who hate me love death."</verse>
-      <chapter eID="Prov.8"/>
+      <chapter eID="Prov.8" />
       
-      <chapter osisID="Prov.9" sID="Prov.9"/>
+      <chapter osisID="Prov.9" sID="Prov.9" />
       <title type="main">The Way of Wisdom</title>
       <verse osisID="Prov.9.1">Wisdom has built her house; she has hewn her seven pillars.</verse>
       <verse osisID="Prov.9.2">She has slaughtered her beasts; she has mixed her wine; she has also set her table.</verse>
@@ -332,9 +333,9 @@
       <verse osisID="Prov.9.16">"Whoever is simple, let him turn in here!" And to him who lacks sense she says,</verse>
       <verse osisID="Prov.9.17">"Stolen water is sweet, and bread eaten in secret is pleasant."</verse>
       <verse osisID="Prov.9.18">But he does not know that the dead are there, that her guests are in the depths of Sheol.</verse>
-      <chapter eID="Prov.9"/>
+      <chapter eID="Prov.9" />
       
-      <chapter osisID="Prov.10" sID="Prov.10"/>
+      <chapter osisID="Prov.10" sID="Prov.10" />
       <title type="main">The Proverbs of Solomon</title>
       <verse osisID="Prov.10.1">The proverbs of Solomon. A wise son makes a glad father, but a foolish son is a sorrow to his mother.</verse>
       <verse osisID="Prov.10.2">Treasures gained by wickedness do not profit, but doing what's right delivers from death.</verse>
@@ -368,9 +369,9 @@
       <verse osisID="Prov.10.30">The in right standing with God will never be removed, but the wicked will not dwell in the land.</verse>
       <verse osisID="Prov.10.31">The mouth of the in right standing with God brings forth wisdom, but the perverse tongue will be cut off.</verse>
       <verse osisID="Prov.10.32">The lips of the in right standing with God know what is acceptable, but the mouth of the wicked, what is perverse.</verse>
-      <chapter eID="Prov.10"/>
+      <chapter eID="Prov.10" />
       
-      <chapter osisID="Prov.11" sID="Prov.11"/>
+      <chapter osisID="Prov.11" sID="Prov.11" />
       <verse osisID="Prov.11.1">A false balance is an disgusting practice to <divineName>Yahweh</divineName>, but a just weight is his delight.</verse>
       <verse osisID="Prov.11.2">When pride comes, then comes disgrace, but with the humble is wisdom.</verse>
       <verse osisID="Prov.11.3">The integrity of the upright guides them, but the crookedness of the treacherous destroys them.</verse>
@@ -402,9 +403,9 @@
       <verse osisID="Prov.11.29">Whoever troubles his own household will inherit the wind, and the fool will be servant to the wise of heart.</verse>
       <verse osisID="Prov.11.30">The fruit of the in right standing with God is a tree of life, and whoever captures souls is wise.</verse>
       <verse osisID="Prov.11.31">If the in right standing with God is repaid on earth, how much more the wicked and the sinner!</verse>
-      <chapter eID="Prov.11"/>
+      <chapter eID="Prov.11" />
       
-      <chapter osisID="Prov.12" sID="Prov.12"/>
+      <chapter osisID="Prov.12" sID="Prov.12" />
       <verse osisID="Prov.12.1">Whoever loves discipline loves knowledge, but he who hates reproof is stupid.</verse>
       <verse osisID="Prov.12.2">A good man obtains favor from <divineName>Yahweh</divineName>, but a man of evil devices he condemns.</verse>
       <verse osisID="Prov.12.3">No one is established by wickedness, but the root of the in right standing with God will never be moved.</verse>
@@ -433,9 +434,9 @@
       <verse osisID="Prov.12.26">One who is in right standing with God is a guide to his neighbor, but the way of the wicked leads them astray.</verse>
       <verse osisID="Prov.12.27">Whoever is slothful will not roast his game, but the diligent man will get precious wealth.</verse>
       <verse osisID="Prov.12.28">In the path of doing what's right is life, and in its pathway there is no death.</verse>
-      <chapter eID="Prov.12"/>
+      <chapter eID="Prov.12" />
       
-      <chapter osisID="Prov.13" sID="Prov.13"/>
+      <chapter osisID="Prov.13" sID="Prov.13" />
       <verse osisID="Prov.13.1">A wise son hears his father's instruction, but a scoffer does not listen to rebuke.</verse>
       <verse osisID="Prov.13.2">From the fruit of his mouth a man eats what is good, but the desire of the treacherous is for violence.</verse>
       <verse osisID="Prov.13.3">Whoever guards his mouth preserves his life; he who opens wide his lips comes to ruin.</verse>
@@ -461,9 +462,9 @@
       <verse osisID="Prov.13.23">The fallow ground of the poor would yield much food, but it is swept away through injustice.</verse>
       <verse osisID="Prov.13.24">Whoever spares the rod hates his child, but he who loves him is diligent to discipline him.</verse>
       <verse osisID="Prov.13.25">The in right standing with God has enough to satisfy his appetite, but the belly of the wicked suffers want.</verse>
-      <chapter eID="Prov.13"/>
+      <chapter eID="Prov.13" />
       
-      <chapter osisID="Prov.14" sID="Prov.14"/>
+      <chapter osisID="Prov.14" sID="Prov.14" />
       <verse osisID="Prov.14.1">The wisest of women builds her house, but folly with her own hands tears it down.</verse>
       <verse osisID="Prov.14.2">Whoever walks in uprightness fears <divineName>Yahweh</divineName>, but he who is devious in his ways despises him.</verse>
       <verse osisID="Prov.14.3">By the mouth of a fool comes a rod for his back, but the lips of the wise will preserve them.</verse>
@@ -499,9 +500,9 @@
       <verse osisID="Prov.14.33">Wisdom rests in the heart of a man of understanding, but it makes itself known even in the midst of fools.</verse>
       <verse osisID="Prov.14.34">Doing what's right exalts a nation, but sin is a reproach to any people.</verse>
       <verse osisID="Prov.14.35">A servant who deals wisely has the king's favor, but his wrath falls on one who acts shamefully.</verse>
-      <chapter eID="Prov.14"/>
+      <chapter eID="Prov.14" />
       
-      <chapter osisID="Prov.15" sID="Prov.15"/>
+      <chapter osisID="Prov.15" sID="Prov.15" />
       <verse osisID="Prov.15.1">A soft answer turns away wrath, but a harsh word stirs up anger.</verse>
       <verse osisID="Prov.15.2">The tongue of the wise commends knowledge, but the mouths of fools pour out folly.</verse>
       <verse osisID="Prov.15.3">The eyes of <divineName>Yahweh</divineName> are in every place, keeping watch on the evil and the good.</verse>
@@ -535,9 +536,9 @@
       <verse osisID="Prov.15.31">The ear that listens to life-giving reproof will dwell among the wise.</verse>
       <verse osisID="Prov.15.32">Whoever ignores instruction despises himself, but he who listens to reproof gains intelligence.</verse>
       <verse osisID="Prov.15.33">The fear of <divineName>Yahweh</divineName> is instruction in wisdom, and humility comes before honor.</verse>
-      <chapter eID="Prov.15"/>
+      <chapter eID="Prov.15" />
       
-      <chapter osisID="Prov.16" sID="Prov.16"/>
+      <chapter osisID="Prov.16" sID="Prov.16" />
       <verse osisID="Prov.16.1">The plans of the heart belong to man, but the answer of the tongue is from <divineName>Yahweh</divineName>.</verse>
       <verse osisID="Prov.16.2">All the ways of a man are pure in his own eyes, but <divineName>Yahweh</divineName> weighs the spirit.</verse>
       <verse osisID="Prov.16.3">Commit your work to <divineName>Yahweh</divineName>, and your plans will be established.</verse>
@@ -571,9 +572,9 @@
       <verse osisID="Prov.16.31">Gray hair is a crown of glory; it is gained in a in right standing with God life.</verse>
       <verse osisID="Prov.16.32">Whoever is slow to anger is better than the mighty, and he who rules his spirit than he who takes a city.</verse>
       <verse osisID="Prov.16.33">The lot is cast into the lap, but its every decision is from <divineName>Yahweh</divineName>.</verse>
-      <chapter eID="Prov.16"/>
+      <chapter eID="Prov.16" />
       
-      <chapter osisID="Prov.17" sID="Prov.17"/>
+      <chapter osisID="Prov.17" sID="Prov.17" />
       <verse osisID="Prov.17.1">Better is a dry crust with peace than a house full of feasting with strife.</verse>
       <verse osisID="Prov.17.2">A wise servant will rule over a disgraceful son, and will share the inheritance as one of the brothers.</verse>
       <verse osisID="Prov.17.3">The refining pot is for silver and the furnace for gold, but <divineName>Yahweh</divineName> tests the heart.</verse>
@@ -602,9 +603,9 @@
       <verse osisID="Prov.17.26">If imposing a fine on the innocent is not good, surely to flog honest officials is not right.</verse>
       <verse osisID="Prov.17.27">The one who has knowledge uses words with restraint, and whoever has understanding is even-tempered.</verse>
       <verse osisID="Prov.17.28">Even fools are thought wise if they keep silent, and discerning if they hold their tongues.</verse>
-      <chapter eID="Prov.17"/>
+      <chapter eID="Prov.17" />
       
-      <chapter osisID="Prov.18" sID="Prov.18"/>
+      <chapter osisID="Prov.18" sID="Prov.18" />
       <verse osisID="Prov.18.1">An unfriendly person pursues selfish ends and against all sound judgment starts quarrels.</verse>
       <verse osisID="Prov.18.2">Fools find no pleasure in understanding but delight in airing their own opinions.</verse>
       <verse osisID="Prov.18.3">When wickedness comes, so does contempt, and with shame comes reproach.</verse>
@@ -629,9 +630,9 @@
       <verse osisID="Prov.18.22">He who finds a wife finds what is good and receives favor from <divineName>Yahweh</divineName>.</verse>
       <verse osisID="Prov.18.23">The poor plead for mercy, but the rich answer harshly.</verse>
       <verse osisID="Prov.18.24">One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother.</verse>
-      <chapter eID="Prov.18"/>
+      <chapter eID="Prov.18" />
       
-      <chapter osisID="Prov.19" sID="Prov.19"/>
+      <chapter osisID="Prov.19" sID="Prov.19" />
       <verse osisID="Prov.19.1">Better the poor whose walk is blameless than a fool whose lips are perverse.</verse>
       <verse osisID="Prov.19.2">Desire without knowledge is not good—how much more will hasty feet miss the way!</verse>
       <verse osisID="Prov.19.3">A person's own folly leads to their ruin, yet their heart rages against <divineName>Yahweh</divineName>.</verse>
@@ -661,9 +662,9 @@
       <verse osisID="Prov.19.27">Stop listening to instruction, my son, and you will stray from the words of knowledge.</verse>
       <verse osisID="Prov.19.28">A corrupt witness mocks at justice, and the mouth of the wicked gulps down evil.</verse>
       <verse osisID="Prov.19.29">Penalties are prepared for mockers, and beatings for the backs of fools.</verse>
-      <chapter eID="Prov.19"/>
+      <chapter eID="Prov.19" />
       
-      <chapter osisID="Prov.20" sID="Prov.20"/>
+      <chapter osisID="Prov.20" sID="Prov.20" />
       <verse osisID="Prov.20.1">Wine is a mocker and beer a brawler; whoever is led astray by them is not wise.</verse>
       <verse osisID="Prov.20.2">A king's wrath strikes terror like the roar of a lion; those who anger him forfeit their lives.</verse>
       <verse osisID="Prov.20.3">It is to one's honor to avoid strife, but every fool is quick to quarrel.</verse>
@@ -694,9 +695,9 @@
       <verse osisID="Prov.20.28">Love and faithfulness keep a king safe; through love his throne is made secure.</verse>
       <verse osisID="Prov.20.29">The glory of young men is their strength, gray hair the splendor of the old.</verse>
       <verse osisID="Prov.20.30">Blows and wounds scrub away evil, and beatings purge the inmost being.</verse>
-      <chapter eID="Prov.20"/>
+      <chapter eID="Prov.20" />
       
-      <chapter osisID="Prov.21" sID="Prov.21"/>
+      <chapter osisID="Prov.21" sID="Prov.21" />
       <verse osisID="Prov.21.1">In <divineName>Yahweh</divineName>'s hand the king's heart is a stream of water that he channels toward all who please him.</verse>
       <verse osisID="Prov.21.2">A person may think their own ways are right, but <divineName>Yahweh</divineName> weighs the heart.</verse>
       <verse osisID="Prov.21.3">To do what is right and just is more acceptable to <divineName>Yahweh</divineName> than sacrifice.</verse>
@@ -728,9 +729,9 @@
       <verse osisID="Prov.21.29">The wicked put up a bold front, but the upright give thought to their ways.</verse>
       <verse osisID="Prov.21.30">There is no wisdom, no insight, no plan that can succeed against <divineName>Yahweh</divineName>.</verse>
       <verse osisID="Prov.21.31">The horse is made ready for the day of battle, but victory rests with <divineName>Yahweh</divineName>.</verse>
-      <chapter eID="Prov.21"/>
+      <chapter eID="Prov.21" />
       
-      <chapter osisID="Prov.22" sID="Prov.22"/>
+      <chapter osisID="Prov.22" sID="Prov.22" />
       <verse osisID="Prov.22.1">A good name is more desirable than great riches; to be esteemed is better than silver or gold.</verse>
       <verse osisID="Prov.22.2">Rich and poor have this in common: <divineName>Yahweh</divineName> is the Maker of them all.</verse>
       <verse osisID="Prov.22.3">The prudent see danger and take refuge, but the simple keep going and pay the penalty.</verse>
@@ -762,9 +763,9 @@
       <verse osisID="Prov.22.27">if you lack the means to pay, your very bed will be snatched from under you.</verse>
       <verse osisID="Prov.22.28">Do not move an ancient boundary stone set up by your ancestors.</verse>
       <verse osisID="Prov.22.29">Do you see someone skilled in their work? They will serve before kings; they will not serve before officials of low rank.</verse>
-      <chapter eID="Prov.22"/>
+      <chapter eID="Prov.22" />
       
-      <chapter osisID="Prov.23" sID="Prov.23"/>
+      <chapter osisID="Prov.23" sID="Prov.23" />
       <verse osisID="Prov.23.1">When you sit to dine with a ruler, note well what is before you,</verse>
       <verse osisID="Prov.23.2">and put a knife to your throat if you are given to gluttony.</verse>
       <verse osisID="Prov.23.3">Do not crave his delicacies, for that food is deceptive.</verse>
@@ -800,9 +801,9 @@
       <verse osisID="Prov.23.33">Your eyes will see strange sights, and your mind will imagine confusing things.</verse>
       <verse osisID="Prov.23.34">You will be like one sleeping on the high seas, lying on top of the rigging.</verse>
       <verse osisID="Prov.23.35">"They hit me," you will say, "but I'm not hurt! They beat me, but I don't feel it! When will I wake up so I can find another drink?"</verse>
-      <chapter eID="Prov.23"/>
+      <chapter eID="Prov.23" />
       
-      <chapter osisID="Prov.24" sID="Prov.24"/>
+      <chapter osisID="Prov.24" sID="Prov.24" />
       <verse osisID="Prov.24.1">Do not envy the wicked, do not desire their company;</verse>
       <verse osisID="Prov.24.2">for their hearts plot violence, and their lips talk about making trouble.</verse>
       <verse osisID="Prov.24.3">By wisdom a house is built, and through understanding it is established;</verse>
@@ -839,9 +840,9 @@
       <verse osisID="Prov.24.32">I applied my heart to what I observed and learned a lesson from what I saw:</verse>
       <verse osisID="Prov.24.33">A little sleep, a little slumber, a little folding of the hands to rest—</verse>
       <verse osisID="Prov.24.34">and poverty will come on you like a thief and scarcity like an armed man.</verse>
-      <chapter eID="Prov.24"/>
+      <chapter eID="Prov.24" />
       
-      <chapter osisID="Prov.25" sID="Prov.25"/>
+      <chapter osisID="Prov.25" sID="Prov.25" />
       
       <title type="main">More Proverbs of Solomon</title>
       <verse osisID="Prov.25.1">These also are proverbs of Solomon, which the men of Hezekiah king of Judah copied.</verse>
@@ -872,9 +873,9 @@
       <verse osisID="Prov.25.26">Like a muddy spring or a polluted fountain is a in right standing with God person who gives way before the wicked.</verse>
       <verse osisID="Prov.25.27">It is not good to eat much honey, nor is it glorious to seek one's own glory.</verse>
       <verse osisID="Prov.25.28">A man without self-control is like a city broken into and left without walls.</verse>
-      <chapter eID="Prov.25"/>
+      <chapter eID="Prov.25" />
       
-      <chapter osisID="Prov.26" sID="Prov.26"/>
+      <chapter osisID="Prov.26" sID="Prov.26" />
       <verse osisID="Prov.26.1">Like snow in summer or rain in harvest, so honor is not fitting for a fool.</verse>
       <verse osisID="Prov.26.2">Like a sparrow in its flitting, like a swallow in its flying, a curse that is causeless does not alight.</verse>
       <verse osisID="Prov.26.3">A whip for the horse, a bridle for the donkey, and a rod for the back of fools.</verse>
@@ -903,9 +904,9 @@
       <verse osisID="Prov.26.26">though his hatred be covered with deception, his wickedness will be exposed in the assembly.</verse>
       <verse osisID="Prov.26.27">Whoever digs a pit will fall into it, and a stone will come back on him who starts it rolling.</verse>
       <verse osisID="Prov.26.28">A lying tongue hates its victims, and a flattering mouth works ruin.</verse>
-      <chapter eID="Prov.26"/>
+      <chapter eID="Prov.26" />
       
-      <chapter osisID="Prov.27" sID="Prov.27"/>
+      <chapter osisID="Prov.27" sID="Prov.27" />
       <verse osisID="Prov.27.1">Do not boast about tomorrow, for you do not know what a day may bring.</verse>
       <verse osisID="Prov.27.2">Let another praise you, and not your own mouth; a stranger, and not your own lips.</verse>
       <verse osisID="Prov.27.3">A stone is heavy, and sand is weighty, but a fool's provocation is heavier than both.</verse>
@@ -933,9 +934,9 @@
       <verse osisID="Prov.27.25">When the grass is gone and the new growth appears and the vegetation of the mountains is gathered,</verse>
       <verse osisID="Prov.27.26">the lambs will provide your clothing, and the goats the price of a field.</verse>
       <verse osisID="Prov.27.27">There will be enough goats' milk for your food, for the food of your household and maintenance for your girls.</verse>
-      <chapter eID="Prov.27"/>
+      <chapter eID="Prov.27" />
       
-      <chapter osisID="Prov.28" sID="Prov.28"/>
+      <chapter osisID="Prov.28" sID="Prov.28" />
       <verse osisID="Prov.28.1">The wicked flee when no one pursues, but the in right standing with God are bold as a lion.</verse>
       <verse osisID="Prov.28.2">When a land transgresses, it has many rulers, but with a man of understanding and knowledge, its stability will long continue.</verse>
       <verse osisID="Prov.28.3">A poor man who oppresses the poor is a beating rain that leaves no food.</verse>
@@ -964,9 +965,9 @@
       <verse osisID="Prov.28.26">Whoever trusts in his own mind is a fool, but he who walks in wisdom will be delivered.</verse>
       <verse osisID="Prov.28.27">Whoever gives to the poor will not want, but he who hides his eyes will get many a curse.</verse>
       <verse osisID="Prov.28.28">When the wicked rise, people hide themselves, but when they perish, the in right standing with God increase.</verse>
-      <chapter eID="Prov.28"/>
+      <chapter eID="Prov.28" />
       
-      <chapter osisID="Prov.29" sID="Prov.29"/>
+      <chapter osisID="Prov.29" sID="Prov.29" />
       <verse osisID="Prov.29.1">He who is often reproved, yet stiffens his neck, will suddenly be broken beyond healing.</verse>
       <verse osisID="Prov.29.2">When the in right standing with God increase, the people rejoice, but when the wicked rule, the people groan.</verse>
       <verse osisID="Prov.29.3">He who loves wisdom makes his father glad, but a companion of prostitutes squanders his wealth.</verse>
@@ -994,9 +995,9 @@
       <verse osisID="Prov.29.25">The fear of man lays a snare, but whoever trusts in <divineName>Yahweh</divineName> is safe.</verse>
       <verse osisID="Prov.29.26">Many seek the face of a ruler, but it is from <divineName>Yahweh</divineName> that a man gets justice.</verse>
       <verse osisID="Prov.29.27">An unjust man is an disgusting practice to the in right standing with God, but one whose way is straight is an disgusting practice to the wicked.</verse>
-      <chapter eID="Prov.29"/>
+      <chapter eID="Prov.29" />
       
-      <chapter osisID="Prov.30" sID="Prov.30"/>
+      <chapter osisID="Prov.30" sID="Prov.30" />
       
       <title type="main">The Sayings of Agur</title>
       <verse osisID="Prov.30.1">The words of Agur son of Jakeh. The oracle. The man declares to Ithiel, to Ithiel and Ucal:</verse>
@@ -1032,9 +1033,9 @@
       <verse osisID="Prov.30.31">the strutting rooster, the he-goat, and a king whose army is with him.</verse>
       <verse osisID="Prov.30.32">If you have been foolish, exalting yourself, or if you have been devising evil, put your hand on your mouth.</verse>
       <verse osisID="Prov.30.33">For pressing milk produces curds, pressing the nose produces blood, and pressing anger produces strife.</verse>
-      <chapter eID="Prov.30"/>
+      <chapter eID="Prov.30" />
       
-      <chapter osisID="Prov.31" sID="Prov.31"/>
+      <chapter osisID="Prov.31" sID="Prov.31" />
       
       <title type="main">The Sayings of King Lemuel</title>
       <verse osisID="Prov.31.1">The words of King Lemuel. An oracle that his mother taught him:</verse>
@@ -1070,7 +1071,7 @@
       <verse osisID="Prov.31.29">"Many women have done excellently, but you surpass them all."</verse>
       <verse osisID="Prov.31.30">Charm is deceitful, and beauty is vain, but a woman who fears <divineName>Yahweh</divineName> is to be praised.</verse>
       <verse osisID="Prov.31.31">Give her of the fruit of her hands, and let her works praise her in the gates.</verse>
-      <chapter eID="Prov.31"/>
+      <chapter eID="Prov.31" />
     </div>
   </osisText>
 </osis>
