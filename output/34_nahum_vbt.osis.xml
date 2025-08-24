@@ -17,6 +17,10 @@
     <div type="book" osisID="Nah" canonical="true">
       <title type="main">Nahum</title>
       
+      
+      <div type="introduction">
+        <p>Nahum prophesies the destruction of Nineveh, the capital of the brutal Assyrian Empire that had terrorized the ancient world. Unlike in Jonah's time, the city would not repent and escape judgment. The book demonstrates that while God is slow to anger, he will ultimately judge evil and vindicate his people.</p>
+      </div>
       <chapter osisID="Nah.1">
         <title type="chapter">Chapter 1</title>
         <title type="main">Yahweh's Anger Against Nineveh</title>

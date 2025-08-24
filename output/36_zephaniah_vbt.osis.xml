@@ -17,6 +17,10 @@
     <div type="book" osisID="Zeph" canonical="true">
       <title type="main">Zephaniah</title>
       
+      
+      <div type="introduction">
+        <p>Zephaniah warns of the approaching "day of Yahweh," when God will judge both Judah and the nations for their sin. Yet beyond judgment lies hope: God will purify a remnant who will humbly serve him. The book concludes with a beautiful picture of God rejoicing over his restored people with singing.</p>
+      </div>
       <chapter osisID="Zeph.1">
         <title type="chapter">Chapter 1</title>
         <title type="main">The Great Day of Yahweh</title>

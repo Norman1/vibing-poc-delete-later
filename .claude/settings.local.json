@@ -37,7 +37,8 @@
       "Bash(do echo \"=== $file ===\")",
       "Bash(do echo \"Validating $file...\")",
       "Bash(start test_3john.html)",
-      "Bash(start index.html)"
+      "Bash(start index.html)",
+      "Bash(do if ! grep -q '<div type=\"\"introduction\"\">' \"$file\")"
     ],
     "deny": [],
     "ask": [],

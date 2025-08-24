@@ -16,6 +16,10 @@
     <div type="book" osisID="Amos" canonical="true">
       <title type="main">Amos</title>
       
+      
+      <div type="introduction">
+        <p>Amos, a shepherd from Judah, prophesied against Israel during a time of prosperity and complacency. He condemned the nation's social injustice, religious hypocrisy, and oppression of the poor, warning that their wealth and religious rituals couldn't save them from coming judgment. The book emphasizes that true religion requires justice and righteousness, not just religious observance.</p>
+      </div>
       <chapter osisID="Amos.1">
         <title type="chapter">Chapter 1</title>
         

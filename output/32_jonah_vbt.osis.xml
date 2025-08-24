@@ -16,6 +16,10 @@
     <div type="book" osisID="Jonah" canonical="true">
       <title type="main">Jonah</title>
       
+      
+      <div type="introduction">
+        <p>Jonah tells the story of a reluctant prophet who tries to flee from God's call to preach to Nineveh, Israel's enemy. After being swallowed by a great fish and given a second chance, Jonah obeys but becomes angry when God shows mercy to the repentant city. The book reveals God's compassion for all nations and challenges narrow nationalism and prejudice.</p>
+      </div>
       <chapter osisID="Jonah.1">
         <title type="chapter">Chapter 1</title>
         

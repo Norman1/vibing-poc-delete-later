@@ -16,6 +16,10 @@
     <div type="book" osisID="Obad" canonical="true">
       <title type="main">Obadiah</title>
       
+      
+      <div type="introduction">
+        <p>Obadiah, the shortest book in the Old Testament, pronounces judgment on Edom for their violence against Judah during the Babylonian invasion. The Edomites, descendants of Esau, had gloated over Jerusalem's destruction and even helped capture fleeing refugees. The book demonstrates that God judges nations for their pride and cruelty, and that ultimately his kingdom will prevail.</p>
+      </div>
       <chapter osisID="Obad.1">
         <title type="chapter">Chapter 1</title>
         

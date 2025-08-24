@@ -16,6 +16,10 @@
     <div type="book" osisID="Hos" canonical="true">
       <title type="main">Hosea</title>
       
+      
+      <div type="introduction">
+        <p>Hosea's marriage to an unfaithful wife becomes a living parable of God's relationship with Israel. Despite Israel's spiritual adultery through idolatry and injustice, God continues to love his people with steadfast covenant love. The book alternates between judgment and restoration, showing that God's discipline aims to bring his wayward people back to himself.</p>
+      </div>
       <chapter osisID="Hos.1" sID="Hos.1" />
       <title type="main">Hosea's family as a symbol</title>
       

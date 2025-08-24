@@ -17,6 +17,10 @@
     <div type="book" osisID="Mic" canonical="true">
       <title type="main">Micah</title>
       
+      
+      <div type="introduction">
+        <p>Micah prophesied to both Israel and Judah, denouncing social injustice, corrupt leadership, and false religion. He predicted the fall of both kingdoms but also promised future restoration under a ruler from Bethlehem. The book famously summarizes true religion: to act justly, love mercy, and walk humbly with God.</p>
+      </div>
       <chapter osisID="Mic.1">
         <title type="chapter">Chapter 1</title>
         <title type="main">Judgment Against Samaria and Jerusalem</title>

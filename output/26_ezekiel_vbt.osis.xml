@@ -16,6 +16,10 @@
     <div type="book" osisID="Ezek" canonical="true">
       <title type="main">Ezekiel</title>
       
+      
+      <div type="introduction">
+        <p>Ezekiel prophesied to the Jewish exiles in Babylon, using dramatic visions and symbolic acts to communicate God's messages. He explained why Jerusalem fell (due to idolatry and injustice), proclaimed judgment on surrounding nations, and offered hope of restoration. His visions include the valley of dry bones coming to life and a new temple with God's glory returning to dwell among his people.</p>
+      </div>
       <chapter osisID="Ezek.1" sID="Ezek.1" />
       <title type="main">Ezekiel's Vision of God's Throne Chariot</title>
       

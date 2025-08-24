@@ -17,6 +17,10 @@
     <div type="book" osisID="Hag" canonical="true">
       <title type="main">Haggai</title>
       
+      
+      <div type="introduction">
+        <p>Haggai prophesied to the returned exiles who had become discouraged in rebuilding the temple. He challenged them to put God first, promising that obedience would bring blessing. Though the new temple seemed insignificant compared to Solomon's, Haggai declared that its glory would exceed the former because the Messiah himself would enter it.</p>
+      </div>
       <chapter osisID="Hag.1">
         <title type="chapter">Chapter 1</title>
         <title type="main">Rebuilding God's House Takes Priority</title>

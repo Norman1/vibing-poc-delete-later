@@ -18,6 +18,10 @@
     <div type="book" osisID="Ps" canonical="true">
       <title>The Book of Psalms</title>
       
+      <div type="introduction">
+        <p>The Psalms are a collection of 150 prayers, songs, and poems that express the full range of human emotion in relationship with God. Written by various authors including David, Asaph, and the sons of Korah, they were used in temple worship and personal devotion. The psalms teach us how to pray through praise, lament, thanksgiving, and wisdom, showing that every human experience can be brought before God.</p>
+      </div>
+      
       <div type="chapter" osisID="Ps.1">
         <title>The Way of Those in Right Standing with God vs. the Wicked</title>
         <verse osisID="Ps.1.1">

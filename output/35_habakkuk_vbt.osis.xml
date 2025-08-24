@@ -17,6 +17,10 @@
     <div type="book" osisID="Hab" canonical="true">
       <title type="main">Habakkuk</title>
       
+      
+      <div type="introduction">
+        <p>Habakkuk wrestles with the problem of evil, questioning why God allows injustice to continue and why he would use wicked Babylon to punish Judah. God reveals that he will ultimately judge all evil, and that the righteous must live by faith while waiting for God's justice. The book ends with Habakkuk's prayer of trust despite circumstances.</p>
+      </div>
       <chapter osisID="Hab.1">
         <title type="chapter">Chapter 1</title>
         <title type="main">Habakkuk's Complaint</title>

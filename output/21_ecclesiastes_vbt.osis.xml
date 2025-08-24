@@ -16,6 +16,10 @@
     <div type="book" osisID="Eccl" canonical="true">
       <title type="main">Ecclesiastes</title>
       
+      
+      <div type="introduction">
+        <p>Ecclesiastes presents the reflections of "the Teacher" (likely Solomon) on the meaning of life. After exploring every earthly pursuit—wisdom, pleasure, work, and wealth—he concludes that everything "under the sun" is meaningless without God. The book teaches that true satisfaction comes not from human achievement but from fearing God, keeping his commands, and enjoying life as his gift.</p>
+      </div>
       <chapter osisID="Eccl.1" sID="Eccl.1" />
       <title type="main">The Teacher's Search for Meaning</title>
       

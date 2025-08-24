@@ -16,6 +16,10 @@
     <div type="book" osisID="Mal" canonical="true">
       <title type="main">The Book of Malachi</title>
       
+      
+      <div type="introduction">
+        <p>Malachi confronts the spiritual apathy of the post-exilic community, who were going through religious motions without genuine devotion. He exposes their sins—corrupt worship, broken covenants, and social injustice—while promising that God would send a messenger to prepare the way for the Lord's coming. The book bridges the Old and New Testaments with its promise of Elijah's return.</p>
+      </div>
       <chapter osisID="Mal.1">
         <title type="chapter">Chapter 1</title>
         <title type="main">God's Love for Israel and Their Dishonor</title>

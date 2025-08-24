@@ -16,6 +16,10 @@
     <div type="book" osisID="Lam" canonical="true">
       <title type="main">Lamentations</title>
       
+      
+      <div type="introduction">
+        <p>Lamentations is a collection of five poems mourning the destruction of Jerusalem by Babylon in 586 BC. Written in the style of ancient funeral dirges, these poems express raw grief over the city's devastation while acknowledging that God's judgment was deserved. Yet even in the depths of despair, the book affirms God's faithfulness and mercy, declaring that his compassions never fail.</p>
+      </div>
       <chapter osisID="Lam.1" sID="Lam.1" />
       <title type="main">Jerusalem's Desolation and Suffering</title>
       

@@ -15,6 +15,10 @@
     </header>
     <div type="book" osisID="Song" canonical="true">
       <title type="main">Song of Songs</title>
+      
+      <div type="introduction">
+        <p>The Song of Songs is a poetic celebration of romantic love between a man and a woman. Through vivid imagery and passionate dialogue, it portrays the beauty and power of human love as God designed it. The book affirms that sexual love within marriage is good and holy, a gift from God to be celebrated rather than treated with shame or embarrassment.</p>
+      </div>
       <title type="runningHead">Song of Songs</title>
       
       <chapter osisID="Song.1">

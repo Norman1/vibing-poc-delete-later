@@ -16,6 +16,10 @@
     <div type="book" osisID="Prov" canonical="true">
       <chapter osisID="Prov.1" sID="Prov.1" />
       <title type="main">Introduction: The Value of Wisdom</title>
+      
+      <div type="introduction">
+        <p>Proverbs is a collection of wise sayings primarily from Solomon that teaches practical wisdom for daily life. Using short, memorable statements, it covers topics like relationships, work, money, speech, and character. The book repeatedly emphasizes that true wisdom begins with respecting Yahweh, and that wise living leads to life while foolishness leads to destruction.</p>
+      </div>
       <verse osisID="Prov.1.1">The proverbs of Solomon, son of David, king of Israel:</verse>
       <verse osisID="Prov.1.2">To know wisdom and instruction, to understand words of insight,</verse>
       <verse osisID="Prov.1.3">to receive instruction in wise dealing, in doing what's right, justice, and fairness;</verse>
