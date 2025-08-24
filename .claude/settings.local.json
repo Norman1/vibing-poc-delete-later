@@ -38,7 +38,8 @@
       "Bash(do echo \"Validating $file...\")",
       "Bash(start test_3john.html)",
       "Bash(start index.html)",
-      "Bash(do if ! grep -q '<div type=\"\"introduction\"\">' \"$file\")"
+      "Bash(do if ! grep -q '<div type=\"\"introduction\"\">' \"$file\")",
+      "WebFetch(domain:en.wikipedia.org)"
     ],
     "deny": [],
     "ask": [],
