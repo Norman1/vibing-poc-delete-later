@@ -27,12 +27,12 @@
       <chapter osisID="Gen.1">
         <title type="chapter">Chapter 1</title>
         <title type="main">The Creation</title>
-        <verse osisID="Gen.1.1">In the beginning, God created the heavens and the earth.</verse>
+        <verse osisID="Gen.1.1">In the beginning, God created the heavens and the earth.<note type="background">The Hebrew word for "heavens" (shamayim) is always plural, reflecting the ancient belief in multiple layers of heaven - the atmosphere where birds fly, the realm where stars move, and God's dwelling place above.</note></verse>
         <verse osisID="Gen.1.2">The earth was formless and empty, with darkness covering the surface of the deep waters. God's Spirit moved over the water's surface.</verse>
         <verse osisID="Gen.1.3">God said, "Let there be light," and there was light.</verse>
         <verse osisID="Gen.1.4">God saw that the light was good, so he separated the light from the darkness.</verse>
         <verse osisID="Gen.1.5">God called the light "day" and the darkness "night." Evening came, then morning came—the first day.</verse>
-        <verse osisID="Gen.1.6">God said, "Let there be a dome in the middle of the water to separate water from water."</verse>
+        <verse osisID="Gen.1.6">God said, "Let there be a dome in the middle of the water to separate water from water."<note type="background">The "dome" (raqia) was understood as a solid barrier holding back the waters above, with windows that opened for rain.</note></verse>
         <verse osisID="Gen.1.7">So God made the dome and separated the water below the dome from the water above the dome. It happened exactly as he said.</verse>
         <verse osisID="Gen.1.8">God called the dome "sky." Evening came, then morning came—the second day.</verse>
         <verse osisID="Gen.1.9">God said, "Let the water under the sky gather into one place so the dry ground appears." It happened exactly as he said.</verse>
@@ -123,7 +123,7 @@
         <verse osisID="Gen.4.4">And Abel also brought an offering—fat portions from some of the firstborn of his flock. Yahweh looked with favor on Abel and his offering,</verse>
         <verse osisID="Gen.4.5">but on Cain and his offering he did not look with favor. So Cain was very angry, and his face was downcast.</verse>
         <verse osisID="Gen.4.6">Then Yahweh said to Cain, "Why are you angry? Why is your face downcast?</verse>
-        <verse osisID="Gen.4.7">If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it."</verse>
+        <verse osisID="Gen.4.7">If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it."<note type="background">Ancient Near Eastern imagery pictured sin as a demon or wild animal literally waiting outside the door to attack.</note></verse>
         <verse osisID="Gen.4.8">Now Cain said to his brother Abel, "Let's go out to the field." While they were in the field, Cain attacked his brother Abel and killed him.</verse>
         <verse osisID="Gen.4.9">Then Yahweh said to Cain, "Where is your brother Abel?" "I don't know," he replied. "Am I my brother's keeper?"</verse>
         <verse osisID="Gen.4.10">Yahweh said, "What have you done? Listen! Your brother's blood cries out to me from the ground.</verse>
@@ -216,7 +216,7 @@
         <verse osisID="Gen.7.8">Pairs of clean and unclean animals, of birds and of all creatures that move along the ground,</verse>
         <verse osisID="Gen.7.9">male and female, came to Noah and entered the ark, as God had commanded Noah.</verse>
         <verse osisID="Gen.7.10">And after the seven days the floodwaters came on the earth.</verse>
-        <verse osisID="Gen.7.11">In the six hundredth year of Noah's life, on the seventeenth day of the second month—on that day all the springs of the great deep burst forth, and the floodgates of the heavens were opened.</verse>
+        <verse osisID="Gen.7.11">In the six hundredth year of Noah's life, on the seventeenth day of the second month—on that day all the springs of the great deep burst forth, and the floodgates of the heavens were opened.<note type="background">This describes waters breaking through from below the earth and above the solid dome of the sky in ancient cosmology.</note></verse>
         <verse osisID="Gen.7.12">And rain fell on the earth forty days and forty nights.</verse>
         <verse osisID="Gen.7.13">On that very day Noah and his sons, Shem, Ham and Japheth, together with his wife and the wives of his three sons, entered the ark.</verse>
         <verse osisID="Gen.7.14">They had with them every wild animal according to its kind, all livestock according to their kinds, every creature that moves along the ground according to its kind and every bird according to its kind, everything with wings.</verse>
@@ -447,7 +447,7 @@
         <verse osisID="Gen.15.14">But I will punish the nation they serve as slaves, and afterward they will come out with great possessions.</verse>
         <verse osisID="Gen.15.15">You, however, will go to your ancestors in peace and be buried at a good old age.</verse>
         <verse osisID="Gen.15.16">In the fourth generation your descendants will come back here, for the sin of the Amorites has not yet reached its full measure."</verse>
-        <verse osisID="Gen.15.17">When the sun had set and darkness had fallen, a smoking firepot with a blazing torch appeared and passed between the pieces.</verse>
+        <verse osisID="Gen.15.17">When the sun had set and darkness had fallen, a smoking firepot with a blazing torch appeared and passed between the pieces.<note type="background">In ancient covenant ceremonies, parties walked between cut animal pieces, invoking the animals' fate on themselves if they broke the covenant.</note></verse>
         <verse osisID="Gen.15.18">On that day Yahweh made a covenant with Abram and said, "To your descendants I give this land, from the Wadi of Egypt to the great river, the Euphrates—</verse>
         <verse osisID="Gen.15.19">the land of the Kenites, Kenizzites, Kadmonites,</verse>
         <verse osisID="Gen.15.20">Hittites, Perizzites, Rephaites,</verse>
@@ -540,7 +540,7 @@
       </chapter>
       <chapter osisID="Gen.19">
         <title type="chapter">Chapter 19</title>
-        <verse osisID="Gen.19.1">The two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When he saw them, he got up to meet them and bowed down with his face to the ground.</verse>
+        <verse osisID="Gen.19.1">The two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city.<note type="background">Sitting in the city gate meant holding an official position as judge or elder.</note> When he saw them, he got up to meet them and bowed down with his face to the ground.</verse>
         <verse osisID="Gen.19.2">"My lords," he said, "please turn aside to your servant's house. You can wash your feet and spend the night and then go on your way early in the morning." "No," they answered, "we will spend the night in the square."</verse>
         <verse osisID="Gen.19.3">But he insisted so strongly that they did go with him and entered his house. He prepared a meal for them, baking bread without yeast, and they ate.</verse>
         <verse osisID="Gen.19.4">Before they had gone to bed, all the men from every part of the city of Sodom—both young and old—surrounded the house.</verse>
