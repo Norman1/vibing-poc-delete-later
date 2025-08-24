@@ -64,8 +64,12 @@ The dummy file is validated against `osisCore.2.1.1.xsd` and displayed correctly
 
 \- Time references are modernized (e.g., "third hour" → "9 AM")
 
-\- Measurements are replaced with modern metric equivalents (e.g., "an omer" → "2 liters", "a cubit" → "half a meter")
-  - Exception: Keep original terms when culturally significant (e.g., "a Sabbath day's journey, about 1 kilometer")
+\- Measurements are replaced with modern metric equivalents (International System of Units):
+  - Length: meters, kilometers (e.g., "a cubit" → "half a meter", "a thousand cubits" → "450 meters")
+  - Weight: grams, kilograms (e.g., "a shekel" → "11 grams", "a talent" → "34 kilograms")
+  - Volume: liters (e.g., "an omer" → "2 liters", "a bath" → "22 liters", "a cor" → "220 liters")
+  - Area: square meters, hectares (e.g., "as much land as a yoke of oxen could plow in a day" → "about 0.4 hectares")
+  - Exception: Keep original terms when culturally significant, adding metric in parentheses (e.g., "a Sabbath day's journey (about 900 meters)")
 
 \- Monetary values include both original and equivalent (e.g., "a denarius, a day's wage")
 
