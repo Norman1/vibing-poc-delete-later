@@ -28,7 +28,9 @@
       "Bash(for:*)",
       "Bash(do if grep -q \", [A-Z]\" \"$file\")",
       "Bash(break)",
-      "Bash(fi)"
+      "Bash(fi)",
+      "Bash(do if grep -q \"FINDING\\|VIOLATION\" \"$file\")",
+      "Bash(then basename \"$file\")"
     ],
     "deny": [],
     "ask": [],
