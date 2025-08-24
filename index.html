@@ -157,21 +157,58 @@
             line-height: 1.7;
         }
 
-        .note {
-            display: block;
-            margin-top: 8px;
-            padding: 8px 12px;
-            background: #fff3cd;
-            border: 1px solid #ffeaa7;
-            border-radius: 5px;
-            font-size: 0.9em;
-            color: #856404;
-            font-style: italic;
+        .note-indicator {
+            color: #667eea;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.2s;
+            user-select: none;
         }
 
-        .note::before {
+        .note-indicator:hover {
+            color: #5a67d8;
+            text-decoration: underline;
+        }
+
+        .note-indicator.expanded::before {
+            content: "▼ ";
+        }
+
+        .note-indicator:not(.expanded)::before {
+            content: "▶ ";
+        }
+
+        .note-content {
+            display: none;
+            margin: 8px 0;
+            padding: 10px 15px;
+            background-color: #f8f9fa;
+            border-left: 3px solid #667eea;
+            border-radius: 4px;
+            font-size: 0.9em;
+            color: #4a5568;
+            font-style: italic;
+            animation: slideDown 0.3s ease-out;
+        }
+
+        .note-content.visible {
+            display: block;
+        }
+
+        .note-content::before {
             content: "📝 ";
             margin-right: 5px;
+        }
+
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         .no-content {
@@ -291,6 +328,10 @@
         </div>
 
         <div class="content">
+            <div id="notes-controls" style="display: none; margin-bottom: 10px; text-align: right;">
+                <button onclick="toggleAllNotes(true)" style="margin-right: 5px; padding: 5px 10px; background: #667eea; color: white; border: none; border-radius: 4px; cursor: pointer;">Expand All Notes</button>
+                <button onclick="toggleAllNotes(false)" style="padding: 5px 10px; background: #e2e8f0; color: #4a5568; border: none; border-radius: 4px; cursor: pointer;">Collapse All Notes</button>
+            </div>
             <div id="book-content" class="no-content">
                 Select a book from the dropdown above to view the translation.
             </div>
@@ -401,7 +442,12 @@
                             break;
                         case 'note':
                             const noteType = node.getAttribute('type') || 'note';
-                            html += `<sup style="color: #667eea;">[${noteType}]</sup>`;
+                            const noteId = 'note-' + Math.random().toString(36).substr(2, 9);
+                            const noteText = node.textContent;
+                            // Create expandable note structure
+                            html += `<sup class="note-indicator" onclick="toggleNote('${noteId}')" id="${noteId}-indicator">[${noteType}]</sup>`;
+                            html += `<div class="note-content" id="${noteId}"><strong>${noteType}:</strong> ${noteText}</div>`;
+                            // Don't process children since we already got the content
                             break;
                         case 'reference':
                             html += `<a href="#" style="color: #667eea; text-decoration: none;">${node.textContent}</a>`;
@@ -498,19 +544,39 @@
 
         function processVerseContent(verseElement) {
             let verseHTML = processOSISContent(verseElement);
-            
-            // Add notes at the end
-            const notes = verseElement.querySelectorAll('note');
-            if (notes.length > 0) {
-                verseHTML += '<div style="margin-top: 5px; font-size: 0.9em; color: #666;">';
-                notes.forEach(note => {
-                    const noteType = note.getAttribute('type') || 'note';
-                    verseHTML += `<div style="margin: 2px 0;"><strong>${noteType}:</strong> ${note.textContent}</div>`;
-                });
-                verseHTML += '</div>';
-            }
-            
+            // Notes are now inline expandable, no need to show them at the bottom
             return verseHTML;
+        }
+
+        function toggleNote(noteId) {
+            const noteContent = document.getElementById(noteId);
+            const noteIndicator = document.getElementById(noteId + '-indicator');
+            
+            if (noteContent && noteIndicator) {
+                noteContent.classList.toggle('visible');
+                noteIndicator.classList.toggle('expanded');
+            }
+        }
+
+        function toggleAllNotes(expand) {
+            const noteContents = document.querySelectorAll('.note-content');
+            const noteIndicators = document.querySelectorAll('.note-indicator');
+            
+            noteContents.forEach(note => {
+                if (expand) {
+                    note.classList.add('visible');
+                } else {
+                    note.classList.remove('visible');
+                }
+            });
+            
+            noteIndicators.forEach(indicator => {
+                if (expand) {
+                    indicator.classList.add('expanded');
+                } else {
+                    indicator.classList.remove('expanded');
+                }
+            });
         }
 
         function processMilestoneVerse(verseStartElement, startNode) {
@@ -783,6 +849,7 @@
 
             if (!selectedBook) {
                 content.innerHTML = '<div class="no-content">Select a book from the dropdown above to view the translation.</div>';
+                document.getElementById('notes-controls').style.display = 'none';
                 return;
             }
 
@@ -948,6 +1015,10 @@
             }
 
             content.innerHTML = html;
+            
+            // Show notes controls if there are any notes
+            const hasNotes = document.querySelectorAll('.note-indicator').length > 0;
+            document.getElementById('notes-controls').style.display = hasNotes ? 'block' : 'none';
         }
     </script>
 </body>

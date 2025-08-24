@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test 3 John</title>
+</head>
+<body>
+    <div id="output"></div>
+    <script>
+        const xmlString = `<?xml version="1.0" encoding="UTF-8"?>
+<verse osisID="3John.1.1" xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace">
+  <note type="study" n="1">The Greek word πρεσβύτερος (presbyter) literally means "elder."</note>
+  This letter is from the church leader to my dear friend Gaius, whom I genuinely love.
+</verse>`;
+
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(xmlString, "text/xml");
+        const verse = xmlDoc.querySelector('verse');
+        
+        console.log('Child nodes:', verse.childNodes.length);
+        for (let i = 0; i < verse.childNodes.length; i++) {
+            const node = verse.childNodes[i];
+            console.log(`Node ${i}: type=${node.nodeType}, name=${node.nodeName}, text="${node.textContent.substring(0, 50)}"`);
+        }
+        
+        // Process it like the main code does
+        function processOSISContent(element) {
+            let html = '';
+            
+            for (let node of element.childNodes) {
+                if (node.nodeType === Node.TEXT_NODE) {
+                    html += node.textContent;
+                } else if (node.nodeType === Node.ELEMENT_NODE) {
+                    if (node.nodeName === 'note') {
+                        const noteType = node.getAttribute('type') || 'note';
+                        html += `<sup>[${noteType}]</sup>`;
+                        // Don't include note text in main flow
+                    } else {
+                        html += processOSISContent(node);
+                    }
+                }
+            }
+            return html;
+        }
+        
+        const result = processOSISContent(verse);
+        document.getElementById('output').innerHTML = `
+            <h3>Result:</h3>
+            <p>${result}</p>
+            <h3>Notes:</h3>
+            <p>study: ${verse.querySelector('note').textContent}</p>
+        `;
+    </script>
+</body>
+</html>

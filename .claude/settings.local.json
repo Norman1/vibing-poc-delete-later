@@ -35,7 +35,9 @@
       "Bash(do if ! grep -q \"// No findings\" \"$file\")",
       "Bash(then echo \"$file\")",
       "Bash(do echo \"=== $file ===\")",
-      "Bash(do echo \"Validating $file...\")"
+      "Bash(do echo \"Validating $file...\")",
+      "Bash(start test_3john.html)",
+      "Bash(start index.html)"
     ],
     "deny": [],
     "ask": [],
