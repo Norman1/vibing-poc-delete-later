@@ -37,3 +37,10 @@ build/
 quality-control/**/*_Review.md
 quality-control/validate_all_findings.py
 quality-control/review_all_findings.py
+
+### Audio Files ###
+# Ignore generated audio files (2.3+ GB)
+audio/created/
+audio/mp3/
+audio/text/
+audio/test_voices/
